@@ -1,0 +1,186 @@
+*******Recodes used to create the most common break variables seen throughout the India reports.
+These recodes are used by Pew Research Center to guarantee a large enough sample size within each analyzed subgroup.
+Some demographic characteristics (such as age) include multiple recode options.
+For analyses using these recodes, researchers looked at the patterns across the different recode options to determine which tells the most coherent and parsimonious story for each of the dependent variables studied.
+
+*Age, 2 categories.
+recode QAGErec (1=1)(2=1)(3=2)(4=2)(5=2)(else=copy) into QAGErec2.
+variable labels QAGErec2 'QAGErec2. Age recoded in two categories'.
+value labels QAGErec2 1 '18-34' 2 '35+' 998 "Don't know" 999 'Refused'.
+
+*Age, 3 categories.
+recode QAGErec (1=1)(2=2)(3=3)(4=3)(5=3)(else=copy) into QAGErec3.
+variable labels QAGErec3 'QAGErec3. Age recoded in three categories'.
+value labels QAGErec3 1 '18-25' 2 '26-34' 3 '35+' 998 "Don't know" 999 'Refused'.
+
+*Education, 2 and 3 categories.
+recode isced (0 thru 4 = 1)(5=2)(else=copy) into Edu2Cat.
+recode isced (0=1)(1 thru 4 = 2)(5=3)(else=copy) into Edu3Cat.
+variable labels
+edu2cat 'Edu2Cat. Education in two categories (Less than college/College graduate)'
+edu3cat 'Edu3Cat. Education in three categories (No formal education/Primary through secondary/College graduate)'.
+value labels edu2cat 1 'Less than college' 2 'College graduate' 98 "Don't know" 99 'Refused'.
+value labels edu3cat 1 'No formal education' 2 'Primary through secondary' 3 'College graduate' 98 "Don't know" 99 'Refused'.
+
+*Caste, 2 categories.
+recode qcaste (1=1)(2 thru 5 = 2)(96, 97=3)(else=copy) into qcaste2rec.
+variable labels qcaste2rec 'QCASTE2rec. Caste recoded in two categories'.
+value labels qcaste2rec 1 'General Category' 2 'Scheduled Caste/ Scheduled Tribe/ Other Backward Class/ Most Backward Class' 3 'Other' 98 "Don't know" 99 'Refused'.
+
+*Caste, 3 categories.
+recode qcaste (1=1) (2 thru 3 = 2)(4 thru 5 = 3) (96, 97 = 4) (else=copy) into QCASTE3rec.
+variable labels QCASTE3rec 'QCASTE3rec. Caste recoded in three categories'.
+Value Labels QCASTE3rec 1 'Genegal Category' 2 'Scheduled Caste/ Scheduled Tribe' 3 'Other Backward Class/ Most Backward Class' 4 'Other' 98 "Don't know" 99 'Refused'.
+
+*Caste, 4 categories.
+recode qcaste (1=2) (2 thru 3 = 3)(4 thru 5 = 4) (96, 97 = 5) (else=copy) into QCASTE4rec.
+if qcasteb=1 QCASTE4rec=1.
+variable labels QCASTE4rec 'QCASTE4rec. Caste recoded in four categories'.
+Value Labels QCASTE4rec 1 'Brahmin' 2 'Other Genegal Category' 3 'Scheduled Caste/ Scheduled Tribe' 4 'Other Backward Class/ Most Backward Class' 5 'Other' 98 "Don't know" 99 'Refused'.
+
+*Religious salience.
+recode q35 (1=1)(2 thru 4 = 2)(else=copy) into Q35Rec.
+variable labels q35rec 'Q35rec. Salience recoded in two categories'.
+value labels q35rec 1 'Religion very important' 2 'Religion less important' 98 "Don't know" 99 'Refused'.
+
+*Pray Daily.
+recode Q54a (1 thru 2 =1) (3 thru 7 = 2) (else = copy) into PrayDaily.
+variable labels PrayDaily 'PrayDaily. Prayer in two categories'.
+Value Labels PrayDaily 1 'Pray Daily' 2 'Pray Less than Daily' 98 "Don't know" 99 'Refused'.
+
+*Recent financial hardship.
+compute Qpovrec = $sysmis.
+if (qpova=2 OR qpovb=2 OR qpovc=2) qpovrec=2.
+if (qpova=1 OR qpovb=1 OR qpovc=1) qpovrec=1.
+Variable Labels qpovrec 'QPOVrec.Have there been times during the last year when you did not have enough money … ? abc. To buy food your family needed/ To pay for medical and health care your family needed/ To pay rent or housing costs [Any Mention]'.
+Value Labels qpovrec 1 'Yes' 2 'No'.
+
+*Favorability BJP.
+compute Bjp=$sysmis.
+if (QPTY2a =1 OR QPTY2a=2) bjp=1.
+if (QPTY2a=3 OR QPTY2a=4) bjp=2.
+Variable Labels bjp 'QPTY2. Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable or very unfavorable opinion of ...? a. the BJP'.
+Value Labels bjp 1 'Very favorable/ Somewhat favorable' 2 'Somewhat unfavorable/ Very unfavorable'.
+
+*Favorability Congress.
+compute Congress=$sysmis.
+if (QPTY2b =1 OR QPTY2b=2) congress=1.
+if (QPTY2b=3 OR QPTY2b=4) congress=2.
+Variable Labels congress 'QPTY2. Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable or very unfavorable opinion of ...? b. Congress'.
+Value Labels congress 1 'Very favorable/ Somewhat favorable' 2 'Somewhat unfavorable/ Very unfavorable'.
+
+*************** Recodes used to create combined topline variables.
+
+** Showing Q43 a and b together.
+compute Q43comb = $sysmis.
+if (Q43a=1 & Q43b=1) Q43comb=1.
+if (Q43a=1 & Q43b=2) Q43comb=2.
+if (Q43a=1 & Q43b=3) Q43comb=3.
+if (Q43a=1 & Q43b=4) Q43comb=4.
+if (Q43a=1 & (Q43b=98 OR Q43b=99 OR Q43b=999)) Q43comb=5.
+if (Q43a=2) Q43comb=6.
+if (Q43a=98 OR Q43a=99) Q43comb=999.
+Variable Labels Q43comb 'Q43ab. Do you believe in God, or not? [If yes] How certain are you about this belief?'.
+Value Labels Q43comb 1 'Believe in God, absolutely certain' 2 'Believe in God, fairly certain' 3 'Believe in God, not too certain' 4 'Believe in God, not at all certain' 5 'Believe in God, DK/ refused how certain' 6 'Does not believe in God'  
+999 'DK/ Refused'.
+
+** Showing Q43 a and c together.
+recode Q43c (1=1) (2=2) (3=3) (98, 99, 999 = 4) into Q43ac.
+recode Q43a (2=5) (98, 99, 999 = 999) into Q43ac.
+Value Labels Q43ac 1 'Believe in God, there is only one God' 2 'Believe in God, there is only one God with many manifestations [OR]' 3 'Believe in God, there are many Gods' 4 'Believe in God, DK/ Refused' 5 'Do not believe in God' 999 'DK/ Refused'.
+Variable Labels Q43ac 'Q43ac. Do you believe in God? [If yes] Do you believe that ...?'.
+
+** Showing Q45a and Q43a together.
+recode Q45a (1=1) (2=2) (98, 99, 999 = 3) into Q45arec.
+recode Q43a (2=4) (98, 99, 999 = 999) into Q45arec.
+Value Labels Q45arec 1 'Believe in God, yes' 2 'Believe in God, no' 3 'Believe in God, DK/ Refused' 4 'Do not believe in God' 999 'DK/ Refused'.
+Variable Labels Q45arec 'Q45rec. Do you believe in God? [If yes] Do you think God can be manifested in...? a. nature, such as mountains, rivers or trees'.
+
+** Showing Q45b and Q43a together.
+recode Q45b (1=1) (2=2) (98, 99, 999 = 3) into Q45brec.
+recode Q43a (2=4) (98, 99, 999 = 999) into Q45brec.
+Value Labels Q45brec 1 'Believe in God, yes' 2 'Believe in God, no' 3 'Believe in God, DK/ Refused' 4 'Do not believe in God' 999 'DK/ Refused'.
+Variable Labels Q45brec 'Q45rec. Do you believe in God? [If yes] Do you think God can be manifested in...? b. animals'.
+
+** Showing Q45c and Q43a together.
+recode Q45c (1=1) (2=2) (98, 99, 999 = 3) into Q45crec.
+recode Q43a (2=4) (98, 99, 999 = 999) into Q45crec.
+Value Labels Q45crec 1 'Believe in God, yes' 2 'Believe in God, no' 3 'Believe in God, DK/ Refused' 4 'Do not believe in God' 999 'DK/ Refused'.
+Variable Labels Q45crec 'Q45rec. Do you believe in God? [If yes] Do you think God can be manifested in...? c. people'.
+
+**Showing 46a and 45c and 43a together.
+recode Q46a (1=1) (2=2) (98, 99, 999 = 3) into Q46arec.
+recode Q45c (2=4) (98, 99, 999 = 5) into Q46arec.
+recode Q43a (2=6) (98, 99, 999 = 999) into Q46arec.
+Value Labels Q46arec 1 'Believe in God and can be manifested in people, yes' 2 'Believe in God and can be manifested in people, no' 3 'Believe in God and can be manifested in people, DK/ Refused' 
+4 'Believe in God and cannot be manifested in people' 5 'Believe in God and DK/ Refused' 6 'Do not believe in God' 999 'DK/ Refused'.
+Variable Labels Q46arec 'Q46rec. Do you believe in God? [If yes] Do you think God can be manifested in people? [If yes] Do you think God can be manifested in people who...? a. belong to a lower caste'.
+
+**Showing 46b and 45c and 43a together.
+recode Q46b (1=1) (2=2) (98, 99, 999 = 3) into Q46brec.
+recode Q45c (2=4) (98, 99, 999 = 5) into Q46brec.
+recode Q43a (2=6) (98, 99, 999 = 999) into Q46brec.
+Value Labels
+Q46brec 1 'Believe in God and can be manifested in people, yes' 2 'Believe in God and can be manifested in people, no' 3 'Believe in God and can be manifested in people, DK/ Refused' 
+4 'Believe in God and cannot be manifested in people' 5 'Believe in God and DK/ Refused' 6 'Do not believe in God' 999 'DK/ Refused'.
+Variable Labels Q46brec 'Q46rec. Do you believe in God? [If yes] Do you think God can be manifested in people? [If yes] Do you think God can be manifested in people who...? b. have done bad things in their life'.
+
+**Showing Q47a and 43a together.
+recode Q47a (1=1) (2=2) (98, 99, 999 = 3) into Q47arec.
+recode Q43a (2=4) (98, 99, 999 = 999) into Q47arec.
+Value Labels Q47arec 1 'Believe in God, yes' 2 'Believe in God, no' 3 'Believe in God, DK/ Refused' 4 'Do not believe in God' 999 'DK/ Refused'.
+Variable Labels Q47arec 'Q47rec. Do you believe in God? [If yes] Do you ever ask God for … for you or your family? a. good health'.
+
+**Showing Q47b and 43a together.
+recode Q47b (1=1) (2=2) (98, 99, 999 = 3) into Q47brec.
+recode Q43a (2=4) (98, 99, 999 = 999) into Q47brec.
+Value Labels Q47brec 1 'Believe in God, yes' 2 'Believe in God, no' 3 'Believe in God, DK/ Refused' 4 'Do not believe in God' 999 'DK/ Refused'.
+Variable Labels Q47brec 'Q47rec. Do you believe in God? [If yes] Do you ever ask God for … for you or your family? b. prosperity'.
+
+**Showing Q47c and 43a together.
+recode Q47c (1=1) (2=2) (98, 99, 999 = 3) into Q47crec.
+recode Q43a (2=4) (98, 99, 999 = 999) into Q47crec.
+Value Labels Q47crec 1 'Believe in God, yes' 2 'Believe in God, no' 3 'Believe in God, DK/ Refused' 4 'Do not believe in God' 999 'DK/ Refused'.
+Variable Labels Q47crec 'Q47rec. Do you believe in God? [If yes] Do you ever ask God for … for you or your family? c. forgiveness'.
+
+**Showing Q54 a and b together.
+compute Q54comb = $sysmis.
+if (QRELSING=2 & Q54a=1 & Q54b=1) Q54comb=1.
+if (QRELSING=2 & Q54a=1 & Q54b=2) Q54comb=2.
+if (QRELSING=2 & Q54a=1 & (Q54b=98 OR Q54b=99 OR Q54b=999)) Q54comb=3.
+if (QRELSING=2 & (Q54a=2 OR Q54a=3 OR Q54a=4 OR Q54a=5 OR Q54a=6 OR Q54a=7)) Q54comb=4.
+if (QRELSING=2 & (Q54a=98 OR Q54a=99 OR Q54a=999)) Q54comb=999.
+Variable Labels Q54comb 'Q54comb. Do you offer namaz? [If does so several times a day] Do you pray all five namaz every day?'.
+Value Labels Q54comb 1 'Offer namaz several times a day, pray all five namaz' 2 'Offer namaz several times a day, do not pray all five namaz' 
+3 'Offer namaz several times a day, don’t know/ refused pray all five namaz' 4 'Offer namaz less often' 999 'DK/ Refused'.
+
+** Showing Q55 a and b together.
+compute Q55ab = $sysmis.
+if (Q55a=1 & Q55b=1) Q55ab=1.
+if (Q55a=1 & Q55b=2) Q55ab=2.
+if (Q55a=1 & (Q55b=98 OR Q55b=99 OR Q55b=999)) Q55ab=3.
+if (Q55a=2) Q55ab=4.
+if (Q55a=98 OR Q55a=99 OR Q55a=999) Q55ab=999.
+Variable Labels
+Q55ab 'Q55ab. Are you vegetarian? [If yes] Do you abstain from eating root vegetables, such as garlic and onion?'.
+Value Labels Q55ab 1 'Vegetarian and Yes' 2 'Vegetarian and No ' 3 'Vegetarian and DK/ Refused' 4 'Nonvegetarian' 999 'DK/ Refused'.
+
+**Showing Q55 a and c together.
+compute Q55ac = $sysmis.
+if (Q55a=2 & Q55c=1) Q55ac=2.
+if (Q55a=2 & Q55c=2) Q55ac=3.
+if (Q55a=2 & (Q55c=98 OR Q55c=99 OR Q55c=999)) Q55ac=4.
+if (Q55a=1) Q55ac=1.
+if (Q55a=98 OR Q55a=99 OR Q55a=999) Q55ac=999.
+Variable Labels Q55ac 'Q55ac. Are you vegetarian? [If no] Do you abstain from eating meat on certain days?'.
+Value Labels Q55ac 2 'Nonvegetarian and Yes' 3 'Nonvegetarian and No ' 4 'Nonvegetarian and DK/ Refused' 1 'Vegetarian' 999 'DK/ Refused'.
+
+**Showing Q55 a and d together.
+compute Q55ad = $sysmis.
+if (Q55a=2 & Q55d=1) Q55ad=2.
+if (Q55a=2 & Q55d=2) Q55ad=3.
+if (Q55a=2 & (Q55d=98 OR Q55d=99 OR Q55d=999)) Q55ad=4.
+if (Q55a=1) Q55ad=1.
+if (Q55a=98 OR Q55a=99 OR Q55a=999) Q55ad=999.
+Variable Labels Q55ad 'Q55ad. Are you vegetarian? [If no] Do you abstain from eating certain meats?'.
+Value Labels Q55ad 2 'Nonvegetarian and Yes' 3 'Nonvegetarian and No ' 4 'Nonvegetarian and DK/ Refused' 1 'Vegetarian' 999 'DK/ Refused'.

@@ -1,0 +1,20 @@
+Pew Research Center conducted face-to-face surveys among 29,999 adults (ages 18 and older) across 26 Indian states and three union territories in 17 languages.
+The sample includes interviews with 22,975 Hindus, 3,336 Muslims, 1,782 Sikhs, 1,011 Christians, 719 Buddhists and 109 Jains.
+An additional 67 respondents belong to other religions or are religiously unaffiliated.
+Six groups were targeted for oversampling as part of the survey design: Muslims, Christians, Sikhs, Buddhists, Jains and those living in the Northeast region.
+Interviews were conducted under the direction of RTI International from November 17, 2019, to March 23, 2020.
+Data collection used computer-assisted personal interviews (CAPI) after random selection of households.
+
+This project was produced by Pew Research Center as part of the Pew-Templeton Global Religious Futures project, which analyzes religious change and its impact on societies around the world.
+Funding for the Global Religious Futures project comes from The Pew Charitable Trusts and the John Templeton Foundation.
+
+Two reports focused on the findings from this data:
+•Religion in India: Tolerance and Segregation: https://www.pewresearch.org/religion/2021/06/29/religion-in-india-tolerance-and-segregation/
+•How Indians View Gender Roles in Families and Society: https://www.pewresearch.org/religion/2022/03/02/how-indians-view-gender-roles-in-families-and-society/
+
+The following files are contained in the India dataset .zip file:
+•SPSS dataset – contains all the publicly released variables from the India dataset
+•CSV dataset – contains all the publicly released variables from the India dataset (without any labels) in an open-source format
+•DDI metadata – contains the publicly released dataset’s metadata
+•Codebook – the full questionnaire administered to respondents, along with a short description of the methodology and why certain variables had to be excluded from the public dataset
+•Recodes syntax – SPSS syntax text copied into an open-source format. The syntax file is in 2 sections: 1) syntax which creates the most common analytic variables in the survey reports; 2) syntax which creates the merged variables that are reported on in the toplines (available for download from the website pages associated with each India report).

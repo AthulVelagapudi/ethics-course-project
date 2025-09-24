@@ -1,0 +1,1582 @@
+A_YEAR: Year of survey,B_COUNTRY: ISO 3166-1 numeric country code,N_REGION_ISO: Region ISO 3166-2,H_URBRURAL: Urban-Rural,S_INTLANGUAGE: Language in which interview was conducted,Q260: Sex,Q262: Age,X003R: Age recoded (6 intervals),Q272: Language at home,Q273: Marital status,Q275R: Highest educational level: Respondent (recoded into 3 groups),Q279: Employment status,Q287: Social class (subjective),Q289: Religious denominations - major groups,Counts
+2023,India,IN-BR Bihar,Rural,Hindi,Female,16,16-24,Hindi,Single,Middle,Homemaker not otherwise employed,Upper middle class,Muslim,1
+2023,India,IN-BR Bihar,Rural,Hindi,Female,16,16-24,Hindi,Single,Middle,Student,Lower middle class,Hindu,4
+2023,India,IN-BR Bihar,Rural,Hindi,Female,17,16-24,Hindi,Single,Higher,Unemployed,Lower class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Female,17,16-24,Hindi,Single,Middle,Full time (30 hours a week or more),Upper middle class,Muslim,1
+2023,India,IN-BR Bihar,Rural,Hindi,Female,17,16-24,Hindi,Single,Middle,Student,Lower middle class,Hindu,2
+2023,India,IN-BR Bihar,Rural,Hindi,Female,17,16-24,"Punjabi, Panjabi",Single,Lower,Part time (less than 30 hours a week),Upper middle class,Buddhist,1
+2023,India,IN-BR Bihar,Rural,Hindi,Female,20,16-24,Hindi,Single,Higher,Student,Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Female,20,16-24,Hindi,Single,Middle,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Female,20,16-24,Hindi,Single,Middle,Student,Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Female,21,16-24,Hindi,Married,Lower,Self employed,Working class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Female,21,16-24,Hindi,Single,Higher,Student,Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Female,21,16-24,Hindi,Single,Middle,Student,Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Female,22,16-24,Hindi,Married,Middle,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Female,22,16-24,Hindi,Married,Middle,Homemaker not otherwise employed,Upper middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Female,22,16-24,Hindi,Single,Higher,Student,Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Female,24,16-24,Hindi,Single,Higher,Student,Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Female,25,25-34,Hindi,Married,Higher,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Female,27,25-34,Hindi,Married,Middle,Unemployed,Lower class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Female,29,25-34,Hindi,Married,Higher,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Female,29,25-34,Hindi,Single,Higher,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Female,30,25-34,Hindi,Married,Higher,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Female,30,25-34,Hindi,Married,Middle,Part time (less than 30 hours a week),Upper middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Female,31,25-34,Hindi,Married,Higher,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Female,34,25-34,Hindi,Married,Higher,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Female,34,25-34,Hindi,Married,Lower,Full time (30 hours a week or more),Upper class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Female,34,25-34,Hindi,Married,Middle,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Female,35,35-44,Hindi,Married,Higher,Self employed,Lower class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Female,37,35-44,Hindi,Married,Middle,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Female,39,35-44,Hindi,Married,Lower,Homemaker not otherwise employed,Upper middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Female,39,35-44,Hindi,Married,Middle,Unemployed,Upper middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Female,40,35-44,Hindi,Married,Lower,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Female,40,35-44,Hindi,Married,Lower,Homemaker not otherwise employed,Lower class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Female,40,35-44,Hindi,Married,Middle,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Female,41,35-44,Hindi,Married,Lower,Unemployed,Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Female,42,35-44,Hindi,Married,Higher,Self employed,Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Female,43,35-44,Hindi,Married,Middle,Unemployed,Working class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Female,46,45-54,Hindi,Married,Middle,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Female,48,45-54,Hindi,Married,Lower,Don't know,Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Female,48,45-54,Hindi,Married,Lower,Homemaker not otherwise employed,Working class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Female,48,45-54,Hindi,Married,Lower,Self employed,Lower class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Female,48,45-54,Hindi,Married,Middle,Part time (less than 30 hours a week),Working class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Female,50,45-54,Hindi,Married,Lower,Self employed,Working class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Female,51,45-54,Hindi,Married,Higher,Homemaker not otherwise employed,Upper middle class,Muslim,1
+2023,India,IN-BR Bihar,Rural,Hindi,Female,51,45-54,Hindi,Married,Higher,Other,Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Female,51,45-54,Hindi,Married,Middle,Self employed,Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Female,53,45-54,Hindi,Married,Lower,Unemployed,Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Female,53,45-54,Hindi,Married,Middle,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Female,54,45-54,Hindi,Married,Middle,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Female,55,55-64,Hindi,Married,Lower,Homemaker not otherwise employed,Lower middle class,Hindu,2
+2023,India,IN-BR Bihar,Rural,Hindi,Female,57,55-64,Hindi,Married,Middle,Self employed,Lower middle class,Muslim,1
+2023,India,IN-BR Bihar,Rural,Hindi,Female,58,55-64,Hindi,Married,Lower,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Female,58,55-64,Hindi,Married,Lower,Part time (less than 30 hours a week),Lower class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Female,59,55-64,Hindi,Married,Middle,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Female,59,55-64,Hindi,Widowed,Lower,Homemaker not otherwise employed,Working class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Female,61,55-64,Hindi,Married,Middle,Unemployed,Working class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Female,63,55-64,Hindi,Married,Lower,Homemaker not otherwise employed,Upper middle class,Muslim,1
+2023,India,IN-BR Bihar,Rural,Hindi,Female,65,65 and more years,Hindi,Married,Lower,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,16,16-24,Hindi,Single,Middle,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,16,16-24,Hindi,Single,Middle,Self employed,Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,16,16-24,Hindi,Single,Middle,Student,Lower class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,16,16-24,Hindi,Single,Middle,Student,Lower middle class,Hindu,4
+2023,India,IN-BR Bihar,Rural,Hindi,Male,16,16-24,Hindi,Single,Middle,Student,Upper class,Muslim,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,16,16-24,Hindi,Single,Middle,Student,Working class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,17,16-24,Hindi,Single,Higher,Part time (less than 30 hours a week),Upper middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,17,16-24,Hindi,Single,Lower,Unemployed,Working class,Muslim,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,17,16-24,Hindi,Single,Middle,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,17,16-24,Hindi,Single,Middle,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,17,16-24,Hindi,Single,Middle,Part time (less than 30 hours a week),Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,17,16-24,Hindi,Single,Middle,Student,Lower middle class,Hindu,4
+2023,India,IN-BR Bihar,Rural,Hindi,Male,17,16-24,Hindi,Single,Middle,Student,Upper middle class,Hindu,2
+2023,India,IN-BR Bihar,Rural,Hindi,Male,17,16-24,Hindi,Single,Middle,Student,Working class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,18,16-24,Hindi,Don't know,Lower,Part time (less than 30 hours a week),Upper class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,18,16-24,Hindi,Single,Middle,Student,Lower middle class,Hindu,2
+2023,India,IN-BR Bihar,Rural,Hindi,Male,19,16-24,Hindi,Single,Middle,Student,Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,20,16-24,Hindi,Married,Lower,Student,Upper class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,21,16-24,Hindi,Married,Middle,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,21,16-24,Hindi,Married,Middle,Self employed,Lower middle class,Muslim,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,21,16-24,Hindi,Single,Middle,Self employed,Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,22,16-24,Hindi,Single,Higher,Student,Lower middle class,Hindu,2
+2023,India,IN-BR Bihar,Rural,Hindi,Male,23,16-24,Hindi,Single,Middle,Student,Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,24,16-24,Hindi,Married,Higher,Self employed,Upper middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,24,16-24,Hindi,Married,Middle,Self employed,Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,24,16-24,Hindi,Single,Higher,Student,Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,25,25-34,Hindi,Married,Higher,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,25,25-34,Hindi,Married,Lower,Part time (less than 30 hours a week),Lower middle class,Muslim,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,25,25-34,Hindi,Married,Middle,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,26,25-34,Hindi,Married,Higher,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,26,25-34,Hindi,Married,Lower,Don't know,Working class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,27,25-34,Hindi,Single,Higher,Student,Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,28,25-34,Hindi,Married,Higher,Full time (30 hours a week or more),Lower middle class,Hindu,2
+2023,India,IN-BR Bihar,Rural,Hindi,Male,28,25-34,Hindi,Married,Higher,Full time (30 hours a week or more),Upper middle class,Hindu,2
+2023,India,IN-BR Bihar,Rural,Hindi,Male,28,25-34,Hindi,Married,Middle,Full time (30 hours a week or more),Don't know,Catholic (Roman/Greek/etc),1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,28,25-34,Hindi,Married,Middle,Full time (30 hours a week or more),Upper class,Muslim,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,28,25-34,Hindi,Single,Higher,Self employed,Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,28,25-34,Hindi,Single,Middle,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,29,25-34,Hindi,Married,Higher,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,29,25-34,Hindi,Married,Higher,Unemployed,Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,30,25-34,Hindi,Married,Higher,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,30,25-34,Hindi,Married,Middle,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,30,25-34,Hindi,Married,Middle,Part time (less than 30 hours a week),Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,30,25-34,Hindi,Single,Higher,Student,Lower class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,30,25-34,Hindi,Single,Higher,Unemployed,Lower middle class,Hindu,2
+2023,India,IN-BR Bihar,Rural,Hindi,Male,30,25-34,Other,Married,Higher,Self employed,Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,31,25-34,Hindi,Married,Middle,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,33,25-34,Hindi,Married,Middle,Part time (less than 30 hours a week),Upper middle class,Muslim,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,35,35-44,Hindi,Married,Middle,Self employed,Working class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,36,35-44,Hindi,Married,Middle,Self employed,Lower class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,36,35-44,Hindi,Married,Middle,Unemployed,Upper class,Muslim,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,37,35-44,Hindi,Married,Higher,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,38,35-44,Hindi,Married,Lower,Full time (30 hours a week or more),Upper class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,39,35-44,Hindi,Married,Higher,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,39,35-44,Hindi,Married,Middle,Self employed,Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,40,35-44,Hindi,Married,Lower,Part time (less than 30 hours a week),Upper class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,41,35-44,Hindi,Married,Middle,Self employed,Upper middle class,Muslim,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,42,35-44,Hindi,Married,Higher,Part time (less than 30 hours a week),Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,42,35-44,Hindi,Married,Higher,Part time (less than 30 hours a week),Working class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,42,35-44,Hindi,Married,Lower,Self employed,Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,43,35-44,Hindi,Married,Middle,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,43,35-44,Hindi,Married,Middle,Self employed,Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,44,35-44,Hindi,Married,Lower,Unemployed,Lower middle class,Muslim,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,44,35-44,Hindi,Married,Middle,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,46,45-54,Hindi,Married,Lower,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,48,45-54,Hindi,Married,Middle,Full time (30 hours a week or more),Lower middle class,Hindu,2
+2023,India,IN-BR Bihar,Rural,Hindi,Male,49,45-54,Hindi,Married,Lower,Part time (less than 30 hours a week),Upper class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,49,45-54,Hindi,Married,Lower,Part time (less than 30 hours a week),Upper middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,49,45-54,Hindi,Married,Lower,Unemployed,Lower class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,49,45-54,Hindi,Married,Middle,Part time (less than 30 hours a week),Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,49,45-54,Hindi,Married,Middle,Self employed,Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,51,45-54,Hindi,Married,Lower,Self employed,Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,51,45-54,Hindi,Single,Middle,Self employed,Lower class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,52,45-54,Hindi,Married,Lower,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,52,45-54,Hindi,Married,Middle,Self employed,Working class,Hindu,2
+2023,India,IN-BR Bihar,Rural,Hindi,Male,53,45-54,Hindi,Married,Lower,Part time (less than 30 hours a week),Upper middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,54,45-54,Hindi,Married,Lower,Unemployed,Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,55,55-64,Hindi,Married,Middle,Self employed,Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,55,55-64,Hindi,Widowed,Middle,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,56,55-64,Hindi,Married,Lower,Full time (30 hours a week or more),Don't know,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,56,55-64,Hindi,Married,Lower,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,57,55-64,Hindi,Married,Higher,Part time (less than 30 hours a week),Lower class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,57,55-64,Hindi,Married,Lower,Part time (less than 30 hours a week),Upper class,Muslim,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,59,55-64,Hindi,Married,Higher,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,60,55-64,Hindi,Married,Middle,Don't know,Lower class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,60,55-64,Hindi,Married,Middle,Retired/pensioned,Lower middle class,Hindu,2
+2023,India,IN-BR Bihar,Rural,Hindi,Male,61,55-64,Hindi,Married,Middle,Don't know,Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,65,65 and more years,Hindi,Married,Lower,Unemployed,Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,65,65 and more years,Hindi,Married,Middle,Part time (less than 30 hours a week),Lower middle class,Muslim,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,67,65 and more years,Hindi,Married,Don't know,Self employed,Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,67,65 and more years,Hindi,Married,Higher,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-BR Bihar,Rural,Hindi,Male,72,65 and more years,Hindi,Married,Middle,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Urban,Hindi,Female,16,16-24,Hindi,Single,Middle,Homemaker not otherwise employed,Upper middle class,Hindu,1
+2023,India,IN-BR Bihar,Urban,Hindi,Female,17,16-24,Hindi,Single,Higher,Student,Upper middle class,Hindu,1
+2023,India,IN-BR Bihar,Urban,Hindi,Female,19,16-24,Hindi,Single,Higher,Student,Upper middle class,Hindu,1
+2023,India,IN-BR Bihar,Urban,Hindi,Female,20,16-24,Hindi,Single,Higher,Student,Upper middle class,Hindu,1
+2023,India,IN-BR Bihar,Urban,Hindi,Female,20,16-24,Hindi,Single,Lower,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-BR Bihar,Urban,Hindi,Female,24,16-24,Hindi,Married,Lower,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-BR Bihar,Urban,Hindi,Female,26,25-34,Hindi,Married,Higher,Part time (less than 30 hours a week),Upper middle class,Hindu,1
+2023,India,IN-BR Bihar,Urban,Hindi,Female,28,25-34,Hindi,Married,Higher,Homemaker not otherwise employed,Upper middle class,Hindu,1
+2023,India,IN-BR Bihar,Urban,Hindi,Female,29,25-34,Hindi,Married,Lower,Full time (30 hours a week or more),Upper middle class,Muslim,1
+2023,India,IN-BR Bihar,Urban,Hindi,Female,30,25-34,Hindi,Married,Middle,Self employed,Upper middle class,Hindu,1
+2023,India,IN-BR Bihar,Urban,Hindi,Female,31,25-34,Hindi,Married,Higher,Homemaker not otherwise employed,Upper middle class,Hindu,1
+2023,India,IN-BR Bihar,Urban,Hindi,Female,32,25-34,Hindi,Married,Lower,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-BR Bihar,Urban,Hindi,Female,33,25-34,Hindi,Married,Lower,Full time (30 hours a week or more),Lower middle class,Muslim,1
+2023,India,IN-BR Bihar,Urban,Hindi,Female,33,25-34,Hindi,Married,Lower,Homemaker not otherwise employed,Upper class,Hindu,1
+2023,India,IN-BR Bihar,Urban,Hindi,Female,35,35-44,Hindi,Married,Lower,Unemployed,Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Urban,Hindi,Female,40,35-44,Hindi,Married,Lower,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Urban,Hindi,Female,40,35-44,Hindi,Married,Middle,Self employed,Upper middle class,Hindu,1
+2023,India,IN-BR Bihar,Urban,Hindi,Female,40,35-44,Marathi,Married,Lower,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-BR Bihar,Urban,Hindi,Female,44,35-44,Hindi,Married,Middle,Homemaker not otherwise employed,Lower middle class,Muslim,1
+2023,India,IN-BR Bihar,Urban,Hindi,Female,45,45-54,Hindi,Married,Lower,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-BR Bihar,Urban,Hindi,Female,48,45-54,Hindi,Married,Lower,Full time (30 hours a week or more),Upper class,Muslim,1
+2023,India,IN-BR Bihar,Urban,Hindi,Female,48,45-54,Hindi,Married,Lower,Homemaker not otherwise employed,Upper middle class,Hindu,1
+2023,India,IN-BR Bihar,Urban,Hindi,Female,51,45-54,Hindi,Married,Lower,Homemaker not otherwise employed,Working class,Hindu,1
+2023,India,IN-BR Bihar,Urban,Hindi,Female,52,45-54,Hindi,Married,Lower,Part time (less than 30 hours a week),Upper middle class,Hindu,1
+2023,India,IN-BR Bihar,Urban,Hindi,Female,55,55-64,Hindi,Married,Lower,Full time (30 hours a week or more),Lower middle class,Muslim,1
+2023,India,IN-BR Bihar,Urban,Hindi,Female,56,55-64,Hindi,Married,Lower,Full time (30 hours a week or more),Upper class,Hindu,1
+2023,India,IN-BR Bihar,Urban,Hindi,Female,56,55-64,Hindi,Married,Lower,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-BR Bihar,Urban,Hindi,Female,62,55-64,Hindi,Widowed,Middle,Homemaker not otherwise employed,Working class,Hindu,1
+2023,India,IN-BR Bihar,Urban,Hindi,Female,76,65 and more years,Hindi,Widowed,Lower,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Urban,Hindi,Male,16,16-24,Hindi,Single,Lower,Part time (less than 30 hours a week),Upper middle class,Hindu,1
+2023,India,IN-BR Bihar,Urban,Hindi,Male,16,16-24,Hindi,Single,Lower,Retired/pensioned,Upper class,Hindu,1
+2023,India,IN-BR Bihar,Urban,Hindi,Male,16,16-24,Hindi,Single,Middle,Unemployed,Upper middle class,Hindu,1
+2023,India,IN-BR Bihar,Urban,Hindi,Male,17,16-24,Hindi,Single,Higher,Full time (30 hours a week or more),Upper class,Hindu,1
+2023,India,IN-BR Bihar,Urban,Hindi,Male,17,16-24,Hindi,Single,Middle,Homemaker not otherwise employed,Upper middle class,Hindu,1
+2023,India,IN-BR Bihar,Urban,Hindi,Male,17,16-24,Hindi,Single,Middle,Student,Lower middle class,Hindu,2
+2023,India,IN-BR Bihar,Urban,Hindi,Male,17,16-24,Hindi,Single,Middle,Student,Upper middle class,Hindu,2
+2023,India,IN-BR Bihar,Urban,Hindi,Male,17,16-24,Hindi,Single,Middle,Unemployed,Upper middle class,Hindu,1
+2023,India,IN-BR Bihar,Urban,Hindi,Male,18,16-24,Hindi,Married,Lower,Homemaker not otherwise employed,Upper class,Hindu,1
+2023,India,IN-BR Bihar,Urban,Hindi,Male,19,16-24,Hindi,Single,Middle,Student,Upper middle class,Hindu,1
+2023,India,IN-BR Bihar,Urban,Hindi,Male,20,16-24,Hindi,Single,Higher,Student,Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Urban,Hindi,Male,21,16-24,Hindi,Single,Lower,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-BR Bihar,Urban,Hindi,Male,22,16-24,Hindi,Single,Higher,Student,Upper middle class,Hindu,1
+2023,India,IN-BR Bihar,Urban,Hindi,Male,22,16-24,Hindi,Single,Lower,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-BR Bihar,Urban,Hindi,Male,23,16-24,Hindi,Married,Higher,Self employed,Upper middle class,Hindu,1
+2023,India,IN-BR Bihar,Urban,Hindi,Male,24,16-24,Hindi,Married,Lower,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-BR Bihar,Urban,Hindi,Male,24,16-24,Hindi,Single,Higher,Unemployed,Upper middle class,Hindu,1
+2023,India,IN-BR Bihar,Urban,Hindi,Male,25,25-34,Hindi,Married,Lower,Part time (less than 30 hours a week),Upper middle class,Muslim,1
+2023,India,IN-BR Bihar,Urban,Hindi,Male,26,25-34,Hindi,Married,Higher,Student,Upper middle class,Muslim,1
+2023,India,IN-BR Bihar,Urban,Hindi,Male,26,25-34,Hindi,Single,Higher,Student,Upper middle class,Hindu,1
+2023,India,IN-BR Bihar,Urban,Hindi,Male,28,25-34,Hindi,Single,Higher,Student,Upper middle class,Hindu,2
+2023,India,IN-BR Bihar,Urban,Hindi,Male,30,25-34,Hindi,Married,Lower,Full time (30 hours a week or more),Working class,Hindu,1
+2023,India,IN-BR Bihar,Urban,Hindi,Male,32,25-34,Hindi,Married,Higher,Unemployed,Upper middle class,Hindu,1
+2023,India,IN-BR Bihar,Urban,Hindi,Male,33,25-34,Hindi,Married,Higher,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-BR Bihar,Urban,Hindi,Male,37,35-44,Hindi,Married,Middle,Full time (30 hours a week or more),Upper class,Muslim,1
+2023,India,IN-BR Bihar,Urban,Hindi,Male,38,35-44,Hindi,Married,Lower,Part time (less than 30 hours a week),Upper class,Hindu,1
+2023,India,IN-BR Bihar,Urban,Hindi,Male,40,35-44,Hindi,Married,Middle,Self employed,Working class,Hindu,1
+2023,India,IN-BR Bihar,Urban,Hindi,Male,41,35-44,Hindi,Married,Higher,Part time (less than 30 hours a week),Upper middle class,Hindu,1
+2023,India,IN-BR Bihar,Urban,Hindi,Male,42,35-44,Hindi,Married,Middle,Self employed,Working class,Hindu,1
+2023,India,IN-BR Bihar,Urban,Hindi,Male,42,35-44,Hindi,Married,Middle,Unemployed,Upper middle class,Hindu,1
+2023,India,IN-BR Bihar,Urban,Hindi,Male,44,35-44,Hindi,Married,Lower,Unemployed,Upper middle class,Hindu,1
+2023,India,IN-BR Bihar,Urban,Hindi,Male,46,45-54,Hindi,Married,Higher,Part time (less than 30 hours a week),Upper middle class,Hindu,1
+2023,India,IN-BR Bihar,Urban,Hindi,Male,47,45-54,Hindi,Married,Lower,Full time (30 hours a week or more),Upper class,Hindu,1
+2023,India,IN-BR Bihar,Urban,Hindi,Male,49,45-54,Hindi,Married,Middle,Self employed,Upper middle class,Hindu,1
+2023,India,IN-BR Bihar,Urban,Hindi,Male,52,45-54,Hindi,Married,Lower,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-BR Bihar,Urban,Hindi,Male,53,45-54,"Punjabi, Panjabi",Married,Middle,Student,Lower middle class,Hindu,1
+2023,India,IN-BR Bihar,Urban,Hindi,Male,56,55-64,Hindi,Married,Lower,Self employed,Upper class,Muslim,1
+2023,India,IN-BR Bihar,Urban,Hindi,Male,60,55-64,Hindi,Married,Lower,Homemaker not otherwise employed,Upper middle class,Hindu,1
+2023,India,IN-BR Bihar,Urban,Hindi,Male,60,55-64,Hindi,Married,Middle,Unemployed,Upper middle class,Hindu,1
+2023,India,IN-BR Bihar,Urban,Hindi,Male,64,55-64,Hindi,Married,Lower,Unemployed,Upper middle class,Hindu,1
+2023,India,IN-DL Delhi,Rural,Hindi,Female,16,16-24,Hindi,Single,Middle,Student,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Rural,Hindi,Female,16,16-24,Hindi,Single,Middle,Student,Upper middle class,Hindu,1
+2023,India,IN-DL Delhi,Rural,Hindi,Female,16,16-24,Hindi,Single,Middle,Student,Upper middle class,Other,1
+2023,India,IN-DL Delhi,Rural,Hindi,Female,17,16-24,Hindi,Single,Middle,Student,Lower middle class,Muslim,2
+2023,India,IN-DL Delhi,Rural,Hindi,Female,17,16-24,Hindi,Single,Middle,Student,Upper middle class,Hindu,3
+2023,India,IN-DL Delhi,Rural,Hindi,Female,20,16-24,Hindi,Single,Higher,Student,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Rural,Hindi,Female,21,16-24,Hindi,Single,Higher,Student,Upper middle class,Hindu,2
+2023,India,IN-DL Delhi,Rural,Hindi,Female,22,16-24,Hindi,Single,Higher,Student,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Rural,Hindi,Female,22,16-24,"Punjabi, Panjabi",Single,Higher,Student,Upper middle class,Other,1
+2023,India,IN-DL Delhi,Rural,Hindi,Female,23,16-24,Hindi,Living together as married,Middle,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Rural,Hindi,Female,24,16-24,Hindi,Living together as married,Higher,Homemaker not otherwise employed,Upper middle class,Hindu,1
+2023,India,IN-DL Delhi,Rural,Hindi,Female,25,25-34,Hindi,Living together as married,Higher,Homemaker not otherwise employed,Upper middle class,Hindu,1
+2023,India,IN-DL Delhi,Rural,Hindi,Female,25,25-34,Hindi,Single,Lower,Unemployed,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Rural,Hindi,Female,26,25-34,Hindi,Living together as married,Higher,Homemaker not otherwise employed,Upper middle class,Hindu,1
+2023,India,IN-DL Delhi,Rural,Hindi,Female,28,25-34,Hindi,Single,Middle,Unemployed,Upper middle class,Catholic (Roman/Greek/etc),1
+2023,India,IN-DL Delhi,Rural,Hindi,Female,31,25-34,Hindi,Living together as married,Higher,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Rural,Hindi,Female,31,25-34,Hindi,Living together as married,Middle,Homemaker not otherwise employed,Upper middle class,Hindu,1
+2023,India,IN-DL Delhi,Rural,Hindi,Female,32,25-34,Hindi,Single,Higher,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Rural,Hindi,Female,32,25-34,Hindi,Single,Higher,Self employed,Upper middle class,Hindu,1
+2023,India,IN-DL Delhi,Rural,Hindi,Female,34,25-34,Hindi,Living together as married,Higher,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Rural,Hindi,Female,37,35-44,Hindi,Living together as married,Higher,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Rural,Hindi,Female,37,35-44,Hindi,Living together as married,Middle,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Rural,Hindi,Female,38,35-44,Hindi,Living together as married,Lower,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Rural,Hindi,Female,41,35-44,Hindi,Married,Higher,Part time (less than 30 hours a week),Upper middle class,Hindu,1
+2023,India,IN-DL Delhi,Rural,Hindi,Female,42,35-44,Hindi,Living together as married,Middle,Homemaker not otherwise employed,Lower middle class,Hindu,2
+2023,India,IN-DL Delhi,Rural,Hindi,Female,42,35-44,Other,Living together as married,Higher,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Rural,Hindi,Female,46,45-54,Hindi,Living together as married,Middle,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Rural,Hindi,Female,47,45-54,Hindi,Living together as married,Lower,Homemaker not otherwise employed,Upper middle class,Hindu,1
+2023,India,IN-DL Delhi,Rural,Hindi,Female,48,45-54,Hindi,Living together as married,Middle,Homemaker not otherwise employed,Upper middle class,Hindu,1
+2023,India,IN-DL Delhi,Rural,Hindi,Female,48,45-54,Hindi,Widowed,Lower,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Rural,Hindi,Female,50,45-54,Hindi,Living together as married,Middle,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Rural,Hindi,Female,51,45-54,Hindi,Married,Middle,Self employed,Lower middle class,Muslim,1
+2023,India,IN-DL Delhi,Rural,Hindi,Female,51,45-54,Other,Married,Middle,Other,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Rural,Hindi,Female,53,45-54,Hindi,Widowed,Middle,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Rural,Hindi,Female,56,55-64,Hindi,Widowed,Lower,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Rural,Hindi,Female,56,55-64,Hindi,Widowed,Middle,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Rural,Hindi,Female,57,55-64,Hindi,Widowed,Middle,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Rural,Hindi,Female,58,55-64,Hindi,Widowed,Lower,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Rural,Hindi,Female,58,55-64,Hindi,Widowed,Lower,Retired/pensioned,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Rural,Hindi,Female,61,55-64,Other,Married,Middle,Homemaker not otherwise employed,Upper middle class,Hindu,1
+2023,India,IN-DL Delhi,Rural,Hindi,Female,68,65 and more years,Hindi,Widowed,Higher,Retired/pensioned,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Rural,Hindi,Female,68,65 and more years,Hindi,Widowed,Lower,Self employed,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Rural,Hindi,Male,16,16-24,Other,Single,Middle,Self employed,Lower middle class,Muslim,1
+2023,India,IN-DL Delhi,Rural,Hindi,Male,17,16-24,Hindi,Single,Middle,Student,Lower middle class,Hindu,2
+2023,India,IN-DL Delhi,Rural,Hindi,Male,17,16-24,Hindi,Single,Middle,Student,Upper middle class,Hindu,1
+2023,India,IN-DL Delhi,Rural,Hindi,Male,18,16-24,Hindi,Single,Higher,Student,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Rural,Hindi,Male,19,16-24,Hindi,Single,Higher,Student,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Rural,Hindi,Male,28,25-34,Hindi,Single,Higher,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-DL Delhi,Rural,Hindi,Male,30,25-34,Hindi,Single,Middle,Student,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Rural,Hindi,Male,31,25-34,Hindi,Married,Higher,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Rural,Hindi,Male,37,35-44,Hindi,Living together as married,Higher,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Rural,Hindi,Male,37,35-44,Hindi,Living together as married,Higher,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-DL Delhi,Rural,Hindi,Male,37,35-44,Hindi,Married,Higher,Self employed,Upper middle class,Hindu,1
+2023,India,IN-DL Delhi,Rural,Hindi,Male,49,45-54,Hindi,Living together as married,Middle,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Rural,Hindi,Male,52,45-54,Hindi,Living together as married,Middle,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Rural,Hindi,Male,55,55-64,Hindi,Living together as married,Higher,Self employed,Working class,Hindu,1
+2023,India,IN-DL Delhi,Rural,Hindi,Male,59,55-64,Hindi,Married,Lower,Retired/pensioned,Working class,Hindu,1
+2023,India,IN-DL Delhi,Rural,Hindi,Male,60,55-64,Hindi,Living together as married,Lower,Retired/pensioned,Working class,Hindu,1
+2023,India,IN-DL Delhi,Rural,Hindi,Male,62,55-64,Hindi,Married,Middle,Retired/pensioned,Working class,Hindu,1
+2023,India,IN-DL Delhi,Rural,Hindi,Male,63,55-64,Hindi,Married,Middle,Self employed,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,16,16-24,Hindi,Single,Middle,Student,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,16,16-24,Hindi,Single,Middle,Student,Upper middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,16,16-24,Other,Single,Middle,Student,Lower middle class,Muslim,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,16,16-24,"Punjabi, Panjabi",Single,Middle,Student,Lower middle class,Other,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,17,16-24,Hindi,Single,Middle,Homemaker not otherwise employed,Lower middle class,Muslim,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,17,16-24,Hindi,Single,Middle,Student,Upper middle class,Hindu,2
+2023,India,IN-DL Delhi,Urban,Hindi,Female,17,16-24,Hindi,Single,Middle,Student,Working class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,17,16-24,Hindi,Single,Middle,Unemployed,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,19,16-24,Hindi,Single,Middle,Unemployed,Upper middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,19,16-24,Other,Single,Higher,Student,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,19,16-24,Other,Single,Middle,Unemployed,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,20,16-24,Hindi,Single,Higher,Student,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,20,16-24,Hindi,Single,Middle,Student,Upper middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,21,16-24,Hindi,Single,Higher,Part time (less than 30 hours a week),Lower middle class,Other,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,21,16-24,Hindi,Single,Higher,Student,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,22,16-24,Hindi,Married,Higher,Don't know,Don't know,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,22,16-24,Hindi,Single,Higher,Student,Upper class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,22,16-24,Hindi,Single,Middle,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,23,16-24,Hindi,Single,Higher,Student,Upper middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,25,25-34,Hindi,Married,Lower,Unemployed,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,27,25-34,Bengali; Bangla,Married,Middle,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,27,25-34,Hindi,Married,Higher,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,27,25-34,Hindi,Single,Higher,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,27,25-34,Hindi,Single,Higher,Unemployed,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,28,25-34,Hindi,Married,Higher,Full time (30 hours a week or more),Upper class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,28,25-34,Hindi,Married,Higher,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,28,25-34,Hindi,Married,Middle,Unemployed,Upper class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,28,25-34,Other,Married,Higher,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,30,25-34,Hindi,Married,Lower,Unemployed,Lower class,Muslim,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,30,25-34,Other,Married,Higher,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,31,25-34,Hindi,Married,Higher,Homemaker not otherwise employed,Upper middle class,Hindu,2
+2023,India,IN-DL Delhi,Urban,Hindi,Female,32,25-34,Hindi,Married,Lower,Unemployed,Don't know,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,33,25-34,Hindi,Married,Higher,Full time (30 hours a week or more),Upper class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,34,25-34,Hindi,Married,Higher,Full time (30 hours a week or more),Upper class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,35,35-44,Bengali; Bangla,Married,Lower,Homemaker not otherwise employed,Working class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,36,35-44,Hindi,Married,Middle,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,37,35-44,Hindi,Married,Middle,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,37,35-44,Hindi,Married,Middle,Homemaker not otherwise employed,Upper middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,38,35-44,Hindi,Married,Middle,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,39,35-44,Hindi,Married,Higher,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,40,35-44,Hindi,Married,Lower,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,40,35-44,Hindi,Married,Middle,Full time (30 hours a week or more),Upper class,Muslim,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,41,35-44,Hindi,Married,Middle,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,41,35-44,Other,Married,Middle,Homemaker not otherwise employed,Upper class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,46,45-54,Hindi,Married,Higher,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,46,45-54,Hindi,Married,Middle,Unemployed,Upper middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,47,45-54,Hindi,Married,Middle,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,48,45-54,Hindi,Married,Middle,Homemaker not otherwise employed,Upper class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,49,45-54,Hindi,Married,Lower,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,50,45-54,Hindi,Married,Middle,Part time (less than 30 hours a week),Lower class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,50,45-54,Other,Married,Don't know,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,52,45-54,Hindi,Married,Higher,Self employed,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,54,45-54,Hindi,Married,Lower,Homemaker not otherwise employed,Working class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,54,45-54,Hindi,Married,Lower,Self employed,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,55,55-64,Hindi,Married,Middle,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,57,55-64,Don´t know,Widowed,Lower,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,62,55-64,Hindi,Married,Lower,Homemaker not otherwise employed,Upper middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,62,55-64,Hindi,Married,Middle,Homemaker not otherwise employed,Don't know,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,65,65 and more years,Hindi,Married,Lower,Homemaker not otherwise employed,Working class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,65,65 and more years,Hindi,Married,Lower,Other,Upper middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,65,65 and more years,Other,Widowed,Lower,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,66,65 and more years,Other,Widowed,Lower,Homemaker not otherwise employed,Lower middle class,Muslim,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,75,65 and more years,Hindi,Married,Middle,Unemployed,Upper class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Female,77,65 and more years,Other,Widowed,Lower,Homemaker not otherwise employed,Working class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,16,16-24,Hindi,Single,Lower,Unemployed,Working class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,16,16-24,Hindi,Single,Middle,Self employed,Upper middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,16,16-24,Hindi,Single,Middle,Student,Lower middle class,Hindu,3
+2023,India,IN-DL Delhi,Urban,Hindi,Male,16,16-24,Hindi,Single,Middle,Student,Upper middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,16,16-24,Other,Single,Middle,Student,Upper middle class,Hindu,2
+2023,India,IN-DL Delhi,Urban,Hindi,Male,17,16-24,Bengali; Bangla,Single,Lower,Unemployed,Lower class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,17,16-24,Hindi,Single,Lower,Full time (30 hours a week or more),Working class,Muslim,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,17,16-24,Hindi,Single,Lower,Self employed,Lower middle class,Muslim,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,17,16-24,Hindi,Single,Lower,Student,Don't know,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,17,16-24,Hindi,Single,Lower,Student,Lower middle class,Catholic (Roman/Greek/etc),1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,17,16-24,Hindi,Single,Middle,Homemaker not otherwise employed,Lower middle class,Muslim,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,17,16-24,Hindi,Single,Middle,Student,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,17,16-24,Hindi,Single,Middle,Student,Upper middle class,Hindu,2
+2023,India,IN-DL Delhi,Urban,Hindi,Male,17,16-24,Hindi,Single,Middle,Student,Working class,Hindu,3
+2023,India,IN-DL Delhi,Urban,Hindi,Male,17,16-24,Hindi,Single,Middle,Student,Working class,Muslim,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,19,16-24,Hindi,Single,Higher,Student,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,19,16-24,Hindi,Single,Higher,Student,Working class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,19,16-24,Hindi,Single,Middle,Student,Upper middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,20,16-24,Hindi,Single,Higher,Student,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,20,16-24,Hindi,Single,Higher,Student,Working class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,20,16-24,Hindi,Single,Middle,Student,Working class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,21,16-24,Hindi,Single,Higher,Part time (less than 30 hours a week),Upper middle class,Muslim,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,22,16-24,Hindi,Single,Higher,Student,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,22,16-24,Hindi,Single,Higher,Student,Upper middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,23,16-24,Hindi,Married,Higher,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,23,16-24,Other,Single,Higher,Student,Upper middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,24,16-24,Hindi,Married,Middle,Full time (30 hours a week or more),Lower class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,24,16-24,Hindi,Single,Higher,Student,Lower middle class,Don't know,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,24,16-24,Hindi,Single,Middle,Self employed,Lower middle class,Muslim,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,25,25-34,Hindi,Single,Higher,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,25,25-34,Hindi,Single,Higher,Student,Lower middle class,Muslim,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,25,25-34,"Punjabi, Panjabi",Single,Higher,Student,Upper middle class,Other,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,26,25-34,Other,Single,Middle,Full time (30 hours a week or more),Lower middle class,Muslim,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,28,25-34,Hindi,Married,Higher,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,28,25-34,Hindi,Single,Higher,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,30,25-34,Hindi,Married,Middle,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,31,25-34,Hindi,Married,Middle,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,31,25-34,Hindi,Single,Higher,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,32,25-34,Hindi,Married,Lower,Self employed,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,32,25-34,Hindi,Married,Middle,Self employed,Lower middle class,Muslim,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,32,25-34,Hindi,Single,Higher,Self employed,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,33,25-34,Hindi,Married,Lower,Unemployed,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,33,25-34,Hindi,Single,Middle,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,34,25-34,Hindi,Married,Lower,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,35,35-44,Hindi,Living together as married,Middle,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,35,35-44,Hindi,Married,Middle,Full time (30 hours a week or more),Working class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,36,35-44,Hindi,Married,Middle,Self employed,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,37,35-44,"Punjabi, Panjabi",Married,Lower,Full time (30 hours a week or more),Working class,Other,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,38,35-44,Hindi,Living together as married,Middle,Full time (30 hours a week or more),Lower middle class,Hindu,2
+2023,India,IN-DL Delhi,Urban,Hindi,Male,38,35-44,Hindi,Married,Higher,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,38,35-44,Other,Married,Higher,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,39,35-44,Hindi,Married,Higher,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,39,35-44,Hindi,Married,Higher,Self employed,Upper middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,39,35-44,Hindi,Married,Middle,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,40,35-44,Hindi,Living together as married,Higher,Full time (30 hours a week or more),Working class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,40,35-44,Hindi,Living together as married,Middle,Part time (less than 30 hours a week),Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,40,35-44,Hindi,Married,Higher,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,40,35-44,Hindi,Married,Lower,Self employed,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,43,35-44,Hindi,Married,Higher,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,43,35-44,Hindi,Married,Middle,Self employed,Upper middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,43,35-44,Hindi,Married,Middle,Unemployed,Upper middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,44,35-44,Hindi,Married,Middle,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,44,35-44,Hindi,Married,Middle,Self employed,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,46,45-54,Hindi,Living together as married,Middle,Full time (30 hours a week or more),Working class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,47,45-54,Hindi,Married,Middle,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,47,45-54,Hindi,Married,Middle,Part time (less than 30 hours a week),Working class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,47,45-54,Hindi,Married,Middle,Self employed,Upper middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,48,45-54,Hindi,Married,Lower,Full time (30 hours a week or more),Working class,Other,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,48,45-54,Hindi,Married,Middle,Full time (30 hours a week or more),Working class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,50,45-54,Hindi,Living together as married,Middle,Self employed,Working class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,50,45-54,Hindi,Married,Middle,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,52,45-54,Hindi,Married,Lower,Self employed,Lower class,Muslim,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,52,45-54,"Punjabi, Panjabi",Married,Middle,Self employed,Upper class,Other,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,53,45-54,Hindi,Married,Middle,Retired/pensioned,Upper middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,54,45-54,Hindi,Married,Lower,Self employed,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,55,55-64,Hindi,Married,Middle,Full time (30 hours a week or more),Working class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,57,55-64,Hindi,Living together as married,Higher,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,57,55-64,Hindi,Married,Higher,Retired/pensioned,Upper middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,57,55-64,Hindi,Married,Middle,Self employed,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,57,55-64,Hindi,Widowed,Middle,Retired/pensioned,Upper middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,58,55-64,Hindi,Married,Middle,Self employed,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,59,55-64,Hindi,Married,Lower,Unemployed,Working class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,60,55-64,Hindi,Married,Middle,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,61,55-64,Other,Married,Lower,Self employed,Working class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,62,55-64,Hindi,Married,Lower,Self employed,Lower class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,62,55-64,Hindi,Married,Middle,Retired/pensioned,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,62,55-64,Hindi,Widowed,Higher,Retired/pensioned,Upper middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,67,65 and more years,Hindi,Married,Lower,Retired/pensioned,Lower middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,67,65 and more years,Hindi,Married,Middle,Retired/pensioned,Upper middle class,Hindu,1
+2023,India,IN-DL Delhi,Urban,Hindi,Male,78,65 and more years,Hindi,Widowed,Middle,Retired/pensioned,Upper middle class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Female,16,16-24,Hindi,Single,Lower,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Female,17,16-24,Hindi,Single,Higher,Unemployed,Upper middle class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Female,17,16-24,Hindi,Single,Lower,Self employed,Lower middle class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Female,17,16-24,Hindi,Single,Middle,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Female,20,16-24,Hindi,Single,Higher,Student,Lower class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Female,21,16-24,Hindi,Single,Middle,Other,Lower class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Female,22,16-24,Hindi,Married,Middle,Student,Working class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Female,22,16-24,Hindi,Single,Higher,Student,Lower middle class,Hindu,3
+2023,India,IN-HR Haryana,Rural,Hindi,Female,23,16-24,Hindi,Single,Higher,Student,Lower middle class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Female,24,16-24,Hindi,Single,Higher,Student,Lower middle class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Female,25,25-34,Hindi,Living together as married,Higher,Student,Lower middle class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Female,25,25-34,Hindi,Married,Higher,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Female,28,25-34,Hindi,Married,Lower,Homemaker not otherwise employed,Don't know,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Female,28,25-34,Hindi,Married,Middle,Part time (less than 30 hours a week),Lower middle class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Female,30,25-34,Hindi,Married,Higher,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Female,30,25-34,Hindi,Married,Higher,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Female,31,25-34,Hindi,Married,Middle,Self employed,Lower middle class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Female,31,25-34,Hindi,Widowed,Middle,Unemployed,Lower class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Female,32,25-34,Hindi,Living together as married,Middle,Homemaker not otherwise employed,Lower middle class,Catholic (Roman/Greek/etc),1
+2023,India,IN-HR Haryana,Rural,Hindi,Female,32,25-34,Hindi,Married,Middle,Self employed,Upper middle class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Female,33,25-34,Hindi,Living together as married,Higher,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Female,33,25-34,Hindi,Living together as married,Lower,Homemaker not otherwise employed,Lower class,Catholic (Roman/Greek/etc),1
+2023,India,IN-HR Haryana,Rural,Hindi,Female,33,25-34,Hindi,Married,Lower,Self employed,Lower middle class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Female,37,35-44,Hindi,Married,Middle,Part time (less than 30 hours a week),Lower middle class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Female,37,35-44,Hindi,Married,Middle,Unemployed,Lower middle class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Female,40,35-44,Hindi,Married,Lower,Homemaker not otherwise employed,Don't know,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Female,40,35-44,Hindi,Married,Middle,Part time (less than 30 hours a week),Lower middle class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Female,43,35-44,Hindi,Married,Lower,Self employed,Lower class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Female,44,35-44,Hindi,Living together as married,Lower,Homemaker not otherwise employed,Working class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Female,46,45-54,Hindi,Married,Lower,Unemployed,Working class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Female,49,45-54,Hindi,Married,Lower,Homemaker not otherwise employed,Lower class,Hindu,2
+2023,India,IN-HR Haryana,Rural,Hindi,Female,50,45-54,Hindi,Married,Lower,Homemaker not otherwise employed,Upper middle class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Female,52,45-54,Hindi,Widowed,Lower,Homemaker not otherwise employed,Lower middle class,Muslim,1
+2023,India,IN-HR Haryana,Rural,Hindi,Female,53,45-54,Hindi,Married,Middle,Part time (less than 30 hours a week),Lower middle class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Female,58,55-64,Hindi,Widowed,Lower,Retired/pensioned,Upper middle class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Female,61,55-64,Hindi,Widowed,Lower,Homemaker not otherwise employed,Upper middle class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Female,62,55-64,Hindi,Single,Higher,Other,Lower middle class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Female,75,65 and more years,Hindi,Widowed,Lower,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Male,16,16-24,Hindi,Single,Higher,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Male,16,16-24,Hindi,Single,Higher,Self employed,Working class,Other,1
+2023,India,IN-HR Haryana,Rural,Hindi,Male,16,16-24,Hindi,Single,Middle,Retired/pensioned,Lower middle class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Male,16,16-24,Hindi,Single,Middle,Self employed,Lower middle class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Male,16,16-24,Hindi,Single,Middle,Self employed,Working class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Male,17,16-24,Hindi,Single,Higher,Part time (less than 30 hours a week),Lower middle class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Male,17,16-24,Hindi,Single,Higher,Student,Upper middle class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Male,17,16-24,Hindi,Single,Middle,Other,Lower middle class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Male,17,16-24,Hindi,Single,Middle,Part time (less than 30 hours a week),Working class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Male,17,16-24,Hindi,Single,Middle,Self employed,Upper middle class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Male,18,16-24,Hindi,Single,Middle,Student,Working class,Muslim,1
+2023,India,IN-HR Haryana,Rural,Hindi,Male,19,16-24,Hindi,Single,Middle,Student,Don't know,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Male,20,16-24,Hindi,Single,Middle,Student,Upper middle class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Male,22,16-24,Hindi,Single,Middle,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Male,23,16-24,Hindi,Single,Middle,Unemployed,Working class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Male,24,16-24,Hindi,Married,Middle,Full time (30 hours a week or more),Working class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Male,24,16-24,Hindi,Single,Higher,Student,Lower middle class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Male,27,25-34,Hindi,Married,Middle,Self employed,Upper middle class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Male,27,25-34,Hindi,Single,Higher,Student,Lower middle class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Male,29,25-34,Hindi,Living together as married,Higher,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Male,32,25-34,Hindi,Married,Lower,Full time (30 hours a week or more),Working class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Male,32,25-34,Hindi,Single,Higher,Part time (less than 30 hours a week),Lower middle class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Male,37,35-44,Hindi,Living together as married,Middle,Self employed,Lower middle class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Male,37,35-44,Hindi,Married,Middle,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Male,37,35-44,Hindi,Married,Middle,Self employed,Lower middle class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Male,38,35-44,Hindi,Divorced,Higher,Unemployed,Lower class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Male,38,35-44,Hindi,Single,Higher,Unemployed,Don't know,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Male,40,35-44,Hindi,Living together as married,Lower,Full time (30 hours a week or more),Lower class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Male,44,35-44,Hindi,Living together as married,Lower,Self employed,Lower middle class,Muslim,1
+2023,India,IN-HR Haryana,Rural,Hindi,Male,45,45-54,Hindi,Living together as married,Higher,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Male,48,45-54,Hindi,Married,Lower,Self employed,Lower class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Male,50,45-54,Hindi,Living together as married,Lower,Self employed,Lower class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Male,50,45-54,Hindi,Married,Higher,Other,Upper middle class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Male,52,45-54,Hindi,Living together as married,Lower,Self employed,Working class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Male,53,45-54,Hindi,Married,Higher,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Male,55,55-64,Hindi,Widowed,Middle,Part time (less than 30 hours a week),Lower middle class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Male,56,55-64,Hindi,Married,Lower,Self employed,Don't know,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Male,56,55-64,Hindi,Married,Lower,Self employed,Lower class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Male,57,55-64,Hindi,Living together as married,Lower,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Male,58,55-64,Hindi,Married,Lower,Unemployed,Lower class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Male,62,55-64,Hindi,Living together as married,Lower,Retired/pensioned,Working class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Male,64,55-64,Hindi,Widowed,Middle,Retired/pensioned,Lower middle class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Male,67,65 and more years,Hindi,Married,Lower,Self employed,Lower middle class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Male,70,65 and more years,Hindi,Living together as married,Middle,Retired/pensioned,Upper class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Male,71,65 and more years,Hindi,Married,Higher,Self employed,Lower middle class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Male,73,65 and more years,Hindi,Living together as married,Lower,Retired/pensioned,Lower class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Male,73,65 and more years,Hindi,Living together as married,Middle,Self employed,Lower middle class,Hindu,1
+2023,India,IN-HR Haryana,Rural,Hindi,Male,82,65 and more years,Hindi,Married,Lower,Retired/pensioned,Lower class,Hindu,1
+2023,India,IN-HR Haryana,Urban,Hindi,Female,16,16-24,Hindi,Single,Lower,Student,Don't know,Muslim,1
+2023,India,IN-HR Haryana,Urban,Hindi,Female,16,16-24,Hindi,Single,Middle,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-HR Haryana,Urban,Hindi,Female,17,16-24,Hindi,Single,Middle,Homemaker not otherwise employed,Don't know,Muslim,1
+2023,India,IN-HR Haryana,Urban,Hindi,Female,18,16-24,Hindi,Single,Lower,Unemployed,Lower middle class,Hindu,1
+2023,India,IN-HR Haryana,Urban,Hindi,Female,19,16-24,Hindi,Single,Higher,Student,Working class,Hindu,1
+2023,India,IN-HR Haryana,Urban,Hindi,Female,20,16-24,Hindi,Single,Middle,Student,Working class,Muslim,1
+2023,India,IN-HR Haryana,Urban,Hindi,Female,34,25-34,Hindi,Married,Middle,Self employed,Lower middle class,Hindu,1
+2023,India,IN-HR Haryana,Urban,Hindi,Female,35,35-44,Hindi,Married,Middle,Full time (30 hours a week or more),Working class,Hindu,1
+2023,India,IN-HR Haryana,Urban,Hindi,Female,40,35-44,Hindi,Married,Lower,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-HR Haryana,Urban,Hindi,Female,50,45-54,Hindi,Living together as married,Lower,Full time (30 hours a week or more),Working class,Hindu,1
+2023,India,IN-HR Haryana,Urban,Hindi,Female,50,45-54,Hindi,Married,Lower,Part time (less than 30 hours a week),Working class,Hindu,1
+2023,India,IN-HR Haryana,Urban,Hindi,Female,51,45-54,Hindi,Widowed,Lower,Retired/pensioned,Working class,Hindu,1
+2023,India,IN-HR Haryana,Urban,Hindi,Female,58,55-64,Hindi,Married,Lower,Part time (less than 30 hours a week),Upper middle class,Hindu,1
+2023,India,IN-HR Haryana,Urban,Hindi,Male,16,16-24,Hindi,Single,Middle,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-HR Haryana,Urban,Hindi,Male,16,16-24,Hindi,Single,Middle,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-HR Haryana,Urban,Hindi,Male,17,16-24,Hindi,Single,Lower,Self employed,Lower middle class,Hindu,1
+2023,India,IN-HR Haryana,Urban,Hindi,Male,25,25-34,Hindi,Married,Middle,Unemployed,Lower middle class,Hindu,1
+2023,India,IN-HR Haryana,Urban,Hindi,Male,31,25-34,Hindi,Married,Middle,Self employed,Lower class,Hindu,1
+2023,India,IN-HR Haryana,Urban,Hindi,Male,35,35-44,Hindi,Married,Middle,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-HR Haryana,Urban,Hindi,Male,39,35-44,Hindi,Living together as married,Middle,Self employed,Lower middle class,Hindu,1
+2023,India,IN-HR Haryana,Urban,Hindi,Male,39,35-44,Hindi,Married,Higher,Other,Upper middle class,Hindu,1
+2023,India,IN-HR Haryana,Urban,Hindi,Male,39,35-44,Hindi,Married,Middle,Self employed,Working class,Hindu,1
+2023,India,IN-HR Haryana,Urban,Hindi,Male,44,35-44,Hindi,Married,Middle,Full time (30 hours a week or more),Upper middle class,Muslim,1
+2023,India,IN-HR Haryana,Urban,Hindi,Male,47,45-54,Hindi,Married,Lower,Self employed,Working class,Hindu,1
+2023,India,IN-HR Haryana,Urban,Hindi,Male,56,55-64,Hindi,Married,Lower,Retired/pensioned,Lower middle class,Muslim,1
+2023,India,IN-HR Haryana,Urban,Hindi,Male,68,65 and more years,Hindi,Married,Middle,Retired/pensioned,Lower middle class,Other,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,16,16-24,Marathi,Single,Higher,Homemaker not otherwise employed,Working class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,16,16-24,Marathi,Single,Lower,Homemaker not otherwise employed,Lower class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,16,16-24,Marathi,Single,Middle,Full time (30 hours a week or more),Lower middle class,Buddhist,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,16,16-24,Marathi,Single,Middle,Student,Lower class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,16,16-24,Marathi,Single,Middle,Student,Lower middle class,Hindu,2
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,16,16-24,Marathi,Single,Middle,Unemployed,Lower class,Hindu,2
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,16,16-24,Marathi,Single,Middle,Unemployed,Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,16,16-24,Marathi,Single,Middle,Unemployed,Working class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,16,16-24,Other,Single,Middle,Unemployed,Upper middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,17,16-24,Marathi,Single,Higher,Don't know,Lower class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,17,16-24,Marathi,Single,Higher,Other,Lower class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,17,16-24,Marathi,Single,Middle,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,17,16-24,Marathi,Single,Middle,Student,Lower middle class,Hindu,2
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,17,16-24,Marathi,Single,Middle,Unemployed,Lower class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,18,16-24,Marathi,Single,Middle,Homemaker not otherwise employed,Working class,Buddhist,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,19,16-24,Marathi,Single,Middle,Student,Upper middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,19,16-24,Marathi,Single,Middle,Unemployed,Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,20,16-24,Marathi,Single,Higher,Student,Lower class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,22,16-24,Marathi,Single,Higher,Student,Lower class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,22,16-24,Marathi,Single,Higher,Student,Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,24,16-24,Marathi,Married,Middle,Self employed,Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,24,16-24,Marathi,Single,Middle,Unemployed,Working class,Buddhist,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,26,25-34,Marathi,Single,Higher,Unemployed,Working class,Buddhist,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,27,25-34,Marathi,Living together as married,Middle,Self employed,Lower class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,27,25-34,Marathi,Married,Middle,Self employed,Lower class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,28,25-34,Marathi,Married,Lower,Full time (30 hours a week or more),Working class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,29,25-34,Marathi,Married,Middle,Homemaker not otherwise employed,Lower class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,30,25-34,Marathi,Married,Lower,Self employed,Lower class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,30,25-34,Marathi,Married,Middle,Self employed,Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,31,25-34,Marathi,Married,Higher,Self employed,Upper middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,31,25-34,Marathi,Married,Lower,Self employed,Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,31,25-34,Marathi,Married,Middle,Self employed,Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,32,25-34,Marathi,Married,Lower,Unemployed,Working class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,34,25-34,Marathi,Living together as married,Lower,Unemployed,Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,34,25-34,Marathi,Married,Lower,Unemployed,Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,34,25-34,Marathi,Married,Lower,Unemployed,Working class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,34,25-34,Other,Living together as married,Middle,Full time (30 hours a week or more),Working class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,35,35-44,Marathi,Living together as married,Lower,Homemaker not otherwise employed,Lower class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,35,35-44,Marathi,Living together as married,Lower,Homemaker not otherwise employed,Working class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,35,35-44,Marathi,Married,Lower,Unemployed,Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,35,35-44,Other,Married,Middle,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,36,35-44,Marathi,Married,Higher,Self employed,Lower class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,36,35-44,Marathi,Married,Middle,Self employed,Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,39,35-44,Marathi,Living together as married,Lower,Self employed,Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,39,35-44,Marathi,Married,Lower,Self employed,Upper middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,40,35-44,Marathi,Living together as married,Lower,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,42,35-44,Marathi,Living together as married,Lower,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,42,35-44,Marathi,Living together as married,Middle,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,42,35-44,Marathi,Married,Lower,Homemaker not otherwise employed,Lower class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,43,35-44,Marathi,Married,Higher,Part time (less than 30 hours a week),Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,44,35-44,Marathi,Living together as married,Middle,Part time (less than 30 hours a week),Upper middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,44,35-44,Marathi,Married,Lower,Unemployed,Working class,Buddhist,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,45,45-54,Marathi,Married,Higher,Other,Lower class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,45,45-54,Marathi,Married,Middle,Part time (less than 30 hours a week),Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,45,45-54,Other,Married,Middle,Homemaker not otherwise employed,Upper middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,46,45-54,Marathi,Married,Lower,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,46,45-54,Marathi,Married,Lower,Self employed,Lower class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,46,45-54,Marathi,Married,Middle,Self employed,Upper class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,46,45-54,Marathi,Married,Middle,Unemployed,Working class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,48,45-54,Marathi,Living together as married,Lower,Homemaker not otherwise employed,Working class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,50,45-54,Bengali; Bangla,Married,Middle,Self employed,Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,50,45-54,Marathi,Married,Lower,Self employed,Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,52,45-54,Marathi,Living together as married,Middle,Self employed,Upper middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,52,45-54,Marathi,Married,Lower,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,59,55-64,Other,Married,Lower,Unemployed,Lower class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,63,55-64,Marathi,Married,Middle,Part time (less than 30 hours a week),Upper middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,66,65 and more years,Marathi,Married,Lower,Other,Lower class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,70,65 and more years,Marathi,Living together as married,Lower,Homemaker not otherwise employed,Lower middle class,Other,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,70,65 and more years,Marathi,Widowed,Lower,Homemaker not otherwise employed,Working class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,71,65 and more years,Marathi,Widowed,Lower,Unemployed,Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,72,65 and more years,Marathi,Widowed,Lower,Homemaker not otherwise employed,Lower class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Female,75,65 and more years,Marathi,Married,Lower,Unemployed,Upper middle class,Don't know,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,16,16-24,Hindi,Single,Middle,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,16,16-24,Hindi,Single,Middle,Unemployed,Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,16,16-24,Marathi,Single,Lower,Unemployed,Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,16,16-24,Marathi,Single,Middle,Student,Upper middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,16,16-24,Marathi,Single,Middle,Student,Working class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,16,16-24,Marathi,Single,Middle,Unemployed,Lower class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,16,16-24,Marathi,Single,Middle,Unemployed,Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,16,16-24,Marathi,Single,Middle,Unemployed,Working class,Hindu,3
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,16,16-24,Other,Single,Middle,Student,Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,17,16-24,Marathi,Single,Higher,Self employed,Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,17,16-24,Marathi,Single,Lower,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,17,16-24,Marathi,Single,Middle,Part time (less than 30 hours a week),Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,17,16-24,Marathi,Single,Middle,Student,Upper middle class,Hindu,2
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,17,16-24,Marathi,Single,Middle,Unemployed,Don't know,Buddhist,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,17,16-24,Other,Single,Middle,Unemployed,Working class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,18,16-24,Marathi,Single,Middle,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,18,16-24,Marathi,Single,Middle,Part time (less than 30 hours a week),Lower middle class,Hindu,2
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,18,16-24,Marathi,Single,Middle,Unemployed,Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,19,16-24,Marathi,Single,Higher,Unemployed,Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,20,16-24,Marathi,Single,Higher,Unemployed,Lower class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,20,16-24,Marathi,Single,Higher,Unemployed,Working class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,20,16-24,Marathi,Single,Middle,Unemployed,Lower class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,21,16-24,Marathi,Married,Lower,Full time (30 hours a week or more),Upper class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,22,16-24,Marathi,Single,Higher,Student,Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,22,16-24,Marathi,Single,Middle,Student,Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,23,16-24,Marathi,Single,Higher,Self employed,Upper middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,23,16-24,Marathi,Single,Middle,Self employed,Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,23,16-24,Marathi,Single,Middle,Unemployed,Don't know,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,25,25-34,Marathi,Single,Higher,Student,Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,30,25-34,Marathi,Married,Middle,Self employed,Working class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,30,25-34,Other,Married,Higher,Part time (less than 30 hours a week),Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,31,25-34,Marathi,Married,Higher,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,32,25-34,Marathi,Single,Lower,Full time (30 hours a week or more),Working class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,33,25-34,Marathi,Married,Lower,Self employed,Lower class,Buddhist,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,34,25-34,Marathi,Married,Middle,Self employed,Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,35,35-44,Marathi,Living together as married,Middle,Self employed,Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,35,35-44,Marathi,Married,Lower,Full time (30 hours a week or more),Working class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,35,35-44,Marathi,Married,Middle,Full time (30 hours a week or more),Lower class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,38,35-44,Other,Living together as married,Higher,Self employed,Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,39,35-44,Marathi,Married,Middle,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,39,35-44,Marathi,Married,Middle,Part time (less than 30 hours a week),Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,39,35-44,Marathi,Married,Middle,Self employed,Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,39,35-44,Marathi,Single,Lower,Self employed,Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,40,35-44,Marathi,Married,Middle,Retired/pensioned,Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,40,35-44,Marathi,Married,Middle,Self employed,Working class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,43,35-44,Marathi,Living together as married,Middle,Part time (less than 30 hours a week),Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,44,35-44,Marathi,Widowed,Lower,Full time (30 hours a week or more),Working class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,45,45-54,Marathi,Living together as married,Lower,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,45,45-54,Marathi,Married,Higher,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,46,45-54,Marathi,Married,Middle,Part time (less than 30 hours a week),Upper middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,46,45-54,Marathi,Widowed,Lower,Unemployed,Working class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,47,45-54,Marathi,Married,Lower,Unemployed,Working class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,48,45-54,Marathi,Married,Higher,Self employed,Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,50,45-54,Marathi,Married,Middle,Self employed,Working class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,51,45-54,Marathi,Living together as married,Higher,Full time (30 hours a week or more),Lower middle class,Don't know,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,51,45-54,Marathi,Married,Higher,Self employed,Working class,Buddhist,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,51,45-54,Marathi,Married,Middle,Unemployed,Working class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,52,45-54,Marathi,Living together as married,Middle,Self employed,Upper middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,53,45-54,Other,Married,Middle,Self employed,Lower class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,54,45-54,Other,Married,Lower,Other,Lower class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,55,55-64,Marathi,Living together as married,Lower,Self employed,Lower class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,55,55-64,Marathi,Married,Middle,Other,Working class,Hindu,2
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,56,55-64,Marathi,Married,Lower,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,56,55-64,Other,Living together as married,Lower,Self employed,Upper middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,56,55-64,Other,Living together as married,Middle,Self employed,Working class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,60,55-64,Marathi,Married,Lower,Unemployed,Working class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,61,55-64,Marathi,Married,Lower,Self employed,Working class,Buddhist,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,62,55-64,Marathi,Married,Higher,Full time (30 hours a week or more),Lower class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,62,55-64,Marathi,Married,Middle,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,63,55-64,Marathi,Married,Lower,Unemployed,Working class,Buddhist,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,65,65 and more years,Marathi,Married,Lower,Self employed,Working class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,66,65 and more years,Marathi,Married,Lower,Self employed,Lower class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,67,65 and more years,Marathi,Married,Lower,Unemployed,Lower class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,68,65 and more years,Other,Married,Lower,Self employed,Lower class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,70,65 and more years,Marathi,Widowed,Lower,Unemployed,Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,71,65 and more years,Marathi,Married,Lower,Self employed,Working class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,72,65 and more years,Marathi,Married,Middle,Self employed,Lower class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,75,65 and more years,Marathi,Married,Lower,Other,Working class,Hindu,1
+2023,India,IN-MH Maharashtra,Rural,Hindi,Male,84,65 and more years,Marathi,Widowed,Lower,Unemployed,Lower class,Hindu,1
+2023,India,IN-MH Maharashtra,Urban,Hindi,Female,16,16-24,Marathi,Single,Middle,Unemployed,Lower class,Don't know,1
+2023,India,IN-MH Maharashtra,Urban,Hindi,Female,17,16-24,Marathi,Single,Middle,Self employed,Upper middle class,Hindu,2
+2023,India,IN-MH Maharashtra,Urban,Hindi,Female,17,16-24,Marathi,Single,Middle,Student,Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Urban,Hindi,Female,19,16-24,Marathi,Married,Middle,Unemployed,Lower class,Hindu,1
+2023,India,IN-MH Maharashtra,Urban,Hindi,Female,22,16-24,Marathi,Single,Higher,Unemployed,Lower class,Hindu,1
+2023,India,IN-MH Maharashtra,Urban,Hindi,Female,23,16-24,Marathi,Married,Middle,Homemaker not otherwise employed,Lower class,Hindu,1
+2023,India,IN-MH Maharashtra,Urban,Hindi,Female,30,25-34,Marathi,Married,Higher,Student,Upper middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Urban,Hindi,Female,34,25-34,Marathi,Married,Lower,Self employed,Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Urban,Hindi,Female,35,35-44,Marathi,Married,Middle,Self employed,Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Urban,Hindi,Female,36,35-44,Marathi,Married,Lower,Self employed,Working class,Hindu,1
+2023,India,IN-MH Maharashtra,Urban,Hindi,Female,36,35-44,Marathi,Married,Middle,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Urban,Hindi,Female,47,45-54,Marathi,Married,Middle,Self employed,Working class,Hindu,1
+2023,India,IN-MH Maharashtra,Urban,Hindi,Female,47,45-54,Other,Married,Lower,Unemployed,Lower class,Hindu,1
+2023,India,IN-MH Maharashtra,Urban,Hindi,Female,50,45-54,Marathi,Married,Lower,Homemaker not otherwise employed,Working class,Hindu,1
+2023,India,IN-MH Maharashtra,Urban,Hindi,Female,50,45-54,Marathi,Widowed,Lower,Self employed,Lower class,Hindu,1
+2023,India,IN-MH Maharashtra,Urban,Hindi,Female,53,45-54,Marathi,Married,Lower,Unemployed,Working class,Hindu,1
+2023,India,IN-MH Maharashtra,Urban,Hindi,Female,54,45-54,Marathi,Married,Lower,Part time (less than 30 hours a week),Working class,Buddhist,1
+2023,India,IN-MH Maharashtra,Urban,Hindi,Female,55,55-64,Marathi,Married,Middle,Homemaker not otherwise employed,Lower class,Hindu,1
+2023,India,IN-MH Maharashtra,Urban,Hindi,Female,69,65 and more years,Marathi,Widowed,Lower,Unemployed,Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Urban,Hindi,Female,70,65 and more years,Marathi,Married,Middle,Unemployed,Upper middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Urban,Hindi,Male,17,16-24,Marathi,Single,Don't know,Unemployed,Upper middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Urban,Hindi,Male,17,16-24,Marathi,Single,Middle,Unemployed,Lower class,Hindu,1
+2023,India,IN-MH Maharashtra,Urban,Hindi,Male,17,16-24,Marathi,Single,Middle,Unemployed,Working class,Hindu,1
+2023,India,IN-MH Maharashtra,Urban,Hindi,Male,22,16-24,Marathi,Married,Middle,Self employed,Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Urban,Hindi,Male,23,16-24,Marathi,Single,Higher,Unemployed,Upper middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Urban,Hindi,Male,25,25-34,Marathi,Married,Higher,Self employed,Upper middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Urban,Hindi,Male,25,25-34,Marathi,Married,Middle,Other,Working class,Hindu,1
+2023,India,IN-MH Maharashtra,Urban,Hindi,Male,30,25-34,Marathi,Single,Higher,Student,Lower class,Hindu,1
+2023,India,IN-MH Maharashtra,Urban,Hindi,Male,33,25-34,Bengali; Bangla,Married,Higher,Other,Don't know,Hindu,1
+2023,India,IN-MH Maharashtra,Urban,Hindi,Male,33,25-34,Marathi,Married,Middle,Other,Working class,Hindu,1
+2023,India,IN-MH Maharashtra,Urban,Hindi,Male,37,35-44,Marathi,Married,Higher,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Urban,Hindi,Male,42,35-44,Bengali; Bangla,Married,Middle,Other,Upper middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Urban,Hindi,Male,43,35-44,Marathi,Married,Higher,Self employed,Upper middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Urban,Hindi,Male,43,35-44,Marathi,Married,Middle,Self employed,Upper middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Urban,Hindi,Male,43,35-44,"Punjabi, Panjabi",Married,Middle,Other,Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Urban,Hindi,Male,44,35-44,Marathi,Married,Middle,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Urban,Hindi,Male,45,45-54,Marathi,Married,Higher,Self employed,Upper middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Urban,Hindi,Male,48,45-54,Marathi,Married,Middle,Self employed,Working class,Hindu,1
+2023,India,IN-MH Maharashtra,Urban,Hindi,Male,50,45-54,Marathi,Married,Middle,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Urban,Hindi,Male,70,65 and more years,Marathi,Married,Lower,Student,Lower middle class,Hindu,1
+2023,India,IN-MH Maharashtra,Urban,Hindi,Male,74,65 and more years,Marathi,Married,Lower,Unemployed,Upper class,Hindu,1
+2023,India,IN-MH Maharashtra,Urban,Hindi,Male,82,65 and more years,Marathi,Married,Lower,Unemployed,Working class,Hindu,1
+2023,India,IN-PB Punjab,Rural,Hindi,Female,16,16-24,"Punjabi, Panjabi",Single,Middle,Unemployed,Don't know,Other,1
+2023,India,IN-PB Punjab,Rural,Hindi,Female,16,16-24,"Punjabi, Panjabi",Single,Middle,Unemployed,Lower middle class,Other,1
+2023,India,IN-PB Punjab,Rural,Hindi,Female,17,16-24,"Punjabi, Panjabi",Single,Middle,Unemployed,Lower middle class,Other,2
+2023,India,IN-PB Punjab,Rural,Hindi,Female,27,25-34,"Punjabi, Panjabi",Single,Higher,Unemployed,Lower middle class,Other,1
+2023,India,IN-PB Punjab,Rural,Hindi,Female,36,35-44,Bengali; Bangla,Living together as married,Higher,Part time (less than 30 hours a week),Upper class,Hindu,1
+2023,India,IN-PB Punjab,Rural,Hindi,Female,36,35-44,"Punjabi, Panjabi",Living together as married,Higher,Student,Upper middle class,Hindu,1
+2023,India,IN-PB Punjab,Rural,Hindi,Female,36,35-44,"Punjabi, Panjabi",Married,Middle,Full time (30 hours a week or more),Lower middle class,Other,1
+2023,India,IN-PB Punjab,Rural,Hindi,Female,39,35-44,"Punjabi, Panjabi",Married,Middle,Homemaker not otherwise employed,Working class,Hindu,1
+2023,India,IN-PB Punjab,Rural,Hindi,Female,40,35-44,"Punjabi, Panjabi",Living together as married,Higher,Student,Lower middle class,Other,1
+2023,India,IN-PB Punjab,Rural,Hindi,Female,41,35-44,"Punjabi, Panjabi",Living together as married,Middle,Part time (less than 30 hours a week),Working class,Other,1
+2023,India,IN-PB Punjab,Rural,Hindi,Female,44,35-44,"Punjabi, Panjabi",Married,Middle,Don't know,Lower middle class,Hindu,1
+2023,India,IN-PB Punjab,Rural,Hindi,Female,49,45-54,"Punjabi, Panjabi",Living together as married,Middle,Homemaker not otherwise employed,Upper middle class,Other,1
+2023,India,IN-PB Punjab,Rural,Hindi,Female,50,45-54,Bengali; Bangla,Married,Middle,Homemaker not otherwise employed,Upper middle class,Other,1
+2023,India,IN-PB Punjab,Rural,Hindi,Female,55,55-64,"Punjabi, Panjabi",Living together as married,Lower,Homemaker not otherwise employed,Working class,Other,1
+2023,India,IN-PB Punjab,Rural,Hindi,Female,55,55-64,"Punjabi, Panjabi",Married,Lower,Student,Lower middle class,Other,1
+2023,India,IN-PB Punjab,Rural,Hindi,Female,68,65 and more years,"Punjabi, Panjabi",Married,Lower,Don't know,Lower middle class,Other,1
+2023,India,IN-PB Punjab,Rural,Hindi,Female,75,65 and more years,"Punjabi, Panjabi",Living together as married,Lower,Retired/pensioned,Lower middle class,Other,1
+2023,India,IN-PB Punjab,Rural,Hindi,Male,16,16-24,"Punjabi, Panjabi",Single,Lower,Unemployed,Working class,Other,1
+2023,India,IN-PB Punjab,Rural,Hindi,Male,17,16-24,"Punjabi, Panjabi",Single,Middle,Unemployed,Lower middle class,Other,1
+2023,India,IN-PB Punjab,Rural,Hindi,Male,19,16-24,"Punjabi, Panjabi",Single,Higher,Unemployed,Lower middle class,Other,1
+2023,India,IN-PB Punjab,Rural,Hindi,Male,23,16-24,"Punjabi, Panjabi",Single,Higher,Unemployed,Lower middle class,Other,2
+2023,India,IN-PB Punjab,Rural,Hindi,Male,23,16-24,"Punjabi, Panjabi",Single,Higher,Unemployed,Upper middle class,Other,1
+2023,India,IN-PB Punjab,Rural,Hindi,Male,25,25-34,Bengali; Bangla,Single,Higher,Unemployed,Lower class,Other,1
+2023,India,IN-PB Punjab,Rural,Hindi,Male,28,25-34,"Punjabi, Panjabi",Living together as married,Higher,Full time (30 hours a week or more),Lower middle class,Other,1
+2023,India,IN-PB Punjab,Rural,Hindi,Male,28,25-34,"Punjabi, Panjabi",Single,Higher,Self employed,Upper middle class,Other,1
+2023,India,IN-PB Punjab,Rural,Hindi,Male,30,25-34,"Punjabi, Panjabi",Living together as married,Higher,Full time (30 hours a week or more),Upper middle class,Other,1
+2023,India,IN-PB Punjab,Rural,Hindi,Male,30,25-34,"Punjabi, Panjabi",Single,Higher,Self employed,Upper middle class,Other,1
+2023,India,IN-PB Punjab,Rural,Hindi,Male,32,25-34,"Punjabi, Panjabi",Married,Higher,Unemployed,Upper middle class,Other,1
+2023,India,IN-PB Punjab,Rural,Hindi,Male,66,65 and more years,"Punjabi, Panjabi",Living together as married,Lower,Part time (less than 30 hours a week),Lower middle class,Other,1
+2023,India,IN-PB Punjab,Rural,Hindi,Male,66,65 and more years,"Punjabi, Panjabi",Living together as married,Lower,Retired/pensioned,Lower middle class,Other,1
+2023,India,IN-PB Punjab,Rural,Hindi,Male,70,65 and more years,"Punjabi, Panjabi",Living together as married,Lower,Self employed,Lower middle class,Other,1
+2023,India,IN-PB Punjab,Rural,Hindi,Male,72,65 and more years,"Punjabi, Panjabi",Married,Lower,Don't know,Lower middle class,Other,1
+2023,India,IN-PB Punjab,Rural,Hindi,Male,78,65 and more years,"Punjabi, Panjabi",Married,Lower,Self employed,Working class,Other,1
+2023,India,IN-PB Punjab,Urban,Hindi,Female,16,16-24,"Punjabi, Panjabi",Single,Middle,Self employed,Upper middle class,Other,1
+2023,India,IN-PB Punjab,Urban,Hindi,Female,16,16-24,"Punjabi, Panjabi",Single,Middle,Unemployed,Lower middle class,Hindu,1
+2023,India,IN-PB Punjab,Urban,Hindi,Female,16,16-24,"Punjabi, Panjabi",Single,Middle,Unemployed,Lower middle class,Other,1
+2023,India,IN-PB Punjab,Urban,Hindi,Female,17,16-24,"Punjabi, Panjabi",Single,Lower,Unemployed,Lower middle class,Other,1
+2023,India,IN-PB Punjab,Urban,Hindi,Female,17,16-24,"Punjabi, Panjabi",Single,Middle,Retired/pensioned,Lower middle class,Other,1
+2023,India,IN-PB Punjab,Urban,Hindi,Female,17,16-24,"Punjabi, Panjabi",Single,Middle,Unemployed,Lower middle class,Other,1
+2023,India,IN-PB Punjab,Urban,Hindi,Female,20,16-24,"Punjabi, Panjabi",Single,Higher,Unemployed,Upper middle class,Hindu,1
+2023,India,IN-PB Punjab,Urban,Hindi,Female,20,16-24,"Punjabi, Panjabi",Single,Middle,Don't know,Lower middle class,Other,1
+2023,India,IN-PB Punjab,Urban,Hindi,Female,22,16-24,"Punjabi, Panjabi",Single,Higher,Unemployed,Lower middle class,Hindu,1
+2023,India,IN-PB Punjab,Urban,Hindi,Female,22,16-24,"Punjabi, Panjabi",Single,Higher,Unemployed,Upper middle class,Hindu,2
+2023,India,IN-PB Punjab,Urban,Hindi,Female,24,16-24,"Punjabi, Panjabi",Single,Higher,Unemployed,Upper middle class,Other,1
+2023,India,IN-PB Punjab,Urban,Hindi,Female,25,25-34,"Punjabi, Panjabi",Single,Higher,Unemployed,Upper middle class,Hindu,1
+2023,India,IN-PB Punjab,Urban,Hindi,Female,26,25-34,"Punjabi, Panjabi",Single,Higher,Unemployed,Lower middle class,Muslim,2
+2023,India,IN-PB Punjab,Urban,Hindi,Female,26,25-34,"Punjabi, Panjabi",Single,Higher,Unemployed,Lower middle class,Other,1
+2023,India,IN-PB Punjab,Urban,Hindi,Female,29,25-34,"Punjabi, Panjabi",Married,Middle,Self employed,Lower class,Other,1
+2023,India,IN-PB Punjab,Urban,Hindi,Female,30,25-34,"Punjabi, Panjabi",Living together as married,Higher,Full time (30 hours a week or more),Upper middle class,Other,1
+2023,India,IN-PB Punjab,Urban,Hindi,Female,30,25-34,"Punjabi, Panjabi",Married,Higher,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-PB Punjab,Urban,Hindi,Female,35,35-44,"Punjabi, Panjabi",Single,Higher,Unemployed,Upper middle class,Other,1
+2023,India,IN-PB Punjab,Urban,Hindi,Female,37,35-44,"Punjabi, Panjabi",Living together as married,Higher,Full time (30 hours a week or more),Upper class,Hindu,1
+2023,India,IN-PB Punjab,Urban,Hindi,Female,39,35-44,"Punjabi, Panjabi",Divorced,Lower,Student,Lower middle class,Other,1
+2023,India,IN-PB Punjab,Urban,Hindi,Female,40,35-44,"Punjabi, Panjabi",Living together as married,Lower,Don't know,Upper middle class,Other,1
+2023,India,IN-PB Punjab,Urban,Hindi,Female,40,35-44,"Punjabi, Panjabi",Married,Higher,Full time (30 hours a week or more),Upper middle class,Hindu,2
+2023,India,IN-PB Punjab,Urban,Hindi,Female,46,45-54,"Punjabi, Panjabi",Married,Lower,Homemaker not otherwise employed,Working class,Other,1
+2023,India,IN-PB Punjab,Urban,Hindi,Female,47,45-54,"Punjabi, Panjabi",Living together as married,Higher,Homemaker not otherwise employed,Upper middle class,Hindu,1
+2023,India,IN-PB Punjab,Urban,Hindi,Female,47,45-54,"Punjabi, Panjabi",Married,Middle,Homemaker not otherwise employed,Don't know,Hindu,1
+2023,India,IN-PB Punjab,Urban,Hindi,Female,48,45-54,"Punjabi, Panjabi",Married,Higher,Full time (30 hours a week or more),Upper class,Hindu,1
+2023,India,IN-PB Punjab,Urban,Hindi,Female,49,45-54,"Punjabi, Panjabi",Living together as married,Lower,Homemaker not otherwise employed,Lower middle class,Other,1
+2023,India,IN-PB Punjab,Urban,Hindi,Female,50,45-54,"Punjabi, Panjabi",Married,Lower,Homemaker not otherwise employed,Upper middle class,Other,1
+2023,India,IN-PB Punjab,Urban,Hindi,Female,52,45-54,"Punjabi, Panjabi",Married,Lower,Homemaker not otherwise employed,Lower middle class,Other,1
+2023,India,IN-PB Punjab,Urban,Hindi,Female,52,45-54,"Punjabi, Panjabi",Married,Lower,Homemaker not otherwise employed,Working class,Hindu,1
+2023,India,IN-PB Punjab,Urban,Hindi,Female,54,45-54,"Punjabi, Panjabi",Living together as married,Higher,Part time (less than 30 hours a week),Upper middle class,Hindu,1
+2023,India,IN-PB Punjab,Urban,Hindi,Female,54,45-54,"Punjabi, Panjabi",Married,Lower,Student,Lower middle class,Other,1
+2023,India,IN-PB Punjab,Urban,Hindi,Female,56,55-64,Hindi,Married,Middle,Student,Lower middle class,Hindu,1
+2023,India,IN-PB Punjab,Urban,Hindi,Female,56,55-64,"Punjabi, Panjabi",Married,Lower,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-PB Punjab,Urban,Hindi,Female,56,55-64,"Punjabi, Panjabi",Married,Middle,Homemaker not otherwise employed,Upper class,Hindu,1
+2023,India,IN-PB Punjab,Urban,Hindi,Female,57,55-64,"Punjabi, Panjabi",Married,Lower,Self employed,Upper middle class,Hindu,1
+2023,India,IN-PB Punjab,Urban,Hindi,Male,16,16-24,"Punjabi, Panjabi",Single,Middle,Don't know,Lower class,Other,1
+2023,India,IN-PB Punjab,Urban,Hindi,Male,16,16-24,"Punjabi, Panjabi",Single,Middle,Self employed,Lower middle class,Other,1
+2023,India,IN-PB Punjab,Urban,Hindi,Male,16,16-24,"Punjabi, Panjabi",Single,Middle,Self employed,Upper middle class,Other,1
+2023,India,IN-PB Punjab,Urban,Hindi,Male,16,16-24,"Punjabi, Panjabi",Single,Middle,Student,Don't know,Other,1
+2023,India,IN-PB Punjab,Urban,Hindi,Male,16,16-24,"Punjabi, Panjabi",Single,Middle,Unemployed,Lower middle class,Other,2
+2023,India,IN-PB Punjab,Urban,Hindi,Male,16,16-24,"Punjabi, Panjabi",Single,Middle,Unemployed,Upper class,Other,2
+2023,India,IN-PB Punjab,Urban,Hindi,Male,17,16-24,"Punjabi, Panjabi",Single,Middle,Unemployed,Lower middle class,Catholic (Roman/Greek/etc),1
+2023,India,IN-PB Punjab,Urban,Hindi,Male,17,16-24,"Punjabi, Panjabi",Single,Middle,Unemployed,Upper middle class,Other,1
+2023,India,IN-PB Punjab,Urban,Hindi,Male,18,16-24,"Punjabi, Panjabi",Single,Middle,Unemployed,Working class,Hindu,1
+2023,India,IN-PB Punjab,Urban,Hindi,Male,20,16-24,"Punjabi, Panjabi",Single,Higher,Unemployed,Upper middle class,Other,1
+2023,India,IN-PB Punjab,Urban,Hindi,Male,21,16-24,"Punjabi, Panjabi",Single,Higher,Unemployed,Lower middle class,Other,2
+2023,India,IN-PB Punjab,Urban,Hindi,Male,22,16-24,"Punjabi, Panjabi",Single,Higher,Unemployed,Upper middle class,Muslim,1
+2023,India,IN-PB Punjab,Urban,Hindi,Male,24,16-24,"Punjabi, Panjabi",Single,Middle,Unemployed,Lower middle class,Other,1
+2023,India,IN-PB Punjab,Urban,Hindi,Male,26,25-34,"Punjabi, Panjabi",Married,Lower,Self employed,Working class,Hindu,1
+2023,India,IN-PB Punjab,Urban,Hindi,Male,27,25-34,"Punjabi, Panjabi",Married,Higher,Self employed,Upper class,Other,1
+2023,India,IN-PB Punjab,Urban,Hindi,Male,28,25-34,"Punjabi, Panjabi",Married,Middle,Full time (30 hours a week or more),Working class,Hindu,1
+2023,India,IN-PB Punjab,Urban,Hindi,Male,28,25-34,"Punjabi, Panjabi",Single,Higher,Self employed,Upper class,Other,1
+2023,India,IN-PB Punjab,Urban,Hindi,Male,28,25-34,"Punjabi, Panjabi",Single,Middle,Self employed,Working class,Other,1
+2023,India,IN-PB Punjab,Urban,Hindi,Male,29,25-34,Bengali; Bangla,Married,Middle,Self employed,Working class,Hindu,1
+2023,India,IN-PB Punjab,Urban,Hindi,Male,30,25-34,"Punjabi, Panjabi",Living together as married,Middle,Part time (less than 30 hours a week),Working class,Hindu,1
+2023,India,IN-PB Punjab,Urban,Hindi,Male,30,25-34,"Punjabi, Panjabi",Married,Lower,Self employed,Working class,Hindu,1
+2023,India,IN-PB Punjab,Urban,Hindi,Male,30,25-34,"Punjabi, Panjabi",Married,Middle,Part time (less than 30 hours a week),Upper middle class,Hindu,1
+2023,India,IN-PB Punjab,Urban,Hindi,Male,32,25-34,"Punjabi, Panjabi",Married,Lower,Full time (30 hours a week or more),Lower class,Hindu,1
+2023,India,IN-PB Punjab,Urban,Hindi,Male,32,25-34,"Punjabi, Panjabi",Married,Middle,Don't know,Lower middle class,Muslim,1
+2023,India,IN-PB Punjab,Urban,Hindi,Male,34,25-34,"Punjabi, Panjabi",Married,Higher,Part time (less than 30 hours a week),Lower middle class,Other,1
+2023,India,IN-PB Punjab,Urban,Hindi,Male,35,35-44,"Punjabi, Panjabi",Married,Middle,Self employed,Lower middle class,Other,1
+2023,India,IN-PB Punjab,Urban,Hindi,Male,36,35-44,"Punjabi, Panjabi",Living together as married,Higher,Full time (30 hours a week or more),Working class,Other,1
+2023,India,IN-PB Punjab,Urban,Hindi,Male,36,35-44,"Punjabi, Panjabi",Married,Higher,Self employed,Upper class,Hindu,1
+2023,India,IN-PB Punjab,Urban,Hindi,Male,39,35-44,"Punjabi, Panjabi",Married,Higher,Self employed,Upper middle class,Other,1
+2023,India,IN-PB Punjab,Urban,Hindi,Male,40,35-44,"Punjabi, Panjabi",Married,Higher,Self employed,Upper class,Hindu,1
+2023,India,IN-PB Punjab,Urban,Hindi,Male,41,35-44,"Punjabi, Panjabi",Married,Lower,Part time (less than 30 hours a week),Lower middle class,Hindu,1
+2023,India,IN-PB Punjab,Urban,Hindi,Male,41,35-44,"Punjabi, Panjabi",Married,Middle,Self employed,Lower middle class,Other,2
+2023,India,IN-PB Punjab,Urban,Hindi,Male,42,35-44,"Punjabi, Panjabi",Married,Middle,Self employed,Lower middle class,Other,1
+2023,India,IN-PB Punjab,Urban,Hindi,Male,44,35-44,"Punjabi, Panjabi",Living together as married,Higher,Full time (30 hours a week or more),Lower middle class,Other,1
+2023,India,IN-PB Punjab,Urban,Hindi,Male,44,35-44,"Punjabi, Panjabi",Married,Higher,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-PB Punjab,Urban,Hindi,Male,44,35-44,"Punjabi, Panjabi",Married,Middle,Self employed,Lower middle class,Other,1
+2023,India,IN-PB Punjab,Urban,Hindi,Male,50,45-54,"Punjabi, Panjabi",Married,Middle,Self employed,Upper class,Other,1
+2023,India,IN-PB Punjab,Urban,Hindi,Male,51,45-54,"Punjabi, Panjabi",Married,Higher,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-PB Punjab,Urban,Hindi,Male,52,45-54,"Punjabi, Panjabi",Married,Middle,Don't know,Upper middle class,Other,1
+2023,India,IN-PB Punjab,Urban,Hindi,Male,56,55-64,"Punjabi, Panjabi",Married,Lower,Self employed,Lower middle class,Other,1
+2023,India,IN-PB Punjab,Urban,Hindi,Male,59,55-64,"Punjabi, Panjabi",Married,Middle,Unemployed,Lower middle class,Hindu,1
+2023,India,IN-PB Punjab,Urban,Hindi,Male,61,55-64,"Punjabi, Panjabi",Married,Middle,Self employed,Upper class,Hindu,2
+2023,India,IN-PB Punjab,Urban,Hindi,Male,90,65 and more years,"Punjabi, Panjabi",Married,Lower,Self employed,Lower middle class,Other,1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,16,16-24,Telugu,Single,Lower,Student,Lower middle class,Hindu,2
+2023,India,IN-TG Telangana,Rural,Hindi,Female,16,16-24,Telugu,Single,Middle,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,16,16-24,Telugu,Single,Middle,Student,Lower middle class,Hindu,3
+2023,India,IN-TG Telangana,Rural,Hindi,Female,16,16-24,Telugu,Single,Middle,Student,Upper middle class,Hindu,2
+2023,India,IN-TG Telangana,Rural,Hindi,Female,17,16-24,Telugu,Single,Lower,Student,Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,17,16-24,Telugu,Single,Middle,Self employed,Upper middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,17,16-24,Telugu,Single,Middle,Student,Lower middle class,Hindu,2
+2023,India,IN-TG Telangana,Rural,Hindi,Female,17,16-24,Telugu,Single,Middle,Student,Working class,Hindu,2
+2023,India,IN-TG Telangana,Rural,Hindi,Female,17,16-24,Telugu,Single,Middle,Unemployed,Upper middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,18,16-24,Telugu,Single,Middle,Other,Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,18,16-24,Telugu,Single,Middle,Student,Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,19,16-24,Hindi,Single,Higher,Part time (less than 30 hours a week),Lower middle class,Muslim,1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,20,16-24,Hindi,Single,Middle,Unemployed,Lower middle class,Muslim,1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,20,16-24,Other,Living together as married,Lower,Unemployed,Lower middle class,Muslim,1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,21,16-24,Telugu,Married,Higher,Homemaker not otherwise employed,Upper middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,21,16-24,Telugu,Single,Higher,Student,Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,22,16-24,Telugu,Separated,Middle,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,22,16-24,Telugu,Single,Higher,Student,Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,23,16-24,Telugu,Married,Lower,Unemployed,Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,23,16-24,Telugu,Married,Middle,Other,Working class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,24,16-24,Telugu,Living together as married,Middle,Homemaker not otherwise employed,Upper middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,25,25-34,Telugu,Married,Lower,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,28,25-34,Hindi,Single,Middle,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,28,25-34,Telugu,Living together as married,Lower,Self employed,Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,28,25-34,Telugu,Married,Higher,Self employed,Lower middle class,Catholic (Roman/Greek/etc),1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,28,25-34,Telugu,Married,Middle,Other,Working class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,28,25-34,Telugu,Widowed,Middle,Other,Working class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,29,25-34,Telugu,Married,Middle,Self employed,Upper middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,30,25-34,Telugu,Married,Lower,Other,Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,32,25-34,Hindi,Married,Middle,Homemaker not otherwise employed,Upper middle class,Muslim,1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,32,25-34,Telugu,Living together as married,Middle,Homemaker not otherwise employed,Upper middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,33,25-34,Telugu,Married,Middle,Full time (30 hours a week or more),Upper middle class,Catholic (Roman/Greek/etc),1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,34,25-34,Telugu,Married,Middle,Part time (less than 30 hours a week),Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,36,35-44,Telugu,Widowed,Lower,Other,Working class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,37,35-44,Telugu,Married,Lower,Unemployed,Upper middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,37,35-44,Telugu,Single,Middle,Part time (less than 30 hours a week),Lower middle class,Catholic (Roman/Greek/etc),1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,40,35-44,Telugu,Married,Lower,Other,Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,40,35-44,Telugu,Married,Lower,Other,Working class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,41,35-44,Telugu,Married,Lower,Homemaker not otherwise employed,Working class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,42,35-44,Telugu,Married,Middle,Unemployed,Upper middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,43,35-44,Telugu,Married,Lower,Part time (less than 30 hours a week),Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,44,35-44,Hindi,Living together as married,Lower,Self employed,Lower middle class,Muslim,1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,44,35-44,Telugu,Married,Middle,Part time (less than 30 hours a week),Lower middle class,Catholic (Roman/Greek/etc),1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,45,45-54,Telugu,Widowed,Lower,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,48,45-54,Telugu,Widowed,Middle,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,49,45-54,Telugu,Living together as married,Lower,Self employed,Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,49,45-54,Telugu,Married,Lower,Other,Working class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,50,45-54,Telugu,Living together as married,Lower,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,50,45-54,Telugu,Married,Higher,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,50,45-54,Telugu,Married,Lower,Other,Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,51,45-54,Other,Married,Lower,Don't know,Lower middle class,Muslim,1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,53,45-54,Telugu,Married,Lower,Self employed,Lower class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,54,45-54,Telugu,Married,Lower,Other,Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,54,45-54,Telugu,Widowed,Lower,Self employed,Upper class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,55,55-64,Telugu,Widowed,Lower,Part time (less than 30 hours a week),Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,57,55-64,Telugu,Living together as married,Lower,Homemaker not otherwise employed,Upper middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,57,55-64,Telugu,Widowed,Lower,Other,Working class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,58,55-64,Telugu,Living together as married,Lower,Self employed,Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,58,55-64,Telugu,Widowed,Lower,Homemaker not otherwise employed,Upper middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,60,55-64,Telugu,Married,Lower,Unemployed,Upper middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,62,55-64,Telugu,Widowed,Lower,Unemployed,Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,63,55-64,Telugu,Married,Lower,Unemployed,Upper middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,67,65 and more years,Telugu,Married,Lower,Retired/pensioned,Upper middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,68,65 and more years,Telugu,Married,Lower,Homemaker not otherwise employed,Upper middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,70,65 and more years,Telugu,Widowed,Lower,Unemployed,Lower class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,71,65 and more years,Other,Widowed,Lower,Unemployed,Lower class,Muslim,1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,74,65 and more years,Telugu,Married,Lower,Unemployed,Working class,Catholic (Roman/Greek/etc),1
+2023,India,IN-TG Telangana,Rural,Hindi,Female,76,65 and more years,Telugu,Widowed,Lower,Homemaker not otherwise employed,Upper middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,16,16-24,Other,Single,Middle,Student,Don't know,Muslim,1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,16,16-24,Telugu,Single,Higher,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,16,16-24,Telugu,Single,Middle,Student,Lower middle class,Hindu,2
+2023,India,IN-TG Telangana,Rural,Hindi,Male,16,16-24,Telugu,Single,Middle,Student,Working class,Hindu,4
+2023,India,IN-TG Telangana,Rural,Hindi,Male,16,16-24,Telugu,Single,Middle,Unemployed,Upper middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,17,16-24,Other,Single,Middle,Student,Lower middle class,Muslim,1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,17,16-24,Telugu,Single,Higher,Student,Don't know,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,17,16-24,Telugu,Single,Middle,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,17,16-24,Telugu,Single,Middle,Student,Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,17,16-24,Telugu,Single,Middle,Student,Upper middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,17,16-24,Telugu,Single,Middle,Student,Working class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,18,16-24,Telugu,Single,Middle,Student,Lower middle class,Hindu,3
+2023,India,IN-TG Telangana,Rural,Hindi,Male,23,16-24,Telugu,Single,Higher,Homemaker not otherwise employed,Lower middle class,Catholic (Roman/Greek/etc),1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,23,16-24,Telugu,Single,Higher,Self employed,Upper middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,24,16-24,Hindi,Single,Higher,Unemployed,Lower middle class,Muslim,1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,24,16-24,"Punjabi, Panjabi",Single,Higher,Unemployed,Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,24,16-24,Telugu,Single,Higher,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,24,16-24,Telugu,Single,Higher,Self employed,Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,25,25-34,Other,Single,Middle,Unemployed,Lower middle class,Muslim,1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,25,25-34,Telugu,Married,Higher,Self employed,Lower middle class,Hindu,2
+2023,India,IN-TG Telangana,Rural,Hindi,Male,25,25-34,Telugu,Single,Higher,Unemployed,Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,26,25-34,Telugu,Married,Middle,Full time (30 hours a week or more),Working class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,27,25-34,Telugu,Living together as married,Higher,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,28,25-34,Telugu,Married,Higher,Other,Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,28,25-34,Telugu,Single,Higher,Self employed,Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,28,25-34,Telugu,Single,Higher,Student,Working class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,30,25-34,Other,Married,Middle,Self employed,Upper middle class,Muslim,1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,31,25-34,Telugu,Married,Middle,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,32,25-34,Telugu,Married,Lower,Unemployed,Lower class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,32,25-34,Telugu,Married,Middle,Self employed,Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,33,25-34,Hindi,Married,Higher,Self employed,Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,33,25-34,Telugu,Married,Higher,Self employed,Lower middle class,Catholic (Roman/Greek/etc),1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,33,25-34,Telugu,Married,Middle,Self employed,Lower middle class,Hindu,2
+2023,India,IN-TG Telangana,Rural,Hindi,Male,34,25-34,Telugu,Living together as married,Middle,Full time (30 hours a week or more),Working class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,35,35-44,Telugu,Married,Higher,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,35,35-44,Telugu,Married,Lower,Self employed,Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,36,35-44,Telugu,Living together as married,Lower,Full time (30 hours a week or more),Working class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,36,35-44,Telugu,Married,Higher,Self employed,Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,37,35-44,Telugu,Living together as married,Middle,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,37,35-44,Telugu,Married,Middle,Self employed,Lower class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,40,35-44,Other,Married,Lower,Self employed,Working class,Muslim,1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,40,35-44,Telugu,Married,Higher,Full time (30 hours a week or more),Upper middle class,Hindu,2
+2023,India,IN-TG Telangana,Rural,Hindi,Male,40,35-44,Telugu,Married,Lower,Other,Working class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,40,35-44,Telugu,Married,Lower,Unemployed,Lower class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,41,35-44,Telugu,Living together as married,Lower,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,41,35-44,Telugu,Married,Lower,Self employed,Lower middle class,Hindu,2
+2023,India,IN-TG Telangana,Rural,Hindi,Male,41,35-44,Telugu,Single,Middle,Don't know,Working class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,42,35-44,Telugu,Married,Middle,Self employed,Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,44,35-44,Telugu,Married,Lower,Self employed,Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,46,45-54,Telugu,Married,Higher,Homemaker not otherwise employed,Upper middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,46,45-54,Telugu,Married,Lower,Self employed,Lower class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,47,45-54,Telugu,Married,Higher,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,47,45-54,Telugu,Married,Lower,Self employed,Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,48,45-54,Telugu,Living together as married,Middle,Full time (30 hours a week or more),Working class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,48,45-54,Telugu,Married,Middle,Self employed,Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,50,45-54,Telugu,Living together as married,Middle,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,52,45-54,Telugu,Married,Lower,Self employed,Working class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,52,45-54,Telugu,Married,Lower,Student,Working class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,54,45-54,Telugu,Living together as married,Higher,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,54,45-54,Telugu,Married,Lower,Retired/pensioned,Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,57,55-64,Telugu,Married,Lower,Self employed,Lower middle class,Hindu,3
+2023,India,IN-TG Telangana,Rural,Hindi,Male,57,55-64,Telugu,Married,Middle,Self employed,Upper middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,59,55-64,Telugu,Married,Lower,Self employed,Working class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,59,55-64,Telugu,Married,Middle,Self employed,Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,60,55-64,Telugu,Married,Middle,Self employed,Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,66,65 and more years,Telugu,Married,Higher,Self employed,Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,69,65 and more years,Telugu,Living together as married,Lower,Retired/pensioned,Working class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,70,65 and more years,Telugu,Widowed,Lower,Retired/pensioned,Lower class,Catholic (Roman/Greek/etc),1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,73,65 and more years,Telugu,Living together as married,Lower,Retired/pensioned,Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,76,65 and more years,Telugu,Widowed,Lower,Unemployed,Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Rural,Hindi,Male,77,65 and more years,Telugu,Living together as married,Lower,Retired/pensioned,Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Urban,Hindi,Female,16,16-24,Telugu,Single,Lower,Student,Upper middle class,Hindu,1
+2023,India,IN-TG Telangana,Urban,Hindi,Female,16,16-24,Telugu,Single,Middle,Student,Upper middle class,Hindu,1
+2023,India,IN-TG Telangana,Urban,Hindi,Female,17,16-24,Telugu,Single,Middle,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Urban,Hindi,Female,17,16-24,Telugu,Single,Middle,Student,Upper middle class,Hindu,2
+2023,India,IN-TG Telangana,Urban,Hindi,Female,18,16-24,Telugu,Single,Middle,Other,Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Urban,Hindi,Female,21,16-24,Telugu,Single,Higher,Other,Upper middle class,Hindu,1
+2023,India,IN-TG Telangana,Urban,Hindi,Female,23,16-24,Hindi,Single,Higher,Student,Lower middle class,Muslim,1
+2023,India,IN-TG Telangana,Urban,Hindi,Female,25,25-34,Hindi,Single,Higher,Unemployed,Upper middle class,Muslim,1
+2023,India,IN-TG Telangana,Urban,Hindi,Female,27,25-34,Telugu,Married,Higher,Self employed,Upper middle class,Hindu,1
+2023,India,IN-TG Telangana,Urban,Hindi,Female,28,25-34,Telugu,Married,Higher,Self employed,Upper class,Hindu,1
+2023,India,IN-TG Telangana,Urban,Hindi,Female,30,25-34,Telugu,Married,Middle,Self employed,Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Urban,Hindi,Female,33,25-34,Telugu,Single,Higher,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-TG Telangana,Urban,Hindi,Female,35,35-44,Telugu,Married,Middle,Full time (30 hours a week or more),Lower middle class,Catholic (Roman/Greek/etc),1
+2023,India,IN-TG Telangana,Urban,Hindi,Female,36,35-44,Telugu,Married,Middle,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Urban,Hindi,Female,38,35-44,Telugu,Married,Middle,Homemaker not otherwise employed,Upper middle class,Hindu,1
+2023,India,IN-TG Telangana,Urban,Hindi,Female,40,35-44,Other,Married,Lower,Homemaker not otherwise employed,Lower middle class,Muslim,1
+2023,India,IN-TG Telangana,Urban,Hindi,Female,43,35-44,Telugu,Married,Middle,Homemaker not otherwise employed,Upper class,Hindu,1
+2023,India,IN-TG Telangana,Urban,Hindi,Female,45,45-54,Hindi,Married,Lower,Unemployed,Lower middle class,Muslim,1
+2023,India,IN-TG Telangana,Urban,Hindi,Female,46,45-54,Telugu,Married,Higher,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-TG Telangana,Urban,Hindi,Female,49,45-54,Telugu,Married,Higher,Full time (30 hours a week or more),Upper class,Hindu,1
+2023,India,IN-TG Telangana,Urban,Hindi,Female,49,45-54,Telugu,Married,Lower,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Urban,Hindi,Female,49,45-54,Telugu,Widowed,Middle,Unemployed,Upper middle class,Hindu,1
+2023,India,IN-TG Telangana,Urban,Hindi,Female,53,45-54,Telugu,Widowed,Lower,Other,Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Urban,Hindi,Female,61,55-64,Other,Married,Lower,Unemployed,Upper middle class,Hindu,1
+2023,India,IN-TG Telangana,Urban,Hindi,Female,73,65 and more years,Telugu,Widowed,Lower,Unemployed,Upper middle class,Hindu,1
+2023,India,IN-TG Telangana,Urban,Hindi,Female,80,65 and more years,Telugu,Widowed,Lower,Unemployed,Upper middle class,Hindu,1
+2023,India,IN-TG Telangana,Urban,Hindi,Male,16,16-24,Telugu,Single,Middle,Student,Upper middle class,Hindu,1
+2023,India,IN-TG Telangana,Urban,Hindi,Male,17,16-24,Hindi,Single,Middle,Student,Lower middle class,Muslim,1
+2023,India,IN-TG Telangana,Urban,Hindi,Male,17,16-24,Telugu,Single,Middle,Don't know,Upper middle class,Hindu,1
+2023,India,IN-TG Telangana,Urban,Hindi,Male,17,16-24,Telugu,Single,Middle,Student,Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Urban,Hindi,Male,17,16-24,Telugu,Single,Middle,Student,Upper middle class,Hindu,1
+2023,India,IN-TG Telangana,Urban,Hindi,Male,19,16-24,Telugu,Single,Higher,Student,Lower middle class,Muslim,1
+2023,India,IN-TG Telangana,Urban,Hindi,Male,20,16-24,Telugu,Married,Middle,Full time (30 hours a week or more),Working class,Hindu,1
+2023,India,IN-TG Telangana,Urban,Hindi,Male,24,16-24,Marathi,Single,Middle,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-TG Telangana,Urban,Hindi,Male,24,16-24,Telugu,Single,Higher,Full time (30 hours a week or more),Lower middle class,Catholic (Roman/Greek/etc),1
+2023,India,IN-TG Telangana,Urban,Hindi,Male,24,16-24,Telugu,Single,Higher,Student,Upper middle class,Hindu,1
+2023,India,IN-TG Telangana,Urban,Hindi,Male,28,25-34,Telugu,Single,Higher,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-TG Telangana,Urban,Hindi,Male,29,25-34,Telugu,Single,Higher,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Urban,Hindi,Male,33,25-34,Telugu,Single,Middle,Full time (30 hours a week or more),Working class,Hindu,1
+2023,India,IN-TG Telangana,Urban,Hindi,Male,34,25-34,Telugu,Married,Middle,Unemployed,Working class,Catholic (Roman/Greek/etc),1
+2023,India,IN-TG Telangana,Urban,Hindi,Male,36,35-44,Telugu,Married,Higher,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-TG Telangana,Urban,Hindi,Male,37,35-44,Other,Married,Middle,Self employed,Upper middle class,Muslim,1
+2023,India,IN-TG Telangana,Urban,Hindi,Male,40,35-44,Telugu,Married,Higher,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-TG Telangana,Urban,Hindi,Male,44,35-44,Telugu,Married,Higher,Full time (30 hours a week or more),Don't know,Hindu,1
+2023,India,IN-TG Telangana,Urban,Hindi,Male,47,45-54,Telugu,Married,Middle,Self employed,Lower middle class,Hindu,2
+2023,India,IN-TG Telangana,Urban,Hindi,Male,49,45-54,Telugu,Married,Higher,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-TG Telangana,Urban,Hindi,Male,51,45-54,Telugu,Married,Higher,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-TG Telangana,Urban,Hindi,Male,59,55-64,Telugu,Married,Higher,Full time (30 hours a week or more),Upper class,Hindu,1
+2023,India,IN-TG Telangana,Urban,Hindi,Male,61,55-64,Telugu,Married,Lower,Retired/pensioned,Lower middle class,Hindu,1
+2023,India,IN-TG Telangana,Urban,Hindi,Male,61,55-64,Telugu,Married,Lower,Retired/pensioned,Working class,Hindu,1
+2023,India,IN-TG Telangana,Urban,Hindi,Male,74,65 and more years,Telugu,Married,Middle,Unemployed,Upper middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,16,16-24,Hindi,Single,Lower,Homemaker not otherwise employed,Don't know,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,16,16-24,Hindi,Single,Lower,Student,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,16,16-24,Hindi,Single,Lower,Unemployed,Lower class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,16,16-24,Hindi,Single,Middle,Student,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,16,16-24,Hindi,Single,Middle,Student,Working class,Muslim,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,17,16-24,Hindi,Single,Lower,Don't know,Lower class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,17,16-24,Hindi,Single,Lower,Homemaker not otherwise employed,Working class,Muslim,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,17,16-24,Hindi,Single,Lower,Student,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,17,16-24,Hindi,Single,Middle,Student,Lower middle class,Muslim,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,17,16-24,Hindi,Single,Middle,Student,Upper middle class,Hindu,2
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,17,16-24,Hindi,Single,Middle,Student,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,19,16-24,Hindi,Single,Lower,Student,Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,19,16-24,Hindi,Single,Middle,Student,Working class,Muslim,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,21,16-24,Hindi,Single,Higher,Student,Lower middle class,Buddhist,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,23,16-24,Hindi,Married,Middle,Homemaker not otherwise employed,Don't know,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,24,16-24,Hindi,Married,Higher,Homemaker not otherwise employed,Upper middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,24,16-24,Hindi,Married,Lower,Homemaker not otherwise employed,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,24,16-24,Hindi,Single,Middle,Full time (30 hours a week or more),Don't know,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,25,25-34,Hindi,Married,Higher,Unemployed,Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,25,25-34,Hindi,Married,Lower,Homemaker not otherwise employed,Upper middle class,Muslim,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,25,25-34,Hindi,Married,Middle,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,25,25-34,Hindi,Married,Middle,Homemaker not otherwise employed,Upper middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,25,25-34,Hindi,Single,Higher,Unemployed,Upper middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,26,25-34,Hindi,Married,Middle,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,28,25-34,Hindi,Married,Lower,Retired/pensioned,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,28,25-34,Hindi,Married,Middle,Retired/pensioned,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,30,25-34,Hindi,Married,Lower,Part time (less than 30 hours a week),Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,31,25-34,Hindi,Living together as married,Middle,Homemaker not otherwise employed,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,34,25-34,Hindi,Married,Lower,Unemployed,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,35,35-44,Hindi,Married,Lower,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,35,35-44,Hindi,Married,Lower,Self employed,Lower class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,36,35-44,Hindi,Living together as married,Lower,Homemaker not otherwise employed,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,36,35-44,Hindi,Married,Lower,Homemaker not otherwise employed,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,37,35-44,Hindi,Married,Lower,Homemaker not otherwise employed,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,38,35-44,Hindi,Married,Middle,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,39,35-44,Hindi,Married,Lower,Homemaker not otherwise employed,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,39,35-44,Hindi,Married,Middle,Don't know,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,40,35-44,Hindi,Married,Lower,Homemaker not otherwise employed,Working class,Hindu,2
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,40,35-44,Hindi,Married,Lower,Homemaker not otherwise employed,Working class,Muslim,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,40,35-44,Hindi,Married,Middle,Unemployed,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,41,35-44,Hindi,Married,Lower,Homemaker not otherwise employed,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,42,35-44,Hindi,Married,Lower,Self employed,Upper middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,45,45-54,Hindi,Married,Lower,Homemaker not otherwise employed,Upper middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,45,45-54,Hindi,Married,Lower,Homemaker not otherwise employed,Working class,Muslim,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,45,45-54,Hindi,Married,Middle,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,45,45-54,Hindi,Widowed,Lower,Homemaker not otherwise employed,Lower class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,46,45-54,Hindi,Married,Lower,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,48,45-54,Hindi,Married,Lower,Homemaker not otherwise employed,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,48,45-54,Hindi,Single,Lower,Student,Don't know,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,49,45-54,Hindi,Living together as married,Lower,Homemaker not otherwise employed,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,49,45-54,Hindi,Married,Lower,Homemaker not otherwise employed,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,50,45-54,Hindi,Married,Lower,Homemaker not otherwise employed,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,52,45-54,Hindi,Married,Lower,Self employed,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,54,45-54,Hindi,Married,Lower,Homemaker not otherwise employed,Don't know,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,56,55-64,Hindi,Widowed,Lower,Homemaker not otherwise employed,Lower class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,57,55-64,Hindi,Married,Lower,Homemaker not otherwise employed,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,58,55-64,Hindi,Married,Lower,Homemaker not otherwise employed,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,58,55-64,Hindi,Married,Lower,Unemployed,Lower class,Hindu,2
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,59,55-64,Hindi,Widowed,Lower,Homemaker not otherwise employed,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,60,55-64,Hindi,Married,Lower,Don't know,Lower class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,61,55-64,Hindi,Married,Lower,Homemaker not otherwise employed,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,62,55-64,Hindi,Married,Lower,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,63,55-64,Hindi,Widowed,Lower,Homemaker not otherwise employed,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,66,65 and more years,Hindi,Married,Lower,Homemaker not otherwise employed,Lower class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,68,65 and more years,Hindi,Married,Lower,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Female,74,65 and more years,Hindi,Widowed,Lower,Retired/pensioned,Upper middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,16,16-24,Hindi,Single,Higher,Student,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,16,16-24,Hindi,Single,Lower,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,16,16-24,Hindi,Single,Lower,Student,Don't know,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,16,16-24,Hindi,Single,Lower,Student,Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,16,16-24,Hindi,Single,Lower,Student,Working class,Buddhist,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,16,16-24,Hindi,Single,Lower,Student,Working class,Hindu,2
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,16,16-24,Hindi,Single,Lower,Unemployed,Working class,Hindu,2
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,16,16-24,Hindi,Single,Middle,Don't know,Working class,Muslim,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,16,16-24,Hindi,Single,Middle,Homemaker not otherwise employed,Working class,Muslim,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,16,16-24,Hindi,Single,Middle,Part time (less than 30 hours a week),Lower middle class,Muslim,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,16,16-24,Hindi,Single,Middle,Part time (less than 30 hours a week),Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,16,16-24,Hindi,Single,Middle,Student,Lower class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,16,16-24,Hindi,Single,Middle,Student,Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,16,16-24,Hindi,Single,Middle,Student,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,17,16-24,Hindi,Single,Higher,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,17,16-24,Hindi,Single,Lower,Self employed,Lower middle class,Muslim,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,17,16-24,Hindi,Single,Lower,Self employed,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,17,16-24,Hindi,Single,Lower,Self employed,Working class,Muslim,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,17,16-24,Hindi,Single,Lower,Student,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,17,16-24,Hindi,Single,Lower,Unemployed,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,17,16-24,Hindi,Single,Middle,Self employed,Lower class,Muslim,2
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,17,16-24,Hindi,Single,Middle,Student,Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,17,16-24,Hindi,Single,Middle,Student,Upper middle class,Muslim,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,17,16-24,Hindi,Single,Middle,Student,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,17,16-24,Hindi,Single,Middle,Student,Working class,Muslim,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,17,16-24,Hindi,Single,Middle,Unemployed,Working class,Muslim,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,18,16-24,Hindi,Single,Higher,Student,Working class,Muslim,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,18,16-24,Hindi,Single,Lower,Student,Lower class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,18,16-24,Hindi,Single,Middle,Student,Don't know,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,18,16-24,Hindi,Single,Middle,Student,Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,18,16-24,Hindi,Single,Middle,Student,Upper middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,18,16-24,Hindi,Single,Middle,Student,Working class,Muslim,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,19,16-24,Hindi,Single,Higher,Other,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,20,16-24,Hindi,Single,Higher,Student,Upper middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,20,16-24,Hindi,Single,Higher,Student,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,20,16-24,Hindi,Single,Middle,Student,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,21,16-24,Hindi,Single,Higher,Student,Lower class,Buddhist,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,21,16-24,Hindi,Single,Middle,Self employed,Upper middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,21,16-24,Hindi,Single,Middle,Unemployed,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,22,16-24,Hindi,Married,Middle,Part time (less than 30 hours a week),Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,22,16-24,Hindi,Single,Higher,Self employed,Upper middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,22,16-24,Hindi,Single,Higher,Student,Lower middle class,Hindu,2
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,23,16-24,Hindi,Married,Middle,Unemployed,Working class,Muslim,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,23,16-24,Hindi,Single,Higher,Unemployed,Working class,Muslim,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,23,16-24,Hindi,Single,Middle,Self employed,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,24,16-24,Hindi,Single,Lower,Unemployed,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,25,25-34,Hindi,Married,Middle,Self employed,Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,25,25-34,Hindi,Married,Middle,Unemployed,Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,25,25-34,Hindi,Single,Lower,Homemaker not otherwise employed,Working class,Buddhist,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,25,25-34,Hindi,Single,Middle,Unemployed,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,27,25-34,Hindi,Married,Lower,Self employed,Lower middle class,Muslim,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,27,25-34,Hindi,Married,Lower,Self employed,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,27,25-34,Hindi,Married,Middle,Self employed,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,28,25-34,Hindi,Married,Lower,Self employed,Lower middle class,Muslim,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,28,25-34,Hindi,Married,Middle,Self employed,Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,28,25-34,Hindi,Married,Middle,Self employed,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,28,25-34,Hindi,Married,Middle,Unemployed,Upper middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,28,25-34,Hindi,Single,Higher,Homemaker not otherwise employed,Upper middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,28,25-34,Hindi,Single,Middle,Unemployed,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,29,25-34,Hindi,Single,Higher,Unemployed,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,30,25-34,Hindi,Married,Higher,Full time (30 hours a week or more),Don't know,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,30,25-34,Hindi,Married,Higher,Self employed,Upper middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,30,25-34,Hindi,Married,Middle,Self employed,Lower middle class,Muslim,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,30,25-34,Hindi,Married,Middle,Self employed,Working class,Muslim,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,30,25-34,Hindi,Married,Middle,Unemployed,Upper middle class,Muslim,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,30,25-34,Hindi,Married,Middle,Unemployed,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,32,25-34,Hindi,Married,Higher,Self employed,Lower middle class,Hindu,2
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,32,25-34,Hindi,Single,Lower,Unemployed,Lower class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,33,25-34,Hindi,Married,Higher,Full time (30 hours a week or more),Upper middle class,Buddhist,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,33,25-34,Hindi,Married,Middle,Part time (less than 30 hours a week),Upper class,Muslim,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,33,25-34,Hindi,Married,Middle,Part time (less than 30 hours a week),Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,34,25-34,Hindi,Married,Middle,Self employed,Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,35,35-44,Hindi,Living together as married,Higher,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,36,35-44,Bengali; Bangla,Married,Middle,Self employed,Upper middle class,Muslim,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,36,35-44,Hindi,Living together as married,Lower,Unemployed,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,36,35-44,Hindi,Married,Lower,Full time (30 hours a week or more),Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,36,35-44,Hindi,Married,Lower,Self employed,Lower class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,37,35-44,Hindi,Married,Middle,Self employed,Lower middle class,Hindu,2
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,38,35-44,Hindi,Living together as married,Lower,Unemployed,Working class,Hindu,2
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,38,35-44,Hindi,Married,Lower,Full time (30 hours a week or more),Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,38,35-44,Hindi,Married,Lower,Part time (less than 30 hours a week),Working class,Hindu,2
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,38,35-44,Hindi,Married,Lower,Unemployed,Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,40,35-44,Hindi,Living together as married,Lower,Self employed,Lower class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,40,35-44,Hindi,Married,Higher,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,40,35-44,Hindi,Married,Lower,Full time (30 hours a week or more),Don't know,Buddhist,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,40,35-44,Hindi,Married,Lower,Full time (30 hours a week or more),Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,40,35-44,Hindi,Married,Lower,Self employed,Lower middle class,Muslim,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,40,35-44,Hindi,Married,Middle,Self employed,Lower middle class,Muslim,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,40,35-44,Hindi,Married,Middle,Self employed,Upper middle class,Muslim,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,41,35-44,Hindi,Married,Lower,Full time (30 hours a week or more),Don't know,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,41,35-44,Hindi,Married,Middle,Self employed,Upper middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,42,35-44,Hindi,Married,Middle,Don't know,Lower middle class,Muslim,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,42,35-44,Hindi,Married,Middle,Full time (30 hours a week or more),Don't know,Muslim,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,42,35-44,Hindi,Married,Middle,Full time (30 hours a week or more),Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,43,35-44,Hindi,Married,Middle,Self employed,Upper middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,44,35-44,Hindi,Married,Higher,Part time (less than 30 hours a week),Don't know,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,44,35-44,Hindi,Married,Lower,Full time (30 hours a week or more),Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,44,35-44,Hindi,Married,Lower,Self employed,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,45,45-54,Hindi,Married,Lower,Self employed,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,45,45-54,Hindi,Married,Middle,Other,Lower middle class,Muslim,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,45,45-54,Hindi,Married,Middle,Self employed,Upper middle class,Muslim,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,45,45-54,Hindi,Married,Middle,Unemployed,Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,46,45-54,Hindi,Married,Lower,Self employed,Upper middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,46,45-54,Hindi,Married,Middle,Self employed,Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,47,45-54,Hindi,Married,Middle,Self employed,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,48,45-54,Hindi,Married,Lower,Self employed,Lower middle class,Hindu,2
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,48,45-54,Hindi,Married,Middle,Other,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,48,45-54,Hindi,Married,Middle,Self employed,Upper middle class,Hindu,2
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,49,45-54,Hindi,Living together as married,Lower,Unemployed,Lower class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,50,45-54,Hindi,Married,Higher,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,50,45-54,Hindi,Married,Middle,Self employed,Working class,Hindu,2
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,50,45-54,Hindi,Married,Middle,Unemployed,Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,51,45-54,Hindi,Living together as married,Higher,Unemployed,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,51,45-54,Hindi,Married,Lower,Part time (less than 30 hours a week),Upper class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,51,45-54,Hindi,Married,Middle,Self employed,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,52,45-54,Hindi,Married,Higher,Self employed,Upper middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,53,45-54,Hindi,Married,Lower,Self employed,Upper middle class,Hindu,2
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,53,45-54,Hindi,Married,Middle,Self employed,Upper middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,54,45-54,Hindi,Married,Lower,Full time (30 hours a week or more),Lower class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,54,45-54,Hindi,Married,Lower,Homemaker not otherwise employed,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,54,45-54,Hindi,Married,Lower,Unemployed,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,56,55-64,Hindi,Married,Middle,Homemaker not otherwise employed,Working class,Muslim,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,57,55-64,Hindi,Married,Lower,Don't know,Working class,Muslim,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,57,55-64,Hindi,Widowed,Lower,Self employed,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,58,55-64,Hindi,Married,Middle,Part time (less than 30 hours a week),Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,58,55-64,Hindi,Married,Middle,Self employed,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,59,55-64,Hindi,Married,Lower,Self employed,Lower class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,59,55-64,Hindi,Widowed,Lower,Self employed,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,60,55-64,Hindi,Living together as married,Lower,Retired/pensioned,Lower class,Buddhist,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,60,55-64,Hindi,Married,Lower,Full time (30 hours a week or more),Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,60,55-64,Hindi,Married,Middle,Self employed,Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,62,55-64,Hindi,Living together as married,Middle,Other,Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,62,55-64,Hindi,Married,Lower,Retired/pensioned,Lower class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,62,55-64,Hindi,Married,Lower,Self employed,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,62,55-64,Hindi,Married,Lower,Unemployed,Working class,Muslim,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,63,55-64,Hindi,Married,Higher,Self employed,Upper middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,63,55-64,Hindi,Married,Lower,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,64,55-64,Hindi,Widowed,Middle,Retired/pensioned,Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,65,65 and more years,Hindi,Married,Lower,Other,Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,66,65 and more years,Hindi,Widowed,Lower,Homemaker not otherwise employed,Working class,Hindu,2
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,70,65 and more years,Hindi,Married,Middle,Self employed,Lower middle class,Muslim,1
+2023,India,IN-UP Uttar Pradesh,Rural,Hindi,Male,71,65 and more years,Hindi,Married,Lower,Self employed,Upper middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Female,16,16-24,Hindi,Single,Middle,Student,Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Female,16,16-24,Hindi,Single,Middle,Student,Lower middle class,Muslim,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Female,16,16-24,Hindi,Single,Middle,Student,Upper middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Female,17,16-24,Hindi,Single,Higher,Student,Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Female,17,16-24,Hindi,Single,Lower,Homemaker not otherwise employed,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Female,17,16-24,Hindi,Single,Middle,Student,Don't know,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Female,17,16-24,Hindi,Single,Middle,Student,Lower middle class,Muslim,2
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Female,18,16-24,Hindi,Married,Lower,Homemaker not otherwise employed,Lower class,Muslim,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Female,20,16-24,Hindi,Single,Middle,Student,Don't know,Muslim,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Female,20,16-24,Hindi,Single,Middle,Student,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Female,20,16-24,Hindi,Single,Middle,Unemployed,Lower class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Female,21,16-24,Hindi,Single,Higher,Student,Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Female,21,16-24,Hindi,Single,Middle,Student,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Female,23,16-24,Hindi,Living together as married,Middle,Homemaker not otherwise employed,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Female,23,16-24,Hindi,Married,Middle,Homemaker not otherwise employed,Lower middle class,Muslim,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Female,23,16-24,Hindi,Single,Higher,Other,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Female,24,16-24,Hindi,Married,Higher,Homemaker not otherwise employed,Upper middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Female,24,16-24,Hindi,Married,Middle,Student,Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Female,24,16-24,Hindi,Single,Higher,Unemployed,Lower class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Female,27,25-34,Hindi,Married,Lower,Homemaker not otherwise employed,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Female,27,25-34,Hindi,Single,Higher,Homemaker not otherwise employed,Don't know,Muslim,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Female,28,25-34,Hindi,Married,Middle,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Female,30,25-34,Hindi,Married,Lower,Homemaker not otherwise employed,Lower class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Female,31,25-34,Hindi,Living together as married,Lower,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Female,31,25-34,Hindi,Married,Lower,Homemaker not otherwise employed,Lower class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Female,33,25-34,Hindi,Married,Lower,Homemaker not otherwise employed,Lower class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Female,34,25-34,Hindi,Married,Middle,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Female,35,35-44,Hindi,Married,Middle,Other,Lower class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Female,36,35-44,Hindi,Married,Lower,Part time (less than 30 hours a week),Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Female,37,35-44,Hindi,Married,Higher,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Female,38,35-44,Hindi,Married,Higher,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Female,42,35-44,Hindi,Married,Higher,Homemaker not otherwise employed,Lower class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Female,42,35-44,Hindi,Married,Higher,Unemployed,Upper middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Female,45,45-54,Hindi,Married,Middle,Homemaker not otherwise employed,Upper middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Female,45,45-54,Hindi,Married,Middle,Self employed,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Female,47,45-54,Hindi,Married,Higher,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Female,50,45-54,Hindi,Married,Lower,Homemaker not otherwise employed,Lower class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Female,50,45-54,Hindi,Married,Lower,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Female,52,45-54,Hindi,Married,Lower,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Female,52,45-54,Hindi,Married,Lower,Homemaker not otherwise employed,Upper middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Female,54,45-54,Hindi,Widowed,Lower,Homemaker not otherwise employed,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Female,57,55-64,Hindi,Married,Middle,Full time (30 hours a week or more),Upper middle class,Muslim,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Female,58,55-64,Hindi,Married,Lower,Homemaker not otherwise employed,Lower class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Female,60,55-64,Hindi,Married,Lower,Homemaker not otherwise employed,Don't know,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Female,61,55-64,Hindi,Married,Lower,Unemployed,Lower class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Female,69,65 and more years,Hindi,Widowed,Lower,Homemaker not otherwise employed,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,16,16-24,Hindi,Single,Lower,Student,Lower class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,16,16-24,Hindi,Single,Lower,Student,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,16,16-24,Hindi,Single,Lower,Unemployed,Lower class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,16,16-24,Hindi,Single,Middle,Student,Don't know,Muslim,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,16,16-24,Hindi,Single,Middle,Student,Lower class,Hindu,2
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,16,16-24,Hindi,Single,Middle,Student,Lower class,Muslim,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,16,16-24,Hindi,Single,Middle,Student,Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,16,16-24,Hindi,Single,Middle,Student,Working class,Hindu,4
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,17,16-24,Hindi,Single,Lower,Unemployed,Lower class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,17,16-24,Hindi,Single,Middle,Other,Working class,Muslim,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,17,16-24,Hindi,Single,Middle,Student,Lower class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,17,16-24,Hindi,Single,Middle,Student,Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,17,16-24,Hindi,Single,Middle,Student,Upper middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,17,16-24,Hindi,Single,Middle,Student,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,17,16-24,Hindi,Single,Middle,Student,Working class,Muslim,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,18,16-24,Hindi,Single,Lower,Part time (less than 30 hours a week),Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,18,16-24,Hindi,Single,Middle,Part time (less than 30 hours a week),Lower middle class,Buddhist,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,18,16-24,Hindi,Single,Middle,Student,Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,20,16-24,Hindi,Married,Higher,Student,Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,20,16-24,Hindi,Single,Higher,Part time (less than 30 hours a week),Upper middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,20,16-24,Hindi,Single,Middle,Student,Working class,Muslim,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,21,16-24,Hindi,Single,Lower,Unemployed,Lower class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,21,16-24,Hindi,Single,Middle,Part time (less than 30 hours a week),Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,22,16-24,Hindi,Single,Higher,Other,Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,22,16-24,Hindi,Single,Higher,Student,Don't know,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,22,16-24,Hindi,Single,Higher,Student,Working class,Buddhist,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,22,16-24,Hindi,Single,Middle,Unemployed,Lower class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,23,16-24,Hindi,Married,Lower,Unemployed,Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,23,16-24,Hindi,Married,Middle,Other,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,23,16-24,Hindi,Single,Higher,Student,Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,24,16-24,Hindi,Married,Higher,Other,Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,24,16-24,Hindi,Married,Lower,Self employed,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,24,16-24,Hindi,Single,Higher,Full time (30 hours a week or more),Lower middle class,Buddhist,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,24,16-24,Hindi,Single,Higher,Self employed,Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,24,16-24,Hindi,Single,Higher,Student,Upper middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,25,25-34,Hindi,Living together as married,Higher,Unemployed,Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,25,25-34,Hindi,Married,Middle,Part time (less than 30 hours a week),Lower class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,26,25-34,Hindi,Single,Higher,Student,Working class,Muslim,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,27,25-34,Hindi,Married,Middle,Self employed,Working class,Muslim,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,28,25-34,Hindi,Married,Middle,Retired/pensioned,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,28,25-34,Hindi,Married,Middle,Self employed,Lower middle class,Muslim,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,30,25-34,Hindi,Married,Higher,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,30,25-34,Hindi,Married,Middle,Don't know,Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,30,25-34,Hindi,Married,Middle,Unemployed,Working class,Muslim,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,30,25-34,Hindi,Single,Middle,Self employed,Working class,Muslim,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,31,25-34,Hindi,Married,Higher,Unemployed,Lower class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,32,25-34,Hindi,Married,Higher,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,33,25-34,Hindi,Married,Middle,Self employed,Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,33,25-34,Hindi,Single,Middle,Unemployed,Lower class,Buddhist,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,35,35-44,Hindi,Married,Lower,Full time (30 hours a week or more),Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,35,35-44,Hindi,Married,Lower,Self employed,Working class,Muslim,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,35,35-44,Hindi,Married,Middle,Self employed,Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,35,35-44,Hindi,Married,Middle,Unemployed,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,36,35-44,Hindi,Living together as married,Middle,Part time (less than 30 hours a week),Upper middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,36,35-44,Hindi,Married,Middle,Part time (less than 30 hours a week),Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,36,35-44,Hindi,Married,Middle,Unemployed,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,37,35-44,Hindi,Married,Higher,Self employed,Upper middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,37,35-44,Hindi,Married,Lower,Unemployed,Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,38,35-44,Hindi,Married,Middle,Self employed,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,38,35-44,Hindi,Married,Middle,Unemployed,Lower class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,38,35-44,Hindi,Widowed,Higher,Self employed,Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,39,35-44,Hindi,Married,Middle,Self employed,Lower middle class,Muslim,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,40,35-44,Hindi,Married,Middle,Full time (30 hours a week or more),Lower middle class,Hindu,2
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,41,35-44,Hindi,Married,Higher,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,42,35-44,Hindi,Married,Higher,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,43,35-44,Hindi,Married,Higher,Self employed,Lower middle class,Muslim,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,47,45-54,Hindi,Living together as married,Middle,Self employed,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,47,45-54,Hindi,Married,Lower,Self employed,Don't know,Muslim,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,47,45-54,Hindi,Married,Middle,Self employed,Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,48,45-54,Hindi,Married,Higher,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,48,45-54,Hindi,Married,Lower,Self employed,Working class,Muslim,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,48,45-54,Hindi,Married,Middle,Other,Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,48,45-54,Hindi,Married,Middle,Self employed,Lower middle class,Muslim,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,49,45-54,Hindi,Married,Middle,Part time (less than 30 hours a week),Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,50,45-54,Hindi,Married,Lower,Full time (30 hours a week or more),Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,50,45-54,Hindi,Married,Lower,Self employed,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,51,45-54,Hindi,Married,Middle,Self employed,Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,52,45-54,Hindi,Married,Lower,Other,Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,53,45-54,Hindi,Married,Lower,Unemployed,Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,55,55-64,Hindi,Married,Lower,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,58,55-64,Hindi,Married,Lower,Self employed,Upper middle class,Muslim,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,58,55-64,Hindi,Married,Middle,Unemployed,Working class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,64,55-64,Hindi,Married,Higher,Retired/pensioned,Lower middle class,Hindu,1
+2023,India,IN-UP Uttar Pradesh,Urban,Hindi,Male,68,65 and more years,Hindi,Married,Middle,Self employed,Lower middle class,Muslim,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,16,16-24,Bengali; Bangla,Single,Lower,Student,Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,16,16-24,Bengali; Bangla,Single,Middle,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,16,16-24,Bengali; Bangla,Single,Middle,Homemaker not otherwise employed,Working class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,16,16-24,Bengali; Bangla,Single,Middle,Student,Lower class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,16,16-24,Bengali; Bangla,Single,Middle,Student,Upper middle class,Muslim,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,16,16-24,Bengali; Bangla,Single,Middle,Unemployed,Lower middle class,Hindu,2
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,16,16-24,Hindi,Single,Middle,Student,Upper middle class,Muslim,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,16,16-24,Other,Single,Middle,Student,Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,17,16-24,Bengali; Bangla,Single,Middle,Student,Lower class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,17,16-24,Bengali; Bangla,Single,Middle,Student,Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,17,16-24,Bengali; Bangla,Single,Middle,Student,Upper middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,17,16-24,Bengali; Bangla,Single,Middle,Student,Working class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,17,16-24,Other,Single,Middle,Student,Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,22,16-24,Bengali; Bangla,Married,Middle,Unemployed,Working class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,22,16-24,Other,Single,Higher,Student,Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,23,16-24,Bengali; Bangla,Married,Lower,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,23,16-24,Bengali; Bangla,Single,Higher,Student,Upper middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,23,16-24,Bengali; Bangla,Single,Lower,Unemployed,Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,24,16-24,Bengali; Bangla,Single,Higher,Unemployed,Working class,Muslim,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,24,16-24,Other,Single,Higher,Student,Working class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,25,25-34,Bengali; Bangla,Married,Middle,Part time (less than 30 hours a week),Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,25,25-34,Other,Married,Lower,Homemaker not otherwise employed,Lower class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,25,25-34,Other,Married,Middle,Homemaker not otherwise employed,Working class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,26,25-34,Bengali; Bangla,Married,Middle,Unemployed,Working class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,27,25-34,Other,Married,Higher,Homemaker not otherwise employed,Working class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,27,25-34,Other,Married,Middle,Homemaker not otherwise employed,Working class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,28,25-34,Bengali; Bangla,Married,Lower,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,29,25-34,Bengali; Bangla,Married,Middle,Homemaker not otherwise employed,Upper middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,32,25-34,Bengali; Bangla,Married,Lower,Unemployed,Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,33,25-34,Bengali; Bangla,Married,Middle,Homemaker not otherwise employed,Upper middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,33,25-34,Other,Married,Middle,Homemaker not otherwise employed,Lower class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,33,25-34,Other,Married,Middle,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,35,35-44,Bengali; Bangla,Married,Middle,Part time (less than 30 hours a week),Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,35,35-44,Other,Married,Middle,Homemaker not otherwise employed,Upper middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,36,35-44,Bengali; Bangla,Married,Lower,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,36,35-44,Bengali; Bangla,Married,Lower,Homemaker not otherwise employed,Working class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,36,35-44,Bengali; Bangla,Married,Middle,Part time (less than 30 hours a week),Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,37,35-44,Other,Married,Middle,Part time (less than 30 hours a week),Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,39,35-44,Other,Married,Middle,Student,Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,40,35-44,Bengali; Bangla,Married,Higher,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,40,35-44,Hindi,Married,Lower,Self employed,Lower middle class,Muslim,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,42,35-44,Bengali; Bangla,Married,Lower,Homemaker not otherwise employed,Lower class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,42,35-44,Bengali; Bangla,Married,Lower,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,43,35-44,Bengali; Bangla,Married,Lower,Part time (less than 30 hours a week),Working class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,43,35-44,Other,Married,Lower,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,44,35-44,Bengali; Bangla,Married,Lower,Homemaker not otherwise employed,Lower class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,44,35-44,Other,Married,Lower,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,45,45-54,Bengali; Bangla,Married,Lower,Self employed,Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,45,45-54,Other,Married,Lower,Homemaker not otherwise employed,Lower class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,46,45-54,Bengali; Bangla,Married,Lower,Full time (30 hours a week or more),Lower middle class,Muslim,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,46,45-54,Bengali; Bangla,Widowed,Lower,Homemaker not otherwise employed,Working class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,47,45-54,Other,Married,Lower,Homemaker not otherwise employed,Working class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,47,45-54,Other,Married,Middle,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,48,45-54,Bengali; Bangla,Married,Lower,Homemaker not otherwise employed,Lower class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,48,45-54,Other,Married,Middle,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,49,45-54,Bengali; Bangla,Married,Lower,Homemaker not otherwise employed,Working class,Muslim,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,49,45-54,Other,Married,Lower,Homemaker not otherwise employed,Lower class,Muslim,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,49,45-54,Other,Married,Middle,Homemaker not otherwise employed,Upper middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,50,45-54,Bengali; Bangla,Married,Lower,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,50,45-54,Bengali; Bangla,Married,Lower,Homemaker not otherwise employed,Upper middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,52,45-54,Other,Married,Lower,Homemaker not otherwise employed,Lower middle class,Muslim,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,53,45-54,Other,Married,Lower,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,54,45-54,Bengali; Bangla,Married,Higher,Part time (less than 30 hours a week),Upper middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,54,45-54,Bengali; Bangla,Widowed,Lower,Homemaker not otherwise employed,Working class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,55,55-64,Bengali; Bangla,Married,Middle,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,56,55-64,Other,Married,Lower,Homemaker not otherwise employed,Lower class,Muslim,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,56,55-64,Other,Married,Lower,Homemaker not otherwise employed,Working class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,57,55-64,Bengali; Bangla,Married,Lower,Homemaker not otherwise employed,Working class,Muslim,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,58,55-64,Bengali; Bangla,Married,Lower,Self employed,Lower middle class,Muslim,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,59,55-64,Other,Married,Lower,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,60,55-64,Bengali; Bangla,Married,Lower,Don't know,Lower class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,64,55-64,Other,Married,Lower,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,65,65 and more years,Hindi,Widowed,Lower,Homemaker not otherwise employed,Lower middle class,Muslim,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,70,65 and more years,Bengali; Bangla,Married,Lower,Homemaker not otherwise employed,Lower class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,70,65 and more years,Bengali; Bangla,Widowed,Lower,Unemployed,Lower class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,76,65 and more years,Other,Widowed,Lower,Homemaker not otherwise employed,Lower class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Female,85,65 and more years,Bengali; Bangla,Married,Lower,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,16,16-24,Bengali; Bangla,Single,Lower,Student,Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,16,16-24,Bengali; Bangla,Single,Middle,Student,Lower class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,16,16-24,Bengali; Bangla,Single,Middle,Student,Lower class,Muslim,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,16,16-24,Bengali; Bangla,Single,Middle,Student,Lower middle class,Hindu,2
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,16,16-24,Other,Single,Middle,Student,Lower middle class,Hindu,2
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,17,16-24,Bengali; Bangla,Single,Lower,Student,Lower class,Muslim,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,17,16-24,Bengali; Bangla,Single,Middle,Student,Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,17,16-24,Other,Single,Middle,Part time (less than 30 hours a week),Working class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,17,16-24,Other,Single,Middle,Self employed,Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,17,16-24,Other,Single,Middle,Student,Lower class,Hindu,2
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,17,16-24,Other,Single,Middle,Student,Lower middle class,Hindu,5
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,17,16-24,Other,Single,Middle,Student,Lower middle class,Muslim,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,17,16-24,Other,Single,Middle,Student,Working class,Muslim,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,18,16-24,Other,Single,Lower,Part time (less than 30 hours a week),Working class,Muslim,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,19,16-24,Bengali; Bangla,Single,Middle,Student,Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,19,16-24,Bengali; Bangla,Single,Middle,Student,Lower middle class,Muslim,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,20,16-24,Other,Single,Middle,Unemployed,Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,22,16-24,Bengali; Bangla,Single,Middle,Student,Upper middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,22,16-24,Bengali; Bangla,Single,Middle,Unemployed,Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,22,16-24,Other,Single,Higher,Student,Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,22,16-24,Other,Single,Higher,Student,Lower middle class,Muslim,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,23,16-24,Bengali; Bangla,Single,Middle,Unemployed,Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,24,16-24,Bengali; Bangla,Married,Lower,Other,Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,25,25-34,Bengali; Bangla,Single,Lower,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,25,25-34,Other,Married,Middle,Part time (less than 30 hours a week),Lower middle class,Muslim,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,27,25-34,Bengali; Bangla,Single,Higher,Full time (30 hours a week or more),Upper class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,27,25-34,Other,Single,Higher,Student,Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,28,25-34,Bengali; Bangla,Married,Lower,Unemployed,Lower middle class,Muslim,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,28,25-34,Bengali; Bangla,Married,Middle,Other,Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,28,25-34,Bengali; Bangla,Single,Lower,Self employed,Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,28,25-34,Bengali; Bangla,Single,Middle,Self employed,Lower middle class,Muslim,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,28,25-34,Other,Married,Middle,Self employed,Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,29,25-34,Bengali; Bangla,Married,Higher,Self employed,Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,30,25-34,Other,Married,Higher,Self employed,Upper middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,31,25-34,Bengali; Bangla,Married,Lower,Self employed,Working class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,31,25-34,Bengali; Bangla,Married,Middle,Self employed,Lower class,Muslim,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,33,25-34,Other,Married,Middle,Self employed,Lower class,Muslim,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,34,25-34,Bengali; Bangla,Married,Middle,Self employed,Upper middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,36,35-44,Other,Married,Middle,Self employed,Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,40,35-44,Bengali; Bangla,Married,Middle,Full time (30 hours a week or more),Lower middle class,Muslim,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,40,35-44,Bengali; Bangla,Married,Middle,Other,Upper middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,40,35-44,Other,Married,Middle,Part time (less than 30 hours a week),Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,41,35-44,Bengali; Bangla,Married,Lower,Full time (30 hours a week or more),Working class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,43,35-44,Other,Married,Middle,Part time (less than 30 hours a week),Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,45,45-54,Bengali; Bangla,Married,Higher,Part time (less than 30 hours a week),Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,46,45-54,Other,Married,Lower,Other,Working class,Muslim,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,47,45-54,Bengali; Bangla,Married,Middle,Part time (less than 30 hours a week),Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,47,45-54,Other,Married,Middle,Part time (less than 30 hours a week),Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,48,45-54,Bengali; Bangla,Married,Lower,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,48,45-54,Bengali; Bangla,Married,Lower,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,48,45-54,Bengali; Bangla,Married,Lower,Self employed,Lower middle class,Muslim,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,48,45-54,Bengali; Bangla,Married,Middle,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,48,45-54,Bengali; Bangla,Married,Middle,Part time (less than 30 hours a week),Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,48,45-54,Bengali; Bangla,Married,Middle,Retired/pensioned,Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,49,45-54,Other,Married,Lower,Self employed,Lower class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,50,45-54,Bengali; Bangla,Married,Lower,Other,Working class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,53,45-54,Other,Married,Higher,Full time (30 hours a week or more),Lower middle class,Muslim,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,56,55-64,Bengali; Bangla,Married,Lower,Self employed,Lower class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,57,55-64,Other,Married,Lower,Self employed,Working class,Muslim,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,58,55-64,Other,Married,Lower,Self employed,Upper middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,59,55-64,Bengali; Bangla,Married,Middle,Retired/pensioned,Upper middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,59,55-64,Other,Married,Lower,Unemployed,Working class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,60,55-64,Bengali; Bangla,Married,Middle,Self employed,Upper middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,60,55-64,Other,Living together as married,Lower,Unemployed,Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,60,55-64,Other,Married,Lower,Unemployed,Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,66,65 and more years,Bengali; Bangla,Married,Higher,Retired/pensioned,Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,66,65 and more years,Other,Married,Lower,Self employed,Lower middle class,Muslim,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,67,65 and more years,Other,Married,Lower,Self employed,Lower class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,68,65 and more years,Bengali; Bangla,Married,Middle,Retired/pensioned,Upper middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,68,65 and more years,Other,Married,Lower,Self employed,Lower middle class,Muslim,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,68,65 and more years,Other,Married,Lower,Unemployed,Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,69,65 and more years,Bengali; Bangla,Married,Higher,Part time (less than 30 hours a week),Lower class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,69,65 and more years,Other,Widowed,Lower,Unemployed,Lower class,Hindu,1
+2023,India,IN-WB West Bengal,Rural,Hindi,Male,76,65 and more years,Bengali; Bangla,Widowed,Lower,Self employed,Lower class,Muslim,1
+2023,India,IN-WB West Bengal,Urban,Hindi,Female,16,16-24,Bengali; Bangla,Single,Middle,Unemployed,Upper middle class,Hindu,1
+2023,India,IN-WB West Bengal,Urban,Hindi,Female,16,16-24,Other,Single,Middle,Homemaker not otherwise employed,Upper middle class,Hindu,1
+2023,India,IN-WB West Bengal,Urban,Hindi,Female,17,16-24,Bengali; Bangla,Single,Higher,Homemaker not otherwise employed,Upper middle class,Hindu,1
+2023,India,IN-WB West Bengal,Urban,Hindi,Female,17,16-24,Bengali; Bangla,Single,Middle,Student,Upper middle class,Hindu,1
+2023,India,IN-WB West Bengal,Urban,Hindi,Female,17,16-24,Bengali; Bangla,Single,Middle,Student,Upper middle class,Muslim,1
+2023,India,IN-WB West Bengal,Urban,Hindi,Female,17,16-24,Other,Single,Middle,Student,Upper class,Hindu,1
+2023,India,IN-WB West Bengal,Urban,Hindi,Female,23,16-24,Bengali; Bangla,Single,Higher,Self employed,Upper middle class,Hindu,1
+2023,India,IN-WB West Bengal,Urban,Hindi,Female,25,25-34,Bengali; Bangla,Married,Higher,Don't know,Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Urban,Hindi,Female,25,25-34,Bengali; Bangla,Single,Higher,Unemployed,Working class,Hindu,1
+2023,India,IN-WB West Bengal,Urban,Hindi,Female,27,25-34,Bengali; Bangla,Married,Middle,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Urban,Hindi,Female,28,25-34,Bengali; Bangla,Married,Higher,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Urban,Hindi,Female,31,25-34,Bengali; Bangla,Married,Middle,Homemaker not otherwise employed,Lower class,Hindu,1
+2023,India,IN-WB West Bengal,Urban,Hindi,Female,32,25-34,Bengali; Bangla,Married,Middle,Homemaker not otherwise employed,Upper middle class,Hindu,1
+2023,India,IN-WB West Bengal,Urban,Hindi,Female,34,25-34,Bengali; Bangla,Married,Higher,Homemaker not otherwise employed,Upper middle class,Hindu,1
+2023,India,IN-WB West Bengal,Urban,Hindi,Female,35,35-44,Bengali; Bangla,Married,Middle,Self employed,Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Urban,Hindi,Female,37,35-44,Other,Married,Lower,Other,Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Urban,Hindi,Female,38,35-44,Bengali; Bangla,Married,Higher,Retired/pensioned,Upper middle class,Hindu,1
+2023,India,IN-WB West Bengal,Urban,Hindi,Female,38,35-44,Bengali; Bangla,Married,Higher,Self employed,Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Urban,Hindi,Female,39,35-44,Hindi,Married,Middle,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Urban,Hindi,Female,40,35-44,Bengali; Bangla,Married,Higher,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Urban,Hindi,Female,45,45-54,Bengali; Bangla,Married,Middle,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Urban,Hindi,Female,48,45-54,Bengali; Bangla,Married,Lower,Unemployed,Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Urban,Hindi,Female,48,45-54,Other,Married,Lower,Homemaker not otherwise employed,Lower middle class,Muslim,1
+2023,India,IN-WB West Bengal,Urban,Hindi,Female,49,45-54,Bengali; Bangla,Married,Lower,Homemaker not otherwise employed,Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Urban,Hindi,Female,51,45-54,Bengali; Bangla,Married,Higher,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-WB West Bengal,Urban,Hindi,Female,52,45-54,Other,Married,Middle,Homemaker not otherwise employed,Upper middle class,Hindu,1
+2023,India,IN-WB West Bengal,Urban,Hindi,Female,66,65 and more years,Bengali; Bangla,Married,Lower,Unemployed,Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Urban,Hindi,Female,78,65 and more years,Bengali; Bangla,Married,Higher,Homemaker not otherwise employed,Upper middle class,Hindu,1
+2023,India,IN-WB West Bengal,Urban,Hindi,Male,16,16-24,Bengali; Bangla,Single,Middle,Unemployed,Upper middle class,Hindu,1
+2023,India,IN-WB West Bengal,Urban,Hindi,Male,17,16-24,Bengali; Bangla,Single,Middle,Student,Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Urban,Hindi,Male,17,16-24,Bengali; Bangla,Single,Middle,Student,Upper middle class,Hindu,2
+2023,India,IN-WB West Bengal,Urban,Hindi,Male,21,16-24,Bengali; Bangla,Single,Higher,Student,Upper middle class,Hindu,1
+2023,India,IN-WB West Bengal,Urban,Hindi,Male,21,16-24,Bengali; Bangla,Single,Lower,Part time (less than 30 hours a week),Upper middle class,Hindu,1
+2023,India,IN-WB West Bengal,Urban,Hindi,Male,21,16-24,Bengali; Bangla,Single,Middle,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Urban,Hindi,Male,24,16-24,Bengali; Bangla,Single,Lower,Self employed,Working class,Hindu,1
+2023,India,IN-WB West Bengal,Urban,Hindi,Male,26,25-34,Bengali; Bangla,Single,Higher,Student,Upper middle class,Hindu,1
+2023,India,IN-WB West Bengal,Urban,Hindi,Male,27,25-34,Other,Married,Middle,Self employed,Upper middle class,Hindu,1
+2023,India,IN-WB West Bengal,Urban,Hindi,Male,32,25-34,Bengali; Bangla,Married,Middle,Full time (30 hours a week or more),Upper middle class,Hindu,1
+2023,India,IN-WB West Bengal,Urban,Hindi,Male,34,25-34,Bengali; Bangla,Married,Higher,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Urban,Hindi,Male,34,25-34,Bengali; Bangla,Married,Middle,Retired/pensioned,Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Urban,Hindi,Male,40,35-44,Bengali; Bangla,Married,Higher,Part time (less than 30 hours a week),Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Urban,Hindi,Male,41,35-44,Hindi,Married,Lower,Self employed,Lower class,Hindu,1
+2023,India,IN-WB West Bengal,Urban,Hindi,Male,41,35-44,Other,Married,Higher,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Urban,Hindi,Male,43,35-44,Other,Married,Higher,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Urban,Hindi,Male,45,45-54,Bengali; Bangla,Married,Lower,Full time (30 hours a week or more),Working class,Hindu,1
+2023,India,IN-WB West Bengal,Urban,Hindi,Male,46,45-54,Bengali; Bangla,Married,Middle,Self employed,Upper middle class,Hindu,1
+2023,India,IN-WB West Bengal,Urban,Hindi,Male,50,45-54,Other,Married,Lower,Part time (less than 30 hours a week),Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Urban,Hindi,Male,55,55-64,Bengali; Bangla,Married,Middle,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Urban,Hindi,Male,58,55-64,Bengali; Bangla,Married,Higher,Full time (30 hours a week or more),Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Urban,Hindi,Male,58,55-64,Bengali; Bangla,Married,Middle,Full time (30 hours a week or more),Lower class,Hindu,1
+2023,India,IN-WB West Bengal,Urban,Hindi,Male,58,55-64,Other,Married,Higher,Part time (less than 30 hours a week),Upper middle class,Hindu,1
+2023,India,IN-WB West Bengal,Urban,Hindi,Male,62,55-64,Bengali; Bangla,Married,Lower,Retired/pensioned,Lower middle class,Hindu,1
+2023,India,IN-WB West Bengal,Urban,Hindi,Male,78,65 and more years,Other,Married,Lower,Unemployed,Upper middle class,Hindu,1
