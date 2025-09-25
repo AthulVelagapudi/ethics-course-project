@@ -3,16 +3,12 @@
         "B_COUNTRY: ISO 3166-1 numeric country code",
         "N_REGION_ISO: Region ISO 3166-2",
         "H_URBRURAL: Urban-Rural",
-        "S_INTLANGUAGE: Language in which interview was conducted",
         "Q260: Sex",
-        "Q262: Age",
         "X003R: Age recoded (6 intervals)",
         "Q272: Language at home",
         "Q273: Marital status",
         "Q275R: Highest educational level: Respondent (recoded into 3 groups)",
-        "Q279: Employment status",
-        "Q287: Social class (subjective)",
-        "Q289: Religious denominations - major groups"
+        "Q287: Social class (subjective)"
         ],
     "chosen_cols": {
         "Q1": false,
