@@ -8,7 +8,7 @@ from tqdm import tqdm
 INPUT_DIRECTORY = "data"
 INPUT_FILE_NAME = "questions"
 OUTPUT_DIRECTORY = "data/translated_questions"
-LANGUAGES = ["mr", "pa"]
+LANGUAGES = ["ja", "ru"]
 
 load_dotenv()
 API_KEY = os.getenv("GOOGLE_API_KEY")
