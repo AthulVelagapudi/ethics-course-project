@@ -1,0 +1,1458 @@
+V260: Year survey,B_COUNTRY_ALPHA: Country code ISO 3166 alpha,N_REGION_ISO: Region ISO,G_TOWNSIZE2: Settlement size_5 groups,V235: Sex,V237R: Age recoded (6 intervals),V222: Language at home,V55: Marital status,V238R: Highest educational level: Respondent (recoded into 3 groups),V252: Social class (subjective),Counts
+2006,-4,IN-AP Andhra Pradesh,100000-500000,Female,25-34,Urdu,Married,Higher,Upper middle class,1
+2006,-4,IN-AP Andhra Pradesh,100000-500000,Female,35-44,Telugu,Married,Lower,Don´t know,1
+2006,-4,IN-AP Andhra Pradesh,100000-500000,Male,15-24,Urdu,Single/Never married,Higher,Lower middle class,2
+2006,-4,IN-AP Andhra Pradesh,100000-500000,Male,15-24,Urdu,Single/Never married,Higher,Upper middle class,3
+2006,-4,IN-AP Andhra Pradesh,100000-500000,Male,25-34,Urdu,Married,Higher,Lower middle class,1
+2006,-4,IN-AP Andhra Pradesh,100000-500000,Male,35-44,Urdu,Married,Lower,Don´t know,1
+2006,-4,IN-AP Andhra Pradesh,100000-500000,Male,45-54,Urdu,Married,Middle,Upper middle class,1
+2006,-4,IN-AP Andhra Pradesh,100000-500000,Male,55-64,Telugu,Married,Higher,Upper middle class,1
+2006,-4,IN-AP Andhra Pradesh,100000-500000,Male,55-64,Urdu,Married,Higher,Upper middle class,1
+2006,-4,IN-AP Andhra Pradesh,100000-500000,Male,55-64,Urdu,Married,Middle,Don´t know,1
+2006,-4,IN-AP Andhra Pradesh,20000-100000,Female,"65 and more years""",Telugu,Married,Lower,Upper middle class,1
+2006,-4,IN-AP Andhra Pradesh,5000-20000,Female,15-24,Telugu,Living together as married,Higher,Upper class,1
+2006,-4,IN-AP Andhra Pradesh,5000-20000,Female,15-24,Telugu,Married,Middle,Don´t know,1
+2006,-4,IN-AP Andhra Pradesh,5000-20000,Female,15-24,Telugu,Married,Middle,Lower middle class,1
+2006,-4,IN-AP Andhra Pradesh,5000-20000,Female,25-34,Telugu,Married,Lower,Don´t know,2
+2006,-4,IN-AP Andhra Pradesh,5000-20000,Female,25-34,Telugu,Married,Lower,Upper middle class,1
+2006,-4,IN-AP Andhra Pradesh,5000-20000,Female,35-44,Telugu,Married,Lower,Don´t know,2
+2006,-4,IN-AP Andhra Pradesh,5000-20000,Female,35-44,Telugu,Married,Lower,Upper middle class,2
+2006,-4,IN-AP Andhra Pradesh,5000-20000,Female,35-44,Telugu,Married,Lower,Working class,1
+2006,-4,IN-AP Andhra Pradesh,5000-20000,Female,45-54,Telugu,Married,Lower,Lower middle class,1
+2006,-4,IN-AP Andhra Pradesh,5000-20000,Female,45-54,Telugu,Married,Lower,Upper middle class,2
+2006,-4,IN-AP Andhra Pradesh,5000-20000,Female,55-64,Telugu,Married,Lower,Don´t know,3
+2006,-4,IN-AP Andhra Pradesh,5000-20000,Female,55-64,Telugu,Married,Lower,Lower middle class,2
+2006,-4,IN-AP Andhra Pradesh,5000-20000,Female,55-64,Telugu,Married,Lower,Upper middle class,1
+2006,-4,IN-AP Andhra Pradesh,5000-20000,Female,"65 and more years""",Telugu,Married,Lower,Upper middle class,1
+2006,-4,IN-AP Andhra Pradesh,5000-20000,Male,15-24,Telugu,Living together as married,Higher,Upper middle class,1
+2006,-4,IN-AP Andhra Pradesh,5000-20000,Male,15-24,Telugu,Living together as married,Middle,Working class,1
+2006,-4,IN-AP Andhra Pradesh,5000-20000,Male,15-24,Telugu,Married,Middle,Lower middle class,1
+2006,-4,IN-AP Andhra Pradesh,5000-20000,Male,15-24,Telugu,Single/Never married,Middle,Don´t know,1
+2006,-4,IN-AP Andhra Pradesh,5000-20000,Male,25-34,Telugu,Married,Lower,Don´t know,1
+2006,-4,IN-AP Andhra Pradesh,5000-20000,Male,25-34,Telugu,Married,Lower,Lower middle class,3
+2006,-4,IN-AP Andhra Pradesh,5000-20000,Male,25-34,Telugu,Married,Lower,Upper class,1
+2006,-4,IN-AP Andhra Pradesh,5000-20000,Male,25-34,Telugu,Married,Lower,Upper middle class,2
+2006,-4,IN-AP Andhra Pradesh,5000-20000,Male,25-34,Telugu,Married,Middle,Don´t know,1
+2006,-4,IN-AP Andhra Pradesh,5000-20000,Male,35-44,Telugu,Married,Lower,Don´t know,1
+2006,-4,IN-AP Andhra Pradesh,5000-20000,Male,35-44,Telugu,Married,Lower,Lower middle class,1
+2006,-4,IN-AP Andhra Pradesh,5000-20000,Male,35-44,Telugu,Married,Lower,Upper middle class,1
+2006,-4,IN-AP Andhra Pradesh,5000-20000,Male,55-64,Telugu,Married,Lower,Upper middle class,2
+2006,-4,IN-AP Andhra Pradesh,5000-20000,Male,"65 and more years""",Telugu,Married,Lower,Don´t know,1
+2006,-4,IN-AP Andhra Pradesh,5000-20000,Male,"65 and more years""",Telugu,Married,Lower,Lower middle class,1
+2006,-4,IN-AP Andhra Pradesh,5000-20000,Male,"65 and more years""",Telugu,Married,Lower,Working class,1
+2006,-4,IN-AP Andhra Pradesh,No answer; Missing,Male,25-34,Telugu,Married,Middle,Lower middle class,1
+2006,-4,IN-AP Andhra Pradesh,No answer; Missing,Male,35-44,Bengali; Bangla,Married,Lower,Working class,1
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Female,15-24,Telugu,Married,Don´t know,Lower middle class,1
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Female,15-24,Telugu,Married,Higher,Upper middle class,1
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Female,25-34,Other,Married,Lower,Working class,1
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Female,25-34,Telugu,Living together as married,Lower,Don´t know,3
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Female,25-34,Telugu,Living together as married,Middle,Lower middle class,1
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Female,25-34,Telugu,Married,Higher,Lower middle class,1
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Female,25-34,Telugu,Married,Lower,Don´t know,2
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Female,25-34,Telugu,Married,Lower,Lower middle class,1
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Female,25-34,Telugu,Married,Middle,Lower middle class,1
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Female,25-34,Telugu,Married,Middle,Upper middle class,3
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Female,25-34,Urdu,Married,Higher,Upper middle class,1
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Female,35-44,Other,Married,Lower,Don´t know,1
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Female,35-44,Other,Married,Lower,Working class,1
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Female,35-44,Telugu,Living together as married,Lower,Don´t know,3
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Female,35-44,Telugu,Married,Lower,Lower middle class,1
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Female,35-44,Telugu,Married,Lower,Working class,2
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Female,45-54,Other,Married,Lower,Working class,1
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Female,45-54,Telugu,Living together as married,Lower,Don´t know,1
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Female,45-54,Telugu,Married,Lower,Don´t know,1
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Female,55-64,Telugu,Living together as married,Lower,Don´t know,1
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Female,55-64,Telugu,Married,Don´t know,Don´t know,1
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Female,55-64,Telugu,Married,Middle,Don´t know,1
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Female,55-64,Urdu,Living together as married,Lower,Lower middle class,1
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Female,"65 and more years""",Telugu,Living together as married,Lower,Don´t know,2
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Female,"65 and more years""",Telugu,Living together as married,Lower,Lower middle class,1
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Female,"65 and more years""",Telugu,Married,Lower,Don´t know,1
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Male,15-24,Telugu,Living together as married,Higher,Lower middle class,1
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Male,15-24,Telugu,Living together as married,Lower,Don´t know,1
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Male,15-24,Telugu,Single/Never married,Lower,Upper middle class,1
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Male,25-34,Other,Married,Higher,Lower middle class,1
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Male,25-34,Other,Married,Higher,Working class,1
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Male,25-34,Telugu,Living together as married,Lower,Don´t know,1
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Male,25-34,Telugu,Married,Higher,Don´t know,1
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Male,25-34,Telugu,Married,Higher,Lower middle class,3
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Male,25-34,Telugu,Married,Higher,Upper class,1
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Male,25-34,Telugu,Married,Higher,Upper middle class,1
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Male,25-34,Telugu,Married,Lower,Working class,1
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Male,25-34,Telugu,Married,Middle,Working class,1
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Male,25-34,Urdu,Living together as married,Don´t know,Upper class,1
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Male,25-34,Urdu,Living together as married,Lower,Upper middle class,1
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Male,25-34,Urdu,Married,Lower,Don´t know,1
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Male,35-44,Telugu,Living together as married,Higher,Lower middle class,1
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Male,35-44,Telugu,Living together as married,Lower,Don´t know,1
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Male,35-44,Telugu,Married,Higher,Upper class,1
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Male,35-44,Telugu,Married,Lower,Lower middle class,1
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Male,35-44,Telugu,Married,Lower,Upper class,1
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Male,35-44,Telugu,Married,Middle,Working class,1
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Male,45-54,Other,Married,Lower,Don´t know,1
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Male,45-54,Other,Married,Lower,Working class,1
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Male,45-54,Telugu,Living together as married,Don´t know,Upper class,1
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Male,45-54,Telugu,Living together as married,Higher,Upper middle class,1
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Male,45-54,Telugu,Living together as married,Lower,Don´t know,2
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Male,45-54,Telugu,Living together as married,Middle,Don´t know,1
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Male,45-54,Telugu,Living together as married,Middle,Lower middle class,1
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Male,45-54,Telugu,Living together as married,Middle,Working class,1
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Male,45-54,Telugu,Married,Lower,Don´t know,1
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Male,45-54,Telugu,Married,Lower,Lower middle class,4
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Male,45-54,Telugu,Married,Lower,Upper middle class,2
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Male,45-54,Telugu,Married,Lower,Working class,3
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Male,45-54,Telugu,Married,Middle,Upper class,1
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Male,45-54,Urdu,Living together as married,Middle,Upper middle class,1
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Male,55-64,Sindhi,Married,Lower,Don´t know,1
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Male,55-64,Telugu,Living together as married,Lower,Lower middle class,1
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Male,55-64,Telugu,Married,Don´t know,Don´t know,1
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Male,55-64,Telugu,Married,Lower,Don´t know,1
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Male,55-64,Telugu,Married,Lower,Lower middle class,1
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Male,55-64,Telugu,Married,Lower,Working class,1
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Male,"65 and more years""",Telugu,Living together as married,Lower,Lower middle class,1
+2006,-4,IN-AS Assam,5000-20000,Female,15-24,Assamese,Single/Never married,Higher,Lower middle class,1
+2006,-4,IN-AS Assam,5000-20000,Female,15-24,Assamese,Single/Never married,Higher,Upper middle class,1
+2006,-4,IN-AS Assam,5000-20000,Female,15-24,Marwari,Single/Never married,Higher,Upper middle class,1
+2006,-4,IN-AS Assam,5000-20000,Female,15-24,Marwari,Single/Never married,Middle,Lower middle class,1
+2006,-4,IN-AS Assam,5000-20000,Female,25-34,Assamese,Living together as married,Higher,Lower middle class,1
+2006,-4,IN-AS Assam,5000-20000,Female,25-34,Assamese,Married,Higher,Lower class,1
+2006,-4,IN-AS Assam,5000-20000,Female,25-34,Assamese,Married,Higher,Lower middle class,2
+2006,-4,IN-AS Assam,5000-20000,Female,25-34,Assamese,Married,Higher,Upper middle class,1
+2006,-4,IN-AS Assam,5000-20000,Female,25-34,Assamese,Single/Never married,Higher,Upper middle class,1
+2006,-4,IN-AS Assam,5000-20000,Female,25-34,Bengali; Bangla,Married,Higher,Lower middle class,1
+2006,-4,IN-AS Assam,5000-20000,Female,25-34,Nepali,Married,Middle,Lower class,1
+2006,-4,IN-AS Assam,5000-20000,Female,35-44,Assamese,Married,Higher,Lower middle class,1
+2006,-4,IN-AS Assam,5000-20000,Female,35-44,Assamese,Married,Middle,Lower class,2
+2006,-4,IN-AS Assam,5000-20000,Female,35-44,Assamese,Married,Middle,Working class,1
+2006,-4,IN-AS Assam,5000-20000,Female,35-44,Hindi,Married,Middle,Lower middle class,1
+2006,-4,IN-AS Assam,5000-20000,Female,35-44,Urdu,Married,Higher,Lower class,1
+2006,-4,IN-AS Assam,5000-20000,Female,45-54,Assamese,Married,Higher,Upper middle class,1
+2006,-4,IN-AS Assam,5000-20000,Female,45-54,Nepali,Married,Higher,Lower middle class,1
+2006,-4,IN-AS Assam,5000-20000,Male,15-24,Assamese,Single/Never married,Higher,Lower middle class,1
+2006,-4,IN-AS Assam,5000-20000,Male,15-24,Assamese,Single/Never married,Higher,Upper class,1
+2006,-4,IN-AS Assam,5000-20000,Male,15-24,Bengali; Bangla,Single/Never married,Higher,Lower class,1
+2006,-4,IN-AS Assam,5000-20000,Male,15-24,Bengali; Bangla,Single/Never married,Middle,Lower middle class,1
+2006,-4,IN-AS Assam,5000-20000,Male,15-24,Hindi,Single/Never married,Higher,Upper middle class,2
+2006,-4,IN-AS Assam,5000-20000,Male,15-24,Nepali,Single/Never married,Higher,Lower middle class,1
+2006,-4,IN-AS Assam,5000-20000,Male,15-24,Urdu,Single/Never married,Higher,Lower middle class,1
+2006,-4,IN-AS Assam,5000-20000,Male,25-34,Assamese,Single/Never married,Higher,Lower middle class,1
+2006,-4,IN-AS Assam,5000-20000,Male,25-34,Bengali; Bangla,Married,Higher,Lower middle class,2
+2006,-4,IN-AS Assam,5000-20000,Male,25-34,Bengali; Bangla,Single/Never married,Higher,Lower middle class,1
+2006,-4,IN-AS Assam,5000-20000,Male,25-34,Nepali,Married,Higher,Lower middle class,1
+2006,-4,IN-AS Assam,5000-20000,Male,25-34,Oriya,Married,Higher,Lower middle class,1
+2006,-4,IN-AS Assam,5000-20000,Male,35-44,Assamese,Married,Higher,Lower middle class,1
+2006,-4,IN-AS Assam,5000-20000,Male,45-54,Assamese,Married,Higher,Upper middle class,1
+2006,-4,IN-AS Assam,5000-20000,Male,45-54,Nepali,Married,Higher,Lower middle class,1
+2006,-4,IN-AS Assam,5000-20000,Male,45-54,"Punjabi, Panjabi",Married,Higher,Upper middle class,1
+2006,-4,IN-AS Assam,5000-20000,Male,55-64,Assamese,Married,Higher,Working class,1
+2006,-4,IN-AS Assam,"Under 5,000",Female,15-24,Assamese,Single/Never married,Higher,Lower middle class,3
+2006,-4,IN-AS Assam,"Under 5,000",Female,25-34,Assamese,Married,Higher,Lower middle class,1
+2006,-4,IN-AS Assam,"Under 5,000",Male,15-24,Assamese,Single/Never married,Higher,Lower middle class,1
+2006,-4,IN-AS Assam,"Under 5,000",Male,15-24,Assamese,Single/Never married,Middle,Upper middle class,1
+2006,-4,IN-AS Assam,"Under 5,000",Male,25-34,Assamese,Married,Higher,Lower middle class,1
+2006,-4,IN-AS Assam,"Under 5,000",Male,25-34,Assamese,Single/Never married,Higher,Lower middle class,1
+2006,-4,IN-AS Assam,"Under 5,000",Male,35-44,Assamese,Married,Higher,Lower middle class,3
+2006,-4,IN-AS Assam,"Under 5,000",Male,45-54,Assamese,Married,Higher,Lower middle class,1
+2006,-4,IN-AS Assam,"Under 5,000",Male,45-54,Assamese,Married,Lower,Lower middle class,1
+2006,-4,IN-BR Bihar,5000-20000,Female,25-34,Hindi,Married,Higher,Lower middle class,1
+2006,-4,IN-BR Bihar,5000-20000,Female,25-34,Hindi,Married,Higher,Upper middle class,1
+2006,-4,IN-BR Bihar,5000-20000,Female,25-34,Hindi,Married,Middle,Upper middle class,1
+2006,-4,IN-BR Bihar,5000-20000,Female,25-34,Other,Married,Higher,Upper class,1
+2006,-4,IN-BR Bihar,5000-20000,Female,25-34,Other,Married,Middle,Upper class,2
+2006,-4,IN-BR Bihar,5000-20000,Female,35-44,Hindi,Married,Higher,Upper class,1
+2006,-4,IN-BR Bihar,5000-20000,Female,35-44,Other,Married,Lower,Upper class,1
+2006,-4,IN-BR Bihar,5000-20000,Female,35-44,Other,Married,Middle,Upper class,1
+2006,-4,IN-BR Bihar,5000-20000,Female,35-44,Other,Married,Middle,Upper middle class,1
+2006,-4,IN-BR Bihar,5000-20000,Female,45-54,Hindi,Married,Higher,Lower middle class,1
+2006,-4,IN-BR Bihar,5000-20000,Female,45-54,Other,Married,Middle,Lower middle class,1
+2006,-4,IN-BR Bihar,5000-20000,Female,55-64,Other,Married,Lower,Upper middle class,1
+2006,-4,IN-BR Bihar,5000-20000,Female,"65 and more years""",Hindi,Widowed,Lower,Working class,1
+2006,-4,IN-BR Bihar,5000-20000,Male,15-24,Other,Married,Higher,Upper class,1
+2006,-4,IN-BR Bihar,5000-20000,Male,15-24,Other,Single/Never married,Higher,Upper middle class,1
+2006,-4,IN-BR Bihar,5000-20000,Male,25-34,Hindi,Married,Higher,Upper class,1
+2006,-4,IN-BR Bihar,5000-20000,Male,25-34,Hindi,Married,Middle,Lower middle class,1
+2006,-4,IN-BR Bihar,5000-20000,Male,25-34,Other,Married,Higher,Upper class,1
+2006,-4,IN-BR Bihar,5000-20000,Male,25-34,Other,Married,Lower,Upper class,1
+2006,-4,IN-BR Bihar,5000-20000,Male,25-34,Other,Married,Middle,Lower class,1
+2006,-4,IN-BR Bihar,5000-20000,Male,35-44,Other,Married,Higher,Upper class,1
+2006,-4,IN-BR Bihar,5000-20000,Male,35-44,Other,Married,Lower,Lower class,1
+2006,-4,IN-BR Bihar,5000-20000,Male,35-44,Other,Married,Lower,Lower middle class,1
+2006,-4,IN-BR Bihar,5000-20000,Male,35-44,Other,Married,Middle,Upper class,1
+2006,-4,IN-BR Bihar,5000-20000,Male,45-54,Hindi,Married,Higher,Upper middle class,1
+2006,-4,IN-BR Bihar,5000-20000,Male,45-54,Other,Married,Higher,Upper class,1
+2006,-4,IN-BR Bihar,5000-20000,Male,45-54,Other,Married,Lower,Lower class,1
+2006,-4,IN-BR Bihar,5000-20000,Male,45-54,Other,Married,Middle,Upper class,2
+2006,-4,IN-BR Bihar,5000-20000,Male,45-54,Other,Married,Middle,Upper middle class,1
+2006,-4,IN-BR Bihar,5000-20000,Male,55-64,Other,Married,Higher,Upper class,1
+2006,-4,IN-BR Bihar,5000-20000,Male,"65 and more years""",Other,Married,Lower,Upper class,1
+2006,-4,IN-BR Bihar,5000-20000,Male,"65 and more years""",Other,Married,Lower,Upper middle class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Female,15-24,Gujarati,Married,Middle,Working class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Female,15-24,Other,Married,Lower,Lower class,2
+2006,-4,IN-BR Bihar,"Under 5,000",Female,15-24,Other,Married,Lower,Working class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Female,25-34,Hindi,Married,Higher,Lower middle class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Female,25-34,Hindi,Married,Higher,Upper middle class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Female,25-34,Hindi,Married,Lower,Working class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Female,25-34,Hindi,Married,Middle,Lower class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Female,25-34,Hindi,Married,Middle,Lower middle class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Female,25-34,Other,Married,Higher,Lower middle class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Female,25-34,Other,Married,Lower,Lower class,5
+2006,-4,IN-BR Bihar,"Under 5,000",Female,25-34,Other,Married,Lower,Working class,4
+2006,-4,IN-BR Bihar,"Under 5,000",Female,25-34,Other,Married,Middle,Lower middle class,2
+2006,-4,IN-BR Bihar,"Under 5,000",Female,35-44,Bengali; Bangla,Married,Lower,Lower middle class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Female,35-44,Hindi,Married,Lower,Lower class,3
+2006,-4,IN-BR Bihar,"Under 5,000",Female,35-44,Hindi,Married,Lower,Working class,3
+2006,-4,IN-BR Bihar,"Under 5,000",Female,35-44,Other,Married,Lower,Lower class,7
+2006,-4,IN-BR Bihar,"Under 5,000",Female,35-44,Other,Married,Lower,Lower middle class,2
+2006,-4,IN-BR Bihar,"Under 5,000",Female,35-44,Other,Married,Lower,Working class,5
+2006,-4,IN-BR Bihar,"Under 5,000",Female,35-44,Other,Married,Middle,Lower middle class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Female,35-44,Other,Widowed,Higher,Lower class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Female,45-54,Hindi,Married,Lower,Lower class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Female,45-54,Hindi,Married,Lower,Working class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Female,45-54,Hindi,Married,Middle,Lower middle class,2
+2006,-4,IN-BR Bihar,"Under 5,000",Female,45-54,Other,Married,Lower,Lower class,2
+2006,-4,IN-BR Bihar,"Under 5,000",Female,45-54,Other,Married,Lower,Lower middle class,3
+2006,-4,IN-BR Bihar,"Under 5,000",Female,45-54,Other,Married,Lower,Working class,3
+2006,-4,IN-BR Bihar,"Under 5,000",Female,45-54,Other,Married,Middle,Lower middle class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Female,45-54,Other,Married,Middle,Upper class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Female,45-54,Other,Widowed,Middle,Lower middle class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Female,45-54,Other,Widowed,Middle,Upper middle class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Female,55-64,Hindi,Married,Lower,Upper middle class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Female,55-64,Hindi,Widowed,Lower,Lower class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Female,55-64,Other,Married,Lower,Lower class,3
+2006,-4,IN-BR Bihar,"Under 5,000",Female,55-64,Other,Widowed,Middle,Upper middle class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Female,"65 and more years""",Hindi,Married,Lower,Working class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Female,"65 and more years""",Other,Married,Lower,Lower class,3
+2006,-4,IN-BR Bihar,"Under 5,000",Female,"65 and more years""",Other,Married,Lower,Lower middle class,3
+2006,-4,IN-BR Bihar,"Under 5,000",Female,"65 and more years""",Other,Married,Lower,Working class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Female,"65 and more years""",Other,Widowed,Lower,Lower middle class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Female,"65 and more years""",Other,Widowed,Lower,Working class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Male,15-24,Assamese,Married,Lower,Lower middle class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Male,15-24,Hindi,Married,Middle,Working class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Male,15-24,Hindi,Single/Never married,Higher,Upper middle class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Male,15-24,Other,Married,Higher,Upper middle class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Male,15-24,Other,Married,Lower,Lower class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Male,15-24,Other,Single/Never married,Higher,Lower middle class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Male,15-24,Other,Single/Never married,Middle,Working class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Male,25-34,Hindi,Married,Higher,Lower middle class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Male,25-34,Hindi,Married,Higher,Upper middle class,2
+2006,-4,IN-BR Bihar,"Under 5,000",Male,25-34,Hindi,Married,Higher,Working class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Male,25-34,Hindi,Married,Lower,Lower middle class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Male,25-34,Hindi,Married,Lower,Working class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Male,25-34,Hindi,Married,Middle,Working class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Male,25-34,Hindi,Single/Never married,Higher,Lower middle class,2
+2006,-4,IN-BR Bihar,"Under 5,000",Male,25-34,Other,Married,Higher,Lower middle class,2
+2006,-4,IN-BR Bihar,"Under 5,000",Male,25-34,Other,Married,Lower,Lower class,4
+2006,-4,IN-BR Bihar,"Under 5,000",Male,25-34,Other,Married,Lower,Upper class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Male,25-34,Other,Married,Lower,Working class,2
+2006,-4,IN-BR Bihar,"Under 5,000",Male,25-34,Other,Married,Middle,Lower middle class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Male,25-34,Other,Married,Middle,Working class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Male,25-34,Other,Single/Never married,Middle,Working class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Male,35-44,Hindi,Married,Higher,Lower middle class,3
+2006,-4,IN-BR Bihar,"Under 5,000",Male,35-44,Hindi,Married,Higher,Upper middle class,2
+2006,-4,IN-BR Bihar,"Under 5,000",Male,35-44,Hindi,Married,Higher,Working class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Male,35-44,Hindi,Married,Middle,Lower class,2
+2006,-4,IN-BR Bihar,"Under 5,000",Male,35-44,Hindi,Married,Middle,Lower middle class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Male,35-44,Other,Married,Higher,Lower middle class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Male,35-44,Other,Married,Higher,Upper class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Male,35-44,Other,Married,Higher,Upper middle class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Male,35-44,Other,Married,Higher,Working class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Male,35-44,Other,Married,Lower,Lower class,4
+2006,-4,IN-BR Bihar,"Under 5,000",Male,35-44,Other,Married,Lower,Lower middle class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Male,35-44,Other,Married,Lower,Working class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Male,35-44,Other,Married,Middle,Lower middle class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Male,35-44,Other,Married,Middle,Upper middle class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Male,45-54,Hindi,Married,Lower,Working class,3
+2006,-4,IN-BR Bihar,"Under 5,000",Male,45-54,Hindi,Married,Middle,Working class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Male,45-54,Other,Married,Higher,Lower middle class,2
+2006,-4,IN-BR Bihar,"Under 5,000",Male,45-54,Other,Married,Lower,Lower class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Male,45-54,Other,Married,Lower,Lower middle class,2
+2006,-4,IN-BR Bihar,"Under 5,000",Male,45-54,Other,Married,Lower,Working class,5
+2006,-4,IN-BR Bihar,"Under 5,000",Male,55-64,Hindi,Married,Higher,Upper middle class,2
+2006,-4,IN-BR Bihar,"Under 5,000",Male,55-64,Hindi,Married,Lower,Lower class,2
+2006,-4,IN-BR Bihar,"Under 5,000",Male,55-64,Hindi,Married,Lower,Lower middle class,2
+2006,-4,IN-BR Bihar,"Under 5,000",Male,55-64,Other,Married,Higher,Upper class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Male,55-64,Other,Married,Lower,Lower class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Male,55-64,Other,Married,Lower,Lower middle class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Male,55-64,Other,Married,Middle,Lower middle class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Male,55-64,Other,Married,Middle,Upper class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Male,"65 and more years""",Hindi,Married,Lower,Lower class,2
+2006,-4,IN-BR Bihar,"Under 5,000",Male,"65 and more years""",Hindi,Married,Middle,Lower middle class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Male,"65 and more years""",Hindi,Widowed,Lower,Upper class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Male,"65 and more years""",Other,Married,Higher,Lower middle class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Male,"65 and more years""",Other,Married,Lower,Lower middle class,2
+2006,-4,IN-BR Bihar,"Under 5,000",Male,"65 and more years""",Other,Married,Lower,Upper class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Male,"65 and more years""",Other,Married,Lower,Working class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Male,"65 and more years""",Other,Married,Middle,Lower middle class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Male,"65 and more years""",Other,Widowed,Lower,Lower class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Male,"65 and more years""",Other,Widowed,Lower,Lower middle class,1
+2006,-4,IN-BR Bihar,"Under 5,000",Male,"65 and more years""",Other,Widowed,Middle,Lower middle class,1
+2006,-4,IN-CT Chhattisgarh,20000-100000,Female,45-54,Other,Married,Middle,Lower middle class,1
+2006,-4,IN-CT Chhattisgarh,20000-100000,Female,"65 and more years""",Other,Married,No answer,Lower middle class,1
+2006,-4,IN-CT Chhattisgarh,20000-100000,Male,15-24,Hindi,Single/Never married,Middle,Lower middle class,1
+2006,-4,IN-CT Chhattisgarh,20000-100000,Male,35-44,Other,Married,Higher,Lower middle class,1
+2006,-4,IN-CT Chhattisgarh,20000-100000,Male,35-44,Other,Married,Lower,Lower middle class,1
+2006,-4,IN-CT Chhattisgarh,20000-100000,Male,45-54,Other,Married,Middle,Lower middle class,2
+2006,-4,IN-CT Chhattisgarh,20000-100000,Male,55-64,Hindi,Married,Lower,Working class,1
+2006,-4,IN-CT Chhattisgarh,5000-20000,Female,25-34,Hindi,Married,Lower,Lower middle class,1
+2006,-4,IN-CT Chhattisgarh,5000-20000,Female,55-64,Other,Married,No answer,Working class,1
+2006,-4,IN-CT Chhattisgarh,5000-20000,Male,25-34,Other,Married,Higher,Lower class,1
+2006,-4,IN-CT Chhattisgarh,No answer; Missing,Female,35-44,Hindi,Married,No answer,Lower middle class,1
+2006,-4,IN-CT Chhattisgarh,"Under 5,000",Female,15-24,Other,Married,Lower,Lower class,1
+2006,-4,IN-CT Chhattisgarh,"Under 5,000",Female,15-24,Other,Married,Lower,Lower middle class,1
+2006,-4,IN-CT Chhattisgarh,"Under 5,000",Female,25-34,Other,Married,Lower,Lower middle class,1
+2006,-4,IN-CT Chhattisgarh,"Under 5,000",Female,25-34,Other,Married,Middle,Lower class,1
+2006,-4,IN-CT Chhattisgarh,"Under 5,000",Female,25-34,Other,Married,Middle,Lower middle class,1
+2006,-4,IN-CT Chhattisgarh,"Under 5,000",Female,25-34,Other,Married,No answer,Working class,1
+2006,-4,IN-CT Chhattisgarh,"Under 5,000",Female,35-44,Other,Married,Higher,Upper middle class,1
+2006,-4,IN-CT Chhattisgarh,"Under 5,000",Female,35-44,Other,Married,Lower,Lower class,1
+2006,-4,IN-CT Chhattisgarh,"Under 5,000",Female,35-44,Other,Married,Lower,Lower middle class,1
+2006,-4,IN-CT Chhattisgarh,"Under 5,000",Female,35-44,Other,Widowed,No answer,Lower class,1
+2006,-4,IN-CT Chhattisgarh,"Under 5,000",Female,45-54,Other,Married,Lower,Lower middle class,1
+2006,-4,IN-CT Chhattisgarh,"Under 5,000",Female,45-54,Other,Married,Middle,Upper middle class,1
+2006,-4,IN-CT Chhattisgarh,"Under 5,000",Female,55-64,Other,Widowed,No answer,Working class,1
+2006,-4,IN-CT Chhattisgarh,"Under 5,000",Female,"65 and more years""",Other,Married,Lower,Upper middle class,1
+2006,-4,IN-CT Chhattisgarh,"Under 5,000",Female,"65 and more years""",Other,Widowed,Lower,Lower middle class,1
+2006,-4,IN-CT Chhattisgarh,"Under 5,000",Male,15-24,Other,Married,Higher,Lower middle class,1
+2006,-4,IN-CT Chhattisgarh,"Under 5,000",Male,15-24,Other,Married,Lower,Lower middle class,1
+2006,-4,IN-CT Chhattisgarh,"Under 5,000",Male,25-34,Hindi,Married,Middle,Upper middle class,1
+2006,-4,IN-CT Chhattisgarh,"Under 5,000",Male,25-34,Other,Married,Higher,Lower middle class,1
+2006,-4,IN-CT Chhattisgarh,"Under 5,000",Male,25-34,Other,Married,Lower,Lower class,2
+2006,-4,IN-CT Chhattisgarh,"Under 5,000",Male,35-44,Other,Married,Higher,Upper middle class,1
+2006,-4,IN-CT Chhattisgarh,"Under 5,000",Male,35-44,Other,Married,Lower,Lower middle class,1
+2006,-4,IN-CT Chhattisgarh,"Under 5,000",Male,35-44,Other,Married,Middle,Lower class,1
+2006,-4,IN-CT Chhattisgarh,"Under 5,000",Male,35-44,Other,Married,Middle,Lower middle class,1
+2006,-4,IN-CT Chhattisgarh,"Under 5,000",Male,35-44,Other,Married,Middle,Upper middle class,1
+2006,-4,IN-CT Chhattisgarh,"Under 5,000",Male,35-44,Other,Married,No answer,Lower class,1
+2006,-4,IN-CT Chhattisgarh,"Under 5,000",Male,35-44,Other,Married,No answer,Working class,1
+2006,-4,IN-CT Chhattisgarh,"Under 5,000",Male,45-54,Other,Married,Lower,Lower middle class,1
+2006,-4,IN-CT Chhattisgarh,"Under 5,000",Male,45-54,Other,Married,No answer,Working class,1
+2006,-4,IN-CT Chhattisgarh,"Under 5,000",Male,"65 and more years""",Other,Married,Lower,Lower class,2
+2006,-4,IN-DL Delhi,5000-20000,Female,25-34,Hindi,Married,Middle,Upper middle class,1
+2006,-4,IN-DL Delhi,500000 and more,Female,15-24,Hindi,Married,Higher,Upper middle class,1
+2006,-4,IN-DL Delhi,500000 and more,Female,25-34,Hindi,Married,Higher,Upper class,1
+2006,-4,IN-DL Delhi,500000 and more,Female,25-34,Hindi,Married,Higher,Upper middle class,1
+2006,-4,IN-DL Delhi,500000 and more,Female,25-34,Hindi,Married,Lower,Working class,1
+2006,-4,IN-DL Delhi,500000 and more,Female,25-34,Hindi,Married,Middle,Upper middle class,1
+2006,-4,IN-DL Delhi,500000 and more,Female,35-44,Hindi,Married,Lower,Lower middle class,1
+2006,-4,IN-DL Delhi,500000 and more,Female,35-44,Hindi,Married,Middle,Working class,1
+2006,-4,IN-DL Delhi,500000 and more,Female,35-44,Hindi,Widowed,Lower,Lower class,1
+2006,-4,IN-DL Delhi,500000 and more,Female,45-54,Hindi,Single/Never married,Lower,Lower class,1
+2006,-4,IN-DL Delhi,500000 and more,Female,"65 and more years""",Hindi,Widowed,Lower,Lower class,1
+2006,-4,IN-DL Delhi,500000 and more,Male,15-24,Hindi,Married,Higher,Working class,1
+2006,-4,IN-DL Delhi,500000 and more,Male,15-24,Hindi,Single/Never married,Higher,Lower middle class,1
+2006,-4,IN-DL Delhi,500000 and more,Male,15-24,Hindi,Single/Never married,Higher,Upper middle class,1
+2006,-4,IN-DL Delhi,500000 and more,Male,25-34,Hindi,Married,Lower,Lower class,1
+2006,-4,IN-DL Delhi,500000 and more,Male,25-34,Hindi,Married,Middle,Upper middle class,3
+2006,-4,IN-DL Delhi,500000 and more,Male,25-34,Hindi,Married,Middle,Working class,1
+2006,-4,IN-DL Delhi,500000 and more,Male,25-34,Hindi,Single/Never married,Middle,Upper middle class,1
+2006,-4,IN-DL Delhi,500000 and more,Male,25-34,Hindi,Widowed,Don´t know,Lower class,1
+2006,-4,IN-DL Delhi,500000 and more,Male,25-34,Oriya,Single/Never married,Higher,Upper middle class,1
+2006,-4,IN-DL Delhi,500000 and more,Male,35-44,Hindi,Married,Higher,Upper middle class,5
+2006,-4,IN-DL Delhi,500000 and more,Male,35-44,Hindi,Married,Lower,Upper middle class,1
+2006,-4,IN-DL Delhi,500000 and more,Male,35-44,Hindi,Married,Middle,Upper middle class,3
+2006,-4,IN-DL Delhi,500000 and more,Male,45-54,Hindi,Married,Higher,Lower middle class,1
+2006,-4,IN-DL Delhi,500000 and more,Male,45-54,Hindi,Married,Middle,Upper middle class,1
+2006,-4,IN-DL Delhi,500000 and more,Male,55-64,Hindi,Married,Higher,Upper middle class,1
+2006,-4,IN-DL Delhi,500000 and more,Male,"65 and more years""",Hindi,Married,Lower,Lower class,1
+2006,-4,IN-DL Delhi,500000 and more,Male,"65 and more years""","Punjabi, Panjabi",Married,Middle,Upper middle class,1
+2006,-4,IN-DL Delhi,"Under 5,000",Male,35-44,Bengali; Bangla,Married,Middle,Lower middle class,1
+2006,-4,IN-DL Delhi,"Under 5,000",Male,"65 and more years""",Bengali; Bangla,Married,Lower,Lower middle class,1
+2006,-4,IN-GJ Gujarat,100000-500000,Female,15-24,Gujarati,Single/Never married,Middle,Lower middle class,2
+2006,-4,IN-GJ Gujarat,100000-500000,Female,25-34,Gujarati,Married,Lower,Lower middle class,1
+2006,-4,IN-GJ Gujarat,100000-500000,Female,25-34,Gujarati,Single/Never married,Lower,Lower class,1
+2006,-4,IN-GJ Gujarat,100000-500000,Female,45-54,Hindi,Married,Lower,Lower class,1
+2006,-4,IN-GJ Gujarat,100000-500000,Female,55-64,Gujarati,Married,Lower,Lower class,1
+2006,-4,IN-GJ Gujarat,100000-500000,Male,25-34,Gujarati,Married,Middle,Lower middle class,2
+2006,-4,IN-GJ Gujarat,100000-500000,Male,35-44,Gujarati,Married,Higher,Upper middle class,1
+2006,-4,IN-GJ Gujarat,100000-500000,Male,35-44,Gujarati,Married,Lower,Lower middle class,1
+2006,-4,IN-GJ Gujarat,100000-500000,Male,35-44,Gujarati,Married,Lower,Upper middle class,1
+2006,-4,IN-GJ Gujarat,20000-100000,Female,35-44,Gujarati,Married,Lower,Upper middle class,1
+2006,-4,IN-GJ Gujarat,20000-100000,Female,35-44,Gujarati,Widowed,Middle,Lower middle class,1
+2006,-4,IN-GJ Gujarat,20000-100000,Female,35-44,Marathi,Married,Middle,Upper middle class,1
+2006,-4,IN-GJ Gujarat,20000-100000,Female,45-54,Gujarati,Married,Higher,Upper middle class,1
+2006,-4,IN-GJ Gujarat,20000-100000,Female,45-54,Gujarati,Married,Lower,Upper middle class,1
+2006,-4,IN-GJ Gujarat,20000-100000,Female,55-64,Gujarati,Widowed,Middle,Upper middle class,1
+2006,-4,IN-GJ Gujarat,20000-100000,Female,"65 and more years""",Gujarati,Married,Lower,Lower middle class,1
+2006,-4,IN-GJ Gujarat,20000-100000,Male,45-54,Gujarati,Married,Higher,Upper middle class,4
+2006,-4,IN-GJ Gujarat,20000-100000,Male,45-54,Gujarati,Married,Middle,Upper middle class,2
+2006,-4,IN-GJ Gujarat,20000-100000,Male,55-64,Gujarati,Widowed,Middle,Upper middle class,1
+2006,-4,IN-GJ Gujarat,5000-20000,Female,15-24,Gujarati,Single/Never married,Middle,Lower middle class,1
+2006,-4,IN-GJ Gujarat,5000-20000,Female,15-24,Hindi,Married,Lower,Lower middle class,1
+2006,-4,IN-GJ Gujarat,5000-20000,Female,25-34,Hindi,Married,Lower,Lower middle class,1
+2006,-4,IN-GJ Gujarat,5000-20000,Female,35-44,Gujarati,Married,Lower,Upper middle class,1
+2006,-4,IN-GJ Gujarat,5000-20000,Female,"65 and more years""",Gujarati,Widowed,Lower,Lower class,1
+2006,-4,IN-GJ Gujarat,5000-20000,Female,"65 and more years""",Gujarati,Widowed,Lower,Lower middle class,1
+2006,-4,IN-GJ Gujarat,5000-20000,Male,15-24,Gujarati,Married,Higher,Upper middle class,1
+2006,-4,IN-GJ Gujarat,5000-20000,Male,15-24,Gujarati,Single/Never married,Higher,Lower middle class,1
+2006,-4,IN-GJ Gujarat,5000-20000,Male,25-34,Gujarati,Married,Higher,Upper middle class,1
+2006,-4,IN-GJ Gujarat,5000-20000,Male,25-34,Gujarati,Married,Lower,Upper middle class,1
+2006,-4,IN-GJ Gujarat,5000-20000,Male,25-34,Gujarati,Married,Middle,Lower middle class,1
+2006,-4,IN-GJ Gujarat,5000-20000,Male,35-44,Gujarati,Married,Higher,Upper middle class,1
+2006,-4,IN-GJ Gujarat,5000-20000,Male,35-44,Gujarati,Married,Lower,Lower middle class,2
+2006,-4,IN-GJ Gujarat,5000-20000,Male,55-64,Gujarati,Married,Lower,Lower middle class,2
+2006,-4,IN-GJ Gujarat,500000 and more,Female,15-24,Hindi,Single/Never married,Lower,Lower class,1
+2006,-4,IN-GJ Gujarat,500000 and more,Female,15-24,Hindi,Single/Never married,Lower,Lower middle class,1
+2006,-4,IN-GJ Gujarat,500000 and more,Female,25-34,Assamese,Married,Higher,Upper class,1
+2006,-4,IN-GJ Gujarat,500000 and more,Female,25-34,Gujarati,Married,Higher,Upper class,1
+2006,-4,IN-GJ Gujarat,500000 and more,Female,35-44,Gujarati,Married,Higher,Upper class,1
+2006,-4,IN-GJ Gujarat,500000 and more,Female,35-44,Gujarati,Married,Lower,Upper class,1
+2006,-4,IN-GJ Gujarat,500000 and more,Female,45-54,Gujarati,Married,Lower,Upper middle class,1
+2006,-4,IN-GJ Gujarat,500000 and more,Female,45-54,Hindi,Widowed,Lower,Lower class,1
+2006,-4,IN-GJ Gujarat,500000 and more,Male,15-24,Gujarati,Married,Higher,Upper class,1
+2006,-4,IN-GJ Gujarat,500000 and more,Male,25-34,Gujarati,Married,Higher,Upper class,1
+2006,-4,IN-GJ Gujarat,500000 and more,Male,25-34,Hindi,Married,Middle,Lower middle class,2
+2006,-4,IN-GJ Gujarat,500000 and more,Male,35-44,Assamese,Married,Middle,Upper class,1
+2006,-4,IN-GJ Gujarat,500000 and more,Male,35-44,Gujarati,Married,Higher,Lower middle class,1
+2006,-4,IN-GJ Gujarat,500000 and more,Male,35-44,Gujarati,Married,Higher,Upper class,1
+2006,-4,IN-GJ Gujarat,500000 and more,Male,45-54,Gujarati,Married,Higher,Upper class,2
+2006,-4,IN-GJ Gujarat,500000 and more,Male,45-54,Hindi,Married,Lower,Lower middle class,2
+2006,-4,IN-GJ Gujarat,500000 and more,Male,45-54,Hindi,Widowed,Lower,Lower class,1
+2006,-4,IN-GJ Gujarat,500000 and more,Male,55-64,Gujarati,Married,Middle,Upper middle class,1
+2006,-4,IN-GJ Gujarat,"Under 5,000",Female,15-24,Gujarati,Married,Lower,Lower class,2
+2006,-4,IN-GJ Gujarat,"Under 5,000",Female,15-24,Gujarati,Married,Lower,Lower middle class,1
+2006,-4,IN-GJ Gujarat,"Under 5,000",Female,15-24,Gujarati,Married,Middle,Lower class,1
+2006,-4,IN-GJ Gujarat,"Under 5,000",Female,15-24,Gujarati,Single/Never married,Lower,Lower class,1
+2006,-4,IN-GJ Gujarat,"Under 5,000",Female,25-34,Gujarati,Married,Lower,Lower middle class,1
+2006,-4,IN-GJ Gujarat,"Under 5,000",Female,25-34,Gujarati,Married,Lower,Working class,1
+2006,-4,IN-GJ Gujarat,"Under 5,000",Female,35-44,Gujarati,Married,Lower,Lower class,1
+2006,-4,IN-GJ Gujarat,"Under 5,000",Female,35-44,Gujarati,Married,Lower,Lower middle class,1
+2006,-4,IN-GJ Gujarat,"Under 5,000",Female,35-44,Gujarati,Widowed,Lower,Lower class,1
+2006,-4,IN-GJ Gujarat,"Under 5,000",Female,45-54,Gujarati,Married,Lower,Lower class,2
+2006,-4,IN-GJ Gujarat,"Under 5,000",Female,45-54,Gujarati,Married,Lower,Lower middle class,1
+2006,-4,IN-GJ Gujarat,"Under 5,000",Female,45-54,Gujarati,Widowed,Lower,Lower class,1
+2006,-4,IN-GJ Gujarat,"Under 5,000",Female,55-64,Gujarati,Married,Lower,Lower class,2
+2006,-4,IN-GJ Gujarat,"Under 5,000",Female,"65 and more years""",Gujarati,Widowed,Lower,Lower class,2
+2006,-4,IN-GJ Gujarat,"Under 5,000",Female,"65 and more years""",Gujarati,Widowed,Lower,Upper middle class,1
+2006,-4,IN-GJ Gujarat,"Under 5,000",Male,15-24,Gujarati,Single/Never married,Lower,Lower class,1
+2006,-4,IN-GJ Gujarat,"Under 5,000",Male,15-24,No answer,Single/Never married,Middle,Lower middle class,1
+2006,-4,IN-GJ Gujarat,"Under 5,000",Male,25-34,Gujarati,Married,Lower,Working class,1
+2006,-4,IN-GJ Gujarat,"Under 5,000",Male,25-34,Gujarati,Married,Middle,Lower middle class,1
+2006,-4,IN-GJ Gujarat,"Under 5,000",Male,25-34,Gujarati,Married,Middle,Upper middle class,1
+2006,-4,IN-GJ Gujarat,"Under 5,000",Male,35-44,Gujarati,Married,Higher,Lower middle class,1
+2006,-4,IN-GJ Gujarat,"Under 5,000",Male,35-44,Gujarati,Married,Lower,Lower class,2
+2006,-4,IN-GJ Gujarat,"Under 5,000",Male,35-44,Gujarati,Married,Lower,Lower middle class,1
+2006,-4,IN-GJ Gujarat,"Under 5,000",Male,35-44,Gujarati,Married,Lower,Working class,1
+2006,-4,IN-GJ Gujarat,"Under 5,000",Male,35-44,Gujarati,Married,Middle,Lower middle class,1
+2006,-4,IN-GJ Gujarat,"Under 5,000",Male,35-44,Gujarati,Married,Middle,Upper middle class,1
+2006,-4,IN-GJ Gujarat,"Under 5,000",Male,35-44,Gujarati,Married,Middle,Working class,1
+2006,-4,IN-GJ Gujarat,"Under 5,000",Male,45-54,Gujarati,Married,Lower,Lower class,2
+2006,-4,IN-GJ Gujarat,"Under 5,000",Male,45-54,Gujarati,Married,Lower,Lower middle class,2
+2006,-4,IN-GJ Gujarat,"Under 5,000",Male,55-64,Gujarati,Married,Lower,Lower middle class,3
+2006,-4,IN-GJ Gujarat,"Under 5,000",Male,55-64,Other,Married,Lower,Lower class,1
+2006,-4,IN-HR Haryana,100000-500000,Female,15-24,Hindi,Married,Lower,Lower class,1
+2006,-4,IN-HR Haryana,100000-500000,Female,25-34,Hindi,Living together as married,Lower,Lower class,1
+2006,-4,IN-HR Haryana,100000-500000,Female,25-34,Hindi,Married,Higher,Upper middle class,1
+2006,-4,IN-HR Haryana,100000-500000,Female,25-34,Hindi,Married,Lower,Upper class,1
+2006,-4,IN-HR Haryana,100000-500000,Female,25-34,Hindi,Married,Lower,Upper middle class,1
+2006,-4,IN-HR Haryana,100000-500000,Female,25-34,"Punjabi, Panjabi",Married,Lower,Working class,1
+2006,-4,IN-HR Haryana,100000-500000,Female,35-44,Hindi,Married,Middle,Lower middle class,1
+2006,-4,IN-HR Haryana,100000-500000,Female,35-44,"Punjabi, Panjabi",Married,Middle,Lower middle class,1
+2006,-4,IN-HR Haryana,100000-500000,Female,45-54,Hindi,Married,Middle,Lower middle class,1
+2006,-4,IN-HR Haryana,100000-500000,Female,45-54,"Punjabi, Panjabi",Married,Higher,Lower middle class,1
+2006,-4,IN-HR Haryana,100000-500000,Female,"65 and more years""",Hindi,Married,Lower,Lower middle class,2
+2006,-4,IN-HR Haryana,100000-500000,Female,"65 and more years""","Punjabi, Panjabi",Married,Lower,Lower middle class,1
+2006,-4,IN-HR Haryana,100000-500000,Male,25-34,Hindi,Married,Higher,Lower middle class,3
+2006,-4,IN-HR Haryana,100000-500000,Male,25-34,Hindi,Married,Higher,Upper middle class,2
+2006,-4,IN-HR Haryana,100000-500000,Male,25-34,Hindi,Married,Higher,Working class,1
+2006,-4,IN-HR Haryana,100000-500000,Male,25-34,Hindi,Married,Middle,Lower middle class,1
+2006,-4,IN-HR Haryana,100000-500000,Male,25-34,Hindi,Single/Never married,Higher,Upper middle class,1
+2006,-4,IN-HR Haryana,100000-500000,Male,25-34,Hindi,Single/Never married,Middle,Lower middle class,1
+2006,-4,IN-HR Haryana,100000-500000,Male,25-34,Hindi,Single/Never married,Middle,Upper middle class,1
+2006,-4,IN-HR Haryana,100000-500000,Male,35-44,Hindi,Married,Middle,Lower class,1
+2006,-4,IN-HR Haryana,100000-500000,Male,35-44,Hindi,Married,Middle,Lower middle class,4
+2006,-4,IN-HR Haryana,100000-500000,Male,35-44,Hindi,Married,Middle,Upper middle class,2
+2006,-4,IN-HR Haryana,100000-500000,Male,35-44,"Punjabi, Panjabi",Married,Higher,Upper middle class,1
+2006,-4,IN-HR Haryana,100000-500000,Male,35-44,"Punjabi, Panjabi",Married,Lower,Upper middle class,1
+2006,-4,IN-HR Haryana,100000-500000,Male,45-54,Hindi,Married,Lower,Lower middle class,1
+2006,-4,IN-HR Haryana,100000-500000,Male,45-54,Hindi,Married,Lower,Working class,1
+2006,-4,IN-HR Haryana,100000-500000,Male,45-54,Hindi,Married,Middle,Lower middle class,2
+2006,-4,IN-HR Haryana,100000-500000,Male,45-54,Hindi,Married,Middle,Working class,1
+2006,-4,IN-HR Haryana,100000-500000,Male,45-54,"Punjabi, Panjabi",Married,Middle,Lower middle class,1
+2006,-4,IN-HR Haryana,100000-500000,Male,45-54,"Punjabi, Panjabi",Married,Middle,Upper middle class,1
+2006,-4,IN-HR Haryana,100000-500000,Male,55-64,Hindi,Married,Lower,Lower class,1
+2006,-4,IN-HR Haryana,100000-500000,Male,55-64,Hindi,Married,Middle,Lower middle class,3
+2006,-4,IN-HR Haryana,100000-500000,Male,"65 and more years""",Hindi,Married,Middle,Upper middle class,1
+2006,-4,IN-JH Jharkhand,20000-100000,Female,15-24,Hindi,Married,Lower,Lower class,1
+2006,-4,IN-JH Jharkhand,20000-100000,Female,15-24,Hindi,Married,Middle,Lower middle class,1
+2006,-4,IN-JH Jharkhand,20000-100000,Female,55-64,Urdu,Married,Lower,Lower middle class,1
+2006,-4,IN-JH Jharkhand,20000-100000,Male,15-24,Hindi,Single/Never married,Higher,Lower middle class,1
+2006,-4,IN-JH Jharkhand,20000-100000,Male,15-24,Urdu,Single/Never married,Middle,Working class,1
+2006,-4,IN-JH Jharkhand,20000-100000,Male,25-34,Hindi,Married,Lower,Lower class,1
+2006,-4,IN-JH Jharkhand,20000-100000,Male,25-34,Hindi,Single/Never married,Higher,Lower middle class,1
+2006,-4,IN-JH Jharkhand,20000-100000,Male,35-44,Hindi,Married,Lower,Lower class,1
+2006,-4,IN-JH Jharkhand,20000-100000,Male,35-44,Hindi,Married,Lower,Lower middle class,1
+2006,-4,IN-JH Jharkhand,20000-100000,Male,35-44,Urdu,Married,Lower,Working class,1
+2006,-4,IN-JH Jharkhand,20000-100000,Male,45-54,Urdu,Married,Lower,Lower middle class,1
+2006,-4,IN-JH Jharkhand,"Under 5,000",Female,15-24,Hindi,Married,Middle,Working class,1
+2006,-4,IN-JH Jharkhand,"Under 5,000",Female,15-24,Urdu,Single/Never married,Lower,Lower middle class,1
+2006,-4,IN-JH Jharkhand,"Under 5,000",Female,25-34,Hindi,Married,Lower,Lower class,4
+2006,-4,IN-JH Jharkhand,"Under 5,000",Female,25-34,Hindi,Married,Middle,Lower middle class,1
+2006,-4,IN-JH Jharkhand,"Under 5,000",Female,35-44,Hindi,Married,Lower,Lower class,4
+2006,-4,IN-JH Jharkhand,"Under 5,000",Female,35-44,Hindi,Married,Lower,Lower middle class,2
+2006,-4,IN-JH Jharkhand,"Under 5,000",Female,45-54,Hindi,Married,Lower,Lower class,3
+2006,-4,IN-JH Jharkhand,"Under 5,000",Female,45-54,Hindi,Married,Lower,Lower middle class,1
+2006,-4,IN-JH Jharkhand,"Under 5,000",Female,45-54,Hindi,Widowed,Lower,Lower class,1
+2006,-4,IN-JH Jharkhand,"Under 5,000",Female,45-54,Urdu,Married,Lower,Working class,1
+2006,-4,IN-JH Jharkhand,"Under 5,000",Male,15-24,Urdu,Single/Never married,Lower,Working class,2
+2006,-4,IN-JH Jharkhand,"Under 5,000",Male,15-24,Urdu,Single/Never married,Middle,Lower middle class,1
+2006,-4,IN-JH Jharkhand,"Under 5,000",Male,25-34,Hindi,Married,Lower,Lower class,4
+2006,-4,IN-JH Jharkhand,"Under 5,000",Male,25-34,Hindi,Married,Lower,Upper middle class,1
+2006,-4,IN-JH Jharkhand,"Under 5,000",Male,25-34,Hindi,Married,Lower,Working class,1
+2006,-4,IN-JH Jharkhand,"Under 5,000",Male,25-34,Other,Married,Lower,Working class,1
+2006,-4,IN-JH Jharkhand,"Under 5,000",Male,25-34,Urdu,Married,Lower,Working class,1
+2006,-4,IN-JH Jharkhand,"Under 5,000",Male,35-44,Hindi,Married,Lower,Lower class,3
+2006,-4,IN-JH Jharkhand,"Under 5,000",Male,35-44,Hindi,Married,Lower,Working class,1
+2006,-4,IN-JH Jharkhand,"Under 5,000",Male,35-44,Urdu,Married,Lower,Lower middle class,1
+2006,-4,IN-JH Jharkhand,"Under 5,000",Male,35-44,Urdu,Married,Lower,Working class,1
+2006,-4,IN-JH Jharkhand,"Under 5,000",Male,45-54,Hindi,Married,Lower,Lower class,2
+2006,-4,IN-JH Jharkhand,"Under 5,000",Male,45-54,Hindi,Married,Lower,Working class,1
+2006,-4,IN-JH Jharkhand,"Under 5,000",Male,45-54,Hindi,Married,Middle,Lower middle class,1
+2006,-4,IN-JH Jharkhand,"Under 5,000",Male,55-64,Other,Married,Lower,Lower middle class,1
+2006,-4,IN-KA Karnataka,5000-20000,Male,35-44,Marathi,Married,Middle,Lower middle class,1
+2006,-4,IN-KA Karnataka,"Under 5,000",Female,15-24,Kannada,Living together as married,Middle,Lower middle class,1
+2006,-4,IN-KA Karnataka,"Under 5,000",Female,15-24,Kannada,Married,Lower,Lower class,1
+2006,-4,IN-KA Karnataka,"Under 5,000",Female,15-24,Kannada,Single/Never married,Lower,Working class,1
+2006,-4,IN-KA Karnataka,"Under 5,000",Female,25-34,Kannada,Married,Higher,Lower middle class,3
+2006,-4,IN-KA Karnataka,"Under 5,000",Female,25-34,Kannada,Married,Higher,Upper middle class,2
+2006,-4,IN-KA Karnataka,"Under 5,000",Female,25-34,Kannada,Married,Lower,Working class,2
+2006,-4,IN-KA Karnataka,"Under 5,000",Female,25-34,Kannada,Married,Middle,Lower middle class,1
+2006,-4,IN-KA Karnataka,"Under 5,000",Female,25-34,Kannada,Married,Middle,Upper middle class,1
+2006,-4,IN-KA Karnataka,"Under 5,000",Female,25-34,Marathi,Single/Never married,Higher,Lower middle class,1
+2006,-4,IN-KA Karnataka,"Under 5,000",Female,25-34,Other,Married,Middle,Upper middle class,1
+2006,-4,IN-KA Karnataka,"Under 5,000",Female,25-34,"Punjabi, Panjabi",Married,Middle,Upper middle class,1
+2006,-4,IN-KA Karnataka,"Under 5,000",Female,35-44,Kannada,Living together as married,Lower,Working class,1
+2006,-4,IN-KA Karnataka,"Under 5,000",Female,35-44,Kannada,Married,Lower,Lower middle class,2
+2006,-4,IN-KA Karnataka,"Under 5,000",Female,35-44,Kannada,Married,Lower,Upper middle class,1
+2006,-4,IN-KA Karnataka,"Under 5,000",Female,35-44,Kannada,Married,Lower,Working class,1
+2006,-4,IN-KA Karnataka,"Under 5,000",Female,35-44,Kannada,Married,Middle,Lower class,2
+2006,-4,IN-KA Karnataka,"Under 5,000",Female,35-44,Kannada,Married,Middle,Lower middle class,1
+2006,-4,IN-KA Karnataka,"Under 5,000",Female,35-44,Kannada,Married,Middle,Working class,1
+2006,-4,IN-KA Karnataka,"Under 5,000",Female,35-44,Konkani,Married,Middle,Lower middle class,1
+2006,-4,IN-KA Karnataka,"Under 5,000",Female,35-44,Marathi,Married,Middle,Lower middle class,1
+2006,-4,IN-KA Karnataka,"Under 5,000",Female,35-44,Other,Married,Lower,Working class,1
+2006,-4,IN-KA Karnataka,"Under 5,000",Female,35-44,Other,Married,Middle,Upper middle class,1
+2006,-4,IN-KA Karnataka,"Under 5,000",Female,45-54,Kannada,Married,Lower,Lower class,1
+2006,-4,IN-KA Karnataka,"Under 5,000",Female,45-54,Kannada,Married,Lower,Lower middle class,4
+2006,-4,IN-KA Karnataka,"Under 5,000",Female,45-54,Kannada,Married,Lower,Working class,4
+2006,-4,IN-KA Karnataka,"Under 5,000",Female,45-54,Kannada,Married,Middle,Lower middle class,1
+2006,-4,IN-KA Karnataka,"Under 5,000",Female,45-54,Other,Married,Lower,Lower middle class,1
+2006,-4,IN-KA Karnataka,"Under 5,000",Female,55-64,Kannada,Married,Lower,Lower class,1
+2006,-4,IN-KA Karnataka,"Under 5,000",Female,55-64,Kannada,Married,Lower,Lower middle class,5
+2006,-4,IN-KA Karnataka,"Under 5,000",Female,55-64,Kannada,Married,Lower,Upper class,1
+2006,-4,IN-KA Karnataka,"Under 5,000",Female,"65 and more years""",Bengali; Bangla,Married,Lower,Lower middle class,1
+2006,-4,IN-KA Karnataka,"Under 5,000",Female,"65 and more years""",Kannada,Married,Lower,Lower class,1
+2006,-4,IN-KA Karnataka,"Under 5,000",Female,"65 and more years""",Kannada,Married,Lower,Lower middle class,2
+2006,-4,IN-KA Karnataka,"Under 5,000",Female,"65 and more years""",Kannada,Widowed,Lower,Lower middle class,2
+2006,-4,IN-KA Karnataka,"Under 5,000",Female,"65 and more years""",Kannada,Widowed,Lower,Upper class,1
+2006,-4,IN-KA Karnataka,"Under 5,000",Female,"65 and more years""",Kannada,Widowed,Lower,Working class,1
+2006,-4,IN-KA Karnataka,"Under 5,000",Female,"65 and more years""",Marathi,Married,Lower,Lower middle class,1
+2006,-4,IN-KA Karnataka,"Under 5,000",Male,15-24,Kannada,Single/Never married,Higher,Upper middle class,2
+2006,-4,IN-KA Karnataka,"Under 5,000",Male,15-24,Kannada,Single/Never married,Higher,Working class,1
+2006,-4,IN-KA Karnataka,"Under 5,000",Male,15-24,Kannada,Single/Never married,Lower,Working class,1
+2006,-4,IN-KA Karnataka,"Under 5,000",Male,15-24,Kannada,Single/Never married,Middle,Lower middle class,1
+2006,-4,IN-KA Karnataka,"Under 5,000",Male,25-34,Bengali; Bangla,Married,Lower,Working class,1
+2006,-4,IN-KA Karnataka,"Under 5,000",Male,25-34,Kannada,Married,Higher,Lower middle class,2
+2006,-4,IN-KA Karnataka,"Under 5,000",Male,25-34,Kannada,Married,Higher,Upper class,1
+2006,-4,IN-KA Karnataka,"Under 5,000",Male,25-34,Kannada,Married,Higher,Upper middle class,1
+2006,-4,IN-KA Karnataka,"Under 5,000",Male,25-34,Kannada,Married,Higher,Working class,1
+2006,-4,IN-KA Karnataka,"Under 5,000",Male,25-34,Kannada,Married,Lower,Don´t know,1
+2006,-4,IN-KA Karnataka,"Under 5,000",Male,25-34,Kannada,Married,Lower,Lower class,1
+2006,-4,IN-KA Karnataka,"Under 5,000",Male,25-34,Kannada,Married,Middle,Lower middle class,1
+2006,-4,IN-KA Karnataka,"Under 5,000",Male,25-34,Kannada,Single/Never married,Higher,Lower middle class,2
+2006,-4,IN-KA Karnataka,"Under 5,000",Male,25-34,Kannada,Single/Never married,Higher,Upper middle class,1
+2006,-4,IN-KA Karnataka,"Under 5,000",Male,35-44,Kannada,Married,Higher,Lower middle class,1
+2006,-4,IN-KA Karnataka,"Under 5,000",Male,35-44,Kannada,Married,Higher,Upper middle class,1
+2006,-4,IN-KA Karnataka,"Under 5,000",Male,35-44,Kannada,Married,Lower,Lower middle class,2
+2006,-4,IN-KA Karnataka,"Under 5,000",Male,35-44,Kannada,Married,Lower,Working class,2
+2006,-4,IN-KA Karnataka,"Under 5,000",Male,35-44,Kannada,Married,Middle,Upper middle class,1
+2006,-4,IN-KA Karnataka,"Under 5,000",Male,35-44,Kannada,Married,Middle,Working class,2
+2006,-4,IN-KA Karnataka,"Under 5,000",Male,35-44,Konkani,Married,Middle,Lower middle class,1
+2006,-4,IN-KA Karnataka,"Under 5,000",Male,45-54,Kannada,Living together as married,Lower,Working class,1
+2006,-4,IN-KA Karnataka,"Under 5,000",Male,45-54,Kannada,Married,Higher,Upper middle class,2
+2006,-4,IN-KA Karnataka,"Under 5,000",Male,45-54,Kannada,Married,Lower,Lower class,2
+2006,-4,IN-KA Karnataka,"Under 5,000",Male,45-54,Kannada,Married,Lower,Lower middle class,2
+2006,-4,IN-KA Karnataka,"Under 5,000",Male,45-54,Kannada,Married,Lower,Upper class,1
+2006,-4,IN-KA Karnataka,"Under 5,000",Male,45-54,Kannada,Married,Lower,Upper middle class,1
+2006,-4,IN-KA Karnataka,"Under 5,000",Male,45-54,Kannada,Married,Middle,Lower middle class,1
+2006,-4,IN-KA Karnataka,"Under 5,000",Male,45-54,Kashmiri,Living together as married,Lower,Upper middle class,1
+2006,-4,IN-KA Karnataka,"Under 5,000",Male,45-54,Konkani,Married,Middle,Lower middle class,1
+2006,-4,IN-KA Karnataka,"Under 5,000",Male,55-64,Kannada,Living together as married,Lower,Upper class,1
+2006,-4,IN-KA Karnataka,"Under 5,000",Male,55-64,Kannada,Married,Lower,Lower class,1
+2006,-4,IN-KA Karnataka,"Under 5,000",Male,55-64,Kannada,Married,Lower,Upper middle class,1
+2006,-4,IN-KA Karnataka,"Under 5,000",Male,"65 and more years""",Assamese,Married,Lower,Lower middle class,1
+2006,-4,IN-KA Karnataka,"Under 5,000",Male,"65 and more years""",Bengali; Bangla,Married,Lower,Upper middle class,1
+2006,-4,IN-KA Karnataka,"Under 5,000",Male,"65 and more years""",Kannada,Married,Lower,Lower middle class,2
+2006,-4,IN-KA Karnataka,"Under 5,000",Male,"65 and more years""",Kannada,Married,Middle,Lower middle class,1
+2006,-4,IN-KL Kerala,20000-100000,Female,25-34,Malayalam,Married,Higher,Lower middle class,1
+2006,-4,IN-KL Kerala,5000-20000,Female,15-24,Malayalam,Married,Higher,Working class,1
+2006,-4,IN-KL Kerala,5000-20000,Female,15-24,Malayalam,Single/Never married,Higher,Lower middle class,1
+2006,-4,IN-KL Kerala,5000-20000,Female,15-24,Malayalam,Single/Never married,Higher,Upper middle class,1
+2006,-4,IN-KL Kerala,5000-20000,Female,25-34,Malayalam,Married,Higher,Lower middle class,1
+2006,-4,IN-KL Kerala,5000-20000,Female,25-34,Malayalam,Married,Middle,Lower middle class,1
+2006,-4,IN-KL Kerala,5000-20000,Female,25-34,Malayalam,Single/Never married,Higher,Lower middle class,1
+2006,-4,IN-KL Kerala,5000-20000,Female,25-34,Malayalam,Single/Never married,Middle,Lower middle class,2
+2006,-4,IN-KL Kerala,5000-20000,Female,35-44,Malayalam,Married,Higher,Lower middle class,1
+2006,-4,IN-KL Kerala,5000-20000,Female,35-44,Malayalam,Married,Higher,Upper middle class,1
+2006,-4,IN-KL Kerala,5000-20000,Female,35-44,Malayalam,Married,Higher,Working class,1
+2006,-4,IN-KL Kerala,5000-20000,Female,35-44,Malayalam,Married,Lower,Lower class,1
+2006,-4,IN-KL Kerala,5000-20000,Female,35-44,Malayalam,Married,Middle,Lower class,6
+2006,-4,IN-KL Kerala,5000-20000,Female,35-44,Malayalam,Married,Middle,Lower middle class,1
+2006,-4,IN-KL Kerala,5000-20000,Female,35-44,Malayalam,Widowed,Lower,Working class,1
+2006,-4,IN-KL Kerala,5000-20000,Female,45-54,Assamese,Married,Middle,Lower middle class,1
+2006,-4,IN-KL Kerala,5000-20000,Female,45-54,Malayalam,Married,Higher,Lower middle class,1
+2006,-4,IN-KL Kerala,5000-20000,Female,45-54,Malayalam,Married,Higher,Upper middle class,1
+2006,-4,IN-KL Kerala,5000-20000,Female,45-54,Malayalam,Married,Lower,Lower class,1
+2006,-4,IN-KL Kerala,5000-20000,Female,45-54,Malayalam,Married,Middle,Upper middle class,2
+2006,-4,IN-KL Kerala,5000-20000,Female,55-64,Malayalam,Married,Lower,Working class,1
+2006,-4,IN-KL Kerala,5000-20000,Female,"65 and more years""",Malayalam,Widowed,Lower,Lower class,1
+2006,-4,IN-KL Kerala,5000-20000,Male,15-24,Malayalam,Single/Never married,Higher,Lower middle class,1
+2006,-4,IN-KL Kerala,5000-20000,Male,25-34,Malayalam,Married,Middle,Lower class,1
+2006,-4,IN-KL Kerala,5000-20000,Male,25-34,Malayalam,Married,Middle,Working class,1
+2006,-4,IN-KL Kerala,5000-20000,Male,25-34,Malayalam,Single/Never married,Higher,Lower class,1
+2006,-4,IN-KL Kerala,5000-20000,Male,25-34,Malayalam,Single/Never married,Middle,Working class,1
+2006,-4,IN-KL Kerala,5000-20000,Male,35-44,Malayalam,Married,Higher,Lower middle class,2
+2006,-4,IN-KL Kerala,5000-20000,Male,35-44,Malayalam,Married,Higher,Working class,1
+2006,-4,IN-KL Kerala,5000-20000,Male,35-44,Malayalam,Married,Middle,Working class,2
+2006,-4,IN-KL Kerala,5000-20000,Male,45-54,Malayalam,Living together as married,Middle,Working class,1
+2006,-4,IN-KL Kerala,5000-20000,Male,45-54,Malayalam,Married,Higher,Lower class,1
+2006,-4,IN-KL Kerala,5000-20000,Male,45-54,Malayalam,Married,Higher,Lower middle class,2
+2006,-4,IN-KL Kerala,5000-20000,Male,45-54,Malayalam,Married,Lower,Lower class,1
+2006,-4,IN-KL Kerala,5000-20000,Male,45-54,Malayalam,Married,Lower,Working class,1
+2006,-4,IN-KL Kerala,5000-20000,Male,45-54,Malayalam,Married,Middle,Lower middle class,2
+2006,-4,IN-KL Kerala,5000-20000,Male,45-54,Malayalam,Married,Middle,Working class,1
+2006,-4,IN-KL Kerala,5000-20000,Male,55-64,Malayalam,Married,Lower,Lower middle class,1
+2006,-4,IN-KL Kerala,5000-20000,Male,55-64,Malayalam,Married,Middle,Lower middle class,1
+2006,-4,IN-KL Kerala,5000-20000,Male,55-64,Malayalam,Married,Middle,Upper middle class,1
+2006,-4,IN-KL Kerala,5000-20000,Male,55-64,Malayalam,Married,Middle,Working class,2
+2006,-4,IN-KL Kerala,5000-20000,Male,"65 and more years""",Malayalam,Married,Middle,Working class,1
+2006,-4,IN-KL Kerala,500000 and more,Male,25-34,Assamese,Married,Higher,Upper middle class,1
+2006,-4,IN-KL Kerala,500000 and more,Male,25-34,Hindi,Married,Higher,Upper middle class,1
+2006,-4,IN-KL Kerala,500000 and more,Male,45-54,Hindi,Married,Higher,Upper middle class,1
+2006,-4,IN-KL Kerala,No answer; Missing,No answer,No answer,No answer,Married,No answer,No answer,1
+2006,-4,IN-KL Kerala,"Under 5,000",Female,45-54,Malayalam,Married,Lower,Upper middle class,1
+2006,-4,IN-MH Maharashtra,5000-20000,Female,15-24,Marathi,Single/Never married,Higher,Working class,1
+2006,-4,IN-MH Maharashtra,5000-20000,Female,15-24,Marwari,Married,Higher,Upper middle class,1
+2006,-4,IN-MH Maharashtra,5000-20000,Female,25-34,Hindi,Living together as married,Middle,Working class,1
+2006,-4,IN-MH Maharashtra,5000-20000,Female,25-34,Kannada,Living together as married,Middle,Working class,1
+2006,-4,IN-MH Maharashtra,5000-20000,Female,25-34,Kannada,Married,Lower,Lower middle class,1
+2006,-4,IN-MH Maharashtra,5000-20000,Female,25-34,Marathi,Living together as married,Middle,Working class,1
+2006,-4,IN-MH Maharashtra,5000-20000,Female,25-34,Marathi,Married,Higher,Lower class,1
+2006,-4,IN-MH Maharashtra,5000-20000,Female,25-34,Marathi,Married,Higher,Upper middle class,1
+2006,-4,IN-MH Maharashtra,5000-20000,Female,25-34,Marathi,Married,Lower,Lower class,2
+2006,-4,IN-MH Maharashtra,5000-20000,Female,25-34,Marathi,Married,Middle,Upper middle class,1
+2006,-4,IN-MH Maharashtra,5000-20000,Female,35-44,Marathi,Living together as married,Lower,Working class,1
+2006,-4,IN-MH Maharashtra,5000-20000,Female,35-44,Marathi,Living together as married,Middle,Lower class,1
+2006,-4,IN-MH Maharashtra,5000-20000,Female,35-44,Marathi,Living together as married,Middle,Lower middle class,1
+2006,-4,IN-MH Maharashtra,5000-20000,Female,35-44,Marathi,Married,Lower,Lower class,2
+2006,-4,IN-MH Maharashtra,5000-20000,Female,35-44,Marathi,Separated,Lower,Lower class,1
+2006,-4,IN-MH Maharashtra,5000-20000,Female,35-44,Marathi,Widowed,Lower,Lower middle class,1
+2006,-4,IN-MH Maharashtra,5000-20000,Female,35-44,Marwari,Married,Higher,Upper middle class,1
+2006,-4,IN-MH Maharashtra,5000-20000,Female,45-54,Kannada,Living together as married,Lower,Lower middle class,1
+2006,-4,IN-MH Maharashtra,5000-20000,Female,45-54,Marathi,Married,Lower,Lower class,1
+2006,-4,IN-MH Maharashtra,5000-20000,Female,45-54,Marathi,Married,Lower,Lower middle class,1
+2006,-4,IN-MH Maharashtra,5000-20000,Female,45-54,Marathi,Married,Middle,Lower class,2
+2006,-4,IN-MH Maharashtra,5000-20000,Female,45-54,Marathi,Widowed,Lower,Upper class,1
+2006,-4,IN-MH Maharashtra,5000-20000,Female,55-64,Marathi,Married,Middle,Lower middle class,1
+2006,-4,IN-MH Maharashtra,5000-20000,Female,55-64,Marathi,Widowed,Lower,Working class,1
+2006,-4,IN-MH Maharashtra,5000-20000,Female,55-64,Marwari,Married,Middle,Upper class,1
+2006,-4,IN-MH Maharashtra,5000-20000,Female,"65 and more years""",Hindi,Living together as married,Lower,Working class,1
+2006,-4,IN-MH Maharashtra,5000-20000,Female,"65 and more years""",Kannada,Married,Lower,Lower class,1
+2006,-4,IN-MH Maharashtra,5000-20000,Female,"65 and more years""",Marathi,Married,Lower,Lower middle class,1
+2006,-4,IN-MH Maharashtra,5000-20000,Male,25-34,Hindi,Living together as married,Higher,Lower middle class,1
+2006,-4,IN-MH Maharashtra,5000-20000,Male,25-34,Marathi,Living together as married,Middle,Upper middle class,1
+2006,-4,IN-MH Maharashtra,5000-20000,Male,25-34,Marathi,Married,Higher,Lower middle class,1
+2006,-4,IN-MH Maharashtra,5000-20000,Male,25-34,Marathi,Married,Lower,Lower class,3
+2006,-4,IN-MH Maharashtra,5000-20000,Male,25-34,Marathi,Married,Lower,Lower middle class,1
+2006,-4,IN-MH Maharashtra,5000-20000,Male,25-34,Marathi,Married,Middle,Lower class,2
+2006,-4,IN-MH Maharashtra,5000-20000,Male,25-34,Marathi,Single/Never married,Higher,Lower class,2
+2006,-4,IN-MH Maharashtra,5000-20000,Male,25-34,Marathi,Single/Never married,Higher,Upper middle class,1
+2006,-4,IN-MH Maharashtra,5000-20000,Male,35-44,Kannada,Living together as married,Middle,Lower middle class,1
+2006,-4,IN-MH Maharashtra,5000-20000,Male,35-44,Marathi,Living together as married,Higher,Working class,1
+2006,-4,IN-MH Maharashtra,5000-20000,Male,35-44,Marathi,Married,Higher,Lower middle class,3
+2006,-4,IN-MH Maharashtra,5000-20000,Male,35-44,Marathi,Married,Higher,Working class,1
+2006,-4,IN-MH Maharashtra,5000-20000,Male,35-44,Marathi,Married,Lower,Lower class,1
+2006,-4,IN-MH Maharashtra,5000-20000,Male,35-44,Marathi,Married,Lower,Working class,1
+2006,-4,IN-MH Maharashtra,5000-20000,Male,35-44,Marathi,Married,Middle,Lower class,1
+2006,-4,IN-MH Maharashtra,5000-20000,Male,35-44,Marathi,Married,Middle,Upper middle class,1
+2006,-4,IN-MH Maharashtra,5000-20000,Male,35-44,Marathi,Married,Middle,Working class,1
+2006,-4,IN-MH Maharashtra,5000-20000,Male,35-44,Marathi,Single/Never married,Middle,Lower class,1
+2006,-4,IN-MH Maharashtra,5000-20000,Male,35-44,Marwari,Married,Middle,Upper middle class,1
+2006,-4,IN-MH Maharashtra,5000-20000,Male,45-54,Kannada,Married,Lower,Working class,1
+2006,-4,IN-MH Maharashtra,5000-20000,Male,45-54,Marathi,Married,Higher,Working class,1
+2006,-4,IN-MH Maharashtra,5000-20000,Male,45-54,Marathi,Married,Lower,Lower class,2
+2006,-4,IN-MH Maharashtra,5000-20000,Male,45-54,Marathi,Married,Lower,Working class,1
+2006,-4,IN-MH Maharashtra,5000-20000,Male,45-54,Marathi,Married,Middle,Upper middle class,1
+2006,-4,IN-MH Maharashtra,5000-20000,Male,45-54,Marwari,Married,Higher,Upper class,1
+2006,-4,IN-MH Maharashtra,5000-20000,Male,55-64,Marathi,Living together as married,Higher,Working class,1
+2006,-4,IN-MH Maharashtra,5000-20000,Male,55-64,Marathi,Living together as married,Middle,Upper middle class,1
+2006,-4,IN-MH Maharashtra,5000-20000,Male,55-64,Marathi,Married,Higher,Lower middle class,1
+2006,-4,IN-MH Maharashtra,5000-20000,Male,55-64,Marathi,Married,Middle,Lower middle class,1
+2006,-4,IN-MH Maharashtra,5000-20000,Male,55-64,Marathi,Married,Middle,Upper middle class,1
+2006,-4,IN-MH Maharashtra,5000-20000,Male,"65 and more years""",Gujarati,Married,Higher,Working class,1
+2006,-4,IN-MH Maharashtra,5000-20000,Male,"65 and more years""",Kannada,Widowed,Lower,Working class,1
+2006,-4,IN-MH Maharashtra,5000-20000,Male,"65 and more years""",Marathi,Living together as married,Lower,Lower middle class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Female,15-24,Assamese,Married,Lower,Lower class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Female,15-24,Kannada,Married,Middle,Upper class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Female,15-24,Marathi,Married,Lower,Working class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Female,25-34,Kannada,Married,Lower,Lower class,2
+2006,-4,IN-MH Maharashtra,"Under 5,000",Female,25-34,Kannada,Married,Lower,Working class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Female,25-34,Kannada,Married,Middle,Lower middle class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Female,25-34,Kannada,Married,Middle,Upper class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Female,25-34,Marathi,Living together as married,Middle,Lower middle class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Female,25-34,Marathi,Married,Higher,Working class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Female,25-34,Marathi,Married,Lower,Lower class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Female,25-34,Marathi,Married,Lower,Working class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Female,25-34,Marathi,Married,Middle,Lower class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Female,25-34,Marathi,Married,Middle,Lower middle class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Female,25-34,Marathi,Married,Middle,Upper class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Female,25-34,Marathi,Separated,Middle,Working class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Female,35-44,Hindi,Married,Lower,Lower class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Female,35-44,Kannada,Married,Lower,Lower middle class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Female,35-44,Kannada,Married,Lower,Working class,2
+2006,-4,IN-MH Maharashtra,"Under 5,000",Female,35-44,Kannada,Married,Middle,Lower middle class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Female,35-44,Marathi,Living together as married,Lower,Working class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Female,35-44,Marathi,Married,Lower,Lower class,3
+2006,-4,IN-MH Maharashtra,"Under 5,000",Female,35-44,Marathi,Married,Middle,Working class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Female,35-44,Other,Married,Lower,Lower class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Female,45-54,Kannada,Living together as married,Lower,Working class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Female,45-54,Kannada,Married,Lower,Lower middle class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Female,45-54,Kannada,Married,Lower,Working class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Female,45-54,Marathi,Married,Higher,Lower class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Female,45-54,Marathi,Married,Lower,Lower class,3
+2006,-4,IN-MH Maharashtra,"Under 5,000",Female,45-54,Marathi,Married,Lower,Lower middle class,2
+2006,-4,IN-MH Maharashtra,"Under 5,000",Female,45-54,Marathi,Married,Lower,Working class,3
+2006,-4,IN-MH Maharashtra,"Under 5,000",Female,45-54,Marathi,Separated,Lower,Lower class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Female,45-54,Marathi,Separated,Lower,Upper middle class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Female,55-64,Kannada,Married,Lower,Lower middle class,2
+2006,-4,IN-MH Maharashtra,"Under 5,000",Female,55-64,Marathi,Married,Higher,Upper middle class,2
+2006,-4,IN-MH Maharashtra,"Under 5,000",Female,55-64,Marathi,Married,Lower,Lower class,4
+2006,-4,IN-MH Maharashtra,"Under 5,000",Female,"65 and more years""",Hindi,Widowed,Lower,Lower class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Female,"65 and more years""",Kannada,Married,Middle,Upper middle class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Female,"65 and more years""",Kannada,Widowed,Lower,Lower middle class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Female,"65 and more years""",Kannada,Widowed,Lower,Upper class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Female,"65 and more years""",Marathi,Married,Lower,Lower class,4
+2006,-4,IN-MH Maharashtra,"Under 5,000",Female,"65 and more years""",Marathi,Married,Lower,Lower middle class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Female,"65 and more years""",Marathi,Widowed,Lower,Working class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Male,15-24,Marathi,Married,Higher,Upper middle class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Male,15-24,Marathi,Single/Never married,Higher,Lower middle class,2
+2006,-4,IN-MH Maharashtra,"Under 5,000",Male,15-24,Marathi,Single/Never married,Middle,Working class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Male,25-34,Hindi,Single/Never married,Higher,Lower middle class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Male,25-34,Kannada,Married,Higher,Lower middle class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Male,25-34,Kannada,Married,Lower,Working class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Male,25-34,Marathi,Married,Higher,Upper middle class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Male,25-34,Marathi,Married,Lower,Lower class,7
+2006,-4,IN-MH Maharashtra,"Under 5,000",Male,25-34,Marathi,Married,Lower,Working class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Male,25-34,Marathi,Married,Middle,Lower class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Male,25-34,Marathi,Married,Middle,Lower middle class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Male,25-34,Marathi,Married,Middle,Upper class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Male,25-34,Marathi,Single/Never married,Higher,Lower middle class,3
+2006,-4,IN-MH Maharashtra,"Under 5,000",Male,25-34,"Punjabi, Panjabi",Single/Never married,Higher,Upper middle class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Male,35-44,Hindi,Married,Middle,Lower class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Male,35-44,Hindi,Married,Middle,Working class,2
+2006,-4,IN-MH Maharashtra,"Under 5,000",Male,35-44,Kannada,Married,Lower,Lower middle class,2
+2006,-4,IN-MH Maharashtra,"Under 5,000",Male,35-44,Kannada,Married,Middle,Working class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Male,35-44,Marathi,Living together as married,Lower,Working class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Male,35-44,Marathi,Married,Lower,Lower class,4
+2006,-4,IN-MH Maharashtra,"Under 5,000",Male,35-44,Marathi,Married,Lower,Lower middle class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Male,35-44,Marathi,Married,Lower,Upper middle class,2
+2006,-4,IN-MH Maharashtra,"Under 5,000",Male,35-44,Marathi,Married,Lower,Working class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Male,35-44,Marathi,Married,Middle,Lower class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Male,35-44,Marathi,Married,Middle,Lower middle class,2
+2006,-4,IN-MH Maharashtra,"Under 5,000",Male,35-44,Marathi,Married,Middle,Working class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Male,45-54,Bengali; Bangla,Married,Lower,Working class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Male,45-54,Kannada,Married,Lower,Upper middle class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Male,45-54,Kannada,Married,Middle,Lower middle class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Male,45-54,Kannada,Married,Middle,Upper middle class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Male,45-54,Marathi,Married,Lower,Lower class,6
+2006,-4,IN-MH Maharashtra,"Under 5,000",Male,45-54,Marathi,Married,Lower,Working class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Male,45-54,Marathi,Married,Middle,Lower middle class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Male,55-64,Kannada,Married,Higher,Upper class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Male,55-64,Kannada,Married,Lower,Lower class,2
+2006,-4,IN-MH Maharashtra,"Under 5,000",Male,55-64,Marathi,Living together as married,Middle,Lower middle class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Male,55-64,Marathi,Married,Lower,Lower class,3
+2006,-4,IN-MH Maharashtra,"Under 5,000",Male,55-64,Marathi,Married,Lower,Lower middle class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Male,55-64,Marathi,Married,Lower,Working class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Male,"65 and more years""",Hindi,Married,Lower,Working class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Male,"65 and more years""",Kannada,Living together as married,Lower,Lower middle class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Male,"65 and more years""",Kannada,Married,Lower,Lower middle class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Male,"65 and more years""",Kannada,Married,Lower,Upper class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Male,"65 and more years""",Kannada,Married,Lower,Upper middle class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Male,"65 and more years""",Kannada,Widowed,Lower,Lower middle class,1
+2006,-4,IN-MH Maharashtra,"Under 5,000",Male,"65 and more years""",Marathi,Married,Lower,Lower class,2
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Female,15-24,Hindi,Married,Lower,Lower class,1
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Female,15-24,Hindi,Single/Never married,Lower,Working class,1
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Female,15-24,Kannada,Living together as married,Middle,Lower middle class,1
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Female,25-34,Hindi,Married,Lower,Lower class,1
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Female,25-34,Hindi,Married,Lower,Lower middle class,1
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Female,25-34,Hindi,Married,Middle,Upper middle class,1
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Female,25-34,Hindi,Widowed,Lower,Lower class,1
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Female,25-34,Kannada,Married,Lower,Working class,1
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Female,25-34,Kannada,Married,Middle,Upper middle class,2
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Female,35-44,Hindi,Married,Lower,Lower class,5
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Female,35-44,Hindi,Married,Lower,Lower middle class,2
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Female,35-44,Hindi,Married,Lower,Upper middle class,1
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Female,35-44,Hindi,Married,Lower,Working class,2
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Female,35-44,Hindi,Married,Middle,Lower class,1
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Female,35-44,Kannada,Married,Middle,Working class,1
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Female,35-44,Other,Married,Lower,Lower class,1
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Female,45-54,Hindi,Married,Lower,Lower class,3
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Female,45-54,Hindi,Married,Lower,Lower middle class,2
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Female,45-54,Hindi,Married,Lower,Working class,2
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Female,45-54,Hindi,Married,Middle,Lower class,1
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Female,45-54,Hindi,Widowed,Lower,Lower class,2
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Female,45-54,Other,Separated,Lower,Lower class,1
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Female,55-64,Hindi,Married,Lower,Lower class,3
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Female,55-64,Hindi,Married,Lower,Lower middle class,2
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Female,"65 and more years""",Hindi,Married,Lower,Lower class,2
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Female,"65 and more years""",Hindi,Married,Lower,Lower middle class,2
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Female,"65 and more years""",Hindi,Widowed,Lower,Lower class,1
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Female,"65 and more years""",Other,Married,Lower,Lower class,1
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Female,"65 and more years""",Other,Widowed,Lower,Working class,1
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Male,15-24,Hindi,Married,Lower,Lower class,1
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Male,15-24,Hindi,Married,Lower,Lower middle class,1
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Male,15-24,Hindi,Married,Middle,Lower class,1
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Male,15-24,Hindi,Single/Never married,Higher,Lower middle class,7
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Male,15-24,Hindi,Single/Never married,Higher,Upper middle class,1
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Male,15-24,Hindi,Single/Never married,Middle,Lower middle class,1
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Male,15-24,Kannada,Single/Never married,Higher,Working class,1
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Male,25-34,Hindi,Living together as married,Lower,Lower class,1
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Male,25-34,Hindi,Married,Lower,Lower class,2
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Male,25-34,Hindi,Married,Lower,Lower middle class,1
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Male,25-34,Hindi,Married,Middle,Lower middle class,1
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Male,25-34,Hindi,Married,Middle,Upper middle class,1
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Male,25-34,Kannada,Married,Higher,Upper middle class,1
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Male,25-34,Kannada,Married,Lower,Lower middle class,1
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Male,25-34,Other,Single/Never married,Lower,Lower class,2
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Male,35-44,Hindi,Living together as married,Lower,Working class,1
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Male,35-44,Hindi,Married,Lower,Lower class,8
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Male,35-44,Hindi,Married,Lower,Lower middle class,1
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Male,35-44,Hindi,Married,Middle,Lower middle class,1
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Male,35-44,Hindi,Married,Middle,Working class,3
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Male,35-44,Hindi,Single/Never married,Higher,Lower middle class,2
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Male,35-44,Kannada,Married,Higher,Upper middle class,1
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Male,35-44,Kannada,Married,Lower,Working class,1
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Male,35-44,Other,Married,Higher,Lower middle class,1
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Male,45-54,Hindi,Living together as married,Lower,Working class,1
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Male,45-54,Hindi,Married,Higher,Lower class,1
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Male,45-54,Hindi,Married,Lower,Lower class,3
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Male,45-54,Hindi,Married,Lower,Upper middle class,1
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Male,45-54,Hindi,Single/Never married,Higher,Lower middle class,1
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Male,45-54,Kannada,Married,Higher,Upper middle class,1
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Male,45-54,Other,Married,Lower,Lower middle class,1
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Male,55-64,Hindi,Living together as married,Lower,Upper middle class,1
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Male,55-64,Hindi,Married,Lower,Lower class,2
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Male,"65 and more years""",Hindi,Married,Lower,Lower class,1
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Male,"65 and more years""",Hindi,Widowed,Lower,Upper middle class,1
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Male,"65 and more years""",Kannada,Married,Lower,Lower middle class,2
+2006,-4,IN-OR Odisha,20000-100000,Female,15-24,Oriya,Single/Never married,Higher,Lower middle class,1
+2006,-4,IN-OR Odisha,20000-100000,Female,25-34,Oriya,Married,Middle,Upper class,1
+2006,-4,IN-OR Odisha,20000-100000,Female,25-34,Oriya,Single/Never married,Middle,Upper middle class,1
+2006,-4,IN-OR Odisha,20000-100000,Female,55-64,Oriya,Married,Lower,Working class,1
+2006,-4,IN-OR Odisha,20000-100000,Female,55-64,Oriya,Widowed,Lower,Working class,1
+2006,-4,IN-OR Odisha,20000-100000,Male,25-34,Oriya,Married,Higher,Lower middle class,1
+2006,-4,IN-OR Odisha,20000-100000,Male,25-34,Oriya,Married,Higher,Working class,1
+2006,-4,IN-OR Odisha,20000-100000,Male,25-34,Oriya,Married,Middle,Lower middle class,1
+2006,-4,IN-OR Odisha,20000-100000,Male,25-34,Oriya,Married,Middle,Working class,1
+2006,-4,IN-OR Odisha,20000-100000,Male,35-44,Oriya,Married,Middle,Upper middle class,1
+2006,-4,IN-OR Odisha,20000-100000,Male,45-54,Oriya,Married,Higher,Upper middle class,1
+2006,-4,IN-OR Odisha,20000-100000,Male,45-54,Oriya,Married,Lower,Lower middle class,1
+2006,-4,IN-OR Odisha,20000-100000,Male,45-54,Oriya,Married,Lower,Upper middle class,1
+2006,-4,IN-OR Odisha,20000-100000,Male,55-64,Oriya,Married,Lower,Lower class,1
+2006,-4,IN-OR Odisha,20000-100000,Male,55-64,Oriya,Married,Middle,Upper middle class,2
+2006,-4,IN-OR Odisha,20000-100000,Male,"65 and more years""",Oriya,Married,Middle,Lower middle class,1
+2006,-4,IN-OR Odisha,5000-20000,Female,35-44,Oriya,Married,Lower,Lower class,1
+2006,-4,IN-OR Odisha,5000-20000,Female,45-54,Oriya,Married,Lower,Upper class,1
+2006,-4,IN-OR Odisha,5000-20000,Male,45-54,Oriya,Married,Middle,Working class,1
+2006,-4,IN-OR Odisha,5000-20000,Male,"65 and more years""",Oriya,Married,Lower,Upper class,1
+2006,-4,IN-OR Odisha,"Under 5,000",Female,15-24,Oriya,Married,Middle,Lower middle class,1
+2006,-4,IN-OR Odisha,"Under 5,000",Female,25-34,Oriya,Married,Lower,Lower class,2
+2006,-4,IN-OR Odisha,"Under 5,000",Female,25-34,Oriya,Married,Lower,Lower middle class,2
+2006,-4,IN-OR Odisha,"Under 5,000",Female,25-34,Oriya,Married,Middle,Lower class,1
+2006,-4,IN-OR Odisha,"Under 5,000",Female,25-34,Urdu,Married,Lower,Lower middle class,1
+2006,-4,IN-OR Odisha,"Under 5,000",Female,35-44,Oriya,Married,Lower,Lower class,2
+2006,-4,IN-OR Odisha,"Under 5,000",Female,35-44,Oriya,Married,Lower,Working class,1
+2006,-4,IN-OR Odisha,"Under 5,000",Female,35-44,Oriya,Married,Middle,Lower middle class,3
+2006,-4,IN-OR Odisha,"Under 5,000",Female,35-44,Oriya,Married,Middle,Upper middle class,1
+2006,-4,IN-OR Odisha,"Under 5,000",Female,45-54,Oriya,Married,Middle,Lower class,1
+2006,-4,IN-OR Odisha,"Under 5,000",Female,45-54,Oriya,Married,Middle,Lower middle class,1
+2006,-4,IN-OR Odisha,"Under 5,000",Female,55-64,Oriya,Married,Lower,Lower class,1
+2006,-4,IN-OR Odisha,"Under 5,000",Female,55-64,Oriya,Married,Lower,Upper middle class,1
+2006,-4,IN-OR Odisha,"Under 5,000",Female,55-64,Oriya,Single/Never married,Lower,Lower class,1
+2006,-4,IN-OR Odisha,"Under 5,000",Female,"65 and more years""",Oriya,Married,Lower,Lower class,1
+2006,-4,IN-OR Odisha,"Under 5,000",Female,"65 and more years""",Oriya,Married,Lower,Lower middle class,1
+2006,-4,IN-OR Odisha,"Under 5,000",Female,"65 and more years""",Oriya,Widowed,Lower,Upper middle class,1
+2006,-4,IN-OR Odisha,"Under 5,000",Male,25-34,Oriya,Married,Higher,Lower middle class,1
+2006,-4,IN-OR Odisha,"Under 5,000",Male,25-34,Oriya,Married,Lower,Lower class,1
+2006,-4,IN-OR Odisha,"Under 5,000",Male,25-34,Oriya,Married,Lower,Working class,3
+2006,-4,IN-OR Odisha,"Under 5,000",Male,25-34,Oriya,Married,Middle,Lower class,3
+2006,-4,IN-OR Odisha,"Under 5,000",Male,25-34,Oriya,Married,Middle,Upper class,1
+2006,-4,IN-OR Odisha,"Under 5,000",Male,25-34,Oriya,Single/Never married,Middle,Lower middle class,1
+2006,-4,IN-OR Odisha,"Under 5,000",Male,35-44,Assamese,Married,Middle,Lower middle class,1
+2006,-4,IN-OR Odisha,"Under 5,000",Male,35-44,Kannada,Living together as married,Middle,Lower middle class,1
+2006,-4,IN-OR Odisha,"Under 5,000",Male,35-44,Oriya,Married,Higher,Upper class,1
+2006,-4,IN-OR Odisha,"Under 5,000",Male,35-44,Oriya,Married,Higher,Upper middle class,1
+2006,-4,IN-OR Odisha,"Under 5,000",Male,35-44,Oriya,Married,Lower,Lower class,1
+2006,-4,IN-OR Odisha,"Under 5,000",Male,35-44,Oriya,Married,Lower,Lower middle class,1
+2006,-4,IN-OR Odisha,"Under 5,000",Male,35-44,Oriya,Married,Lower,Working class,1
+2006,-4,IN-OR Odisha,"Under 5,000",Male,35-44,Oriya,Married,Middle,Lower middle class,1
+2006,-4,IN-OR Odisha,"Under 5,000",Male,35-44,Oriya,Married,Middle,Upper class,1
+2006,-4,IN-OR Odisha,"Under 5,000",Male,35-44,Oriya,Separated,Lower,Working class,1
+2006,-4,IN-OR Odisha,"Under 5,000",Male,35-44,Oriya,Single/Never married,Middle,Working class,1
+2006,-4,IN-OR Odisha,"Under 5,000",Male,45-54,Oriya,Married,Lower,Lower class,1
+2006,-4,IN-OR Odisha,"Under 5,000",Male,45-54,Oriya,Married,Middle,Lower middle class,2
+2006,-4,IN-OR Odisha,"Under 5,000",Male,55-64,Oriya,Married,Lower,Lower class,2
+2006,-4,IN-OR Odisha,"Under 5,000",Male,55-64,Oriya,Married,Lower,Lower middle class,1
+2006,-4,IN-OR Odisha,"Under 5,000",Male,55-64,Oriya,Married,Middle,Lower class,1
+2006,-4,IN-OR Odisha,"Under 5,000",Male,"65 and more years""",Oriya,Married,Lower,Lower class,1
+2006,-4,IN-OR Odisha,"Under 5,000",Male,"65 and more years""",Oriya,Married,Lower,Lower middle class,1
+2006,-4,IN-OR Odisha,"Under 5,000",Male,"65 and more years""",Oriya,Married,Lower,Working class,1
+2006,-4,IN-OR Odisha,"Under 5,000",Male,"65 and more years""",Oriya,Married,Middle,Lower middle class,1
+2006,-4,IN-PB Punjab,5000-20000,Female,25-34,"Punjabi, Panjabi",Married,Middle,Lower class,1
+2006,-4,IN-PB Punjab,5000-20000,Female,25-34,"Punjabi, Panjabi",Married,Middle,Lower middle class,1
+2006,-4,IN-PB Punjab,5000-20000,Female,25-34,"Punjabi, Panjabi",Married,Middle,Upper middle class,1
+2006,-4,IN-PB Punjab,5000-20000,Female,35-44,"Punjabi, Panjabi",Married,Lower,Lower class,1
+2006,-4,IN-PB Punjab,5000-20000,Female,55-64,"Punjabi, Panjabi",Married,Lower,Lower class,1
+2006,-4,IN-PB Punjab,5000-20000,Male,15-24,"Punjabi, Panjabi",Single/Never married,Middle,Lower class,1
+2006,-4,IN-PB Punjab,5000-20000,Male,25-34,Hindi,Married,Middle,Working class,1
+2006,-4,IN-PB Punjab,5000-20000,Male,25-34,"Punjabi, Panjabi",Married,Higher,Lower middle class,2
+2006,-4,IN-PB Punjab,5000-20000,Male,25-34,"Punjabi, Panjabi",Married,Higher,Upper middle class,1
+2006,-4,IN-PB Punjab,5000-20000,Male,35-44,"Punjabi, Panjabi",Married,Middle,Lower middle class,1
+2006,-4,IN-PB Punjab,5000-20000,Male,55-64,"Punjabi, Panjabi",Married,Lower,Lower middle class,1
+2006,-4,IN-PB Punjab,"Under 5,000",Female,15-24,"Punjabi, Panjabi",Married,Higher,Lower class,1
+2006,-4,IN-PB Punjab,"Under 5,000",Female,15-24,"Punjabi, Panjabi",Single/Never married,Higher,Lower middle class,1
+2006,-4,IN-PB Punjab,"Under 5,000",Female,15-24,"Punjabi, Panjabi",Single/Never married,Higher,Upper middle class,1
+2006,-4,IN-PB Punjab,"Under 5,000",Female,25-34,"Punjabi, Panjabi",Married,Higher,Don´t know,1
+2006,-4,IN-PB Punjab,"Under 5,000",Female,25-34,"Punjabi, Panjabi",Married,Higher,Lower middle class,1
+2006,-4,IN-PB Punjab,"Under 5,000",Female,25-34,"Punjabi, Panjabi",Married,Lower,Lower class,1
+2006,-4,IN-PB Punjab,"Under 5,000",Female,25-34,"Punjabi, Panjabi",Married,Lower,Working class,1
+2006,-4,IN-PB Punjab,"Under 5,000",Female,35-44,Kannada,Married,Don´t know,Lower middle class,1
+2006,-4,IN-PB Punjab,"Under 5,000",Female,35-44,Kannada,Married,Lower,Upper middle class,1
+2006,-4,IN-PB Punjab,"Under 5,000",Female,35-44,"Punjabi, Panjabi",Married,Middle,Lower middle class,1
+2006,-4,IN-PB Punjab,"Under 5,000",Female,35-44,"Punjabi, Panjabi",Married,Middle,Upper middle class,1
+2006,-4,IN-PB Punjab,"Under 5,000",Female,35-44,"Punjabi, Panjabi",Widowed,Middle,Lower middle class,1
+2006,-4,IN-PB Punjab,"Under 5,000",Female,45-54,Assamese,Married,Lower,Lower class,1
+2006,-4,IN-PB Punjab,"Under 5,000",Female,45-54,Hindi,Married,Lower,Lower middle class,1
+2006,-4,IN-PB Punjab,"Under 5,000",Female,45-54,"Punjabi, Panjabi",Married,Middle,Lower middle class,1
+2006,-4,IN-PB Punjab,"Under 5,000",Female,55-64,"Punjabi, Panjabi",Living together as married,Lower,Lower middle class,1
+2006,-4,IN-PB Punjab,"Under 5,000",Female,55-64,"Punjabi, Panjabi",Married,Middle,Lower middle class,1
+2006,-4,IN-PB Punjab,"Under 5,000",Female,"65 and more years""","Punjabi, Panjabi",Married,Lower,Lower middle class,1
+2006,-4,IN-PB Punjab,"Under 5,000",Female,"65 and more years""","Punjabi, Panjabi",Married,Lower,Working class,1
+2006,-4,IN-PB Punjab,"Under 5,000",Male,15-24,"Punjabi, Panjabi",Married,Higher,Lower class,1
+2006,-4,IN-PB Punjab,"Under 5,000",Male,15-24,"Punjabi, Panjabi",Single/Never married,Higher,Lower class,1
+2006,-4,IN-PB Punjab,"Under 5,000",Male,15-24,"Punjabi, Panjabi",Single/Never married,Higher,Upper middle class,1
+2006,-4,IN-PB Punjab,"Under 5,000",Male,25-34,Other,Married,Middle,Lower class,1
+2006,-4,IN-PB Punjab,"Under 5,000",Male,25-34,"Punjabi, Panjabi",Married,Higher,Lower middle class,2
+2006,-4,IN-PB Punjab,"Under 5,000",Male,25-34,"Punjabi, Panjabi",Married,Middle,Lower class,1
+2006,-4,IN-PB Punjab,"Under 5,000",Male,35-44,"Punjabi, Panjabi",Married,Higher,Lower middle class,2
+2006,-4,IN-PB Punjab,"Under 5,000",Male,35-44,"Punjabi, Panjabi",Married,Middle,Lower class,1
+2006,-4,IN-PB Punjab,"Under 5,000",Male,45-54,Bengali; Bangla,Married,Lower,Lower class,1
+2006,-4,IN-PB Punjab,"Under 5,000",Male,45-54,"Punjabi, Panjabi",Married,Middle,Lower class,1
+2006,-4,IN-PB Punjab,"Under 5,000",Male,45-54,"Punjabi, Panjabi",Married,Middle,Lower middle class,1
+2006,-4,IN-PB Punjab,"Under 5,000",Male,45-54,"Punjabi, Panjabi",Married,Middle,Upper class,1
+2006,-4,IN-PB Punjab,"Under 5,000",Male,45-54,"Punjabi, Panjabi",Married,Middle,Working class,1
+2006,-4,IN-PB Punjab,"Under 5,000",Male,55-64,"Punjabi, Panjabi",Married,Higher,Upper middle class,1
+2006,-4,IN-PB Punjab,"Under 5,000",Male,55-64,"Punjabi, Panjabi",Married,Lower,Lower class,1
+2006,-4,IN-PB Punjab,"Under 5,000",Male,55-64,"Punjabi, Panjabi",Married,Lower,Working class,1
+2006,-4,IN-PB Punjab,"Under 5,000",Male,"65 and more years""","Punjabi, Panjabi",Married,Lower,Lower class,1
+2006,-4,IN-PB Punjab,"Under 5,000",Male,"65 and more years""","Punjabi, Panjabi",Married,Lower,Lower middle class,1
+2006,-4,IN-PB Punjab,"Under 5,000",Male,"65 and more years""","Punjabi, Panjabi",Married,Lower,Upper class,1
+2006,-4,IN-PB Punjab,"Under 5,000",Male,"65 and more years""","Punjabi, Panjabi",Widowed,Lower,Lower middle class,1
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Female,15-24,Marwari,Married,Lower,Lower class,1
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Female,15-24,Marwari,Married,Lower,Lower middle class,1
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Female,15-24,Other,Married,Lower,Lower middle class,2
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Female,15-24,Other,Married,Middle,Working class,1
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Female,25-34,Marwari,Married,Lower,Lower class,3
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Female,25-34,Marwari,Married,Lower,Working class,1
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Female,25-34,Other,Married,Lower,Lower class,1
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Female,25-34,Other,Married,Lower,Working class,1
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Female,35-44,Marwari,Married,Lower,Lower class,4
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Female,35-44,Marwari,Married,Lower,Working class,1
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Female,35-44,Marwari,Married,Middle,Upper middle class,1
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Female,35-44,Other,Married,Lower,Lower class,2
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Female,35-44,Other,Married,Lower,Lower middle class,3
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Female,35-44,Other,Married,Lower,Working class,1
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Female,35-44,Other,Widowed,Lower,Lower class,1
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Female,35-44,Other,Widowed,Lower,Lower middle class,1
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Female,45-54,Marwari,Married,Lower,Lower class,1
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Female,45-54,Marwari,Married,Lower,Lower middle class,1
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Female,45-54,Marwari,Married,Lower,Working class,1
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Female,45-54,Other,Divorced,Lower,Working class,1
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Female,45-54,Other,Married,Lower,Lower class,3
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Female,45-54,Other,Married,Lower,Lower middle class,1
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Female,45-54,Other,Married,Lower,Working class,1
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Female,45-54,Other,Separated,Lower,Lower class,1
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Female,45-54,Other,Widowed,Lower,Working class,1
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Female,55-64,Marwari,Married,Lower,Lower middle class,1
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Female,55-64,Other,Married,Lower,Lower middle class,2
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Female,"65 and more years""",Marwari,Married,Lower,Lower class,1
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Female,"65 and more years""",Marwari,Single/Never married,Lower,Lower middle class,1
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Female,"65 and more years""",Other,Married,Higher,Working class,1
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Female,"65 and more years""",Other,Married,Lower,Lower middle class,1
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Female,"65 and more years""",Other,Married,Lower,Working class,1
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Female,"65 and more years""",Other,Widowed,Lower,Lower class,1
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Female,"65 and more years""",Other,Widowed,Lower,Working class,1
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Male,15-24,Hindi,Single/Never married,Middle,Lower middle class,1
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Male,15-24,Marwari,Married,Higher,Lower middle class,1
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Male,15-24,Marwari,Married,Lower,Working class,2
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Male,15-24,Marwari,Single/Never married,Lower,Lower middle class,1
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Male,15-24,Other,Married,Lower,Lower middle class,1
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Male,15-24,Other,Single/Never married,Lower,Lower class,1
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Male,25-34,Hindi,Married,Middle,Lower middle class,1
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Male,25-34,Marwari,Married,Higher,Lower middle class,1
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Male,25-34,Marwari,Married,Higher,Upper middle class,1
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Male,25-34,Marwari,Married,Lower,Lower class,1
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Male,25-34,Marwari,Married,Lower,Working class,3
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Male,25-34,Marwari,Married,Middle,Upper middle class,1
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Male,25-34,Marwari,Single/Never married,Middle,Lower middle class,1
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Male,25-34,Other,Married,Lower,Lower middle class,1
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Male,25-34,Other,Married,Lower,Working class,2
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Male,25-34,Other,Married,Middle,Lower class,2
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Male,25-34,Other,Married,Middle,Lower middle class,3
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Male,25-34,Other,Married,Middle,Working class,1
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Male,35-44,Marwari,Married,Higher,Lower middle class,1
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Male,35-44,Marwari,Married,Lower,Lower class,1
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Male,35-44,Marwari,Married,Lower,Working class,2
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Male,35-44,Marwari,Married,Middle,Lower class,2
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Male,35-44,Other,Married,Higher,Lower middle class,1
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Male,35-44,Other,Married,Lower,Lower class,1
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Male,35-44,Other,Married,Lower,Lower middle class,3
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Male,35-44,Other,Married,Lower,Working class,2
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Male,35-44,Other,Single/Never married,Lower,Lower middle class,1
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Male,35-44,Other,Single/Never married,Lower,Working class,1
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Male,45-54,Marwari,Married,Higher,Upper middle class,1
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Male,45-54,Marwari,Married,Lower,Lower class,1
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Male,45-54,Marwari,Married,Lower,Working class,1
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Male,45-54,Other,Married,Lower,Lower middle class,2
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Male,45-54,Other,Married,Lower,Working class,2
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Male,45-54,Other,Married,Middle,Lower middle class,3
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Male,55-64,Hindi,Married,Lower,Lower class,1
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Male,55-64,Marwari,Married,Lower,Lower class,1
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Male,55-64,Marwari,Married,Lower,Lower middle class,2
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Male,55-64,Marwari,Married,Lower,Working class,1
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Male,55-64,Other,Married,Lower,Lower class,2
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Male,55-64,Other,Married,Lower,Lower middle class,1
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Male,55-64,Other,Married,Middle,Lower middle class,1
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Male,"65 and more years""",Marwari,Married,Lower,Lower class,1
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Male,"65 and more years""",Marwari,Married,Lower,Lower middle class,1
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Male,"65 and more years""",Marwari,Married,Lower,Upper middle class,1
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Male,"65 and more years""",Other,Married,Lower,Lower class,2
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Male,"65 and more years""",Other,Married,Lower,Lower middle class,1
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Male,"65 and more years""",Other,Married,Lower,Working class,1
+2006,-4,IN-TN Tamil Nadu,100000-500000,Female,25-34,Tamil,Married,Higher,Upper class,1
+2006,-4,IN-TN Tamil Nadu,100000-500000,Female,35-44,Tamil,Living together as married,Higher,Upper middle class,1
+2006,-4,IN-TN Tamil Nadu,100000-500000,Female,55-64,Tamil,Married,Higher,Upper middle class,1
+2006,-4,IN-TN Tamil Nadu,100000-500000,Female,55-64,Tamil,Married,Lower,Lower class,1
+2006,-4,IN-TN Tamil Nadu,100000-500000,Female,55-64,Tamil,Married,Middle,Upper middle class,1
+2006,-4,IN-TN Tamil Nadu,100000-500000,Male,15-24,Tamil,Single/Never married,Higher,Lower class,1
+2006,-4,IN-TN Tamil Nadu,100000-500000,Male,25-34,Tamil,Divorced,Higher,Upper middle class,1
+2006,-4,IN-TN Tamil Nadu,100000-500000,Male,25-34,Tamil,Living together as married,Higher,Lower middle class,1
+2006,-4,IN-TN Tamil Nadu,100000-500000,Male,35-44,Tamil,Married,Middle,Lower class,1
+2006,-4,IN-TN Tamil Nadu,100000-500000,Male,35-44,Tamil,Married,Middle,Lower middle class,1
+2006,-4,IN-TN Tamil Nadu,100000-500000,Male,45-54,Tamil,Married,Higher,Upper middle class,1
+2006,-4,IN-TN Tamil Nadu,100000-500000,Male,45-54,Tamil,Single/Never married,Higher,Upper middle class,1
+2006,-4,IN-TN Tamil Nadu,100000-500000,Male,55-64,Tamil,Married,Higher,Upper middle class,1
+2006,-4,IN-TN Tamil Nadu,100000-500000,Male,"65 and more years""",Tamil,Married,Higher,Upper middle class,2
+2006,-4,IN-TN Tamil Nadu,20000-100000,Male,55-64,Tamil,Married,Higher,Upper class,1
+2006,-4,IN-TN Tamil Nadu,5000-20000,Female,15-24,Tamil,Married,Middle,Working class,1
+2006,-4,IN-TN Tamil Nadu,5000-20000,Female,15-24,Tamil,Single/Never married,Higher,Working class,1
+2006,-4,IN-TN Tamil Nadu,5000-20000,Female,25-34,Tamil,Married,Higher,Lower middle class,3
+2006,-4,IN-TN Tamil Nadu,5000-20000,Female,25-34,Tamil,Married,Higher,Working class,1
+2006,-4,IN-TN Tamil Nadu,5000-20000,Female,25-34,Tamil,Married,Lower,Lower class,2
+2006,-4,IN-TN Tamil Nadu,5000-20000,Female,25-34,Tamil,Married,Middle,Lower class,2
+2006,-4,IN-TN Tamil Nadu,5000-20000,Female,25-34,Tamil,Married,Middle,Lower middle class,1
+2006,-4,IN-TN Tamil Nadu,5000-20000,Female,25-34,Tamil,Married,Middle,Upper middle class,1
+2006,-4,IN-TN Tamil Nadu,5000-20000,Female,25-34,Tamil,Married,Middle,Working class,1
+2006,-4,IN-TN Tamil Nadu,5000-20000,Female,25-34,Tamil,Single/Never married,Higher,Lower middle class,1
+2006,-4,IN-TN Tamil Nadu,5000-20000,Female,25-34,Tamil,Widowed,Lower,Lower class,1
+2006,-4,IN-TN Tamil Nadu,5000-20000,Female,35-44,Malayalam,Married,Middle,Working class,1
+2006,-4,IN-TN Tamil Nadu,5000-20000,Female,35-44,Tamil,Married,Lower,Lower class,1
+2006,-4,IN-TN Tamil Nadu,5000-20000,Female,35-44,Tamil,Married,Lower,Working class,1
+2006,-4,IN-TN Tamil Nadu,5000-20000,Female,35-44,Tamil,Married,Middle,Lower middle class,1
+2006,-4,IN-TN Tamil Nadu,5000-20000,Female,35-44,Tamil,Married,Middle,Upper middle class,2
+2006,-4,IN-TN Tamil Nadu,5000-20000,Female,45-54,Tamil,Married,Lower,Working class,1
+2006,-4,IN-TN Tamil Nadu,5000-20000,Female,45-54,Tamil,Married,Middle,Upper class,1
+2006,-4,IN-TN Tamil Nadu,5000-20000,Female,55-64,Malayalam,Married,Lower,Lower middle class,1
+2006,-4,IN-TN Tamil Nadu,5000-20000,Female,55-64,Tamil,Married,Lower,Lower class,1
+2006,-4,IN-TN Tamil Nadu,5000-20000,Female,55-64,Tamil,Single/Never married,Lower,Lower middle class,1
+2006,-4,IN-TN Tamil Nadu,5000-20000,Female,"65 and more years""",Tamil,Married,Lower,Lower middle class,1
+2006,-4,IN-TN Tamil Nadu,5000-20000,Male,15-24,Malayalam,Single/Never married,Higher,Lower middle class,1
+2006,-4,IN-TN Tamil Nadu,5000-20000,Male,15-24,Tamil,Single/Never married,Higher,Upper middle class,1
+2006,-4,IN-TN Tamil Nadu,5000-20000,Male,15-24,Tamil,Single/Never married,Higher,Working class,1
+2006,-4,IN-TN Tamil Nadu,5000-20000,Male,25-34,Tamil,Married,Higher,Lower middle class,3
+2006,-4,IN-TN Tamil Nadu,5000-20000,Male,25-34,Tamil,Married,Higher,Upper middle class,1
+2006,-4,IN-TN Tamil Nadu,5000-20000,Male,25-34,Tamil,Married,Lower,Lower class,1
+2006,-4,IN-TN Tamil Nadu,5000-20000,Male,25-34,Tamil,Married,Lower,Upper middle class,1
+2006,-4,IN-TN Tamil Nadu,5000-20000,Male,25-34,Tamil,Married,Middle,Lower class,1
+2006,-4,IN-TN Tamil Nadu,5000-20000,Male,25-34,Tamil,Married,Middle,Lower middle class,1
+2006,-4,IN-TN Tamil Nadu,5000-20000,Male,25-34,Tamil,Married,Middle,Working class,1
+2006,-4,IN-TN Tamil Nadu,5000-20000,Male,25-34,Telugu,Single/Never married,Higher,Lower middle class,1
+2006,-4,IN-TN Tamil Nadu,5000-20000,Male,25-34,Urdu,Single/Never married,Higher,Working class,1
+2006,-4,IN-TN Tamil Nadu,5000-20000,Male,35-44,Malayalam,Married,Middle,Working class,1
+2006,-4,IN-TN Tamil Nadu,5000-20000,Male,35-44,Tamil,Married,Higher,Upper middle class,2
+2006,-4,IN-TN Tamil Nadu,5000-20000,Male,35-44,Tamil,Married,Higher,Working class,1
+2006,-4,IN-TN Tamil Nadu,5000-20000,Male,35-44,Tamil,Married,Lower,Lower class,1
+2006,-4,IN-TN Tamil Nadu,5000-20000,Male,35-44,Tamil,Married,Lower,Lower middle class,1
+2006,-4,IN-TN Tamil Nadu,5000-20000,Male,35-44,Tamil,Married,Middle,Lower class,2
+2006,-4,IN-TN Tamil Nadu,5000-20000,Male,35-44,Tamil,Married,Middle,Lower middle class,1
+2006,-4,IN-TN Tamil Nadu,5000-20000,Male,35-44,Tamil,Married,Middle,Upper class,1
+2006,-4,IN-TN Tamil Nadu,5000-20000,Male,35-44,Tamil,Married,Middle,Upper middle class,1
+2006,-4,IN-TN Tamil Nadu,5000-20000,Male,45-54,Tamil,Married,Lower,Lower class,1
+2006,-4,IN-TN Tamil Nadu,5000-20000,Male,45-54,Tamil,Married,Lower,Lower middle class,2
+2006,-4,IN-TN Tamil Nadu,5000-20000,Male,45-54,Tamil,Married,Lower,Upper middle class,1
+2006,-4,IN-TN Tamil Nadu,5000-20000,Male,45-54,Tamil,Married,Middle,Upper middle class,1
+2006,-4,IN-TN Tamil Nadu,5000-20000,Male,45-54,Tamil,Married,Middle,Working class,1
+2006,-4,IN-TN Tamil Nadu,5000-20000,Male,55-64,Tamil,Married,Lower,Working class,1
+2006,-4,IN-TN Tamil Nadu,5000-20000,Male,55-64,Tamil,Married,Middle,Lower middle class,1
+2006,-4,IN-TN Tamil Nadu,5000-20000,Male,55-64,Tamil,Single/Never married,Lower,Lower class,1
+2006,-4,IN-TN Tamil Nadu,5000-20000,Male,"65 and more years""",Malayalam,Married,Middle,Lower middle class,1
+2006,-4,IN-TN Tamil Nadu,5000-20000,Male,"65 and more years""",Tamil,Married,Lower,Lower middle class,1
+2006,-4,IN-TN Tamil Nadu,5000-20000,Male,"65 and more years""",Tamil,Married,Middle,Lower class,1
+2006,-4,IN-TN Tamil Nadu,5000-20000,Male,"65 and more years""",Tamil,Married,Middle,Lower middle class,1
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Female,15-24,Tamil,Married,Middle,Lower middle class,1
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Female,25-34,Tamil,Married,Higher,Lower class,1
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Female,25-34,Tamil,Married,Higher,Upper class,2
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Female,25-34,Tamil,Married,Higher,Upper middle class,1
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Female,25-34,Tamil,Married,Middle,Lower middle class,2
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Female,25-34,Tamil,Married,Middle,Upper middle class,1
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Female,25-34,Tamil,Married,Middle,Working class,4
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Female,25-34,Urdu,Married,Lower,Upper middle class,1
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Female,35-44,Tamil,Living together as married,Higher,Upper middle class,1
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Female,35-44,Tamil,Married,Higher,Lower class,2
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Female,35-44,Tamil,Married,Higher,Lower middle class,1
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Female,35-44,Tamil,Married,Lower,Lower class,2
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Female,35-44,Tamil,Married,Lower,Working class,2
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Female,35-44,Tamil,Married,Middle,Lower class,1
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Female,35-44,Tamil,Married,Middle,Lower middle class,2
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Female,45-54,Tamil,Living together as married,Higher,Lower middle class,1
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Female,45-54,Tamil,Living together as married,Middle,Lower middle class,1
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Female,45-54,Tamil,Married,Lower,Lower middle class,1
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Female,45-54,Tamil,Married,Lower,Working class,1
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Female,45-54,Tamil,Married,Middle,Lower class,1
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Female,45-54,Tamil,Single/Never married,Lower,Lower middle class,1
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Female,45-54,Tamil,Widowed,Lower,Lower class,1
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Female,45-54,Tamil,Widowed,Middle,Working class,1
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Female,45-54,Urdu,Married,Lower,Upper middle class,1
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Female,55-64,Tamil,Married,Lower,Lower middle class,1
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Female,55-64,Tamil,Married,Middle,Lower class,1
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Female,55-64,Tamil,Single/Never married,Lower,Lower middle class,1
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Female,"65 and more years""",Urdu,Married,Lower,Upper middle class,1
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Male,15-24,Tamil,Married,Middle,Working class,1
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Male,15-24,Tamil,Single/Never married,Higher,Upper middle class,1
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Male,15-24,Tamil,Single/Never married,Middle,Working class,1
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Male,25-34,Tamil,Married,Higher,Lower middle class,2
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Male,25-34,Tamil,Married,Higher,Working class,1
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Male,25-34,Tamil,Married,Middle,Lower class,2
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Male,25-34,Tamil,Married,Middle,Lower middle class,1
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Male,25-34,Tamil,Married,Middle,Working class,2
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Male,25-34,Tamil,Single/Never married,Higher,Lower middle class,1
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Male,25-34,Tamil,Single/Never married,Higher,Upper middle class,1
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Male,25-34,Tamil,Single/Never married,Higher,Working class,1
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Male,25-34,Tamil,Single/Never married,Middle,Working class,3
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Male,25-34,Urdu,Married,Higher,Lower middle class,1
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Male,25-34,Urdu,Married,Higher,Upper middle class,1
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Male,35-44,Tamil,Married,Higher,Upper middle class,1
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Male,35-44,Tamil,Married,Higher,Working class,1
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Male,35-44,Tamil,Married,Lower,Lower middle class,1
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Male,35-44,Tamil,Married,Middle,Lower class,1
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Male,35-44,Tamil,Married,Middle,Lower middle class,1
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Male,35-44,Tamil,Married,Middle,Working class,2
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Male,35-44,Tamil,Single/Never married,Lower,Lower middle class,1
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Male,35-44,Tamil,Single/Never married,Lower,Upper middle class,1
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Male,35-44,Urdu,Married,Middle,Lower middle class,1
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Male,35-44,Urdu,Single/Never married,Lower,Lower middle class,1
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Male,45-54,Tamil,Married,Higher,Lower middle class,2
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Male,45-54,Tamil,Married,Higher,Upper middle class,1
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Male,45-54,Tamil,Married,Lower,Upper middle class,1
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Male,45-54,Tamil,Married,Middle,Working class,1
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Male,45-54,Tamil,Single/Never married,Higher,Upper middle class,1
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Male,45-54,Tamil,Single/Never married,Higher,Working class,1
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Male,45-54,Urdu,Single/Never married,Higher,Upper middle class,1
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Male,55-64,Tamil,Married,Lower,Lower class,1
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Male,55-64,Tamil,Married,Lower,Lower middle class,2
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Male,55-64,Urdu,Married,Lower,Working class,1
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Male,"65 and more years""",Tamil,Married,Higher,Lower class,1
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Male,"65 and more years""",Tamil,Married,Higher,Upper middle class,1
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Male,"65 and more years""",Tamil,Married,Lower,Working class,1
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Male,"65 and more years""",Tamil,Married,Middle,Upper middle class,1
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Male,"65 and more years""",Tamil,Married,Middle,Working class,1
+2006,-4,IN-UP Uttar Pradesh,100000-500000,Female,25-34,Hindi,Divorced,Lower,Working class,1
+2006,-4,IN-UP Uttar Pradesh,100000-500000,Female,25-34,Hindi,Married,Lower,Lower middle class,1
+2006,-4,IN-UP Uttar Pradesh,100000-500000,Female,25-34,Hindi,Married,Lower,Working class,1
+2006,-4,IN-UP Uttar Pradesh,100000-500000,Female,35-44,Hindi,Divorced,Lower,Lower middle class,1
+2006,-4,IN-UP Uttar Pradesh,100000-500000,Female,35-44,Hindi,Married,Higher,Upper middle class,1
+2006,-4,IN-UP Uttar Pradesh,100000-500000,Female,35-44,Hindi,Married,Middle,Upper middle class,1
+2006,-4,IN-UP Uttar Pradesh,100000-500000,Female,45-54,Hindi,Widowed,Lower,Lower middle class,1
+2006,-4,IN-UP Uttar Pradesh,100000-500000,Male,25-34,Hindi,Married,Middle,Lower middle class,1
+2006,-4,IN-UP Uttar Pradesh,100000-500000,Male,25-34,Hindi,Married,Middle,Upper middle class,1
+2006,-4,IN-UP Uttar Pradesh,100000-500000,Male,35-44,Hindi,Married,Lower,Lower middle class,1
+2006,-4,IN-UP Uttar Pradesh,100000-500000,Male,45-54,Hindi,Married,Lower,Lower middle class,1
+2006,-4,IN-UP Uttar Pradesh,100000-500000,Male,45-54,Hindi,Married,Middle,Lower class,1
+2006,-4,IN-UP Uttar Pradesh,100000-500000,Male,55-64,Hindi,Married,Lower,Working class,1
+2006,-4,IN-UP Uttar Pradesh,20000-100000,Male,55-64,Hindi,Widowed,Middle,Lower class,1
+2006,-4,IN-UP Uttar Pradesh,5000-20000,Female,15-24,Hindi,Married,Lower,Working class,1
+2006,-4,IN-UP Uttar Pradesh,5000-20000,Female,15-24,Hindi,Married,Middle,Upper middle class,1
+2006,-4,IN-UP Uttar Pradesh,5000-20000,Female,15-24,Hindi,Married,Middle,Working class,1
+2006,-4,IN-UP Uttar Pradesh,5000-20000,Female,25-34,Hindi,Living together as married,Lower,Lower class,1
+2006,-4,IN-UP Uttar Pradesh,5000-20000,Female,25-34,Hindi,Married,Lower,Lower class,4
+2006,-4,IN-UP Uttar Pradesh,5000-20000,Female,25-34,Hindi,Married,Lower,Lower middle class,1
+2006,-4,IN-UP Uttar Pradesh,5000-20000,Female,35-44,Hindi,Married,Higher,Lower middle class,1
+2006,-4,IN-UP Uttar Pradesh,5000-20000,Female,35-44,Hindi,Married,Lower,Lower class,5
+2006,-4,IN-UP Uttar Pradesh,5000-20000,Female,35-44,Hindi,Married,Middle,Lower middle class,1
+2006,-4,IN-UP Uttar Pradesh,5000-20000,Female,35-44,Hindi,Married,Middle,Upper class,1
+2006,-4,IN-UP Uttar Pradesh,5000-20000,Female,35-44,"Punjabi, Panjabi",Married,Middle,Upper middle class,1
+2006,-4,IN-UP Uttar Pradesh,5000-20000,Female,45-54,Hindi,Married,Lower,Lower class,5
+2006,-4,IN-UP Uttar Pradesh,5000-20000,Female,55-64,Hindi,Married,Lower,Lower class,4
+2006,-4,IN-UP Uttar Pradesh,5000-20000,Female,"65 and more years""",Hindi,Married,Lower,Lower class,1
+2006,-4,IN-UP Uttar Pradesh,5000-20000,Male,15-24,Hindi,Single/Never married,Higher,Lower class,2
+2006,-4,IN-UP Uttar Pradesh,5000-20000,Male,15-24,Hindi,Single/Never married,Higher,Lower middle class,1
+2006,-4,IN-UP Uttar Pradesh,5000-20000,Male,15-24,Hindi,Single/Never married,Lower,Lower middle class,1
+2006,-4,IN-UP Uttar Pradesh,5000-20000,Male,15-24,Hindi,Single/Never married,Middle,Lower class,3
+2006,-4,IN-UP Uttar Pradesh,5000-20000,Male,15-24,Hindi,Single/Never married,Middle,Upper middle class,1
+2006,-4,IN-UP Uttar Pradesh,5000-20000,Male,25-34,Bengali; Bangla,Single/Never married,Lower,Upper class,1
+2006,-4,IN-UP Uttar Pradesh,5000-20000,Male,25-34,Hindi,Married,Higher,Upper class,1
+2006,-4,IN-UP Uttar Pradesh,5000-20000,Male,25-34,Hindi,Married,Higher,Working class,1
+2006,-4,IN-UP Uttar Pradesh,5000-20000,Male,25-34,Hindi,Married,Lower,Lower class,4
+2006,-4,IN-UP Uttar Pradesh,5000-20000,Male,25-34,Hindi,Married,Lower,Working class,2
+2006,-4,IN-UP Uttar Pradesh,5000-20000,Male,25-34,Hindi,Married,Middle,Lower class,1
+2006,-4,IN-UP Uttar Pradesh,5000-20000,Male,25-34,Hindi,Single/Never married,Higher,Lower class,1
+2006,-4,IN-UP Uttar Pradesh,5000-20000,Male,25-34,Hindi,Single/Never married,Higher,Upper class,1
+2006,-4,IN-UP Uttar Pradesh,5000-20000,Male,35-44,Hindi,Married,Higher,Lower class,1
+2006,-4,IN-UP Uttar Pradesh,5000-20000,Male,35-44,Hindi,Married,Higher,Working class,2
+2006,-4,IN-UP Uttar Pradesh,5000-20000,Male,35-44,Hindi,Married,Lower,Lower class,3
+2006,-4,IN-UP Uttar Pradesh,5000-20000,Male,35-44,Hindi,Married,Middle,Lower class,2
+2006,-4,IN-UP Uttar Pradesh,5000-20000,Male,35-44,Hindi,Married,Middle,Upper middle class,1
+2006,-4,IN-UP Uttar Pradesh,5000-20000,Male,45-54,Hindi,Married,Lower,Lower class,2
+2006,-4,IN-UP Uttar Pradesh,5000-20000,Male,45-54,Hindi,Married,Lower,No answer,1
+2006,-4,IN-UP Uttar Pradesh,5000-20000,Male,45-54,Hindi,Married,Lower,Upper class,1
+2006,-4,IN-UP Uttar Pradesh,5000-20000,Male,45-54,Hindi,Married,Middle,Upper class,1
+2006,-4,IN-UP Uttar Pradesh,5000-20000,Male,55-64,Bengali; Bangla,Single/Never married,Lower,Upper class,1
+2006,-4,IN-UP Uttar Pradesh,5000-20000,Male,55-64,Hindi,Married,Lower,Lower class,1
+2006,-4,IN-UP Uttar Pradesh,5000-20000,Male,"65 and more years""",Hindi,Married,Higher,Upper class,1
+2006,-4,IN-UP Uttar Pradesh,5000-20000,Male,"65 and more years""",Hindi,Married,Lower,Lower class,4
+2006,-4,IN-UP Uttar Pradesh,5000-20000,Male,"65 and more years""",Hindi,Married,Lower,Upper class,1
+2006,-4,IN-UP Uttar Pradesh,No answer; Missing,Female,"65 and more years""",Hindi,Married,Lower,Upper middle class,1
+2006,-4,IN-UP Uttar Pradesh,No answer; Missing,Male,25-34,Hindi,Married,Lower,No answer,1
+2006,-4,IN-UP Uttar Pradesh,No answer; Missing,Male,55-64,Bengali; Bangla,Married,Don´t know,Upper class,1
+2006,-4,IN-UP Uttar Pradesh,No answer; Missing,Male,"65 and more years""",Hindi,Married,Lower,Upper class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Female,15-24,Bengali; Bangla,Single/Never married,Higher,Lower class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Female,15-24,Hindi,Married,Higher,Lower middle class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Female,15-24,Hindi,Married,Lower,Lower class,2
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Female,15-24,Hindi,Married,Middle,Lower class,7
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Female,15-24,Hindi,Married,Middle,Lower middle class,2
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Female,25-34,Hindi,Divorced,Middle,Working class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Female,25-34,Hindi,Living together as married,Lower,Don´t know,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Female,25-34,Hindi,Living together as married,Middle,Lower class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Female,25-34,Hindi,Married,Lower,Lower class,5
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Female,25-34,Hindi,Married,Lower,Lower middle class,5
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Female,25-34,Hindi,Married,Lower,Working class,3
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Female,25-34,Hindi,Married,Middle,Lower class,4
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Female,25-34,Hindi,Married,Middle,Lower middle class,4
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Female,25-34,Hindi,Married,Middle,Working class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Female,25-34,Hindi,Widowed,Lower,Lower class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Female,35-44,Assamese,Married,Lower,Upper class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Female,35-44,Bengali; Bangla,Married,Middle,Working class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Female,35-44,Hindi,Married,Lower,Don´t know,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Female,35-44,Hindi,Married,Lower,Lower class,4
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Female,35-44,Hindi,Married,Lower,Lower middle class,3
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Female,35-44,Hindi,Married,Lower,Upper middle class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Female,35-44,Hindi,Married,Lower,Working class,3
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Female,35-44,Hindi,Married,Middle,Lower class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Female,35-44,Hindi,Married,Middle,Lower middle class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Female,35-44,Hindi,Widowed,Lower,Lower class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Female,45-54,Bengali; Bangla,Married,Lower,Lower class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Female,45-54,Hindi,Married,Lower,Lower class,3
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Female,45-54,Hindi,Married,Lower,Lower middle class,4
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Female,45-54,Hindi,Married,Lower,Upper middle class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Female,45-54,Hindi,Married,Lower,Working class,3
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Female,45-54,Hindi,Married,Middle,Lower middle class,3
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Female,45-54,Hindi,Widowed,Lower,Lower class,2
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Female,55-64,Bengali; Bangla,Married,Lower,Working class,2
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Female,55-64,Hindi,Married,Lower,Lower class,2
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Female,55-64,Hindi,Married,Lower,Lower middle class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Female,55-64,Hindi,Widowed,Lower,Lower class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Female,"65 and more years""",Hindi,Married,Lower,Lower class,2
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Female,"65 and more years""",Hindi,Married,Lower,Lower middle class,2
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Female,"65 and more years""",Hindi,Married,Lower,Working class,3
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Female,"65 and more years""",Hindi,Widowed,Lower,Lower class,2
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,15-24,Assamese,Single/Never married,Higher,Working class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,15-24,Bengali; Bangla,Married,Middle,Lower middle class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,15-24,Hindi,Married,Higher,Working class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,15-24,Hindi,Married,Lower,Working class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,15-24,Hindi,Married,Middle,Lower class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,15-24,Hindi,Married,Middle,Working class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,15-24,Hindi,Single/Never married,Higher,Lower class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,15-24,Hindi,Single/Never married,Higher,Lower middle class,2
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,15-24,Hindi,Single/Never married,Higher,Upper middle class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,15-24,Hindi,Single/Never married,Higher,Working class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,15-24,Hindi,Single/Never married,Lower,Lower middle class,2
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,15-24,Hindi,Single/Never married,Lower,Working class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,15-24,Hindi,Single/Never married,Middle,Lower class,2
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,15-24,Hindi,Single/Never married,Middle,Lower middle class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,25-34,Assamese,Married,Higher,Lower middle class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,25-34,Assamese,Married,Lower,Working class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,25-34,Assamese,Married,Middle,Lower class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,25-34,Hindi,Married,Higher,Lower class,2
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,25-34,Hindi,Married,Higher,Lower middle class,2
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,25-34,Hindi,Married,Higher,Upper middle class,4
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,25-34,Hindi,Married,Lower,Lower class,3
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,25-34,Hindi,Married,Lower,Working class,2
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,25-34,Hindi,Married,Middle,Lower class,3
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,25-34,Hindi,Married,Middle,Lower middle class,4
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,25-34,Hindi,Married,Middle,Working class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,25-34,Hindi,Single/Never married,Lower,Working class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,25-34,Hindi,Single/Never married,Middle,Lower middle class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,25-34,Kannada,Married,Lower,Working class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,25-34,Kannada,Married,Middle,Lower middle class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,25-34,"Punjabi, Panjabi",Married,Middle,Lower class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,35-44,Assamese,Married,Middle,Lower middle class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,35-44,Bengali; Bangla,Married,Lower,Lower class,3
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,35-44,Hindi,Married,Higher,Lower class,3
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,35-44,Hindi,Married,Higher,Lower middle class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,35-44,Hindi,Married,Higher,Upper middle class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,35-44,Hindi,Married,Higher,Working class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,35-44,Hindi,Married,Lower,Lower class,6
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,35-44,Hindi,Married,Lower,Lower middle class,3
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,35-44,Hindi,Married,Lower,Working class,2
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,35-44,Hindi,Married,Middle,Lower class,3
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,35-44,Hindi,Married,Middle,Lower middle class,4
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,35-44,Kannada,Married,Middle,Lower middle class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,45-54,Bengali; Bangla,Married,Middle,Lower middle class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,45-54,Hindi,Married,Higher,Lower class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,45-54,Hindi,Married,Higher,Lower middle class,2
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,45-54,Hindi,Married,Higher,Upper class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,45-54,Hindi,Married,Lower,Lower class,3
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,45-54,Hindi,Married,Lower,Lower middle class,2
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,45-54,Hindi,Married,Lower,Working class,4
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,45-54,Hindi,Married,Middle,Lower middle class,2
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,45-54,Hindi,Married,Middle,Working class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,45-54,Hindi,Single/Never married,Lower,Lower middle class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,45-54,Hindi,Widowed,Lower,Working class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,55-64,Assamese,Married,Lower,Lower class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,55-64,Assamese,Married,Lower,Lower middle class,2
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,55-64,Assamese,Widowed,Lower,Lower middle class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,55-64,Bengali; Bangla,Married,Lower,Lower class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,55-64,Hindi,Married,Higher,Upper middle class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,55-64,Hindi,Married,Lower,Lower class,2
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,55-64,Hindi,Married,Lower,Lower middle class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,55-64,Hindi,Married,Lower,Upper middle class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,55-64,Hindi,Married,Lower,Working class,2
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,55-64,Hindi,Married,Middle,Lower class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,55-64,Hindi,Married,Middle,Lower middle class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,55-64,Hindi,Married,Middle,Upper middle class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,55-64,Hindi,Married,Middle,Working class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,55-64,Kannada,Married,Lower,Lower class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,"65 and more years""",Bengali; Bangla,Widowed,Lower,Lower class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,"65 and more years""",Hindi,Married,Lower,Lower class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,"65 and more years""",Hindi,Married,Lower,Lower middle class,2
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,"65 and more years""",Hindi,Married,Lower,Working class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,"65 and more years""",Hindi,Married,Middle,Working class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,"65 and more years""",Hindi,Single/Never married,Lower,Working class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,"65 and more years""",Hindi,Widowed,Lower,Lower class,2
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,"65 and more years""",Hindi,Widowed,Lower,Lower middle class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,"65 and more years""",Hindi,Widowed,Lower,Working class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,"65 and more years""",Hindi,Widowed,Middle,Working class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,"65 and more years""",Kannada,Widowed,Lower,Lower middle class,1
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",No answer,55-64,Hindi,Married,Lower,Upper class,1
+2006,-4,IN-WB West Bengal,20000-100000,Male,45-54,Bengali; Bangla,Married,Higher,Upper middle class,1
+2006,-4,IN-WB West Bengal,20000-100000,Male,55-64,Bengali; Bangla,Married,Higher,Upper middle class,1
+2006,-4,IN-WB West Bengal,5000-20000,Female,25-34,Bengali; Bangla,Living together as married,Middle,Upper middle class,1
+2006,-4,IN-WB West Bengal,5000-20000,Female,25-34,Bengali; Bangla,Married,Higher,Upper middle class,1
+2006,-4,IN-WB West Bengal,5000-20000,Female,25-34,Bengali; Bangla,Married,Middle,Upper middle class,1
+2006,-4,IN-WB West Bengal,5000-20000,Female,25-34,Bengali; Bangla,Single/Never married,Higher,Upper middle class,1
+2006,-4,IN-WB West Bengal,5000-20000,Female,35-44,Bengali; Bangla,Married,Higher,Upper middle class,2
+2006,-4,IN-WB West Bengal,5000-20000,Female,35-44,Bengali; Bangla,Married,Lower,Lower class,1
+2006,-4,IN-WB West Bengal,5000-20000,Female,35-44,Bengali; Bangla,Married,Lower,Upper middle class,2
+2006,-4,IN-WB West Bengal,5000-20000,Female,55-64,Bengali; Bangla,Married,Middle,Lower middle class,1
+2006,-4,IN-WB West Bengal,5000-20000,Female,55-64,Bengali; Bangla,Single/Never married,Middle,Upper middle class,1
+2006,-4,IN-WB West Bengal,5000-20000,Female,"65 and more years""",Bengali; Bangla,Single/Never married,Middle,Lower middle class,1
+2006,-4,IN-WB West Bengal,5000-20000,Female,"65 and more years""",Bengali; Bangla,Widowed,Lower,Upper middle class,1
+2006,-4,IN-WB West Bengal,5000-20000,Male,15-24,Bengali; Bangla,Married,Higher,Lower middle class,1
+2006,-4,IN-WB West Bengal,5000-20000,Male,15-24,Bengali; Bangla,Married,Higher,Upper middle class,1
+2006,-4,IN-WB West Bengal,5000-20000,Male,15-24,Bengali; Bangla,Single/Never married,Higher,Upper middle class,2
+2006,-4,IN-WB West Bengal,5000-20000,Male,25-34,Bengali; Bangla,Single/Never married,Higher,Upper middle class,2
+2006,-4,IN-WB West Bengal,5000-20000,Male,35-44,Bengali; Bangla,Married,Higher,Lower middle class,2
+2006,-4,IN-WB West Bengal,5000-20000,Male,35-44,Bengali; Bangla,Married,Lower,Lower middle class,1
+2006,-4,IN-WB West Bengal,5000-20000,Male,35-44,Bengali; Bangla,Married,Middle,Lower middle class,2
+2006,-4,IN-WB West Bengal,5000-20000,Male,35-44,Bengali; Bangla,Married,Middle,Upper middle class,1
+2006,-4,IN-WB West Bengal,5000-20000,Male,45-54,Bengali; Bangla,Married,Higher,Lower middle class,1
+2006,-4,IN-WB West Bengal,5000-20000,Male,45-54,Bengali; Bangla,Married,Middle,Upper middle class,2
+2006,-4,IN-WB West Bengal,5000-20000,Male,55-64,Bengali; Bangla,Married,Higher,Upper middle class,3
+2006,-4,IN-WB West Bengal,5000-20000,Male,"65 and more years""",Bengali; Bangla,Married,Higher,Lower middle class,1
+2006,-4,IN-WB West Bengal,5000-20000,Male,"65 and more years""",Bengali; Bangla,Married,Lower,Upper middle class,1
+2006,-4,IN-WB West Bengal,5000-20000,Male,"65 and more years""",Bengali; Bangla,Married,Middle,Upper middle class,1
+2006,-4,IN-WB West Bengal,500000 and more,Male,25-34,Hindi,Married,Middle,Lower middle class,1
+2006,-4,IN-WB West Bengal,500000 and more,Male,45-54,Hindi,Married,Higher,Upper class,1
+2006,-4,IN-WB West Bengal,"Under 5,000",Female,15-24,Bengali; Bangla,Married,Lower,Working class,1
+2006,-4,IN-WB West Bengal,"Under 5,000",Female,15-24,Bengali; Bangla,Married,Middle,Lower class,1
+2006,-4,IN-WB West Bengal,"Under 5,000",Female,15-24,Bengali; Bangla,Married,Middle,Lower middle class,1
+2006,-4,IN-WB West Bengal,"Under 5,000",Female,15-24,Bengali; Bangla,Married,Middle,Working class,1
+2006,-4,IN-WB West Bengal,"Under 5,000",Female,15-24,Bengali; Bangla,Single/Never married,Middle,Lower class,1
+2006,-4,IN-WB West Bengal,"Under 5,000",Female,15-24,Bengali; Bangla,Single/Never married,Middle,Lower middle class,1
+2006,-4,IN-WB West Bengal,"Under 5,000",Female,25-34,Bengali; Bangla,Married,Higher,Lower middle class,1
+2006,-4,IN-WB West Bengal,"Under 5,000",Female,25-34,Bengali; Bangla,Married,Lower,Lower class,3
+2006,-4,IN-WB West Bengal,"Under 5,000",Female,25-34,Bengali; Bangla,Married,Lower,Lower middle class,1
+2006,-4,IN-WB West Bengal,"Under 5,000",Female,25-34,Bengali; Bangla,Married,Middle,Lower class,4
+2006,-4,IN-WB West Bengal,"Under 5,000",Female,25-34,Bengali; Bangla,Married,Middle,Lower middle class,2
+2006,-4,IN-WB West Bengal,"Under 5,000",Female,25-34,Bengali; Bangla,Married,Middle,Working class,2
+2006,-4,IN-WB West Bengal,"Under 5,000",Female,25-34,Bengali; Bangla,Single/Never married,Middle,Lower middle class,2
+2006,-4,IN-WB West Bengal,"Under 5,000",Female,25-34,Hindi,Married,Lower,Lower middle class,1
+2006,-4,IN-WB West Bengal,"Under 5,000",Female,35-44,Bengali; Bangla,Married,Higher,Lower class,1
+2006,-4,IN-WB West Bengal,"Under 5,000",Female,35-44,Bengali; Bangla,Married,Higher,Lower middle class,1
+2006,-4,IN-WB West Bengal,"Under 5,000",Female,35-44,Bengali; Bangla,Married,Lower,Upper middle class,1
+2006,-4,IN-WB West Bengal,"Under 5,000",Female,35-44,Bengali; Bangla,Married,Lower,Working class,1
+2006,-4,IN-WB West Bengal,"Under 5,000",Female,35-44,Bengali; Bangla,Married,Middle,Lower class,2
+2006,-4,IN-WB West Bengal,"Under 5,000",Female,35-44,Bengali; Bangla,Married,Middle,Lower middle class,2
+2006,-4,IN-WB West Bengal,"Under 5,000",Female,35-44,Bengali; Bangla,Single/Never married,Lower,Lower middle class,1
+2006,-4,IN-WB West Bengal,"Under 5,000",Female,35-44,Bengali; Bangla,Single/Never married,Middle,Lower middle class,1
+2006,-4,IN-WB West Bengal,"Under 5,000",Female,35-44,Gujarati,Married,Middle,Upper middle class,1
+2006,-4,IN-WB West Bengal,"Under 5,000",Female,35-44,Hindi,Married,Lower,Lower middle class,1
+2006,-4,IN-WB West Bengal,"Under 5,000",Female,45-54,Bengali; Bangla,Married,Higher,Lower middle class,2
+2006,-4,IN-WB West Bengal,"Under 5,000",Female,45-54,Bengali; Bangla,Married,Lower,Lower class,2
+2006,-4,IN-WB West Bengal,"Under 5,000",Female,45-54,Bengali; Bangla,Married,Lower,Lower middle class,2
+2006,-4,IN-WB West Bengal,"Under 5,000",Female,45-54,Bengali; Bangla,Married,Middle,Lower class,1
+2006,-4,IN-WB West Bengal,"Under 5,000",Female,45-54,Bengali; Bangla,Married,Middle,Lower middle class,4
+2006,-4,IN-WB West Bengal,"Under 5,000",Female,45-54,Bengali; Bangla,Single/Never married,Middle,Lower middle class,2
+2006,-4,IN-WB West Bengal,"Under 5,000",Female,55-64,Bengali; Bangla,Married,Lower,Lower middle class,1
+2006,-4,IN-WB West Bengal,"Under 5,000",Female,55-64,Bengali; Bangla,Widowed,Lower,Lower middle class,1
+2006,-4,IN-WB West Bengal,"Under 5,000",Female,"65 and more years""",Bengali; Bangla,Married,Lower,Lower middle class,1
+2006,-4,IN-WB West Bengal,"Under 5,000",Male,15-24,Bengali; Bangla,Married,Higher,Lower middle class,2
+2006,-4,IN-WB West Bengal,"Under 5,000",Male,15-24,Bengali; Bangla,Married,Lower,Lower class,1
+2006,-4,IN-WB West Bengal,"Under 5,000",Male,15-24,Bengali; Bangla,Married,Lower,Lower middle class,2
+2006,-4,IN-WB West Bengal,"Under 5,000",Male,15-24,Bengali; Bangla,Married,Middle,Lower middle class,1
+2006,-4,IN-WB West Bengal,"Under 5,000",Male,15-24,Bengali; Bangla,Single/Never married,Higher,Lower middle class,1
+2006,-4,IN-WB West Bengal,"Under 5,000",Male,15-24,Bengali; Bangla,Single/Never married,Middle,Lower middle class,3
+2006,-4,IN-WB West Bengal,"Under 5,000",Male,25-34,Bengali; Bangla,Married,Higher,Lower middle class,3
+2006,-4,IN-WB West Bengal,"Under 5,000",Male,25-34,Bengali; Bangla,Married,Higher,Upper middle class,1
+2006,-4,IN-WB West Bengal,"Under 5,000",Male,25-34,Bengali; Bangla,Married,Higher,Working class,1
+2006,-4,IN-WB West Bengal,"Under 5,000",Male,25-34,Bengali; Bangla,Married,Lower,Lower middle class,2
+2006,-4,IN-WB West Bengal,"Under 5,000",Male,25-34,Bengali; Bangla,Married,Middle,Lower middle class,3
+2006,-4,IN-WB West Bengal,"Under 5,000",Male,25-34,Bengali; Bangla,Single/Never married,Higher,Lower class,2
+2006,-4,IN-WB West Bengal,"Under 5,000",Male,25-34,Bengali; Bangla,Single/Never married,Higher,Lower middle class,1
+2006,-4,IN-WB West Bengal,"Under 5,000",Male,25-34,Bengali; Bangla,Single/Never married,Middle,Lower class,3
+2006,-4,IN-WB West Bengal,"Under 5,000",Male,25-34,Bengali; Bangla,Single/Never married,Middle,Lower middle class,3
+2006,-4,IN-WB West Bengal,"Under 5,000",Male,35-44,Assamese,Married,Higher,Lower class,1
+2006,-4,IN-WB West Bengal,"Under 5,000",Male,35-44,Assamese,Married,Middle,Lower middle class,1
+2006,-4,IN-WB West Bengal,"Under 5,000",Male,35-44,Bengali; Bangla,Married,Higher,Lower class,1
+2006,-4,IN-WB West Bengal,"Under 5,000",Male,35-44,Bengali; Bangla,Married,Higher,Lower middle class,1
+2006,-4,IN-WB West Bengal,"Under 5,000",Male,35-44,Bengali; Bangla,Married,Lower,Lower class,1
+2006,-4,IN-WB West Bengal,"Under 5,000",Male,35-44,Bengali; Bangla,Married,Lower,Lower middle class,1
+2006,-4,IN-WB West Bengal,"Under 5,000",Male,35-44,Bengali; Bangla,Married,Lower,Working class,1
+2006,-4,IN-WB West Bengal,"Under 5,000",Male,35-44,Bengali; Bangla,Married,Middle,Lower class,1
+2006,-4,IN-WB West Bengal,"Under 5,000",Male,35-44,Bengali; Bangla,Married,Middle,Lower middle class,7
+2006,-4,IN-WB West Bengal,"Under 5,000",Male,35-44,Bengali; Bangla,Married,Middle,Working class,2
+2006,-4,IN-WB West Bengal,"Under 5,000",Male,35-44,Bengali; Bangla,Single/Never married,Higher,Lower middle class,1
+2006,-4,IN-WB West Bengal,"Under 5,000",Male,35-44,Bengali; Bangla,Single/Never married,Lower,Working class,1
+2006,-4,IN-WB West Bengal,"Under 5,000",Male,45-54,Assamese,Married,Middle,Lower middle class,1
+2006,-4,IN-WB West Bengal,"Under 5,000",Male,45-54,Bengali; Bangla,Married,Higher,Lower middle class,2
+2006,-4,IN-WB West Bengal,"Under 5,000",Male,45-54,Bengali; Bangla,Married,Lower,Lower class,1
+2006,-4,IN-WB West Bengal,"Under 5,000",Male,45-54,Bengali; Bangla,Married,Middle,Lower middle class,3
+2006,-4,IN-WB West Bengal,"Under 5,000",Male,45-54,Bengali; Bangla,Single/Never married,Higher,Lower middle class,2
+2006,-4,IN-WB West Bengal,"Under 5,000",Male,55-64,Bengali; Bangla,Married,Lower,Lower middle class,1
+2006,-4,IN-WB West Bengal,"Under 5,000",Male,55-64,Bengali; Bangla,Married,Middle,Lower middle class,2
+2006,-4,IN-WB West Bengal,"Under 5,000",Male,55-64,Bengali; Bangla,Single/Never married,Higher,Upper middle class,1
+2006,-4,IN-WB West Bengal,"Under 5,000",Male,55-64,Bengali; Bangla,Single/Never married,Lower,Lower middle class,1
+2006,-4,IN-WB West Bengal,"Under 5,000",Male,"65 and more years""",Bengali; Bangla,Married,Higher,Lower middle class,1
+2006,-4,IN-WB West Bengal,"Under 5,000",Male,"65 and more years""",Bengali; Bangla,Married,Lower,Lower middle class,1
+2006,-4,IN-WB West Bengal,"Under 5,000",Male,"65 and more years""",Bengali; Bangla,Married,Middle,Lower middle class,2
+2006,-4,IN-WB West Bengal,"Under 5,000",Male,"65 and more years""",Bengali; Bangla,Married,Middle,Upper middle class,1
+2006,-4,Missing,No answer; Missing,No answer,No answer,No answer,No answer,No answer,No answer,1

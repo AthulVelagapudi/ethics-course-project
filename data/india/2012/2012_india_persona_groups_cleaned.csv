@@ -1,0 +1,17 @@
+V262: Year survey,B_COUNTRY_ALPHA: Country code ISO 3166 alpha,N_REGION_ISO: Region (ISO),G_TOWNSIZE2: Settlement size_5 groups,V240: Sex,V242: Age,V247: Language at home,V57: Marital status,V248R: Highest educational level: Respondent (recoded into 3 groups),V238: Social class (subjective),Counts
+2012,-4,IN-BR Bihar,"Under 5,000",Male,25,Hindi,Married,Middle,Lower middle class,4
+2012,-4,IN-BR Bihar,"Under 5,000",Male,25,Hindi,Married,Middle,Upper middle class,5
+2012,-4,IN-BR Bihar,"Under 5,000",Male,27,Maithili,Married,Middle,Lower middle class,4
+2012,-4,IN-BR Bihar,"Under 5,000",Male,30,Hindi,Married,Lower,Lower middle class,4
+2012,-4,IN-CT Chhattisgarh,"Under 5,000",Female,32,Chhattisgarhi,Married,Lower,Working class,6
+2012,-4,IN-GJ Gujarat,"Under 5,000",Male,46,Gujarati,Married,Lower,Working class,4
+2012,-4,IN-JH Jharkhand,"Under 5,000",Male,40,Hindi,Married,Middle,Working class,4
+2012,-4,IN-KL Kerala,5000-20000,Male,40,Malayalam,Married,Middle,Working class,4
+2012,-4,IN-OR Odisha,5000-20000,Male,24,Oriya,Single,Middle,Lower class,4
+2012,-4,IN-OR Odisha,5000-20000,Male,40,Oriya,Married,Middle,Lower middle class,5
+2012,-4,IN-OR Odisha,5000-20000,Male,47,Oriya,Married,Middle,Lower class,4
+2012,-4,IN-OR Odisha,5000-20000,Male,47,Oriya,Married,Middle,Lower middle class,4
+2012,-4,IN-OR Odisha,5000-20000,Male,50,Oriya,Married,Middle,Lower middle class,5
+2012,-4,IN-UP Uttar Pradesh,"Under 5,000",Female,30,Hindi,Married,Middle,Upper middle class,4
+2012,-4,IN-UP Uttar Pradesh,"Under 5,000",Female,32,Hindi,Married,Middle,Lower middle class,4
+2012,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,32,Hindi,Married,Middle,Upper middle class,7

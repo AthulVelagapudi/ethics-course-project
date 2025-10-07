@@ -1,0 +1,1079 @@
+A_YEAR: Year of survey,B_COUNTRY: ISO 3166-1 numeric country code,N_REGION_ISO: Region ISO 3166-2,H_URBRURAL: Urban-Rural,Q260: Sex,X003R: Age recoded (6 intervals),Q272: Language at home,Q273: Marital status,Q275R: Highest educational level: Respondent (recoded into 3 groups),Q287: Social class (subjective),Counts
+2023,India,IN-BR Bihar,Rural,Female,16-24,Hindi,Married,Lower,Working class,1
+2023,India,IN-BR Bihar,Rural,Female,16-24,Hindi,Married,Middle,Lower middle class,1
+2023,India,IN-BR Bihar,Rural,Female,16-24,Hindi,Married,Middle,Upper middle class,1
+2023,India,IN-BR Bihar,Rural,Female,16-24,Hindi,Single,Higher,Lower class,1
+2023,India,IN-BR Bihar,Rural,Female,16-24,Hindi,Single,Higher,Lower middle class,4
+2023,India,IN-BR Bihar,Rural,Female,16-24,Hindi,Single,Middle,Lower middle class,9
+2023,India,IN-BR Bihar,Rural,Female,16-24,Hindi,Single,Middle,Upper middle class,2
+2023,India,IN-BR Bihar,Rural,Female,16-24,"Punjabi, Panjabi",Single,Lower,Upper middle class,1
+2023,India,IN-BR Bihar,Rural,Female,25-34,Hindi,Married,Higher,Lower middle class,5
+2023,India,IN-BR Bihar,Rural,Female,25-34,Hindi,Married,Lower,Upper class,1
+2023,India,IN-BR Bihar,Rural,Female,25-34,Hindi,Married,Middle,Lower class,1
+2023,India,IN-BR Bihar,Rural,Female,25-34,Hindi,Married,Middle,Lower middle class,1
+2023,India,IN-BR Bihar,Rural,Female,25-34,Hindi,Married,Middle,Upper middle class,1
+2023,India,IN-BR Bihar,Rural,Female,25-34,Hindi,Single,Higher,Lower middle class,1
+2023,India,IN-BR Bihar,Rural,Female,35-44,Hindi,Married,Higher,Lower class,1
+2023,India,IN-BR Bihar,Rural,Female,35-44,Hindi,Married,Higher,Lower middle class,1
+2023,India,IN-BR Bihar,Rural,Female,35-44,Hindi,Married,Lower,Lower class,1
+2023,India,IN-BR Bihar,Rural,Female,35-44,Hindi,Married,Lower,Lower middle class,1
+2023,India,IN-BR Bihar,Rural,Female,35-44,Hindi,Married,Lower,Upper middle class,2
+2023,India,IN-BR Bihar,Rural,Female,35-44,Hindi,Married,Middle,Lower middle class,2
+2023,India,IN-BR Bihar,Rural,Female,35-44,Hindi,Married,Middle,Upper middle class,1
+2023,India,IN-BR Bihar,Rural,Female,35-44,Hindi,Married,Middle,Working class,1
+2023,India,IN-BR Bihar,Rural,Female,45-54,Hindi,Married,Higher,Lower middle class,1
+2023,India,IN-BR Bihar,Rural,Female,45-54,Hindi,Married,Higher,Upper middle class,1
+2023,India,IN-BR Bihar,Rural,Female,45-54,Hindi,Married,Lower,Lower class,1
+2023,India,IN-BR Bihar,Rural,Female,45-54,Hindi,Married,Lower,Lower middle class,2
+2023,India,IN-BR Bihar,Rural,Female,45-54,Hindi,Married,Lower,Working class,2
+2023,India,IN-BR Bihar,Rural,Female,45-54,Hindi,Married,Middle,Lower middle class,4
+2023,India,IN-BR Bihar,Rural,Female,45-54,Hindi,Married,Middle,Working class,1
+2023,India,IN-BR Bihar,Rural,Female,55-64,Hindi,Married,Lower,Lower class,1
+2023,India,IN-BR Bihar,Rural,Female,55-64,Hindi,Married,Lower,Lower middle class,3
+2023,India,IN-BR Bihar,Rural,Female,55-64,Hindi,Married,Lower,Upper middle class,1
+2023,India,IN-BR Bihar,Rural,Female,55-64,Hindi,Married,Middle,Lower middle class,2
+2023,India,IN-BR Bihar,Rural,Female,55-64,Hindi,Married,Middle,Working class,1
+2023,India,IN-BR Bihar,Rural,Female,55-64,Hindi,Widowed,Lower,Working class,1
+2023,India,IN-BR Bihar,Rural,Female,65 and more years,Hindi,Married,Lower,Lower middle class,1
+2023,India,IN-BR Bihar,Rural,Male,16-24,Hindi,Don't know,Lower,Upper class,1
+2023,India,IN-BR Bihar,Rural,Male,16-24,Hindi,Married,Higher,Upper middle class,1
+2023,India,IN-BR Bihar,Rural,Male,16-24,Hindi,Married,Lower,Upper class,1
+2023,India,IN-BR Bihar,Rural,Male,16-24,Hindi,Married,Middle,Lower middle class,3
+2023,India,IN-BR Bihar,Rural,Male,16-24,Hindi,Single,Higher,Lower middle class,3
+2023,India,IN-BR Bihar,Rural,Male,16-24,Hindi,Single,Higher,Upper middle class,1
+2023,India,IN-BR Bihar,Rural,Male,16-24,Hindi,Single,Lower,Working class,1
+2023,India,IN-BR Bihar,Rural,Male,16-24,Hindi,Single,Middle,Lower class,1
+2023,India,IN-BR Bihar,Rural,Male,16-24,Hindi,Single,Middle,Lower middle class,16
+2023,India,IN-BR Bihar,Rural,Male,16-24,Hindi,Single,Middle,Upper class,1
+2023,India,IN-BR Bihar,Rural,Male,16-24,Hindi,Single,Middle,Upper middle class,4
+2023,India,IN-BR Bihar,Rural,Male,16-24,Hindi,Single,Middle,Working class,2
+2023,India,IN-BR Bihar,Rural,Male,25-34,Hindi,Married,Higher,Lower middle class,7
+2023,India,IN-BR Bihar,Rural,Male,25-34,Hindi,Married,Higher,Upper middle class,2
+2023,India,IN-BR Bihar,Rural,Male,25-34,Hindi,Married,Lower,Lower middle class,1
+2023,India,IN-BR Bihar,Rural,Male,25-34,Hindi,Married,Lower,Working class,1
+2023,India,IN-BR Bihar,Rural,Male,25-34,Hindi,Married,Middle,Don't know,1
+2023,India,IN-BR Bihar,Rural,Male,25-34,Hindi,Married,Middle,Lower middle class,4
+2023,India,IN-BR Bihar,Rural,Male,25-34,Hindi,Married,Middle,Upper class,1
+2023,India,IN-BR Bihar,Rural,Male,25-34,Hindi,Married,Middle,Upper middle class,1
+2023,India,IN-BR Bihar,Rural,Male,25-34,Hindi,Single,Higher,Lower class,1
+2023,India,IN-BR Bihar,Rural,Male,25-34,Hindi,Single,Higher,Lower middle class,4
+2023,India,IN-BR Bihar,Rural,Male,25-34,Hindi,Single,Middle,Upper middle class,1
+2023,India,IN-BR Bihar,Rural,Male,25-34,Other,Married,Higher,Lower middle class,1
+2023,India,IN-BR Bihar,Rural,Male,35-44,Hindi,Married,Higher,Lower middle class,3
+2023,India,IN-BR Bihar,Rural,Male,35-44,Hindi,Married,Higher,Working class,1
+2023,India,IN-BR Bihar,Rural,Male,35-44,Hindi,Married,Lower,Lower middle class,2
+2023,India,IN-BR Bihar,Rural,Male,35-44,Hindi,Married,Lower,Upper class,2
+2023,India,IN-BR Bihar,Rural,Male,35-44,Hindi,Married,Middle,Lower class,1
+2023,India,IN-BR Bihar,Rural,Male,35-44,Hindi,Married,Middle,Lower middle class,4
+2023,India,IN-BR Bihar,Rural,Male,35-44,Hindi,Married,Middle,Upper class,1
+2023,India,IN-BR Bihar,Rural,Male,35-44,Hindi,Married,Middle,Upper middle class,1
+2023,India,IN-BR Bihar,Rural,Male,35-44,Hindi,Married,Middle,Working class,1
+2023,India,IN-BR Bihar,Rural,Male,45-54,Hindi,Married,Lower,Lower class,1
+2023,India,IN-BR Bihar,Rural,Male,45-54,Hindi,Married,Lower,Lower middle class,2
+2023,India,IN-BR Bihar,Rural,Male,45-54,Hindi,Married,Lower,Upper class,1
+2023,India,IN-BR Bihar,Rural,Male,45-54,Hindi,Married,Lower,Upper middle class,4
+2023,India,IN-BR Bihar,Rural,Male,45-54,Hindi,Married,Middle,Lower middle class,4
+2023,India,IN-BR Bihar,Rural,Male,45-54,Hindi,Married,Middle,Working class,2
+2023,India,IN-BR Bihar,Rural,Male,45-54,Hindi,Single,Middle,Lower class,1
+2023,India,IN-BR Bihar,Rural,Male,55-64,Hindi,Married,Higher,Lower class,1
+2023,India,IN-BR Bihar,Rural,Male,55-64,Hindi,Married,Higher,Lower middle class,1
+2023,India,IN-BR Bihar,Rural,Male,55-64,Hindi,Married,Lower,Don't know,1
+2023,India,IN-BR Bihar,Rural,Male,55-64,Hindi,Married,Lower,Lower middle class,1
+2023,India,IN-BR Bihar,Rural,Male,55-64,Hindi,Married,Lower,Upper class,1
+2023,India,IN-BR Bihar,Rural,Male,55-64,Hindi,Married,Middle,Lower class,1
+2023,India,IN-BR Bihar,Rural,Male,55-64,Hindi,Married,Middle,Lower middle class,4
+2023,India,IN-BR Bihar,Rural,Male,55-64,Hindi,Widowed,Middle,Lower middle class,1
+2023,India,IN-BR Bihar,Rural,Male,65 and more years,Hindi,Married,Don't know,Lower middle class,1
+2023,India,IN-BR Bihar,Rural,Male,65 and more years,Hindi,Married,Higher,Upper middle class,1
+2023,India,IN-BR Bihar,Rural,Male,65 and more years,Hindi,Married,Lower,Lower middle class,1
+2023,India,IN-BR Bihar,Rural,Male,65 and more years,Hindi,Married,Middle,Lower middle class,2
+2023,India,IN-BR Bihar,Urban,Female,16-24,Hindi,Married,Lower,Upper middle class,1
+2023,India,IN-BR Bihar,Urban,Female,16-24,Hindi,Single,Higher,Upper middle class,3
+2023,India,IN-BR Bihar,Urban,Female,16-24,Hindi,Single,Lower,Upper middle class,1
+2023,India,IN-BR Bihar,Urban,Female,16-24,Hindi,Single,Middle,Upper middle class,1
+2023,India,IN-BR Bihar,Urban,Female,25-34,Hindi,Married,Higher,Upper middle class,3
+2023,India,IN-BR Bihar,Urban,Female,25-34,Hindi,Married,Lower,Lower middle class,1
+2023,India,IN-BR Bihar,Urban,Female,25-34,Hindi,Married,Lower,Upper class,1
+2023,India,IN-BR Bihar,Urban,Female,25-34,Hindi,Married,Lower,Upper middle class,2
+2023,India,IN-BR Bihar,Urban,Female,25-34,Hindi,Married,Middle,Upper middle class,1
+2023,India,IN-BR Bihar,Urban,Female,35-44,Hindi,Married,Lower,Lower middle class,2
+2023,India,IN-BR Bihar,Urban,Female,35-44,Hindi,Married,Middle,Lower middle class,1
+2023,India,IN-BR Bihar,Urban,Female,35-44,Hindi,Married,Middle,Upper middle class,1
+2023,India,IN-BR Bihar,Urban,Female,35-44,Marathi,Married,Lower,Upper middle class,1
+2023,India,IN-BR Bihar,Urban,Female,45-54,Hindi,Married,Lower,Upper class,1
+2023,India,IN-BR Bihar,Urban,Female,45-54,Hindi,Married,Lower,Upper middle class,3
+2023,India,IN-BR Bihar,Urban,Female,45-54,Hindi,Married,Lower,Working class,1
+2023,India,IN-BR Bihar,Urban,Female,55-64,Hindi,Married,Lower,Lower middle class,1
+2023,India,IN-BR Bihar,Urban,Female,55-64,Hindi,Married,Lower,Upper class,1
+2023,India,IN-BR Bihar,Urban,Female,55-64,Hindi,Married,Lower,Upper middle class,1
+2023,India,IN-BR Bihar,Urban,Female,55-64,Hindi,Widowed,Middle,Working class,1
+2023,India,IN-BR Bihar,Urban,Female,65 and more years,Hindi,Widowed,Lower,Lower middle class,1
+2023,India,IN-BR Bihar,Urban,Male,16-24,Hindi,Married,Higher,Upper middle class,1
+2023,India,IN-BR Bihar,Urban,Male,16-24,Hindi,Married,Lower,Upper class,1
+2023,India,IN-BR Bihar,Urban,Male,16-24,Hindi,Married,Lower,Upper middle class,1
+2023,India,IN-BR Bihar,Urban,Male,16-24,Hindi,Single,Higher,Lower middle class,1
+2023,India,IN-BR Bihar,Urban,Male,16-24,Hindi,Single,Higher,Upper class,1
+2023,India,IN-BR Bihar,Urban,Male,16-24,Hindi,Single,Higher,Upper middle class,2
+2023,India,IN-BR Bihar,Urban,Male,16-24,Hindi,Single,Lower,Upper class,1
+2023,India,IN-BR Bihar,Urban,Male,16-24,Hindi,Single,Lower,Upper middle class,3
+2023,India,IN-BR Bihar,Urban,Male,16-24,Hindi,Single,Middle,Lower middle class,2
+2023,India,IN-BR Bihar,Urban,Male,16-24,Hindi,Single,Middle,Upper middle class,6
+2023,India,IN-BR Bihar,Urban,Male,25-34,Hindi,Married,Higher,Upper middle class,3
+2023,India,IN-BR Bihar,Urban,Male,25-34,Hindi,Married,Lower,Upper middle class,1
+2023,India,IN-BR Bihar,Urban,Male,25-34,Hindi,Married,Lower,Working class,1
+2023,India,IN-BR Bihar,Urban,Male,25-34,Hindi,Single,Higher,Upper middle class,3
+2023,India,IN-BR Bihar,Urban,Male,35-44,Hindi,Married,Higher,Upper middle class,1
+2023,India,IN-BR Bihar,Urban,Male,35-44,Hindi,Married,Lower,Upper class,1
+2023,India,IN-BR Bihar,Urban,Male,35-44,Hindi,Married,Lower,Upper middle class,1
+2023,India,IN-BR Bihar,Urban,Male,35-44,Hindi,Married,Middle,Upper class,1
+2023,India,IN-BR Bihar,Urban,Male,35-44,Hindi,Married,Middle,Upper middle class,1
+2023,India,IN-BR Bihar,Urban,Male,35-44,Hindi,Married,Middle,Working class,2
+2023,India,IN-BR Bihar,Urban,Male,45-54,Hindi,Married,Higher,Upper middle class,1
+2023,India,IN-BR Bihar,Urban,Male,45-54,Hindi,Married,Lower,Upper class,1
+2023,India,IN-BR Bihar,Urban,Male,45-54,Hindi,Married,Lower,Upper middle class,1
+2023,India,IN-BR Bihar,Urban,Male,45-54,Hindi,Married,Middle,Upper middle class,1
+2023,India,IN-BR Bihar,Urban,Male,45-54,"Punjabi, Panjabi",Married,Middle,Lower middle class,1
+2023,India,IN-BR Bihar,Urban,Male,55-64,Hindi,Married,Lower,Upper class,1
+2023,India,IN-BR Bihar,Urban,Male,55-64,Hindi,Married,Lower,Upper middle class,2
+2023,India,IN-BR Bihar,Urban,Male,55-64,Hindi,Married,Middle,Upper middle class,1
+2023,India,IN-DL Delhi,Rural,Female,16-24,Hindi,Living together as married,Higher,Upper middle class,1
+2023,India,IN-DL Delhi,Rural,Female,16-24,Hindi,Living together as married,Middle,Lower middle class,1
+2023,India,IN-DL Delhi,Rural,Female,16-24,Hindi,Single,Higher,Lower middle class,2
+2023,India,IN-DL Delhi,Rural,Female,16-24,Hindi,Single,Higher,Upper middle class,2
+2023,India,IN-DL Delhi,Rural,Female,16-24,Hindi,Single,Middle,Lower middle class,3
+2023,India,IN-DL Delhi,Rural,Female,16-24,Hindi,Single,Middle,Upper middle class,5
+2023,India,IN-DL Delhi,Rural,Female,16-24,"Punjabi, Panjabi",Single,Higher,Upper middle class,1
+2023,India,IN-DL Delhi,Rural,Female,25-34,Hindi,Living together as married,Higher,Lower middle class,2
+2023,India,IN-DL Delhi,Rural,Female,25-34,Hindi,Living together as married,Higher,Upper middle class,2
+2023,India,IN-DL Delhi,Rural,Female,25-34,Hindi,Living together as married,Middle,Upper middle class,1
+2023,India,IN-DL Delhi,Rural,Female,25-34,Hindi,Single,Higher,Lower middle class,1
+2023,India,IN-DL Delhi,Rural,Female,25-34,Hindi,Single,Higher,Upper middle class,1
+2023,India,IN-DL Delhi,Rural,Female,25-34,Hindi,Single,Lower,Lower middle class,1
+2023,India,IN-DL Delhi,Rural,Female,25-34,Hindi,Single,Middle,Upper middle class,1
+2023,India,IN-DL Delhi,Rural,Female,35-44,Hindi,Living together as married,Higher,Lower middle class,1
+2023,India,IN-DL Delhi,Rural,Female,35-44,Hindi,Living together as married,Lower,Lower middle class,1
+2023,India,IN-DL Delhi,Rural,Female,35-44,Hindi,Living together as married,Middle,Lower middle class,3
+2023,India,IN-DL Delhi,Rural,Female,35-44,Hindi,Married,Higher,Upper middle class,1
+2023,India,IN-DL Delhi,Rural,Female,35-44,Other,Living together as married,Higher,Lower middle class,1
+2023,India,IN-DL Delhi,Rural,Female,45-54,Hindi,Living together as married,Lower,Upper middle class,1
+2023,India,IN-DL Delhi,Rural,Female,45-54,Hindi,Living together as married,Middle,Lower middle class,2
+2023,India,IN-DL Delhi,Rural,Female,45-54,Hindi,Living together as married,Middle,Upper middle class,1
+2023,India,IN-DL Delhi,Rural,Female,45-54,Hindi,Married,Middle,Lower middle class,1
+2023,India,IN-DL Delhi,Rural,Female,45-54,Hindi,Widowed,Lower,Lower middle class,1
+2023,India,IN-DL Delhi,Rural,Female,45-54,Hindi,Widowed,Middle,Lower middle class,1
+2023,India,IN-DL Delhi,Rural,Female,45-54,Other,Married,Middle,Lower middle class,1
+2023,India,IN-DL Delhi,Rural,Female,55-64,Hindi,Widowed,Lower,Lower middle class,3
+2023,India,IN-DL Delhi,Rural,Female,55-64,Hindi,Widowed,Middle,Lower middle class,2
+2023,India,IN-DL Delhi,Rural,Female,55-64,Other,Married,Middle,Upper middle class,1
+2023,India,IN-DL Delhi,Rural,Female,65 and more years,Hindi,Widowed,Higher,Lower middle class,1
+2023,India,IN-DL Delhi,Rural,Female,65 and more years,Hindi,Widowed,Lower,Lower middle class,1
+2023,India,IN-DL Delhi,Rural,Male,16-24,Hindi,Single,Higher,Lower middle class,2
+2023,India,IN-DL Delhi,Rural,Male,16-24,Hindi,Single,Middle,Lower middle class,2
+2023,India,IN-DL Delhi,Rural,Male,16-24,Hindi,Single,Middle,Upper middle class,1
+2023,India,IN-DL Delhi,Rural,Male,16-24,Other,Single,Middle,Lower middle class,1
+2023,India,IN-DL Delhi,Rural,Male,25-34,Hindi,Married,Higher,Lower middle class,1
+2023,India,IN-DL Delhi,Rural,Male,25-34,Hindi,Single,Higher,Upper middle class,1
+2023,India,IN-DL Delhi,Rural,Male,25-34,Hindi,Single,Middle,Lower middle class,1
+2023,India,IN-DL Delhi,Rural,Male,35-44,Hindi,Living together as married,Higher,Lower middle class,1
+2023,India,IN-DL Delhi,Rural,Male,35-44,Hindi,Living together as married,Higher,Upper middle class,1
+2023,India,IN-DL Delhi,Rural,Male,35-44,Hindi,Married,Higher,Upper middle class,1
+2023,India,IN-DL Delhi,Rural,Male,45-54,Hindi,Living together as married,Middle,Lower middle class,2
+2023,India,IN-DL Delhi,Rural,Male,55-64,Hindi,Living together as married,Higher,Working class,1
+2023,India,IN-DL Delhi,Rural,Male,55-64,Hindi,Living together as married,Lower,Working class,1
+2023,India,IN-DL Delhi,Rural,Male,55-64,Hindi,Married,Lower,Working class,1
+2023,India,IN-DL Delhi,Rural,Male,55-64,Hindi,Married,Middle,Lower middle class,1
+2023,India,IN-DL Delhi,Rural,Male,55-64,Hindi,Married,Middle,Working class,1
+2023,India,IN-DL Delhi,Urban,Female,16-24,Hindi,Married,Higher,Don't know,1
+2023,India,IN-DL Delhi,Urban,Female,16-24,Hindi,Single,Higher,Lower middle class,3
+2023,India,IN-DL Delhi,Urban,Female,16-24,Hindi,Single,Higher,Upper class,1
+2023,India,IN-DL Delhi,Urban,Female,16-24,Hindi,Single,Higher,Upper middle class,1
+2023,India,IN-DL Delhi,Urban,Female,16-24,Hindi,Single,Middle,Lower middle class,4
+2023,India,IN-DL Delhi,Urban,Female,16-24,Hindi,Single,Middle,Upper middle class,5
+2023,India,IN-DL Delhi,Urban,Female,16-24,Hindi,Single,Middle,Working class,1
+2023,India,IN-DL Delhi,Urban,Female,16-24,Other,Single,Higher,Lower middle class,1
+2023,India,IN-DL Delhi,Urban,Female,16-24,Other,Single,Middle,Lower middle class,2
+2023,India,IN-DL Delhi,Urban,Female,16-24,"Punjabi, Panjabi",Single,Middle,Lower middle class,1
+2023,India,IN-DL Delhi,Urban,Female,25-34,Bengali; Bangla,Married,Middle,Lower middle class,1
+2023,India,IN-DL Delhi,Urban,Female,25-34,Hindi,Married,Higher,Upper class,3
+2023,India,IN-DL Delhi,Urban,Female,25-34,Hindi,Married,Higher,Upper middle class,4
+2023,India,IN-DL Delhi,Urban,Female,25-34,Hindi,Married,Lower,Don't know,1
+2023,India,IN-DL Delhi,Urban,Female,25-34,Hindi,Married,Lower,Lower class,1
+2023,India,IN-DL Delhi,Urban,Female,25-34,Hindi,Married,Lower,Lower middle class,1
+2023,India,IN-DL Delhi,Urban,Female,25-34,Hindi,Married,Middle,Upper class,1
+2023,India,IN-DL Delhi,Urban,Female,25-34,Hindi,Single,Higher,Lower middle class,1
+2023,India,IN-DL Delhi,Urban,Female,25-34,Hindi,Single,Higher,Upper middle class,1
+2023,India,IN-DL Delhi,Urban,Female,25-34,Other,Married,Higher,Upper middle class,2
+2023,India,IN-DL Delhi,Urban,Female,35-44,Bengali; Bangla,Married,Lower,Working class,1
+2023,India,IN-DL Delhi,Urban,Female,35-44,Hindi,Married,Higher,Lower middle class,1
+2023,India,IN-DL Delhi,Urban,Female,35-44,Hindi,Married,Lower,Lower middle class,1
+2023,India,IN-DL Delhi,Urban,Female,35-44,Hindi,Married,Middle,Lower middle class,3
+2023,India,IN-DL Delhi,Urban,Female,35-44,Hindi,Married,Middle,Upper class,1
+2023,India,IN-DL Delhi,Urban,Female,35-44,Hindi,Married,Middle,Upper middle class,2
+2023,India,IN-DL Delhi,Urban,Female,35-44,Other,Married,Middle,Upper class,1
+2023,India,IN-DL Delhi,Urban,Female,45-54,Hindi,Married,Higher,Lower middle class,1
+2023,India,IN-DL Delhi,Urban,Female,45-54,Hindi,Married,Higher,Upper middle class,1
+2023,India,IN-DL Delhi,Urban,Female,45-54,Hindi,Married,Lower,Lower middle class,2
+2023,India,IN-DL Delhi,Urban,Female,45-54,Hindi,Married,Lower,Working class,1
+2023,India,IN-DL Delhi,Urban,Female,45-54,Hindi,Married,Middle,Lower class,1
+2023,India,IN-DL Delhi,Urban,Female,45-54,Hindi,Married,Middle,Lower middle class,1
+2023,India,IN-DL Delhi,Urban,Female,45-54,Hindi,Married,Middle,Upper class,1
+2023,India,IN-DL Delhi,Urban,Female,45-54,Hindi,Married,Middle,Upper middle class,1
+2023,India,IN-DL Delhi,Urban,Female,45-54,Other,Married,Don't know,Lower middle class,1
+2023,India,IN-DL Delhi,Urban,Female,55-64,Don´t know,Widowed,Lower,Lower middle class,1
+2023,India,IN-DL Delhi,Urban,Female,55-64,Hindi,Married,Lower,Upper middle class,1
+2023,India,IN-DL Delhi,Urban,Female,55-64,Hindi,Married,Middle,Don't know,1
+2023,India,IN-DL Delhi,Urban,Female,55-64,Hindi,Married,Middle,Lower middle class,1
+2023,India,IN-DL Delhi,Urban,Female,65 and more years,Hindi,Married,Lower,Upper middle class,1
+2023,India,IN-DL Delhi,Urban,Female,65 and more years,Hindi,Married,Lower,Working class,1
+2023,India,IN-DL Delhi,Urban,Female,65 and more years,Hindi,Married,Middle,Upper class,1
+2023,India,IN-DL Delhi,Urban,Female,65 and more years,Other,Widowed,Lower,Lower middle class,2
+2023,India,IN-DL Delhi,Urban,Female,65 and more years,Other,Widowed,Lower,Working class,1
+2023,India,IN-DL Delhi,Urban,Male,16-24,Bengali; Bangla,Single,Lower,Lower class,1
+2023,India,IN-DL Delhi,Urban,Male,16-24,Hindi,Married,Higher,Lower middle class,1
+2023,India,IN-DL Delhi,Urban,Male,16-24,Hindi,Married,Middle,Lower class,1
+2023,India,IN-DL Delhi,Urban,Male,16-24,Hindi,Single,Higher,Lower middle class,4
+2023,India,IN-DL Delhi,Urban,Male,16-24,Hindi,Single,Higher,Upper middle class,2
+2023,India,IN-DL Delhi,Urban,Male,16-24,Hindi,Single,Higher,Working class,2
+2023,India,IN-DL Delhi,Urban,Male,16-24,Hindi,Single,Lower,Don't know,1
+2023,India,IN-DL Delhi,Urban,Male,16-24,Hindi,Single,Lower,Lower middle class,2
+2023,India,IN-DL Delhi,Urban,Male,16-24,Hindi,Single,Lower,Working class,2
+2023,India,IN-DL Delhi,Urban,Male,16-24,Hindi,Single,Middle,Lower middle class,6
+2023,India,IN-DL Delhi,Urban,Male,16-24,Hindi,Single,Middle,Upper middle class,5
+2023,India,IN-DL Delhi,Urban,Male,16-24,Hindi,Single,Middle,Working class,5
+2023,India,IN-DL Delhi,Urban,Male,16-24,Other,Single,Higher,Upper middle class,1
+2023,India,IN-DL Delhi,Urban,Male,16-24,Other,Single,Middle,Upper middle class,2
+2023,India,IN-DL Delhi,Urban,Male,25-34,Hindi,Married,Higher,Upper middle class,1
+2023,India,IN-DL Delhi,Urban,Male,25-34,Hindi,Married,Lower,Lower middle class,2
+2023,India,IN-DL Delhi,Urban,Male,25-34,Hindi,Married,Lower,Upper middle class,1
+2023,India,IN-DL Delhi,Urban,Male,25-34,Hindi,Married,Middle,Lower middle class,3
+2023,India,IN-DL Delhi,Urban,Male,25-34,Hindi,Single,Higher,Lower middle class,3
+2023,India,IN-DL Delhi,Urban,Male,25-34,Hindi,Single,Higher,Upper middle class,2
+2023,India,IN-DL Delhi,Urban,Male,25-34,Hindi,Single,Middle,Lower middle class,1
+2023,India,IN-DL Delhi,Urban,Male,25-34,Other,Single,Middle,Lower middle class,1
+2023,India,IN-DL Delhi,Urban,Male,25-34,"Punjabi, Panjabi",Single,Higher,Upper middle class,1
+2023,India,IN-DL Delhi,Urban,Male,35-44,Hindi,Living together as married,Higher,Working class,1
+2023,India,IN-DL Delhi,Urban,Male,35-44,Hindi,Living together as married,Middle,Lower middle class,4
+2023,India,IN-DL Delhi,Urban,Male,35-44,Hindi,Married,Higher,Lower middle class,2
+2023,India,IN-DL Delhi,Urban,Male,35-44,Hindi,Married,Higher,Upper middle class,3
+2023,India,IN-DL Delhi,Urban,Male,35-44,Hindi,Married,Lower,Lower middle class,1
+2023,India,IN-DL Delhi,Urban,Male,35-44,Hindi,Married,Middle,Lower middle class,4
+2023,India,IN-DL Delhi,Urban,Male,35-44,Hindi,Married,Middle,Upper middle class,2
+2023,India,IN-DL Delhi,Urban,Male,35-44,Hindi,Married,Middle,Working class,1
+2023,India,IN-DL Delhi,Urban,Male,35-44,Other,Married,Higher,Upper middle class,1
+2023,India,IN-DL Delhi,Urban,Male,35-44,"Punjabi, Panjabi",Married,Lower,Working class,1
+2023,India,IN-DL Delhi,Urban,Male,45-54,Hindi,Living together as married,Middle,Working class,2
+2023,India,IN-DL Delhi,Urban,Male,45-54,Hindi,Married,Lower,Lower class,1
+2023,India,IN-DL Delhi,Urban,Male,45-54,Hindi,Married,Lower,Lower middle class,1
+2023,India,IN-DL Delhi,Urban,Male,45-54,Hindi,Married,Lower,Working class,1
+2023,India,IN-DL Delhi,Urban,Male,45-54,Hindi,Married,Middle,Lower middle class,2
+2023,India,IN-DL Delhi,Urban,Male,45-54,Hindi,Married,Middle,Upper middle class,2
+2023,India,IN-DL Delhi,Urban,Male,45-54,Hindi,Married,Middle,Working class,2
+2023,India,IN-DL Delhi,Urban,Male,45-54,"Punjabi, Panjabi",Married,Middle,Upper class,1
+2023,India,IN-DL Delhi,Urban,Male,55-64,Hindi,Living together as married,Higher,Upper middle class,1
+2023,India,IN-DL Delhi,Urban,Male,55-64,Hindi,Married,Higher,Upper middle class,1
+2023,India,IN-DL Delhi,Urban,Male,55-64,Hindi,Married,Lower,Lower class,1
+2023,India,IN-DL Delhi,Urban,Male,55-64,Hindi,Married,Lower,Working class,1
+2023,India,IN-DL Delhi,Urban,Male,55-64,Hindi,Married,Middle,Lower middle class,4
+2023,India,IN-DL Delhi,Urban,Male,55-64,Hindi,Married,Middle,Working class,1
+2023,India,IN-DL Delhi,Urban,Male,55-64,Hindi,Widowed,Higher,Upper middle class,1
+2023,India,IN-DL Delhi,Urban,Male,55-64,Hindi,Widowed,Middle,Upper middle class,1
+2023,India,IN-DL Delhi,Urban,Male,55-64,Other,Married,Lower,Working class,1
+2023,India,IN-DL Delhi,Urban,Male,65 and more years,Hindi,Married,Lower,Lower middle class,1
+2023,India,IN-DL Delhi,Urban,Male,65 and more years,Hindi,Married,Middle,Upper middle class,1
+2023,India,IN-DL Delhi,Urban,Male,65 and more years,Hindi,Widowed,Middle,Upper middle class,1
+2023,India,IN-HR Haryana,Rural,Female,16-24,Hindi,Married,Middle,Working class,1
+2023,India,IN-HR Haryana,Rural,Female,16-24,Hindi,Single,Higher,Lower class,1
+2023,India,IN-HR Haryana,Rural,Female,16-24,Hindi,Single,Higher,Lower middle class,5
+2023,India,IN-HR Haryana,Rural,Female,16-24,Hindi,Single,Higher,Upper middle class,1
+2023,India,IN-HR Haryana,Rural,Female,16-24,Hindi,Single,Lower,Lower middle class,2
+2023,India,IN-HR Haryana,Rural,Female,16-24,Hindi,Single,Middle,Lower class,1
+2023,India,IN-HR Haryana,Rural,Female,16-24,Hindi,Single,Middle,Lower middle class,1
+2023,India,IN-HR Haryana,Rural,Female,25-34,Hindi,Living together as married,Higher,Lower middle class,2
+2023,India,IN-HR Haryana,Rural,Female,25-34,Hindi,Living together as married,Lower,Lower class,1
+2023,India,IN-HR Haryana,Rural,Female,25-34,Hindi,Living together as married,Middle,Lower middle class,1
+2023,India,IN-HR Haryana,Rural,Female,25-34,Hindi,Married,Higher,Lower middle class,2
+2023,India,IN-HR Haryana,Rural,Female,25-34,Hindi,Married,Higher,Upper middle class,1
+2023,India,IN-HR Haryana,Rural,Female,25-34,Hindi,Married,Lower,Don't know,1
+2023,India,IN-HR Haryana,Rural,Female,25-34,Hindi,Married,Lower,Lower middle class,1
+2023,India,IN-HR Haryana,Rural,Female,25-34,Hindi,Married,Middle,Lower middle class,2
+2023,India,IN-HR Haryana,Rural,Female,25-34,Hindi,Married,Middle,Upper middle class,1
+2023,India,IN-HR Haryana,Rural,Female,25-34,Hindi,Widowed,Middle,Lower class,1
+2023,India,IN-HR Haryana,Rural,Female,35-44,Hindi,Living together as married,Lower,Working class,1
+2023,India,IN-HR Haryana,Rural,Female,35-44,Hindi,Married,Lower,Don't know,1
+2023,India,IN-HR Haryana,Rural,Female,35-44,Hindi,Married,Lower,Lower class,1
+2023,India,IN-HR Haryana,Rural,Female,35-44,Hindi,Married,Middle,Lower middle class,3
+2023,India,IN-HR Haryana,Rural,Female,45-54,Hindi,Married,Lower,Lower class,2
+2023,India,IN-HR Haryana,Rural,Female,45-54,Hindi,Married,Lower,Upper middle class,1
+2023,India,IN-HR Haryana,Rural,Female,45-54,Hindi,Married,Lower,Working class,1
+2023,India,IN-HR Haryana,Rural,Female,45-54,Hindi,Married,Middle,Lower middle class,1
+2023,India,IN-HR Haryana,Rural,Female,45-54,Hindi,Widowed,Lower,Lower middle class,1
+2023,India,IN-HR Haryana,Rural,Female,55-64,Hindi,Single,Higher,Lower middle class,1
+2023,India,IN-HR Haryana,Rural,Female,55-64,Hindi,Widowed,Lower,Upper middle class,2
+2023,India,IN-HR Haryana,Rural,Female,65 and more years,Hindi,Widowed,Lower,Lower middle class,1
+2023,India,IN-HR Haryana,Rural,Male,16-24,Hindi,Married,Middle,Working class,1
+2023,India,IN-HR Haryana,Rural,Male,16-24,Hindi,Single,Higher,Lower middle class,3
+2023,India,IN-HR Haryana,Rural,Male,16-24,Hindi,Single,Higher,Upper middle class,1
+2023,India,IN-HR Haryana,Rural,Male,16-24,Hindi,Single,Higher,Working class,1
+2023,India,IN-HR Haryana,Rural,Male,16-24,Hindi,Single,Middle,Don't know,1
+2023,India,IN-HR Haryana,Rural,Male,16-24,Hindi,Single,Middle,Lower middle class,4
+2023,India,IN-HR Haryana,Rural,Male,16-24,Hindi,Single,Middle,Upper middle class,2
+2023,India,IN-HR Haryana,Rural,Male,16-24,Hindi,Single,Middle,Working class,4
+2023,India,IN-HR Haryana,Rural,Male,25-34,Hindi,Living together as married,Higher,Lower middle class,1
+2023,India,IN-HR Haryana,Rural,Male,25-34,Hindi,Married,Lower,Working class,1
+2023,India,IN-HR Haryana,Rural,Male,25-34,Hindi,Married,Middle,Upper middle class,1
+2023,India,IN-HR Haryana,Rural,Male,25-34,Hindi,Single,Higher,Lower middle class,2
+2023,India,IN-HR Haryana,Rural,Male,35-44,Hindi,Divorced,Higher,Lower class,1
+2023,India,IN-HR Haryana,Rural,Male,35-44,Hindi,Living together as married,Lower,Lower class,1
+2023,India,IN-HR Haryana,Rural,Male,35-44,Hindi,Living together as married,Lower,Lower middle class,1
+2023,India,IN-HR Haryana,Rural,Male,35-44,Hindi,Living together as married,Middle,Lower middle class,1
+2023,India,IN-HR Haryana,Rural,Male,35-44,Hindi,Married,Middle,Lower middle class,2
+2023,India,IN-HR Haryana,Rural,Male,35-44,Hindi,Single,Higher,Don't know,1
+2023,India,IN-HR Haryana,Rural,Male,45-54,Hindi,Living together as married,Higher,Upper middle class,1
+2023,India,IN-HR Haryana,Rural,Male,45-54,Hindi,Living together as married,Lower,Lower class,1
+2023,India,IN-HR Haryana,Rural,Male,45-54,Hindi,Living together as married,Lower,Working class,1
+2023,India,IN-HR Haryana,Rural,Male,45-54,Hindi,Married,Higher,Upper middle class,2
+2023,India,IN-HR Haryana,Rural,Male,45-54,Hindi,Married,Lower,Lower class,1
+2023,India,IN-HR Haryana,Rural,Male,55-64,Hindi,Living together as married,Lower,Lower middle class,1
+2023,India,IN-HR Haryana,Rural,Male,55-64,Hindi,Living together as married,Lower,Working class,1
+2023,India,IN-HR Haryana,Rural,Male,55-64,Hindi,Married,Lower,Don't know,1
+2023,India,IN-HR Haryana,Rural,Male,55-64,Hindi,Married,Lower,Lower class,2
+2023,India,IN-HR Haryana,Rural,Male,55-64,Hindi,Widowed,Middle,Lower middle class,2
+2023,India,IN-HR Haryana,Rural,Male,65 and more years,Hindi,Living together as married,Lower,Lower class,1
+2023,India,IN-HR Haryana,Rural,Male,65 and more years,Hindi,Living together as married,Middle,Lower middle class,1
+2023,India,IN-HR Haryana,Rural,Male,65 and more years,Hindi,Living together as married,Middle,Upper class,1
+2023,India,IN-HR Haryana,Rural,Male,65 and more years,Hindi,Married,Higher,Lower middle class,1
+2023,India,IN-HR Haryana,Rural,Male,65 and more years,Hindi,Married,Lower,Lower class,1
+2023,India,IN-HR Haryana,Rural,Male,65 and more years,Hindi,Married,Lower,Lower middle class,1
+2023,India,IN-HR Haryana,Urban,Female,16-24,Hindi,Single,Higher,Working class,1
+2023,India,IN-HR Haryana,Urban,Female,16-24,Hindi,Single,Lower,Don't know,1
+2023,India,IN-HR Haryana,Urban,Female,16-24,Hindi,Single,Lower,Lower middle class,1
+2023,India,IN-HR Haryana,Urban,Female,16-24,Hindi,Single,Middle,Don't know,1
+2023,India,IN-HR Haryana,Urban,Female,16-24,Hindi,Single,Middle,Lower middle class,1
+2023,India,IN-HR Haryana,Urban,Female,16-24,Hindi,Single,Middle,Working class,1
+2023,India,IN-HR Haryana,Urban,Female,25-34,Hindi,Married,Middle,Lower middle class,1
+2023,India,IN-HR Haryana,Urban,Female,35-44,Hindi,Married,Lower,Lower middle class,1
+2023,India,IN-HR Haryana,Urban,Female,35-44,Hindi,Married,Middle,Working class,1
+2023,India,IN-HR Haryana,Urban,Female,45-54,Hindi,Living together as married,Lower,Working class,1
+2023,India,IN-HR Haryana,Urban,Female,45-54,Hindi,Married,Lower,Working class,1
+2023,India,IN-HR Haryana,Urban,Female,45-54,Hindi,Widowed,Lower,Working class,1
+2023,India,IN-HR Haryana,Urban,Female,55-64,Hindi,Married,Lower,Upper middle class,1
+2023,India,IN-HR Haryana,Urban,Male,16-24,Hindi,Single,Lower,Lower middle class,1
+2023,India,IN-HR Haryana,Urban,Male,16-24,Hindi,Single,Middle,Lower middle class,1
+2023,India,IN-HR Haryana,Urban,Male,16-24,Hindi,Single,Middle,Upper middle class,1
+2023,India,IN-HR Haryana,Urban,Male,25-34,Hindi,Married,Middle,Lower class,1
+2023,India,IN-HR Haryana,Urban,Male,25-34,Hindi,Married,Middle,Lower middle class,1
+2023,India,IN-HR Haryana,Urban,Male,35-44,Hindi,Living together as married,Middle,Lower middle class,1
+2023,India,IN-HR Haryana,Urban,Male,35-44,Hindi,Married,Higher,Upper middle class,1
+2023,India,IN-HR Haryana,Urban,Male,35-44,Hindi,Married,Middle,Lower middle class,1
+2023,India,IN-HR Haryana,Urban,Male,35-44,Hindi,Married,Middle,Upper middle class,1
+2023,India,IN-HR Haryana,Urban,Male,35-44,Hindi,Married,Middle,Working class,1
+2023,India,IN-HR Haryana,Urban,Male,45-54,Hindi,Married,Lower,Working class,1
+2023,India,IN-HR Haryana,Urban,Male,55-64,Hindi,Married,Lower,Lower middle class,1
+2023,India,IN-HR Haryana,Urban,Male,65 and more years,Hindi,Married,Middle,Lower middle class,1
+2023,India,IN-MH Maharashtra,Rural,Female,16-24,Marathi,Married,Middle,Lower middle class,1
+2023,India,IN-MH Maharashtra,Rural,Female,16-24,Marathi,Single,Higher,Lower class,4
+2023,India,IN-MH Maharashtra,Rural,Female,16-24,Marathi,Single,Higher,Lower middle class,1
+2023,India,IN-MH Maharashtra,Rural,Female,16-24,Marathi,Single,Higher,Working class,1
+2023,India,IN-MH Maharashtra,Rural,Female,16-24,Marathi,Single,Lower,Lower class,1
+2023,India,IN-MH Maharashtra,Rural,Female,16-24,Marathi,Single,Middle,Lower class,4
+2023,India,IN-MH Maharashtra,Rural,Female,16-24,Marathi,Single,Middle,Lower middle class,7
+2023,India,IN-MH Maharashtra,Rural,Female,16-24,Marathi,Single,Middle,Upper middle class,2
+2023,India,IN-MH Maharashtra,Rural,Female,16-24,Marathi,Single,Middle,Working class,3
+2023,India,IN-MH Maharashtra,Rural,Female,16-24,Other,Single,Middle,Upper middle class,1
+2023,India,IN-MH Maharashtra,Rural,Female,25-34,Marathi,Living together as married,Lower,Lower middle class,1
+2023,India,IN-MH Maharashtra,Rural,Female,25-34,Marathi,Living together as married,Middle,Lower class,1
+2023,India,IN-MH Maharashtra,Rural,Female,25-34,Marathi,Married,Higher,Upper middle class,1
+2023,India,IN-MH Maharashtra,Rural,Female,25-34,Marathi,Married,Lower,Lower class,1
+2023,India,IN-MH Maharashtra,Rural,Female,25-34,Marathi,Married,Lower,Lower middle class,2
+2023,India,IN-MH Maharashtra,Rural,Female,25-34,Marathi,Married,Lower,Working class,3
+2023,India,IN-MH Maharashtra,Rural,Female,25-34,Marathi,Married,Middle,Lower class,2
+2023,India,IN-MH Maharashtra,Rural,Female,25-34,Marathi,Married,Middle,Lower middle class,2
+2023,India,IN-MH Maharashtra,Rural,Female,25-34,Marathi,Single,Higher,Working class,1
+2023,India,IN-MH Maharashtra,Rural,Female,25-34,Other,Living together as married,Middle,Working class,1
+2023,India,IN-MH Maharashtra,Rural,Female,35-44,Marathi,Living together as married,Lower,Lower class,1
+2023,India,IN-MH Maharashtra,Rural,Female,35-44,Marathi,Living together as married,Lower,Lower middle class,3
+2023,India,IN-MH Maharashtra,Rural,Female,35-44,Marathi,Living together as married,Lower,Working class,1
+2023,India,IN-MH Maharashtra,Rural,Female,35-44,Marathi,Living together as married,Middle,Lower middle class,1
+2023,India,IN-MH Maharashtra,Rural,Female,35-44,Marathi,Living together as married,Middle,Upper middle class,1
+2023,India,IN-MH Maharashtra,Rural,Female,35-44,Marathi,Married,Higher,Lower class,1
+2023,India,IN-MH Maharashtra,Rural,Female,35-44,Marathi,Married,Higher,Lower middle class,1
+2023,India,IN-MH Maharashtra,Rural,Female,35-44,Marathi,Married,Lower,Lower class,1
+2023,India,IN-MH Maharashtra,Rural,Female,35-44,Marathi,Married,Lower,Lower middle class,1
+2023,India,IN-MH Maharashtra,Rural,Female,35-44,Marathi,Married,Lower,Upper middle class,1
+2023,India,IN-MH Maharashtra,Rural,Female,35-44,Marathi,Married,Lower,Working class,1
+2023,India,IN-MH Maharashtra,Rural,Female,35-44,Marathi,Married,Middle,Lower middle class,1
+2023,India,IN-MH Maharashtra,Rural,Female,35-44,Other,Married,Middle,Lower middle class,1
+2023,India,IN-MH Maharashtra,Rural,Female,45-54,Bengali; Bangla,Married,Middle,Lower middle class,1
+2023,India,IN-MH Maharashtra,Rural,Female,45-54,Marathi,Living together as married,Lower,Working class,1
+2023,India,IN-MH Maharashtra,Rural,Female,45-54,Marathi,Living together as married,Middle,Upper middle class,1
+2023,India,IN-MH Maharashtra,Rural,Female,45-54,Marathi,Married,Higher,Lower class,1
+2023,India,IN-MH Maharashtra,Rural,Female,45-54,Marathi,Married,Lower,Lower class,1
+2023,India,IN-MH Maharashtra,Rural,Female,45-54,Marathi,Married,Lower,Lower middle class,3
+2023,India,IN-MH Maharashtra,Rural,Female,45-54,Marathi,Married,Middle,Lower middle class,1
+2023,India,IN-MH Maharashtra,Rural,Female,45-54,Marathi,Married,Middle,Upper class,1
+2023,India,IN-MH Maharashtra,Rural,Female,45-54,Marathi,Married,Middle,Working class,1
+2023,India,IN-MH Maharashtra,Rural,Female,45-54,Other,Married,Middle,Upper middle class,1
+2023,India,IN-MH Maharashtra,Rural,Female,55-64,Marathi,Married,Middle,Upper middle class,1
+2023,India,IN-MH Maharashtra,Rural,Female,55-64,Other,Married,Lower,Lower class,1
+2023,India,IN-MH Maharashtra,Rural,Female,65 and more years,Marathi,Living together as married,Lower,Lower middle class,1
+2023,India,IN-MH Maharashtra,Rural,Female,65 and more years,Marathi,Married,Lower,Lower class,1
+2023,India,IN-MH Maharashtra,Rural,Female,65 and more years,Marathi,Married,Lower,Upper middle class,1
+2023,India,IN-MH Maharashtra,Rural,Female,65 and more years,Marathi,Widowed,Lower,Lower class,1
+2023,India,IN-MH Maharashtra,Rural,Female,65 and more years,Marathi,Widowed,Lower,Lower middle class,1
+2023,India,IN-MH Maharashtra,Rural,Female,65 and more years,Marathi,Widowed,Lower,Working class,1
+2023,India,IN-MH Maharashtra,Rural,Male,16-24,Hindi,Single,Middle,Lower middle class,1
+2023,India,IN-MH Maharashtra,Rural,Male,16-24,Hindi,Single,Middle,Upper middle class,1
+2023,India,IN-MH Maharashtra,Rural,Male,16-24,Marathi,Married,Lower,Upper class,1
+2023,India,IN-MH Maharashtra,Rural,Male,16-24,Marathi,Single,Higher,Lower class,1
+2023,India,IN-MH Maharashtra,Rural,Male,16-24,Marathi,Single,Higher,Lower middle class,3
+2023,India,IN-MH Maharashtra,Rural,Male,16-24,Marathi,Single,Higher,Upper middle class,1
+2023,India,IN-MH Maharashtra,Rural,Male,16-24,Marathi,Single,Higher,Working class,1
+2023,India,IN-MH Maharashtra,Rural,Male,16-24,Marathi,Single,Lower,Lower middle class,2
+2023,India,IN-MH Maharashtra,Rural,Male,16-24,Marathi,Single,Middle,Don't know,2
+2023,India,IN-MH Maharashtra,Rural,Male,16-24,Marathi,Single,Middle,Lower class,2
+2023,India,IN-MH Maharashtra,Rural,Male,16-24,Marathi,Single,Middle,Lower middle class,8
+2023,India,IN-MH Maharashtra,Rural,Male,16-24,Marathi,Single,Middle,Upper middle class,3
+2023,India,IN-MH Maharashtra,Rural,Male,16-24,Marathi,Single,Middle,Working class,4
+2023,India,IN-MH Maharashtra,Rural,Male,16-24,Other,Single,Middle,Lower middle class,1
+2023,India,IN-MH Maharashtra,Rural,Male,16-24,Other,Single,Middle,Working class,1
+2023,India,IN-MH Maharashtra,Rural,Male,25-34,Marathi,Married,Higher,Lower middle class,1
+2023,India,IN-MH Maharashtra,Rural,Male,25-34,Marathi,Married,Lower,Lower class,1
+2023,India,IN-MH Maharashtra,Rural,Male,25-34,Marathi,Married,Middle,Lower middle class,1
+2023,India,IN-MH Maharashtra,Rural,Male,25-34,Marathi,Married,Middle,Working class,1
+2023,India,IN-MH Maharashtra,Rural,Male,25-34,Marathi,Single,Higher,Lower middle class,1
+2023,India,IN-MH Maharashtra,Rural,Male,25-34,Marathi,Single,Lower,Working class,1
+2023,India,IN-MH Maharashtra,Rural,Male,25-34,Other,Married,Higher,Lower middle class,1
+2023,India,IN-MH Maharashtra,Rural,Male,35-44,Marathi,Living together as married,Middle,Lower middle class,2
+2023,India,IN-MH Maharashtra,Rural,Male,35-44,Marathi,Married,Lower,Working class,1
+2023,India,IN-MH Maharashtra,Rural,Male,35-44,Marathi,Married,Middle,Lower class,1
+2023,India,IN-MH Maharashtra,Rural,Male,35-44,Marathi,Married,Middle,Lower middle class,4
+2023,India,IN-MH Maharashtra,Rural,Male,35-44,Marathi,Married,Middle,Working class,1
+2023,India,IN-MH Maharashtra,Rural,Male,35-44,Marathi,Single,Lower,Lower middle class,1
+2023,India,IN-MH Maharashtra,Rural,Male,35-44,Marathi,Widowed,Lower,Working class,1
+2023,India,IN-MH Maharashtra,Rural,Male,35-44,Other,Living together as married,Higher,Lower middle class,1
+2023,India,IN-MH Maharashtra,Rural,Male,45-54,Marathi,Living together as married,Higher,Lower middle class,1
+2023,India,IN-MH Maharashtra,Rural,Male,45-54,Marathi,Living together as married,Lower,Lower middle class,1
+2023,India,IN-MH Maharashtra,Rural,Male,45-54,Marathi,Living together as married,Middle,Upper middle class,1
+2023,India,IN-MH Maharashtra,Rural,Male,45-54,Marathi,Married,Higher,Lower middle class,2
+2023,India,IN-MH Maharashtra,Rural,Male,45-54,Marathi,Married,Higher,Working class,1
+2023,India,IN-MH Maharashtra,Rural,Male,45-54,Marathi,Married,Lower,Working class,1
+2023,India,IN-MH Maharashtra,Rural,Male,45-54,Marathi,Married,Middle,Upper middle class,1
+2023,India,IN-MH Maharashtra,Rural,Male,45-54,Marathi,Married,Middle,Working class,2
+2023,India,IN-MH Maharashtra,Rural,Male,45-54,Marathi,Widowed,Lower,Working class,1
+2023,India,IN-MH Maharashtra,Rural,Male,45-54,Other,Married,Lower,Lower class,1
+2023,India,IN-MH Maharashtra,Rural,Male,45-54,Other,Married,Middle,Lower class,1
+2023,India,IN-MH Maharashtra,Rural,Male,55-64,Marathi,Living together as married,Lower,Lower class,1
+2023,India,IN-MH Maharashtra,Rural,Male,55-64,Marathi,Married,Higher,Lower class,1
+2023,India,IN-MH Maharashtra,Rural,Male,55-64,Marathi,Married,Lower,Lower middle class,1
+2023,India,IN-MH Maharashtra,Rural,Male,55-64,Marathi,Married,Lower,Working class,3
+2023,India,IN-MH Maharashtra,Rural,Male,55-64,Marathi,Married,Middle,Lower middle class,1
+2023,India,IN-MH Maharashtra,Rural,Male,55-64,Marathi,Married,Middle,Working class,2
+2023,India,IN-MH Maharashtra,Rural,Male,55-64,Other,Living together as married,Lower,Upper middle class,1
+2023,India,IN-MH Maharashtra,Rural,Male,55-64,Other,Living together as married,Middle,Working class,1
+2023,India,IN-MH Maharashtra,Rural,Male,65 and more years,Marathi,Married,Lower,Lower class,2
+2023,India,IN-MH Maharashtra,Rural,Male,65 and more years,Marathi,Married,Lower,Working class,3
+2023,India,IN-MH Maharashtra,Rural,Male,65 and more years,Marathi,Married,Middle,Lower class,1
+2023,India,IN-MH Maharashtra,Rural,Male,65 and more years,Marathi,Widowed,Lower,Lower class,1
+2023,India,IN-MH Maharashtra,Rural,Male,65 and more years,Marathi,Widowed,Lower,Lower middle class,1
+2023,India,IN-MH Maharashtra,Rural,Male,65 and more years,Other,Married,Lower,Lower class,1
+2023,India,IN-MH Maharashtra,Urban,Female,16-24,Marathi,Married,Middle,Lower class,2
+2023,India,IN-MH Maharashtra,Urban,Female,16-24,Marathi,Single,Higher,Lower class,1
+2023,India,IN-MH Maharashtra,Urban,Female,16-24,Marathi,Single,Middle,Lower class,1
+2023,India,IN-MH Maharashtra,Urban,Female,16-24,Marathi,Single,Middle,Lower middle class,1
+2023,India,IN-MH Maharashtra,Urban,Female,16-24,Marathi,Single,Middle,Upper middle class,2
+2023,India,IN-MH Maharashtra,Urban,Female,25-34,Marathi,Married,Higher,Upper middle class,1
+2023,India,IN-MH Maharashtra,Urban,Female,25-34,Marathi,Married,Lower,Lower middle class,1
+2023,India,IN-MH Maharashtra,Urban,Female,35-44,Marathi,Married,Lower,Working class,1
+2023,India,IN-MH Maharashtra,Urban,Female,35-44,Marathi,Married,Middle,Lower middle class,2
+2023,India,IN-MH Maharashtra,Urban,Female,45-54,Marathi,Married,Lower,Working class,3
+2023,India,IN-MH Maharashtra,Urban,Female,45-54,Marathi,Married,Middle,Working class,1
+2023,India,IN-MH Maharashtra,Urban,Female,45-54,Marathi,Widowed,Lower,Lower class,1
+2023,India,IN-MH Maharashtra,Urban,Female,45-54,Other,Married,Lower,Lower class,1
+2023,India,IN-MH Maharashtra,Urban,Female,55-64,Marathi,Married,Middle,Lower class,1
+2023,India,IN-MH Maharashtra,Urban,Female,65 and more years,Marathi,Married,Middle,Upper middle class,1
+2023,India,IN-MH Maharashtra,Urban,Female,65 and more years,Marathi,Widowed,Lower,Lower middle class,1
+2023,India,IN-MH Maharashtra,Urban,Male,16-24,Marathi,Married,Middle,Lower middle class,1
+2023,India,IN-MH Maharashtra,Urban,Male,16-24,Marathi,Single,Don't know,Upper middle class,1
+2023,India,IN-MH Maharashtra,Urban,Male,16-24,Marathi,Single,Higher,Upper middle class,1
+2023,India,IN-MH Maharashtra,Urban,Male,16-24,Marathi,Single,Middle,Lower class,1
+2023,India,IN-MH Maharashtra,Urban,Male,16-24,Marathi,Single,Middle,Working class,1
+2023,India,IN-MH Maharashtra,Urban,Male,25-34,Bengali; Bangla,Married,Higher,Don't know,1
+2023,India,IN-MH Maharashtra,Urban,Male,25-34,Marathi,Married,Higher,Upper middle class,1
+2023,India,IN-MH Maharashtra,Urban,Male,25-34,Marathi,Married,Middle,Working class,2
+2023,India,IN-MH Maharashtra,Urban,Male,25-34,Marathi,Single,Higher,Lower class,1
+2023,India,IN-MH Maharashtra,Urban,Male,35-44,Bengali; Bangla,Married,Middle,Upper middle class,1
+2023,India,IN-MH Maharashtra,Urban,Male,35-44,Marathi,Married,Higher,Lower middle class,1
+2023,India,IN-MH Maharashtra,Urban,Male,35-44,Marathi,Married,Higher,Upper middle class,1
+2023,India,IN-MH Maharashtra,Urban,Male,35-44,Marathi,Married,Middle,Lower middle class,1
+2023,India,IN-MH Maharashtra,Urban,Male,35-44,Marathi,Married,Middle,Upper middle class,1
+2023,India,IN-MH Maharashtra,Urban,Male,35-44,"Punjabi, Panjabi",Married,Middle,Lower middle class,1
+2023,India,IN-MH Maharashtra,Urban,Male,45-54,Marathi,Married,Higher,Upper middle class,1
+2023,India,IN-MH Maharashtra,Urban,Male,45-54,Marathi,Married,Middle,Lower middle class,1
+2023,India,IN-MH Maharashtra,Urban,Male,45-54,Marathi,Married,Middle,Working class,1
+2023,India,IN-MH Maharashtra,Urban,Male,65 and more years,Marathi,Married,Lower,Lower middle class,1
+2023,India,IN-MH Maharashtra,Urban,Male,65 and more years,Marathi,Married,Lower,Upper class,1
+2023,India,IN-MH Maharashtra,Urban,Male,65 and more years,Marathi,Married,Lower,Working class,1
+2023,India,IN-PB Punjab,Rural,Female,16-24,"Punjabi, Panjabi",Single,Middle,Don't know,1
+2023,India,IN-PB Punjab,Rural,Female,16-24,"Punjabi, Panjabi",Single,Middle,Lower middle class,3
+2023,India,IN-PB Punjab,Rural,Female,25-34,"Punjabi, Panjabi",Single,Higher,Lower middle class,1
+2023,India,IN-PB Punjab,Rural,Female,35-44,Bengali; Bangla,Living together as married,Higher,Upper class,1
+2023,India,IN-PB Punjab,Rural,Female,35-44,"Punjabi, Panjabi",Living together as married,Higher,Lower middle class,1
+2023,India,IN-PB Punjab,Rural,Female,35-44,"Punjabi, Panjabi",Living together as married,Higher,Upper middle class,1
+2023,India,IN-PB Punjab,Rural,Female,35-44,"Punjabi, Panjabi",Living together as married,Middle,Working class,1
+2023,India,IN-PB Punjab,Rural,Female,35-44,"Punjabi, Panjabi",Married,Middle,Lower middle class,2
+2023,India,IN-PB Punjab,Rural,Female,35-44,"Punjabi, Panjabi",Married,Middle,Working class,1
+2023,India,IN-PB Punjab,Rural,Female,45-54,Bengali; Bangla,Married,Middle,Upper middle class,1
+2023,India,IN-PB Punjab,Rural,Female,45-54,"Punjabi, Panjabi",Living together as married,Middle,Upper middle class,1
+2023,India,IN-PB Punjab,Rural,Female,55-64,"Punjabi, Panjabi",Living together as married,Lower,Working class,1
+2023,India,IN-PB Punjab,Rural,Female,55-64,"Punjabi, Panjabi",Married,Lower,Lower middle class,1
+2023,India,IN-PB Punjab,Rural,Female,65 and more years,"Punjabi, Panjabi",Living together as married,Lower,Lower middle class,1
+2023,India,IN-PB Punjab,Rural,Female,65 and more years,"Punjabi, Panjabi",Married,Lower,Lower middle class,1
+2023,India,IN-PB Punjab,Rural,Male,16-24,"Punjabi, Panjabi",Single,Higher,Lower middle class,3
+2023,India,IN-PB Punjab,Rural,Male,16-24,"Punjabi, Panjabi",Single,Higher,Upper middle class,1
+2023,India,IN-PB Punjab,Rural,Male,16-24,"Punjabi, Panjabi",Single,Lower,Working class,1
+2023,India,IN-PB Punjab,Rural,Male,16-24,"Punjabi, Panjabi",Single,Middle,Lower middle class,1
+2023,India,IN-PB Punjab,Rural,Male,25-34,Bengali; Bangla,Single,Higher,Lower class,1
+2023,India,IN-PB Punjab,Rural,Male,25-34,"Punjabi, Panjabi",Living together as married,Higher,Lower middle class,1
+2023,India,IN-PB Punjab,Rural,Male,25-34,"Punjabi, Panjabi",Living together as married,Higher,Upper middle class,1
+2023,India,IN-PB Punjab,Rural,Male,25-34,"Punjabi, Panjabi",Married,Higher,Upper middle class,1
+2023,India,IN-PB Punjab,Rural,Male,25-34,"Punjabi, Panjabi",Single,Higher,Upper middle class,2
+2023,India,IN-PB Punjab,Rural,Male,65 and more years,"Punjabi, Panjabi",Living together as married,Lower,Lower middle class,3
+2023,India,IN-PB Punjab,Rural,Male,65 and more years,"Punjabi, Panjabi",Married,Lower,Lower middle class,1
+2023,India,IN-PB Punjab,Rural,Male,65 and more years,"Punjabi, Panjabi",Married,Lower,Working class,1
+2023,India,IN-PB Punjab,Urban,Female,16-24,"Punjabi, Panjabi",Single,Higher,Lower middle class,1
+2023,India,IN-PB Punjab,Urban,Female,16-24,"Punjabi, Panjabi",Single,Higher,Upper middle class,4
+2023,India,IN-PB Punjab,Urban,Female,16-24,"Punjabi, Panjabi",Single,Lower,Lower middle class,1
+2023,India,IN-PB Punjab,Urban,Female,16-24,"Punjabi, Panjabi",Single,Middle,Lower middle class,5
+2023,India,IN-PB Punjab,Urban,Female,16-24,"Punjabi, Panjabi",Single,Middle,Upper middle class,1
+2023,India,IN-PB Punjab,Urban,Female,25-34,"Punjabi, Panjabi",Living together as married,Higher,Upper middle class,1
+2023,India,IN-PB Punjab,Urban,Female,25-34,"Punjabi, Panjabi",Married,Higher,Lower middle class,1
+2023,India,IN-PB Punjab,Urban,Female,25-34,"Punjabi, Panjabi",Married,Middle,Lower class,1
+2023,India,IN-PB Punjab,Urban,Female,25-34,"Punjabi, Panjabi",Single,Higher,Lower middle class,3
+2023,India,IN-PB Punjab,Urban,Female,25-34,"Punjabi, Panjabi",Single,Higher,Upper middle class,1
+2023,India,IN-PB Punjab,Urban,Female,35-44,"Punjabi, Panjabi",Divorced,Lower,Lower middle class,1
+2023,India,IN-PB Punjab,Urban,Female,35-44,"Punjabi, Panjabi",Living together as married,Higher,Upper class,1
+2023,India,IN-PB Punjab,Urban,Female,35-44,"Punjabi, Panjabi",Living together as married,Lower,Upper middle class,1
+2023,India,IN-PB Punjab,Urban,Female,35-44,"Punjabi, Panjabi",Married,Higher,Upper middle class,2
+2023,India,IN-PB Punjab,Urban,Female,35-44,"Punjabi, Panjabi",Single,Higher,Upper middle class,1
+2023,India,IN-PB Punjab,Urban,Female,45-54,"Punjabi, Panjabi",Living together as married,Higher,Upper middle class,2
+2023,India,IN-PB Punjab,Urban,Female,45-54,"Punjabi, Panjabi",Living together as married,Lower,Lower middle class,1
+2023,India,IN-PB Punjab,Urban,Female,45-54,"Punjabi, Panjabi",Married,Higher,Upper class,1
+2023,India,IN-PB Punjab,Urban,Female,45-54,"Punjabi, Panjabi",Married,Lower,Lower middle class,2
+2023,India,IN-PB Punjab,Urban,Female,45-54,"Punjabi, Panjabi",Married,Lower,Upper middle class,1
+2023,India,IN-PB Punjab,Urban,Female,45-54,"Punjabi, Panjabi",Married,Lower,Working class,2
+2023,India,IN-PB Punjab,Urban,Female,45-54,"Punjabi, Panjabi",Married,Middle,Don't know,1
+2023,India,IN-PB Punjab,Urban,Female,55-64,Hindi,Married,Middle,Lower middle class,1
+2023,India,IN-PB Punjab,Urban,Female,55-64,"Punjabi, Panjabi",Married,Lower,Lower middle class,1
+2023,India,IN-PB Punjab,Urban,Female,55-64,"Punjabi, Panjabi",Married,Lower,Upper middle class,1
+2023,India,IN-PB Punjab,Urban,Female,55-64,"Punjabi, Panjabi",Married,Middle,Upper class,1
+2023,India,IN-PB Punjab,Urban,Male,16-24,"Punjabi, Panjabi",Single,Higher,Lower middle class,2
+2023,India,IN-PB Punjab,Urban,Male,16-24,"Punjabi, Panjabi",Single,Higher,Upper middle class,2
+2023,India,IN-PB Punjab,Urban,Male,16-24,"Punjabi, Panjabi",Single,Middle,Don't know,1
+2023,India,IN-PB Punjab,Urban,Male,16-24,"Punjabi, Panjabi",Single,Middle,Lower class,1
+2023,India,IN-PB Punjab,Urban,Male,16-24,"Punjabi, Panjabi",Single,Middle,Lower middle class,5
+2023,India,IN-PB Punjab,Urban,Male,16-24,"Punjabi, Panjabi",Single,Middle,Upper class,2
+2023,India,IN-PB Punjab,Urban,Male,16-24,"Punjabi, Panjabi",Single,Middle,Upper middle class,2
+2023,India,IN-PB Punjab,Urban,Male,16-24,"Punjabi, Panjabi",Single,Middle,Working class,1
+2023,India,IN-PB Punjab,Urban,Male,25-34,Bengali; Bangla,Married,Middle,Working class,1
+2023,India,IN-PB Punjab,Urban,Male,25-34,"Punjabi, Panjabi",Living together as married,Middle,Working class,1
+2023,India,IN-PB Punjab,Urban,Male,25-34,"Punjabi, Panjabi",Married,Higher,Lower middle class,1
+2023,India,IN-PB Punjab,Urban,Male,25-34,"Punjabi, Panjabi",Married,Higher,Upper class,1
+2023,India,IN-PB Punjab,Urban,Male,25-34,"Punjabi, Panjabi",Married,Lower,Lower class,1
+2023,India,IN-PB Punjab,Urban,Male,25-34,"Punjabi, Panjabi",Married,Lower,Working class,2
+2023,India,IN-PB Punjab,Urban,Male,25-34,"Punjabi, Panjabi",Married,Middle,Lower middle class,1
+2023,India,IN-PB Punjab,Urban,Male,25-34,"Punjabi, Panjabi",Married,Middle,Upper middle class,1
+2023,India,IN-PB Punjab,Urban,Male,25-34,"Punjabi, Panjabi",Married,Middle,Working class,1
+2023,India,IN-PB Punjab,Urban,Male,25-34,"Punjabi, Panjabi",Single,Higher,Upper class,1
+2023,India,IN-PB Punjab,Urban,Male,25-34,"Punjabi, Panjabi",Single,Middle,Working class,1
+2023,India,IN-PB Punjab,Urban,Male,35-44,"Punjabi, Panjabi",Living together as married,Higher,Lower middle class,1
+2023,India,IN-PB Punjab,Urban,Male,35-44,"Punjabi, Panjabi",Living together as married,Higher,Working class,1
+2023,India,IN-PB Punjab,Urban,Male,35-44,"Punjabi, Panjabi",Married,Higher,Lower middle class,1
+2023,India,IN-PB Punjab,Urban,Male,35-44,"Punjabi, Panjabi",Married,Higher,Upper class,2
+2023,India,IN-PB Punjab,Urban,Male,35-44,"Punjabi, Panjabi",Married,Higher,Upper middle class,1
+2023,India,IN-PB Punjab,Urban,Male,35-44,"Punjabi, Panjabi",Married,Lower,Lower middle class,1
+2023,India,IN-PB Punjab,Urban,Male,35-44,"Punjabi, Panjabi",Married,Middle,Lower middle class,5
+2023,India,IN-PB Punjab,Urban,Male,45-54,"Punjabi, Panjabi",Married,Higher,Upper middle class,1
+2023,India,IN-PB Punjab,Urban,Male,45-54,"Punjabi, Panjabi",Married,Middle,Upper class,1
+2023,India,IN-PB Punjab,Urban,Male,45-54,"Punjabi, Panjabi",Married,Middle,Upper middle class,1
+2023,India,IN-PB Punjab,Urban,Male,55-64,"Punjabi, Panjabi",Married,Lower,Lower middle class,1
+2023,India,IN-PB Punjab,Urban,Male,55-64,"Punjabi, Panjabi",Married,Middle,Lower middle class,1
+2023,India,IN-PB Punjab,Urban,Male,55-64,"Punjabi, Panjabi",Married,Middle,Upper class,2
+2023,India,IN-PB Punjab,Urban,Male,65 and more years,"Punjabi, Panjabi",Married,Lower,Lower middle class,1
+2023,India,IN-TG Telangana,Rural,Female,16-24,Hindi,Single,Higher,Lower middle class,1
+2023,India,IN-TG Telangana,Rural,Female,16-24,Hindi,Single,Middle,Lower middle class,1
+2023,India,IN-TG Telangana,Rural,Female,16-24,Other,Living together as married,Lower,Lower middle class,1
+2023,India,IN-TG Telangana,Rural,Female,16-24,Telugu,Living together as married,Middle,Upper middle class,1
+2023,India,IN-TG Telangana,Rural,Female,16-24,Telugu,Married,Higher,Upper middle class,1
+2023,India,IN-TG Telangana,Rural,Female,16-24,Telugu,Married,Lower,Lower middle class,1
+2023,India,IN-TG Telangana,Rural,Female,16-24,Telugu,Married,Middle,Working class,1
+2023,India,IN-TG Telangana,Rural,Female,16-24,Telugu,Separated,Middle,Lower middle class,1
+2023,India,IN-TG Telangana,Rural,Female,16-24,Telugu,Single,Higher,Lower middle class,2
+2023,India,IN-TG Telangana,Rural,Female,16-24,Telugu,Single,Lower,Lower middle class,3
+2023,India,IN-TG Telangana,Rural,Female,16-24,Telugu,Single,Middle,Lower middle class,8
+2023,India,IN-TG Telangana,Rural,Female,16-24,Telugu,Single,Middle,Upper middle class,4
+2023,India,IN-TG Telangana,Rural,Female,16-24,Telugu,Single,Middle,Working class,2
+2023,India,IN-TG Telangana,Rural,Female,25-34,Hindi,Married,Middle,Upper middle class,1
+2023,India,IN-TG Telangana,Rural,Female,25-34,Hindi,Single,Middle,Upper middle class,1
+2023,India,IN-TG Telangana,Rural,Female,25-34,Telugu,Living together as married,Lower,Lower middle class,1
+2023,India,IN-TG Telangana,Rural,Female,25-34,Telugu,Living together as married,Middle,Upper middle class,1
+2023,India,IN-TG Telangana,Rural,Female,25-34,Telugu,Married,Higher,Lower middle class,1
+2023,India,IN-TG Telangana,Rural,Female,25-34,Telugu,Married,Lower,Lower middle class,2
+2023,India,IN-TG Telangana,Rural,Female,25-34,Telugu,Married,Middle,Lower middle class,1
+2023,India,IN-TG Telangana,Rural,Female,25-34,Telugu,Married,Middle,Upper middle class,2
+2023,India,IN-TG Telangana,Rural,Female,25-34,Telugu,Married,Middle,Working class,1
+2023,India,IN-TG Telangana,Rural,Female,25-34,Telugu,Widowed,Middle,Working class,1
+2023,India,IN-TG Telangana,Rural,Female,35-44,Hindi,Living together as married,Lower,Lower middle class,1
+2023,India,IN-TG Telangana,Rural,Female,35-44,Telugu,Married,Lower,Lower middle class,2
+2023,India,IN-TG Telangana,Rural,Female,35-44,Telugu,Married,Lower,Upper middle class,1
+2023,India,IN-TG Telangana,Rural,Female,35-44,Telugu,Married,Lower,Working class,2
+2023,India,IN-TG Telangana,Rural,Female,35-44,Telugu,Married,Middle,Lower middle class,1
+2023,India,IN-TG Telangana,Rural,Female,35-44,Telugu,Married,Middle,Upper middle class,1
+2023,India,IN-TG Telangana,Rural,Female,35-44,Telugu,Single,Middle,Lower middle class,1
+2023,India,IN-TG Telangana,Rural,Female,35-44,Telugu,Widowed,Lower,Working class,1
+2023,India,IN-TG Telangana,Rural,Female,45-54,Other,Married,Lower,Lower middle class,1
+2023,India,IN-TG Telangana,Rural,Female,45-54,Telugu,Living together as married,Lower,Lower middle class,2
+2023,India,IN-TG Telangana,Rural,Female,45-54,Telugu,Married,Higher,Upper middle class,1
+2023,India,IN-TG Telangana,Rural,Female,45-54,Telugu,Married,Lower,Lower class,1
+2023,India,IN-TG Telangana,Rural,Female,45-54,Telugu,Married,Lower,Lower middle class,2
+2023,India,IN-TG Telangana,Rural,Female,45-54,Telugu,Married,Lower,Working class,1
+2023,India,IN-TG Telangana,Rural,Female,45-54,Telugu,Widowed,Lower,Lower middle class,1
+2023,India,IN-TG Telangana,Rural,Female,45-54,Telugu,Widowed,Lower,Upper class,1
+2023,India,IN-TG Telangana,Rural,Female,45-54,Telugu,Widowed,Middle,Lower middle class,1
+2023,India,IN-TG Telangana,Rural,Female,55-64,Telugu,Living together as married,Lower,Lower middle class,1
+2023,India,IN-TG Telangana,Rural,Female,55-64,Telugu,Living together as married,Lower,Upper middle class,1
+2023,India,IN-TG Telangana,Rural,Female,55-64,Telugu,Married,Lower,Upper middle class,2
+2023,India,IN-TG Telangana,Rural,Female,55-64,Telugu,Widowed,Lower,Lower middle class,2
+2023,India,IN-TG Telangana,Rural,Female,55-64,Telugu,Widowed,Lower,Upper middle class,1
+2023,India,IN-TG Telangana,Rural,Female,55-64,Telugu,Widowed,Lower,Working class,1
+2023,India,IN-TG Telangana,Rural,Female,65 and more years,Other,Widowed,Lower,Lower class,1
+2023,India,IN-TG Telangana,Rural,Female,65 and more years,Telugu,Married,Lower,Upper middle class,2
+2023,India,IN-TG Telangana,Rural,Female,65 and more years,Telugu,Married,Lower,Working class,1
+2023,India,IN-TG Telangana,Rural,Female,65 and more years,Telugu,Widowed,Lower,Lower class,1
+2023,India,IN-TG Telangana,Rural,Female,65 and more years,Telugu,Widowed,Lower,Upper middle class,1
+2023,India,IN-TG Telangana,Rural,Male,16-24,Hindi,Single,Higher,Lower middle class,1
+2023,India,IN-TG Telangana,Rural,Male,16-24,Other,Single,Middle,Don't know,1
+2023,India,IN-TG Telangana,Rural,Male,16-24,Other,Single,Middle,Lower middle class,1
+2023,India,IN-TG Telangana,Rural,Male,16-24,"Punjabi, Panjabi",Single,Higher,Lower middle class,1
+2023,India,IN-TG Telangana,Rural,Male,16-24,Telugu,Single,Higher,Don't know,1
+2023,India,IN-TG Telangana,Rural,Male,16-24,Telugu,Single,Higher,Lower middle class,4
+2023,India,IN-TG Telangana,Rural,Male,16-24,Telugu,Single,Higher,Upper middle class,1
+2023,India,IN-TG Telangana,Rural,Male,16-24,Telugu,Single,Middle,Lower middle class,7
+2023,India,IN-TG Telangana,Rural,Male,16-24,Telugu,Single,Middle,Upper middle class,2
+2023,India,IN-TG Telangana,Rural,Male,16-24,Telugu,Single,Middle,Working class,5
+2023,India,IN-TG Telangana,Rural,Male,25-34,Hindi,Married,Higher,Lower middle class,1
+2023,India,IN-TG Telangana,Rural,Male,25-34,Other,Married,Middle,Upper middle class,1
+2023,India,IN-TG Telangana,Rural,Male,25-34,Other,Single,Middle,Lower middle class,1
+2023,India,IN-TG Telangana,Rural,Male,25-34,Telugu,Living together as married,Higher,Lower middle class,1
+2023,India,IN-TG Telangana,Rural,Male,25-34,Telugu,Living together as married,Middle,Working class,1
+2023,India,IN-TG Telangana,Rural,Male,25-34,Telugu,Married,Higher,Lower middle class,4
+2023,India,IN-TG Telangana,Rural,Male,25-34,Telugu,Married,Lower,Lower class,1
+2023,India,IN-TG Telangana,Rural,Male,25-34,Telugu,Married,Middle,Lower middle class,4
+2023,India,IN-TG Telangana,Rural,Male,25-34,Telugu,Married,Middle,Working class,1
+2023,India,IN-TG Telangana,Rural,Male,25-34,Telugu,Single,Higher,Lower middle class,2
+2023,India,IN-TG Telangana,Rural,Male,25-34,Telugu,Single,Higher,Working class,1
+2023,India,IN-TG Telangana,Rural,Male,35-44,Other,Married,Lower,Working class,1
+2023,India,IN-TG Telangana,Rural,Male,35-44,Telugu,Living together as married,Lower,Lower middle class,1
+2023,India,IN-TG Telangana,Rural,Male,35-44,Telugu,Living together as married,Lower,Working class,1
+2023,India,IN-TG Telangana,Rural,Male,35-44,Telugu,Living together as married,Middle,Lower middle class,1
+2023,India,IN-TG Telangana,Rural,Male,35-44,Telugu,Married,Higher,Lower middle class,2
+2023,India,IN-TG Telangana,Rural,Male,35-44,Telugu,Married,Higher,Upper middle class,2
+2023,India,IN-TG Telangana,Rural,Male,35-44,Telugu,Married,Lower,Lower class,1
+2023,India,IN-TG Telangana,Rural,Male,35-44,Telugu,Married,Lower,Lower middle class,4
+2023,India,IN-TG Telangana,Rural,Male,35-44,Telugu,Married,Lower,Working class,1
+2023,India,IN-TG Telangana,Rural,Male,35-44,Telugu,Married,Middle,Lower class,1
+2023,India,IN-TG Telangana,Rural,Male,35-44,Telugu,Married,Middle,Lower middle class,1
+2023,India,IN-TG Telangana,Rural,Male,35-44,Telugu,Single,Middle,Working class,1
+2023,India,IN-TG Telangana,Rural,Male,45-54,Telugu,Living together as married,Higher,Upper middle class,1
+2023,India,IN-TG Telangana,Rural,Male,45-54,Telugu,Living together as married,Middle,Lower middle class,1
+2023,India,IN-TG Telangana,Rural,Male,45-54,Telugu,Living together as married,Middle,Working class,1
+2023,India,IN-TG Telangana,Rural,Male,45-54,Telugu,Married,Higher,Upper middle class,2
+2023,India,IN-TG Telangana,Rural,Male,45-54,Telugu,Married,Lower,Lower class,1
+2023,India,IN-TG Telangana,Rural,Male,45-54,Telugu,Married,Lower,Lower middle class,2
+2023,India,IN-TG Telangana,Rural,Male,45-54,Telugu,Married,Lower,Working class,2
+2023,India,IN-TG Telangana,Rural,Male,45-54,Telugu,Married,Middle,Lower middle class,1
+2023,India,IN-TG Telangana,Rural,Male,55-64,Telugu,Married,Lower,Lower middle class,3
+2023,India,IN-TG Telangana,Rural,Male,55-64,Telugu,Married,Lower,Working class,1
+2023,India,IN-TG Telangana,Rural,Male,55-64,Telugu,Married,Middle,Lower middle class,2
+2023,India,IN-TG Telangana,Rural,Male,55-64,Telugu,Married,Middle,Upper middle class,1
+2023,India,IN-TG Telangana,Rural,Male,65 and more years,Telugu,Living together as married,Lower,Lower middle class,2
+2023,India,IN-TG Telangana,Rural,Male,65 and more years,Telugu,Living together as married,Lower,Working class,1
+2023,India,IN-TG Telangana,Rural,Male,65 and more years,Telugu,Married,Higher,Lower middle class,1
+2023,India,IN-TG Telangana,Rural,Male,65 and more years,Telugu,Widowed,Lower,Lower class,1
+2023,India,IN-TG Telangana,Rural,Male,65 and more years,Telugu,Widowed,Lower,Lower middle class,1
+2023,India,IN-TG Telangana,Urban,Female,16-24,Hindi,Single,Higher,Lower middle class,1
+2023,India,IN-TG Telangana,Urban,Female,16-24,Telugu,Single,Higher,Upper middle class,1
+2023,India,IN-TG Telangana,Urban,Female,16-24,Telugu,Single,Lower,Upper middle class,1
+2023,India,IN-TG Telangana,Urban,Female,16-24,Telugu,Single,Middle,Lower middle class,2
+2023,India,IN-TG Telangana,Urban,Female,16-24,Telugu,Single,Middle,Upper middle class,3
+2023,India,IN-TG Telangana,Urban,Female,25-34,Hindi,Single,Higher,Upper middle class,1
+2023,India,IN-TG Telangana,Urban,Female,25-34,Telugu,Married,Higher,Upper class,1
+2023,India,IN-TG Telangana,Urban,Female,25-34,Telugu,Married,Higher,Upper middle class,1
+2023,India,IN-TG Telangana,Urban,Female,25-34,Telugu,Married,Middle,Lower middle class,1
+2023,India,IN-TG Telangana,Urban,Female,25-34,Telugu,Single,Higher,Upper middle class,1
+2023,India,IN-TG Telangana,Urban,Female,35-44,Other,Married,Lower,Lower middle class,1
+2023,India,IN-TG Telangana,Urban,Female,35-44,Telugu,Married,Middle,Lower middle class,2
+2023,India,IN-TG Telangana,Urban,Female,35-44,Telugu,Married,Middle,Upper class,1
+2023,India,IN-TG Telangana,Urban,Female,35-44,Telugu,Married,Middle,Upper middle class,1
+2023,India,IN-TG Telangana,Urban,Female,45-54,Hindi,Married,Lower,Lower middle class,1
+2023,India,IN-TG Telangana,Urban,Female,45-54,Telugu,Married,Higher,Upper class,1
+2023,India,IN-TG Telangana,Urban,Female,45-54,Telugu,Married,Higher,Upper middle class,1
+2023,India,IN-TG Telangana,Urban,Female,45-54,Telugu,Married,Lower,Lower middle class,1
+2023,India,IN-TG Telangana,Urban,Female,45-54,Telugu,Widowed,Lower,Lower middle class,1
+2023,India,IN-TG Telangana,Urban,Female,45-54,Telugu,Widowed,Middle,Upper middle class,1
+2023,India,IN-TG Telangana,Urban,Female,55-64,Other,Married,Lower,Upper middle class,1
+2023,India,IN-TG Telangana,Urban,Female,65 and more years,Telugu,Widowed,Lower,Upper middle class,2
+2023,India,IN-TG Telangana,Urban,Male,16-24,Hindi,Single,Middle,Lower middle class,1
+2023,India,IN-TG Telangana,Urban,Male,16-24,Marathi,Single,Middle,Upper middle class,1
+2023,India,IN-TG Telangana,Urban,Male,16-24,Telugu,Married,Middle,Working class,1
+2023,India,IN-TG Telangana,Urban,Male,16-24,Telugu,Single,Higher,Lower middle class,2
+2023,India,IN-TG Telangana,Urban,Male,16-24,Telugu,Single,Higher,Upper middle class,1
+2023,India,IN-TG Telangana,Urban,Male,16-24,Telugu,Single,Middle,Lower middle class,1
+2023,India,IN-TG Telangana,Urban,Male,16-24,Telugu,Single,Middle,Upper middle class,3
+2023,India,IN-TG Telangana,Urban,Male,25-34,Telugu,Married,Middle,Working class,1
+2023,India,IN-TG Telangana,Urban,Male,25-34,Telugu,Single,Higher,Lower middle class,1
+2023,India,IN-TG Telangana,Urban,Male,25-34,Telugu,Single,Higher,Upper middle class,1
+2023,India,IN-TG Telangana,Urban,Male,25-34,Telugu,Single,Middle,Working class,1
+2023,India,IN-TG Telangana,Urban,Male,35-44,Other,Married,Middle,Upper middle class,1
+2023,India,IN-TG Telangana,Urban,Male,35-44,Telugu,Married,Higher,Don't know,1
+2023,India,IN-TG Telangana,Urban,Male,35-44,Telugu,Married,Higher,Upper middle class,2
+2023,India,IN-TG Telangana,Urban,Male,45-54,Telugu,Married,Higher,Upper middle class,2
+2023,India,IN-TG Telangana,Urban,Male,45-54,Telugu,Married,Middle,Lower middle class,2
+2023,India,IN-TG Telangana,Urban,Male,55-64,Telugu,Married,Higher,Upper class,1
+2023,India,IN-TG Telangana,Urban,Male,55-64,Telugu,Married,Lower,Lower middle class,1
+2023,India,IN-TG Telangana,Urban,Male,55-64,Telugu,Married,Lower,Working class,1
+2023,India,IN-TG Telangana,Urban,Male,65 and more years,Telugu,Married,Middle,Upper middle class,1
+2023,India,IN-UP Uttar Pradesh,Rural,Female,16-24,Hindi,Married,Higher,Upper middle class,1
+2023,India,IN-UP Uttar Pradesh,Rural,Female,16-24,Hindi,Married,Lower,Working class,1
+2023,India,IN-UP Uttar Pradesh,Rural,Female,16-24,Hindi,Married,Middle,Don't know,1
+2023,India,IN-UP Uttar Pradesh,Rural,Female,16-24,Hindi,Single,Higher,Lower middle class,1
+2023,India,IN-UP Uttar Pradesh,Rural,Female,16-24,Hindi,Single,Lower,Don't know,1
+2023,India,IN-UP Uttar Pradesh,Rural,Female,16-24,Hindi,Single,Lower,Lower class,2
+2023,India,IN-UP Uttar Pradesh,Rural,Female,16-24,Hindi,Single,Lower,Lower middle class,1
+2023,India,IN-UP Uttar Pradesh,Rural,Female,16-24,Hindi,Single,Lower,Working class,3
+2023,India,IN-UP Uttar Pradesh,Rural,Female,16-24,Hindi,Single,Middle,Don't know,1
+2023,India,IN-UP Uttar Pradesh,Rural,Female,16-24,Hindi,Single,Middle,Lower middle class,1
+2023,India,IN-UP Uttar Pradesh,Rural,Female,16-24,Hindi,Single,Middle,Upper middle class,2
+2023,India,IN-UP Uttar Pradesh,Rural,Female,16-24,Hindi,Single,Middle,Working class,4
+2023,India,IN-UP Uttar Pradesh,Rural,Female,25-34,Hindi,Living together as married,Middle,Working class,1
+2023,India,IN-UP Uttar Pradesh,Rural,Female,25-34,Hindi,Married,Higher,Lower middle class,1
+2023,India,IN-UP Uttar Pradesh,Rural,Female,25-34,Hindi,Married,Lower,Upper middle class,1
+2023,India,IN-UP Uttar Pradesh,Rural,Female,25-34,Hindi,Married,Lower,Working class,3
+2023,India,IN-UP Uttar Pradesh,Rural,Female,25-34,Hindi,Married,Middle,Lower middle class,2
+2023,India,IN-UP Uttar Pradesh,Rural,Female,25-34,Hindi,Married,Middle,Upper middle class,1
+2023,India,IN-UP Uttar Pradesh,Rural,Female,25-34,Hindi,Married,Middle,Working class,1
+2023,India,IN-UP Uttar Pradesh,Rural,Female,25-34,Hindi,Single,Higher,Upper middle class,1
+2023,India,IN-UP Uttar Pradesh,Rural,Female,35-44,Hindi,Living together as married,Lower,Working class,1
+2023,India,IN-UP Uttar Pradesh,Rural,Female,35-44,Hindi,Married,Lower,Lower class,1
+2023,India,IN-UP Uttar Pradesh,Rural,Female,35-44,Hindi,Married,Lower,Upper middle class,2
+2023,India,IN-UP Uttar Pradesh,Rural,Female,35-44,Hindi,Married,Lower,Working class,7
+2023,India,IN-UP Uttar Pradesh,Rural,Female,35-44,Hindi,Married,Middle,Lower middle class,1
+2023,India,IN-UP Uttar Pradesh,Rural,Female,35-44,Hindi,Married,Middle,Working class,2
+2023,India,IN-UP Uttar Pradesh,Rural,Female,45-54,Hindi,Living together as married,Lower,Working class,1
+2023,India,IN-UP Uttar Pradesh,Rural,Female,45-54,Hindi,Married,Lower,Don't know,1
+2023,India,IN-UP Uttar Pradesh,Rural,Female,45-54,Hindi,Married,Lower,Lower middle class,1
+2023,India,IN-UP Uttar Pradesh,Rural,Female,45-54,Hindi,Married,Lower,Upper middle class,1
+2023,India,IN-UP Uttar Pradesh,Rural,Female,45-54,Hindi,Married,Lower,Working class,5
+2023,India,IN-UP Uttar Pradesh,Rural,Female,45-54,Hindi,Married,Middle,Lower middle class,1
+2023,India,IN-UP Uttar Pradesh,Rural,Female,45-54,Hindi,Single,Lower,Don't know,1
+2023,India,IN-UP Uttar Pradesh,Rural,Female,45-54,Hindi,Widowed,Lower,Lower class,1
+2023,India,IN-UP Uttar Pradesh,Rural,Female,55-64,Hindi,Married,Lower,Lower class,3
+2023,India,IN-UP Uttar Pradesh,Rural,Female,55-64,Hindi,Married,Lower,Lower middle class,1
+2023,India,IN-UP Uttar Pradesh,Rural,Female,55-64,Hindi,Married,Lower,Working class,3
+2023,India,IN-UP Uttar Pradesh,Rural,Female,55-64,Hindi,Widowed,Lower,Lower class,1
+2023,India,IN-UP Uttar Pradesh,Rural,Female,55-64,Hindi,Widowed,Lower,Working class,2
+2023,India,IN-UP Uttar Pradesh,Rural,Female,65 and more years,Hindi,Married,Lower,Lower class,1
+2023,India,IN-UP Uttar Pradesh,Rural,Female,65 and more years,Hindi,Married,Lower,Lower middle class,1
+2023,India,IN-UP Uttar Pradesh,Rural,Female,65 and more years,Hindi,Widowed,Lower,Upper middle class,1
+2023,India,IN-UP Uttar Pradesh,Rural,Male,16-24,Hindi,Married,Middle,Working class,2
+2023,India,IN-UP Uttar Pradesh,Rural,Male,16-24,Hindi,Single,Higher,Lower class,1
+2023,India,IN-UP Uttar Pradesh,Rural,Male,16-24,Hindi,Single,Higher,Lower middle class,3
+2023,India,IN-UP Uttar Pradesh,Rural,Male,16-24,Hindi,Single,Higher,Upper middle class,2
+2023,India,IN-UP Uttar Pradesh,Rural,Male,16-24,Hindi,Single,Higher,Working class,5
+2023,India,IN-UP Uttar Pradesh,Rural,Male,16-24,Hindi,Single,Lower,Don't know,1
+2023,India,IN-UP Uttar Pradesh,Rural,Male,16-24,Hindi,Single,Lower,Lower class,1
+2023,India,IN-UP Uttar Pradesh,Rural,Male,16-24,Hindi,Single,Lower,Lower middle class,3
+2023,India,IN-UP Uttar Pradesh,Rural,Male,16-24,Hindi,Single,Lower,Working class,10
+2023,India,IN-UP Uttar Pradesh,Rural,Male,16-24,Hindi,Single,Middle,Don't know,1
+2023,India,IN-UP Uttar Pradesh,Rural,Male,16-24,Hindi,Single,Middle,Lower class,3
+2023,India,IN-UP Uttar Pradesh,Rural,Male,16-24,Hindi,Single,Middle,Lower middle class,4
+2023,India,IN-UP Uttar Pradesh,Rural,Male,16-24,Hindi,Single,Middle,Upper middle class,3
+2023,India,IN-UP Uttar Pradesh,Rural,Male,16-24,Hindi,Single,Middle,Working class,11
+2023,India,IN-UP Uttar Pradesh,Rural,Male,25-34,Hindi,Married,Higher,Don't know,1
+2023,India,IN-UP Uttar Pradesh,Rural,Male,25-34,Hindi,Married,Higher,Lower middle class,2
+2023,India,IN-UP Uttar Pradesh,Rural,Male,25-34,Hindi,Married,Higher,Upper middle class,2
+2023,India,IN-UP Uttar Pradesh,Rural,Male,25-34,Hindi,Married,Lower,Lower middle class,2
+2023,India,IN-UP Uttar Pradesh,Rural,Male,25-34,Hindi,Married,Lower,Working class,1
+2023,India,IN-UP Uttar Pradesh,Rural,Male,25-34,Hindi,Married,Middle,Lower middle class,5
+2023,India,IN-UP Uttar Pradesh,Rural,Male,25-34,Hindi,Married,Middle,Upper class,1
+2023,India,IN-UP Uttar Pradesh,Rural,Male,25-34,Hindi,Married,Middle,Upper middle class,2
+2023,India,IN-UP Uttar Pradesh,Rural,Male,25-34,Hindi,Married,Middle,Working class,5
+2023,India,IN-UP Uttar Pradesh,Rural,Male,25-34,Hindi,Single,Higher,Upper middle class,1
+2023,India,IN-UP Uttar Pradesh,Rural,Male,25-34,Hindi,Single,Higher,Working class,1
+2023,India,IN-UP Uttar Pradesh,Rural,Male,25-34,Hindi,Single,Lower,Lower class,1
+2023,India,IN-UP Uttar Pradesh,Rural,Male,25-34,Hindi,Single,Lower,Working class,1
+2023,India,IN-UP Uttar Pradesh,Rural,Male,25-34,Hindi,Single,Middle,Working class,2
+2023,India,IN-UP Uttar Pradesh,Rural,Male,35-44,Bengali; Bangla,Married,Middle,Upper middle class,1
+2023,India,IN-UP Uttar Pradesh,Rural,Male,35-44,Hindi,Living together as married,Higher,Upper middle class,1
+2023,India,IN-UP Uttar Pradesh,Rural,Male,35-44,Hindi,Living together as married,Lower,Lower class,1
+2023,India,IN-UP Uttar Pradesh,Rural,Male,35-44,Hindi,Living together as married,Lower,Working class,3
+2023,India,IN-UP Uttar Pradesh,Rural,Male,35-44,Hindi,Married,Higher,Don't know,1
+2023,India,IN-UP Uttar Pradesh,Rural,Male,35-44,Hindi,Married,Higher,Upper middle class,1
+2023,India,IN-UP Uttar Pradesh,Rural,Male,35-44,Hindi,Married,Lower,Don't know,2
+2023,India,IN-UP Uttar Pradesh,Rural,Male,35-44,Hindi,Married,Lower,Lower class,1
+2023,India,IN-UP Uttar Pradesh,Rural,Male,35-44,Hindi,Married,Lower,Lower middle class,2
+2023,India,IN-UP Uttar Pradesh,Rural,Male,35-44,Hindi,Married,Lower,Working class,7
+2023,India,IN-UP Uttar Pradesh,Rural,Male,35-44,Hindi,Married,Middle,Don't know,1
+2023,India,IN-UP Uttar Pradesh,Rural,Male,35-44,Hindi,Married,Middle,Lower middle class,4
+2023,India,IN-UP Uttar Pradesh,Rural,Male,35-44,Hindi,Married,Middle,Upper middle class,3
+2023,India,IN-UP Uttar Pradesh,Rural,Male,35-44,Hindi,Married,Middle,Working class,1
+2023,India,IN-UP Uttar Pradesh,Rural,Male,45-54,Hindi,Living together as married,Higher,Working class,1
+2023,India,IN-UP Uttar Pradesh,Rural,Male,45-54,Hindi,Living together as married,Lower,Lower class,1
+2023,India,IN-UP Uttar Pradesh,Rural,Male,45-54,Hindi,Married,Higher,Upper middle class,2
+2023,India,IN-UP Uttar Pradesh,Rural,Male,45-54,Hindi,Married,Lower,Lower class,1
+2023,India,IN-UP Uttar Pradesh,Rural,Male,45-54,Hindi,Married,Lower,Lower middle class,2
+2023,India,IN-UP Uttar Pradesh,Rural,Male,45-54,Hindi,Married,Lower,Upper class,1
+2023,India,IN-UP Uttar Pradesh,Rural,Male,45-54,Hindi,Married,Lower,Upper middle class,3
+2023,India,IN-UP Uttar Pradesh,Rural,Male,45-54,Hindi,Married,Lower,Working class,3
+2023,India,IN-UP Uttar Pradesh,Rural,Male,45-54,Hindi,Married,Middle,Lower middle class,4
+2023,India,IN-UP Uttar Pradesh,Rural,Male,45-54,Hindi,Married,Middle,Upper middle class,4
+2023,India,IN-UP Uttar Pradesh,Rural,Male,45-54,Hindi,Married,Middle,Working class,5
+2023,India,IN-UP Uttar Pradesh,Rural,Male,55-64,Hindi,Living together as married,Lower,Lower class,1
+2023,India,IN-UP Uttar Pradesh,Rural,Male,55-64,Hindi,Living together as married,Middle,Lower middle class,1
+2023,India,IN-UP Uttar Pradesh,Rural,Male,55-64,Hindi,Married,Higher,Upper middle class,1
+2023,India,IN-UP Uttar Pradesh,Rural,Male,55-64,Hindi,Married,Lower,Lower class,2
+2023,India,IN-UP Uttar Pradesh,Rural,Male,55-64,Hindi,Married,Lower,Lower middle class,1
+2023,India,IN-UP Uttar Pradesh,Rural,Male,55-64,Hindi,Married,Lower,Working class,4
+2023,India,IN-UP Uttar Pradesh,Rural,Male,55-64,Hindi,Married,Middle,Lower middle class,1
+2023,India,IN-UP Uttar Pradesh,Rural,Male,55-64,Hindi,Married,Middle,Working class,3
+2023,India,IN-UP Uttar Pradesh,Rural,Male,55-64,Hindi,Widowed,Lower,Working class,2
+2023,India,IN-UP Uttar Pradesh,Rural,Male,55-64,Hindi,Widowed,Middle,Lower middle class,1
+2023,India,IN-UP Uttar Pradesh,Rural,Male,65 and more years,Hindi,Married,Lower,Lower middle class,1
+2023,India,IN-UP Uttar Pradesh,Rural,Male,65 and more years,Hindi,Married,Lower,Upper middle class,1
+2023,India,IN-UP Uttar Pradesh,Rural,Male,65 and more years,Hindi,Married,Middle,Lower middle class,1
+2023,India,IN-UP Uttar Pradesh,Rural,Male,65 and more years,Hindi,Widowed,Lower,Working class,2
+2023,India,IN-UP Uttar Pradesh,Urban,Female,16-24,Hindi,Living together as married,Middle,Working class,1
+2023,India,IN-UP Uttar Pradesh,Urban,Female,16-24,Hindi,Married,Higher,Upper middle class,1
+2023,India,IN-UP Uttar Pradesh,Urban,Female,16-24,Hindi,Married,Lower,Lower class,1
+2023,India,IN-UP Uttar Pradesh,Urban,Female,16-24,Hindi,Married,Middle,Lower middle class,2
+2023,India,IN-UP Uttar Pradesh,Urban,Female,16-24,Hindi,Single,Higher,Lower class,1
+2023,India,IN-UP Uttar Pradesh,Urban,Female,16-24,Hindi,Single,Higher,Lower middle class,2
+2023,India,IN-UP Uttar Pradesh,Urban,Female,16-24,Hindi,Single,Higher,Working class,1
+2023,India,IN-UP Uttar Pradesh,Urban,Female,16-24,Hindi,Single,Lower,Working class,1
+2023,India,IN-UP Uttar Pradesh,Urban,Female,16-24,Hindi,Single,Middle,Don't know,2
+2023,India,IN-UP Uttar Pradesh,Urban,Female,16-24,Hindi,Single,Middle,Lower class,1
+2023,India,IN-UP Uttar Pradesh,Urban,Female,16-24,Hindi,Single,Middle,Lower middle class,4
+2023,India,IN-UP Uttar Pradesh,Urban,Female,16-24,Hindi,Single,Middle,Upper middle class,1
+2023,India,IN-UP Uttar Pradesh,Urban,Female,16-24,Hindi,Single,Middle,Working class,2
+2023,India,IN-UP Uttar Pradesh,Urban,Female,25-34,Hindi,Living together as married,Lower,Lower middle class,1
+2023,India,IN-UP Uttar Pradesh,Urban,Female,25-34,Hindi,Married,Lower,Lower class,3
+2023,India,IN-UP Uttar Pradesh,Urban,Female,25-34,Hindi,Married,Lower,Working class,1
+2023,India,IN-UP Uttar Pradesh,Urban,Female,25-34,Hindi,Married,Middle,Lower middle class,2
+2023,India,IN-UP Uttar Pradesh,Urban,Female,25-34,Hindi,Single,Higher,Don't know,1
+2023,India,IN-UP Uttar Pradesh,Urban,Female,35-44,Hindi,Married,Higher,Lower class,1
+2023,India,IN-UP Uttar Pradesh,Urban,Female,35-44,Hindi,Married,Higher,Upper middle class,3
+2023,India,IN-UP Uttar Pradesh,Urban,Female,35-44,Hindi,Married,Lower,Working class,1
+2023,India,IN-UP Uttar Pradesh,Urban,Female,35-44,Hindi,Married,Middle,Lower class,1
+2023,India,IN-UP Uttar Pradesh,Urban,Female,45-54,Hindi,Married,Higher,Lower middle class,1
+2023,India,IN-UP Uttar Pradesh,Urban,Female,45-54,Hindi,Married,Lower,Lower class,1
+2023,India,IN-UP Uttar Pradesh,Urban,Female,45-54,Hindi,Married,Lower,Lower middle class,2
+2023,India,IN-UP Uttar Pradesh,Urban,Female,45-54,Hindi,Married,Lower,Upper middle class,1
+2023,India,IN-UP Uttar Pradesh,Urban,Female,45-54,Hindi,Married,Middle,Upper middle class,1
+2023,India,IN-UP Uttar Pradesh,Urban,Female,45-54,Hindi,Married,Middle,Working class,1
+2023,India,IN-UP Uttar Pradesh,Urban,Female,45-54,Hindi,Widowed,Lower,Working class,1
+2023,India,IN-UP Uttar Pradesh,Urban,Female,55-64,Hindi,Married,Lower,Don't know,1
+2023,India,IN-UP Uttar Pradesh,Urban,Female,55-64,Hindi,Married,Lower,Lower class,2
+2023,India,IN-UP Uttar Pradesh,Urban,Female,55-64,Hindi,Married,Middle,Upper middle class,1
+2023,India,IN-UP Uttar Pradesh,Urban,Female,65 and more years,Hindi,Widowed,Lower,Working class,1
+2023,India,IN-UP Uttar Pradesh,Urban,Male,16-24,Hindi,Married,Higher,Lower middle class,2
+2023,India,IN-UP Uttar Pradesh,Urban,Male,16-24,Hindi,Married,Lower,Lower middle class,1
+2023,India,IN-UP Uttar Pradesh,Urban,Male,16-24,Hindi,Married,Lower,Working class,1
+2023,India,IN-UP Uttar Pradesh,Urban,Male,16-24,Hindi,Married,Middle,Working class,1
+2023,India,IN-UP Uttar Pradesh,Urban,Male,16-24,Hindi,Single,Higher,Don't know,1
+2023,India,IN-UP Uttar Pradesh,Urban,Male,16-24,Hindi,Single,Higher,Lower middle class,4
+2023,India,IN-UP Uttar Pradesh,Urban,Male,16-24,Hindi,Single,Higher,Upper middle class,2
+2023,India,IN-UP Uttar Pradesh,Urban,Male,16-24,Hindi,Single,Higher,Working class,1
+2023,India,IN-UP Uttar Pradesh,Urban,Male,16-24,Hindi,Single,Lower,Lower class,4
+2023,India,IN-UP Uttar Pradesh,Urban,Male,16-24,Hindi,Single,Lower,Working class,2
+2023,India,IN-UP Uttar Pradesh,Urban,Male,16-24,Hindi,Single,Middle,Don't know,1
+2023,India,IN-UP Uttar Pradesh,Urban,Male,16-24,Hindi,Single,Middle,Lower class,5
+2023,India,IN-UP Uttar Pradesh,Urban,Male,16-24,Hindi,Single,Middle,Lower middle class,5
+2023,India,IN-UP Uttar Pradesh,Urban,Male,16-24,Hindi,Single,Middle,Upper middle class,1
+2023,India,IN-UP Uttar Pradesh,Urban,Male,16-24,Hindi,Single,Middle,Working class,8
+2023,India,IN-UP Uttar Pradesh,Urban,Male,25-34,Hindi,Living together as married,Higher,Lower middle class,1
+2023,India,IN-UP Uttar Pradesh,Urban,Male,25-34,Hindi,Married,Higher,Lower class,1
+2023,India,IN-UP Uttar Pradesh,Urban,Male,25-34,Hindi,Married,Higher,Lower middle class,1
+2023,India,IN-UP Uttar Pradesh,Urban,Male,25-34,Hindi,Married,Higher,Upper middle class,1
+2023,India,IN-UP Uttar Pradesh,Urban,Male,25-34,Hindi,Married,Middle,Lower class,1
+2023,India,IN-UP Uttar Pradesh,Urban,Male,25-34,Hindi,Married,Middle,Lower middle class,3
+2023,India,IN-UP Uttar Pradesh,Urban,Male,25-34,Hindi,Married,Middle,Working class,3
+2023,India,IN-UP Uttar Pradesh,Urban,Male,25-34,Hindi,Single,Higher,Working class,1
+2023,India,IN-UP Uttar Pradesh,Urban,Male,25-34,Hindi,Single,Middle,Lower class,1
+2023,India,IN-UP Uttar Pradesh,Urban,Male,25-34,Hindi,Single,Middle,Working class,1
+2023,India,IN-UP Uttar Pradesh,Urban,Male,35-44,Hindi,Living together as married,Middle,Upper middle class,1
+2023,India,IN-UP Uttar Pradesh,Urban,Male,35-44,Hindi,Married,Higher,Lower middle class,2
+2023,India,IN-UP Uttar Pradesh,Urban,Male,35-44,Hindi,Married,Higher,Upper middle class,2
+2023,India,IN-UP Uttar Pradesh,Urban,Male,35-44,Hindi,Married,Lower,Lower middle class,1
+2023,India,IN-UP Uttar Pradesh,Urban,Male,35-44,Hindi,Married,Lower,Working class,2
+2023,India,IN-UP Uttar Pradesh,Urban,Male,35-44,Hindi,Married,Middle,Lower class,1
+2023,India,IN-UP Uttar Pradesh,Urban,Male,35-44,Hindi,Married,Middle,Lower middle class,4
+2023,India,IN-UP Uttar Pradesh,Urban,Male,35-44,Hindi,Married,Middle,Working class,4
+2023,India,IN-UP Uttar Pradesh,Urban,Male,35-44,Hindi,Widowed,Higher,Lower middle class,1
+2023,India,IN-UP Uttar Pradesh,Urban,Male,45-54,Hindi,Living together as married,Middle,Working class,1
+2023,India,IN-UP Uttar Pradesh,Urban,Male,45-54,Hindi,Married,Higher,Upper middle class,1
+2023,India,IN-UP Uttar Pradesh,Urban,Male,45-54,Hindi,Married,Lower,Don't know,1
+2023,India,IN-UP Uttar Pradesh,Urban,Male,45-54,Hindi,Married,Lower,Lower middle class,2
+2023,India,IN-UP Uttar Pradesh,Urban,Male,45-54,Hindi,Married,Lower,Working class,3
+2023,India,IN-UP Uttar Pradesh,Urban,Male,45-54,Hindi,Married,Middle,Lower middle class,5
+2023,India,IN-UP Uttar Pradesh,Urban,Male,55-64,Hindi,Married,Higher,Lower middle class,1
+2023,India,IN-UP Uttar Pradesh,Urban,Male,55-64,Hindi,Married,Lower,Lower middle class,1
+2023,India,IN-UP Uttar Pradesh,Urban,Male,55-64,Hindi,Married,Lower,Upper middle class,1
+2023,India,IN-UP Uttar Pradesh,Urban,Male,55-64,Hindi,Married,Middle,Working class,1
+2023,India,IN-UP Uttar Pradesh,Urban,Male,65 and more years,Hindi,Married,Middle,Lower middle class,1
+2023,India,IN-WB West Bengal,Rural,Female,16-24,Bengali; Bangla,Married,Lower,Lower middle class,1
+2023,India,IN-WB West Bengal,Rural,Female,16-24,Bengali; Bangla,Married,Middle,Working class,1
+2023,India,IN-WB West Bengal,Rural,Female,16-24,Bengali; Bangla,Single,Higher,Upper middle class,1
+2023,India,IN-WB West Bengal,Rural,Female,16-24,Bengali; Bangla,Single,Higher,Working class,1
+2023,India,IN-WB West Bengal,Rural,Female,16-24,Bengali; Bangla,Single,Lower,Lower middle class,2
+2023,India,IN-WB West Bengal,Rural,Female,16-24,Bengali; Bangla,Single,Middle,Lower class,2
+2023,India,IN-WB West Bengal,Rural,Female,16-24,Bengali; Bangla,Single,Middle,Lower middle class,4
+2023,India,IN-WB West Bengal,Rural,Female,16-24,Bengali; Bangla,Single,Middle,Upper middle class,2
+2023,India,IN-WB West Bengal,Rural,Female,16-24,Bengali; Bangla,Single,Middle,Working class,2
+2023,India,IN-WB West Bengal,Rural,Female,16-24,Hindi,Single,Middle,Upper middle class,1
+2023,India,IN-WB West Bengal,Rural,Female,16-24,Other,Single,Higher,Lower middle class,1
+2023,India,IN-WB West Bengal,Rural,Female,16-24,Other,Single,Higher,Working class,1
+2023,India,IN-WB West Bengal,Rural,Female,16-24,Other,Single,Middle,Lower middle class,2
+2023,India,IN-WB West Bengal,Rural,Female,25-34,Bengali; Bangla,Married,Lower,Lower middle class,2
+2023,India,IN-WB West Bengal,Rural,Female,25-34,Bengali; Bangla,Married,Middle,Lower middle class,1
+2023,India,IN-WB West Bengal,Rural,Female,25-34,Bengali; Bangla,Married,Middle,Upper middle class,2
+2023,India,IN-WB West Bengal,Rural,Female,25-34,Bengali; Bangla,Married,Middle,Working class,1
+2023,India,IN-WB West Bengal,Rural,Female,25-34,Other,Married,Higher,Working class,1
+2023,India,IN-WB West Bengal,Rural,Female,25-34,Other,Married,Lower,Lower class,1
+2023,India,IN-WB West Bengal,Rural,Female,25-34,Other,Married,Middle,Lower class,1
+2023,India,IN-WB West Bengal,Rural,Female,25-34,Other,Married,Middle,Lower middle class,1
+2023,India,IN-WB West Bengal,Rural,Female,25-34,Other,Married,Middle,Working class,2
+2023,India,IN-WB West Bengal,Rural,Female,35-44,Bengali; Bangla,Married,Higher,Lower middle class,1
+2023,India,IN-WB West Bengal,Rural,Female,35-44,Bengali; Bangla,Married,Lower,Lower class,2
+2023,India,IN-WB West Bengal,Rural,Female,35-44,Bengali; Bangla,Married,Lower,Lower middle class,2
+2023,India,IN-WB West Bengal,Rural,Female,35-44,Bengali; Bangla,Married,Lower,Working class,2
+2023,India,IN-WB West Bengal,Rural,Female,35-44,Bengali; Bangla,Married,Middle,Lower middle class,2
+2023,India,IN-WB West Bengal,Rural,Female,35-44,Hindi,Married,Lower,Lower middle class,1
+2023,India,IN-WB West Bengal,Rural,Female,35-44,Other,Married,Lower,Lower middle class,2
+2023,India,IN-WB West Bengal,Rural,Female,35-44,Other,Married,Middle,Lower middle class,2
+2023,India,IN-WB West Bengal,Rural,Female,35-44,Other,Married,Middle,Upper middle class,1
+2023,India,IN-WB West Bengal,Rural,Female,45-54,Bengali; Bangla,Married,Higher,Upper middle class,1
+2023,India,IN-WB West Bengal,Rural,Female,45-54,Bengali; Bangla,Married,Lower,Lower class,1
+2023,India,IN-WB West Bengal,Rural,Female,45-54,Bengali; Bangla,Married,Lower,Lower middle class,3
+2023,India,IN-WB West Bengal,Rural,Female,45-54,Bengali; Bangla,Married,Lower,Upper middle class,1
+2023,India,IN-WB West Bengal,Rural,Female,45-54,Bengali; Bangla,Married,Lower,Working class,1
+2023,India,IN-WB West Bengal,Rural,Female,45-54,Bengali; Bangla,Widowed,Lower,Working class,2
+2023,India,IN-WB West Bengal,Rural,Female,45-54,Other,Married,Lower,Lower class,2
+2023,India,IN-WB West Bengal,Rural,Female,45-54,Other,Married,Lower,Lower middle class,2
+2023,India,IN-WB West Bengal,Rural,Female,45-54,Other,Married,Lower,Working class,1
+2023,India,IN-WB West Bengal,Rural,Female,45-54,Other,Married,Middle,Lower middle class,2
+2023,India,IN-WB West Bengal,Rural,Female,45-54,Other,Married,Middle,Upper middle class,1
+2023,India,IN-WB West Bengal,Rural,Female,55-64,Bengali; Bangla,Married,Lower,Lower class,1
+2023,India,IN-WB West Bengal,Rural,Female,55-64,Bengali; Bangla,Married,Lower,Lower middle class,1
+2023,India,IN-WB West Bengal,Rural,Female,55-64,Bengali; Bangla,Married,Lower,Working class,1
+2023,India,IN-WB West Bengal,Rural,Female,55-64,Bengali; Bangla,Married,Middle,Lower middle class,1
+2023,India,IN-WB West Bengal,Rural,Female,55-64,Other,Married,Lower,Lower class,1
+2023,India,IN-WB West Bengal,Rural,Female,55-64,Other,Married,Lower,Lower middle class,2
+2023,India,IN-WB West Bengal,Rural,Female,55-64,Other,Married,Lower,Working class,1
+2023,India,IN-WB West Bengal,Rural,Female,65 and more years,Bengali; Bangla,Married,Lower,Lower class,1
+2023,India,IN-WB West Bengal,Rural,Female,65 and more years,Bengali; Bangla,Married,Lower,Lower middle class,1
+2023,India,IN-WB West Bengal,Rural,Female,65 and more years,Bengali; Bangla,Widowed,Lower,Lower class,1
+2023,India,IN-WB West Bengal,Rural,Female,65 and more years,Hindi,Widowed,Lower,Lower middle class,1
+2023,India,IN-WB West Bengal,Rural,Female,65 and more years,Other,Widowed,Lower,Lower class,1
+2023,India,IN-WB West Bengal,Rural,Male,16-24,Bengali; Bangla,Married,Lower,Lower middle class,1
+2023,India,IN-WB West Bengal,Rural,Male,16-24,Bengali; Bangla,Single,Lower,Lower class,1
+2023,India,IN-WB West Bengal,Rural,Male,16-24,Bengali; Bangla,Single,Lower,Lower middle class,1
+2023,India,IN-WB West Bengal,Rural,Male,16-24,Bengali; Bangla,Single,Middle,Lower class,2
+2023,India,IN-WB West Bengal,Rural,Male,16-24,Bengali; Bangla,Single,Middle,Lower middle class,7
+2023,India,IN-WB West Bengal,Rural,Male,16-24,Bengali; Bangla,Single,Middle,Upper middle class,1
+2023,India,IN-WB West Bengal,Rural,Male,16-24,Other,Single,Higher,Lower middle class,2
+2023,India,IN-WB West Bengal,Rural,Male,16-24,Other,Single,Lower,Working class,1
+2023,India,IN-WB West Bengal,Rural,Male,16-24,Other,Single,Middle,Lower class,2
+2023,India,IN-WB West Bengal,Rural,Male,16-24,Other,Single,Middle,Lower middle class,10
+2023,India,IN-WB West Bengal,Rural,Male,16-24,Other,Single,Middle,Working class,2
+2023,India,IN-WB West Bengal,Rural,Male,25-34,Bengali; Bangla,Married,Higher,Lower middle class,1
+2023,India,IN-WB West Bengal,Rural,Male,25-34,Bengali; Bangla,Married,Lower,Lower middle class,1
+2023,India,IN-WB West Bengal,Rural,Male,25-34,Bengali; Bangla,Married,Lower,Working class,1
+2023,India,IN-WB West Bengal,Rural,Male,25-34,Bengali; Bangla,Married,Middle,Lower class,1
+2023,India,IN-WB West Bengal,Rural,Male,25-34,Bengali; Bangla,Married,Middle,Lower middle class,1
+2023,India,IN-WB West Bengal,Rural,Male,25-34,Bengali; Bangla,Married,Middle,Upper middle class,1
+2023,India,IN-WB West Bengal,Rural,Male,25-34,Bengali; Bangla,Single,Higher,Upper class,1
+2023,India,IN-WB West Bengal,Rural,Male,25-34,Bengali; Bangla,Single,Lower,Lower middle class,1
+2023,India,IN-WB West Bengal,Rural,Male,25-34,Bengali; Bangla,Single,Lower,Upper middle class,1
+2023,India,IN-WB West Bengal,Rural,Male,25-34,Bengali; Bangla,Single,Middle,Lower middle class,1
+2023,India,IN-WB West Bengal,Rural,Male,25-34,Other,Married,Higher,Upper middle class,1
+2023,India,IN-WB West Bengal,Rural,Male,25-34,Other,Married,Middle,Lower class,1
+2023,India,IN-WB West Bengal,Rural,Male,25-34,Other,Married,Middle,Lower middle class,2
+2023,India,IN-WB West Bengal,Rural,Male,25-34,Other,Single,Higher,Lower middle class,1
+2023,India,IN-WB West Bengal,Rural,Male,35-44,Bengali; Bangla,Married,Lower,Working class,1
+2023,India,IN-WB West Bengal,Rural,Male,35-44,Bengali; Bangla,Married,Middle,Lower middle class,1
+2023,India,IN-WB West Bengal,Rural,Male,35-44,Bengali; Bangla,Married,Middle,Upper middle class,1
+2023,India,IN-WB West Bengal,Rural,Male,35-44,Other,Married,Middle,Lower middle class,3
+2023,India,IN-WB West Bengal,Rural,Male,45-54,Bengali; Bangla,Married,Higher,Lower middle class,1
+2023,India,IN-WB West Bengal,Rural,Male,45-54,Bengali; Bangla,Married,Lower,Lower middle class,3
+2023,India,IN-WB West Bengal,Rural,Male,45-54,Bengali; Bangla,Married,Lower,Working class,1
+2023,India,IN-WB West Bengal,Rural,Male,45-54,Bengali; Bangla,Married,Middle,Lower middle class,4
+2023,India,IN-WB West Bengal,Rural,Male,45-54,Other,Married,Higher,Lower middle class,1
+2023,India,IN-WB West Bengal,Rural,Male,45-54,Other,Married,Lower,Lower class,1
+2023,India,IN-WB West Bengal,Rural,Male,45-54,Other,Married,Lower,Working class,1
+2023,India,IN-WB West Bengal,Rural,Male,45-54,Other,Married,Middle,Lower middle class,1
+2023,India,IN-WB West Bengal,Rural,Male,55-64,Bengali; Bangla,Married,Lower,Lower class,1
+2023,India,IN-WB West Bengal,Rural,Male,55-64,Bengali; Bangla,Married,Middle,Upper middle class,2
+2023,India,IN-WB West Bengal,Rural,Male,55-64,Other,Living together as married,Lower,Lower middle class,1
+2023,India,IN-WB West Bengal,Rural,Male,55-64,Other,Married,Lower,Lower middle class,1
+2023,India,IN-WB West Bengal,Rural,Male,55-64,Other,Married,Lower,Upper middle class,1
+2023,India,IN-WB West Bengal,Rural,Male,55-64,Other,Married,Lower,Working class,2
+2023,India,IN-WB West Bengal,Rural,Male,65 and more years,Bengali; Bangla,Married,Higher,Lower class,1
+2023,India,IN-WB West Bengal,Rural,Male,65 and more years,Bengali; Bangla,Married,Higher,Lower middle class,1
+2023,India,IN-WB West Bengal,Rural,Male,65 and more years,Bengali; Bangla,Married,Middle,Upper middle class,1
+2023,India,IN-WB West Bengal,Rural,Male,65 and more years,Bengali; Bangla,Widowed,Lower,Lower class,1
+2023,India,IN-WB West Bengal,Rural,Male,65 and more years,Other,Married,Lower,Lower class,1
+2023,India,IN-WB West Bengal,Rural,Male,65 and more years,Other,Married,Lower,Lower middle class,3
+2023,India,IN-WB West Bengal,Rural,Male,65 and more years,Other,Widowed,Lower,Lower class,1
+2023,India,IN-WB West Bengal,Urban,Female,16-24,Bengali; Bangla,Single,Higher,Upper middle class,2
+2023,India,IN-WB West Bengal,Urban,Female,16-24,Bengali; Bangla,Single,Middle,Upper middle class,3
+2023,India,IN-WB West Bengal,Urban,Female,16-24,Other,Single,Middle,Upper class,1
+2023,India,IN-WB West Bengal,Urban,Female,16-24,Other,Single,Middle,Upper middle class,1
+2023,India,IN-WB West Bengal,Urban,Female,25-34,Bengali; Bangla,Married,Higher,Lower middle class,2
+2023,India,IN-WB West Bengal,Urban,Female,25-34,Bengali; Bangla,Married,Higher,Upper middle class,1
+2023,India,IN-WB West Bengal,Urban,Female,25-34,Bengali; Bangla,Married,Middle,Lower class,1
+2023,India,IN-WB West Bengal,Urban,Female,25-34,Bengali; Bangla,Married,Middle,Lower middle class,1
+2023,India,IN-WB West Bengal,Urban,Female,25-34,Bengali; Bangla,Married,Middle,Upper middle class,1
+2023,India,IN-WB West Bengal,Urban,Female,25-34,Bengali; Bangla,Single,Higher,Working class,1
+2023,India,IN-WB West Bengal,Urban,Female,35-44,Bengali; Bangla,Married,Higher,Lower middle class,2
+2023,India,IN-WB West Bengal,Urban,Female,35-44,Bengali; Bangla,Married,Higher,Upper middle class,1
+2023,India,IN-WB West Bengal,Urban,Female,35-44,Bengali; Bangla,Married,Middle,Lower middle class,1
+2023,India,IN-WB West Bengal,Urban,Female,35-44,Hindi,Married,Middle,Lower middle class,1
+2023,India,IN-WB West Bengal,Urban,Female,35-44,Other,Married,Lower,Lower middle class,1
+2023,India,IN-WB West Bengal,Urban,Female,45-54,Bengali; Bangla,Married,Higher,Upper middle class,1
+2023,India,IN-WB West Bengal,Urban,Female,45-54,Bengali; Bangla,Married,Lower,Lower middle class,2
+2023,India,IN-WB West Bengal,Urban,Female,45-54,Bengali; Bangla,Married,Middle,Lower middle class,1
+2023,India,IN-WB West Bengal,Urban,Female,45-54,Other,Married,Lower,Lower middle class,1
+2023,India,IN-WB West Bengal,Urban,Female,45-54,Other,Married,Middle,Upper middle class,1
+2023,India,IN-WB West Bengal,Urban,Female,65 and more years,Bengali; Bangla,Married,Higher,Upper middle class,1
+2023,India,IN-WB West Bengal,Urban,Female,65 and more years,Bengali; Bangla,Married,Lower,Lower middle class,1
+2023,India,IN-WB West Bengal,Urban,Male,16-24,Bengali; Bangla,Single,Higher,Upper middle class,1
+2023,India,IN-WB West Bengal,Urban,Male,16-24,Bengali; Bangla,Single,Lower,Upper middle class,1
+2023,India,IN-WB West Bengal,Urban,Male,16-24,Bengali; Bangla,Single,Lower,Working class,1
+2023,India,IN-WB West Bengal,Urban,Male,16-24,Bengali; Bangla,Single,Middle,Lower middle class,2
+2023,India,IN-WB West Bengal,Urban,Male,16-24,Bengali; Bangla,Single,Middle,Upper middle class,3
+2023,India,IN-WB West Bengal,Urban,Male,25-34,Bengali; Bangla,Married,Higher,Lower middle class,1
+2023,India,IN-WB West Bengal,Urban,Male,25-34,Bengali; Bangla,Married,Middle,Lower middle class,1
+2023,India,IN-WB West Bengal,Urban,Male,25-34,Bengali; Bangla,Married,Middle,Upper middle class,1
+2023,India,IN-WB West Bengal,Urban,Male,25-34,Bengali; Bangla,Single,Higher,Upper middle class,1
+2023,India,IN-WB West Bengal,Urban,Male,25-34,Other,Married,Middle,Upper middle class,1
+2023,India,IN-WB West Bengal,Urban,Male,35-44,Bengali; Bangla,Married,Higher,Lower middle class,1
+2023,India,IN-WB West Bengal,Urban,Male,35-44,Hindi,Married,Lower,Lower class,1
+2023,India,IN-WB West Bengal,Urban,Male,35-44,Other,Married,Higher,Lower middle class,2
+2023,India,IN-WB West Bengal,Urban,Male,45-54,Bengali; Bangla,Married,Lower,Working class,1
+2023,India,IN-WB West Bengal,Urban,Male,45-54,Bengali; Bangla,Married,Middle,Upper middle class,1
+2023,India,IN-WB West Bengal,Urban,Male,45-54,Other,Married,Lower,Lower middle class,1
+2023,India,IN-WB West Bengal,Urban,Male,55-64,Bengali; Bangla,Married,Higher,Lower middle class,1
+2023,India,IN-WB West Bengal,Urban,Male,55-64,Bengali; Bangla,Married,Lower,Lower middle class,1
+2023,India,IN-WB West Bengal,Urban,Male,55-64,Bengali; Bangla,Married,Middle,Lower class,1
+2023,India,IN-WB West Bengal,Urban,Male,55-64,Bengali; Bangla,Married,Middle,Lower middle class,1
+2023,India,IN-WB West Bengal,Urban,Male,55-64,Other,Married,Higher,Upper middle class,1
+2023,India,IN-WB West Bengal,Urban,Male,65 and more years,Other,Married,Lower,Upper middle class,1

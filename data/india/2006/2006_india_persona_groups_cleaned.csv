@@ -1,0 +1,50 @@
+V260: Year survey,B_COUNTRY_ALPHA: Country code ISO 3166 alpha,N_REGION_ISO: Region ISO,G_TOWNSIZE2: Settlement size_5 groups,V235: Sex,V237R: Age recoded (6 intervals),V222: Language at home,V55: Marital status,V238R: Highest educational level: Respondent (recoded into 3 groups),V252: Social class (subjective),Counts
+2006,-4,IN-AP Andhra Pradesh,"Under 5,000",Male,45-54,Telugu,Married,Lower,Lower middle class,4
+2006,-4,IN-BR Bihar,"Under 5,000",Female,25-34,Other,Married,Lower,Lower class,5
+2006,-4,IN-BR Bihar,"Under 5,000",Female,25-34,Other,Married,Lower,Working class,4
+2006,-4,IN-BR Bihar,"Under 5,000",Female,35-44,Other,Married,Lower,Lower class,7
+2006,-4,IN-BR Bihar,"Under 5,000",Female,35-44,Other,Married,Lower,Working class,5
+2006,-4,IN-BR Bihar,"Under 5,000",Male,25-34,Other,Married,Lower,Lower class,4
+2006,-4,IN-BR Bihar,"Under 5,000",Male,35-44,Other,Married,Lower,Lower class,4
+2006,-4,IN-BR Bihar,"Under 5,000",Male,45-54,Other,Married,Lower,Working class,5
+2006,-4,IN-DL Delhi,500000 and more,Male,35-44,Hindi,Married,Higher,Upper middle class,5
+2006,-4,IN-GJ Gujarat,20000-100000,Male,45-54,Gujarati,Married,Higher,Upper middle class,4
+2006,-4,IN-HR Haryana,100000-500000,Male,35-44,Hindi,Married,Middle,Lower middle class,4
+2006,-4,IN-JH Jharkhand,"Under 5,000",Female,25-34,Hindi,Married,Lower,Lower class,4
+2006,-4,IN-JH Jharkhand,"Under 5,000",Female,35-44,Hindi,Married,Lower,Lower class,4
+2006,-4,IN-JH Jharkhand,"Under 5,000",Male,25-34,Hindi,Married,Lower,Lower class,4
+2006,-4,IN-KA Karnataka,"Under 5,000",Female,45-54,Kannada,Married,Lower,Lower middle class,4
+2006,-4,IN-KA Karnataka,"Under 5,000",Female,45-54,Kannada,Married,Lower,Working class,4
+2006,-4,IN-KA Karnataka,"Under 5,000",Female,55-64,Kannada,Married,Lower,Lower middle class,5
+2006,-4,IN-KL Kerala,5000-20000,Female,35-44,Malayalam,Married,Middle,Lower class,6
+2006,-4,IN-MH Maharashtra,"Under 5,000",Female,55-64,Marathi,Married,Lower,Lower class,4
+2006,-4,IN-MH Maharashtra,"Under 5,000",Female,"65 and more years""",Marathi,Married,Lower,Lower class,4
+2006,-4,IN-MH Maharashtra,"Under 5,000",Male,25-34,Marathi,Married,Lower,Lower class,7
+2006,-4,IN-MH Maharashtra,"Under 5,000",Male,35-44,Marathi,Married,Lower,Lower class,4
+2006,-4,IN-MH Maharashtra,"Under 5,000",Male,45-54,Marathi,Married,Lower,Lower class,6
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Female,35-44,Hindi,Married,Lower,Lower class,5
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Male,15-24,Hindi,Single/Never married,Higher,Lower middle class,7
+2006,-4,IN-MP Madhya Pradesh,"Under 5,000",Male,35-44,Hindi,Married,Lower,Lower class,8
+2006,-4,IN-RJ Rajasthan,"Under 5,000",Female,35-44,Marwari,Married,Lower,Lower class,4
+2006,-4,IN-TN Tamil Nadu,"Under 5,000",Female,25-34,Tamil,Married,Middle,Working class,4
+2006,-4,IN-UP Uttar Pradesh,5000-20000,Female,25-34,Hindi,Married,Lower,Lower class,4
+2006,-4,IN-UP Uttar Pradesh,5000-20000,Female,35-44,Hindi,Married,Lower,Lower class,5
+2006,-4,IN-UP Uttar Pradesh,5000-20000,Female,45-54,Hindi,Married,Lower,Lower class,5
+2006,-4,IN-UP Uttar Pradesh,5000-20000,Female,55-64,Hindi,Married,Lower,Lower class,4
+2006,-4,IN-UP Uttar Pradesh,5000-20000,Male,25-34,Hindi,Married,Lower,Lower class,4
+2006,-4,IN-UP Uttar Pradesh,5000-20000,Male,"65 and more years""",Hindi,Married,Lower,Lower class,4
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Female,15-24,Hindi,Married,Middle,Lower class,7
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Female,25-34,Hindi,Married,Lower,Lower class,5
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Female,25-34,Hindi,Married,Lower,Lower middle class,5
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Female,25-34,Hindi,Married,Middle,Lower class,4
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Female,25-34,Hindi,Married,Middle,Lower middle class,4
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Female,35-44,Hindi,Married,Lower,Lower class,4
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Female,45-54,Hindi,Married,Lower,Lower middle class,4
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,25-34,Hindi,Married,Higher,Upper middle class,4
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,25-34,Hindi,Married,Middle,Lower middle class,4
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,35-44,Hindi,Married,Lower,Lower class,6
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,35-44,Hindi,Married,Middle,Lower middle class,4
+2006,-4,IN-UP Uttar Pradesh,"Under 5,000",Male,45-54,Hindi,Married,Lower,Working class,4
+2006,-4,IN-WB West Bengal,"Under 5,000",Female,25-34,Bengali; Bangla,Married,Middle,Lower class,4
+2006,-4,IN-WB West Bengal,"Under 5,000",Female,45-54,Bengali; Bangla,Married,Middle,Lower middle class,4
+2006,-4,IN-WB West Bengal,"Under 5,000",Male,35-44,Bengali; Bangla,Married,Middle,Lower middle class,7
