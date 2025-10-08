@@ -5,7 +5,7 @@ from tqdm import tqdm
 
 # === CONFIG ===
 INPUT_DIRECTORY = "data"
-INPUT_FILE_NAME = "2022_indian_majority_answers_by_persona"
+INPUT_FILE_NAME = "2012_india_majority_answers_by_persona"
 OUTPUT_DIRECTORY = "data/translated_data"
 LANG_CODE = "te"
 
