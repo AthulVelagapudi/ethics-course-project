@@ -13,18 +13,21 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 warnings.filterwarnings("ignore")
 logging.getLogger("transformers").setLevel(logging.ERROR)
 
-state = 'haryana'
+mode = 'country'
+country_name = 'india'
+state = 'maharashtra'
 language_code = 'en'
+year = '2022'
 
 # ==============================
 # CONFIGURATION
 # ==============================
-FILENAME = f'india/2022/2022_india_persona_groups_cleaned_{language_code}'
+FILENAME = f'{country_name}/{year}/{year}_{country_name}_persona_groups_cleaned_{language_code}'
 MODEL_PATH = "/assets/models/meta-llama-2-chat-13b"
 
 states_in_language = {
     'en': {
-        "bengal": "West Bengal",
+        'bengal': "West Bengal",
         'telangana': "Telangana",
         'maharashtra': "Maharashtra",
         'punjab': "Punjab",
@@ -44,6 +47,7 @@ states_in_language = {
 # ==============================
 # PERSONA COLUMNS
 # ==============================
+country = 'B_COUNTRY: ISO 3166-1 numeric country code'
 region = 'N_REGION_ISO: Region ISO 3166-2'
 urban_rural = 'H_URBRURAL: Urban-Rural'
 age = 'X003R: Age recoded (6 intervals)'
@@ -59,20 +63,14 @@ social_class = 'Q287: Social class (subjective)'
 df_whole = pd.read_csv(f"data/{FILENAME}.csv")
 print(f"Rows: {df_whole.shape[0]}, Columns: {df_whole.shape[1]}")
     
-with open("data/questions.json", "r") as f:
-    questions = json.load(f)
 with open("data/chosen_cols_updated.json", "r") as f:
     chosen_cols = json.load(f)
 
-chosen_qsns = {
-    qsn: questions[qsn]
-    for qsn in questions
-    if chosen_cols['chosen_cols'][qsn]
-    and questions[qsn]['description'] not in chosen_cols['persona_cols']
-}
-
-df_chosen = df_whole[df_whole[region].str.contains(states_in_language[language_code][state], case=False, na=False)].copy()
-
+if mode == 'state':
+    df_chosen = df_whole[df_whole[region].str.contains(states_in_language[language_code][state], case=False, na=False)].copy()
+else:
+    df_chosen = df_whole.copy()
+    
 print("Length:", len(df_chosen))
 
 
@@ -144,6 +142,7 @@ def find_responses(df, state, tokenizer, model, chosen_cols, language_code='en')
     for _, row in df.iterrows():
         respondent_number += 1
         general_context = {
+            "country": row[country],
             "language": row[language],
             "marital_status": row[marital_status],
             "gender": row[gender],
@@ -154,25 +153,36 @@ def find_responses(df, state, tokenizer, model, chosen_cols, language_code='en')
             "social_class": row[social_class]
         }
 
+        # =========================
+        # Build all question batches
+        # =========================
         questions = []
-        for qsn_key in chosen_qsns:
+        for qsn_key, q_data in chosen_qsns.items():
             for qsn_instance in range(0, 4):
-                if len(chosen_qsns[qsn_key]['questions']) <= qsn_instance:
+                if len(q_data['questions']) <= qsn_instance:
                     break
-                qsn_text = chosen_qsns[qsn_key]['questions'][qsn_instance]
-                options_list = chosen_qsns[qsn_key]['options']
-                options_text = "".join([f"{idx+1}. {opt} " for idx, opt in enumerate(options_list)])
-                questions.append((qsn_key, qsn_text, options_list, options_text, qsn_instance))
+                qsn_text = q_data['questions'][qsn_instance]
+                is_scale = q_data.get('scale', False)
+                if is_scale:
+                    opts_list = [str(i) for i in range(1, 11)] 
+                    options_text = " ".join([f"{i}. {i}" for i in range(1, 11)])
+                else:
+                    opts_list = q_data['options']
+                    options_text = " ".join([f"{idx+1}. {opt}" for idx, opt in enumerate(opts_list)])
+                questions.append((qsn_key, qsn_text, opts_list, options_text, qsn_instance, is_scale))
 
         respondent_answers = general_context.copy()
         debug = []
 
+        # =========================
+        # Batch inference
+        # =========================
         for i in tqdm(range(0, len(questions), batch_size),
                       desc=f"Processing question batches for respondent {respondent_number}"):
             batch = questions[i:i + batch_size]
             general_prompt = general_prompts[language_code].format(**general_context)
             user_prompt = ""
-            for idx, (_, q_text, _, opts_text, _) in enumerate(batch, start=1):
+            for idx, (_, q_text, _, opts_text, _, _) in enumerate(batch, start=1):
                 user_prompt += joining_prompts[language_code].format(idx=idx, q_text=q_text, opts_text=opts_text)
             user_prompt += user_prompts[language_code]
 
@@ -203,30 +213,48 @@ def find_responses(df, state, tokenizer, model, chosen_cols, language_code='en')
             answer_text = tokenizer.decode(generated_tokens, skip_special_tokens=True)
             raw_results.append({"question_batch": user_prompt, "answer_text": answer_text})
 
-            batch_answers = re.findall(r'Q\d+:\s*(\d+)', answer_text)
-            for j, (qsn_key, _, opts_list, _, qsn_instance) in enumerate(batch):
+            batch_answers = re.findall(r'Q\d+\s*[:\-]?\s*(\d+)', answer_text)
+            for j, (qsn_key, _, opts_list, _, qsn_instance, is_scale) in enumerate(batch):
                 if j < len(batch_answers):
-                    ans_idx = int(batch_answers[j]) - 1
-                    if 0 <= ans_idx < len(opts_list):
-                        ans_value = opts_list[ans_idx]
+                    ans_str = batch_answers[j]
+                    if is_scale:
+                        # Scale: expect a number 1–10 directly
+                        try:
+                            ans_value = int(ans_str)
+                            if 1 <= ans_value <= 10:
+                                respondent_answers[f"{qsn_key} - {qsn_instance}"] = ans_value
+                            else:
+                                respondent_answers[f"{qsn_key} - {qsn_instance}"] = "Invalid scale"
+                        except ValueError:
+                            respondent_answers[f"{qsn_key} - {qsn_instance}"] = "Invalid scale"
                     else:
-                        ans_value = "Invalid answer"
+                        # Categorical: interpret as option index
+                        ans_idx = int(ans_str) - 1
+                        if 0 <= ans_idx < len(opts_list):
+                            respondent_answers[f"{qsn_key} - {qsn_instance}"] = opts_list[ans_idx]
+                        else:
+                            respondent_answers[f"{qsn_key} - {qsn_instance}"] = "Invalid answer"
                 else:
-                    ans_value = "No answer"
-                respondent_answers[f"{qsn_key} - {qsn_instance}"] = ans_value
+                    respondent_answers[f"{qsn_key} - {qsn_instance}"] = "No answer"
 
         results.append(respondent_answers)
         debug.append(raw_results)
 
     results_df = pd.DataFrame(results)
-    results_df.to_csv(f"llama_responses/survey_answers_{state}_{language_code}.csv", index=False)
+    if mode == 'state':
+        results_df.to_csv(f"llama_responses/survey_answers_{state}_{language_code}.csv", index=False)
+    else:
+        results_df.to_csv(f"llama_responses/survey_answers_allstates_{country_name}_{language_code}.csv", index=False)
 
 
 # ==============================
 # AGGREGATE MAJORITY ANSWERS
 # ==============================
 def get_most_frequent_answers(state, language_code='en'):
-    df = pd.read_csv(f"llama_responses/survey_answers_{state}_{language_code}.csv")
+    if mode == 'state':
+        df = pd.read_csv(f"llama_responses/survey_answers_{state}_{language_code}.csv")
+    else:
+        df = pd.read_csv(f"llama_responses/survey_answers_allstates_{country_name}_{language_code}.csv")
     question_cols = [col for col in df.columns if ' - ' in col and col.split(' - ')[0].startswith('Q')]
     question_prefixes = sorted(set(col.split(' - ')[0] for col in question_cols))
 
@@ -234,8 +262,11 @@ def get_most_frequent_answers(state, language_code='en'):
         q_cols = [col for col in df.columns if col.startswith(q + ' -')]
         df[q] = df[q_cols].apply(lambda row: row.mode().iloc[0] if not row.mode().empty else None, axis=1)
         df.drop(columns=q_cols, inplace=True)
-
-    df.to_csv(f"llama_responses/most_frequent_answers_{state}_{language_code}.csv", index=False)
+        
+    if mode == 'state':
+        df.to_csv(f"llama_responses/most_frequent_answers_{state}_{language_code}.csv", index=False)
+    else:
+        df.to_csv(f"llama_responses/most_frequent_answers_allstates_{country_name}_{language_code}.csv", index=False)
 
 
 # ==============================
