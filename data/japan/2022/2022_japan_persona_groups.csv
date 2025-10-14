@@ -1,0 +1,1098 @@
+A_YEAR: Year of survey,N_REGION_ISO: Region ISO 3166-2,H_URBRURAL: Urban-Rural,Q260: Sex,X003R: Age recoded (6 intervals),Q272: Language at home,Q273: Marital status,Q275R: Highest educational level: Respondent (recoded into 3 groups),Q287: Social class (subjective),Counts
+2019,JP-01 Hokkaido,Rural,Female,25-34,Japanese,Married,Higher,Working class,1
+2019,JP-01 Hokkaido,Rural,Female,55-64,Japanese,Married,Middle,Lower middle class,1
+2019,JP-01 Hokkaido,Rural,Male,45-54,Japanese,Married,Middle,Lower middle class,1
+2019,JP-01 Hokkaido,Rural,Male,55-64,Japanese,Divorced,Higher,Working class,1
+2019,JP-01 Hokkaido,Rural,Male,65 and more years,Japanese,Married,Middle,Lower middle class,1
+2019,JP-01 Hokkaido,Urban,Female,16-24,Japanese,Single,Higher,No answer,1
+2019,JP-01 Hokkaido,Urban,Female,16-24,Japanese,Single,Middle,Working class,1
+2019,JP-01 Hokkaido,Urban,Female,25-34,Japanese,Married,Middle,Lower middle class,1
+2019,JP-01 Hokkaido,Urban,Female,35-44,Japanese,Divorced,Higher,Upper middle class,1
+2019,JP-01 Hokkaido,Urban,Female,35-44,Japanese,Divorced,Middle,Lower class,1
+2019,JP-01 Hokkaido,Urban,Female,35-44,Japanese,Married,Higher,Don't know,1
+2019,JP-01 Hokkaido,Urban,Female,35-44,Japanese,Married,Higher,Lower middle class,3
+2019,JP-01 Hokkaido,Urban,Female,35-44,Japanese,Married,Higher,Upper middle class,1
+2019,JP-01 Hokkaido,Urban,Female,45-54,Japanese,Divorced,Lower,Lower class,1
+2019,JP-01 Hokkaido,Urban,Female,45-54,Japanese,Divorced,Middle,Working class,1
+2019,JP-01 Hokkaido,Urban,Female,55-64,Japanese,Living together as married,Higher,Lower middle class,1
+2019,JP-01 Hokkaido,Urban,Female,55-64,Japanese,Married,Higher,Upper middle class,4
+2019,JP-01 Hokkaido,Urban,Female,55-64,Japanese,Married,Higher,Working class,1
+2019,JP-01 Hokkaido,Urban,Female,55-64,Japanese,Married,Middle,Lower class,1
+2019,JP-01 Hokkaido,Urban,Female,65 and more years,Japanese,Divorced,Higher,Working class,1
+2019,JP-01 Hokkaido,Urban,Female,65 and more years,Japanese,Married,Higher,Lower middle class,1
+2019,JP-01 Hokkaido,Urban,Female,65 and more years,Japanese,Married,Higher,Working class,1
+2019,JP-01 Hokkaido,Urban,Female,65 and more years,Japanese,Married,Lower,Don't know,1
+2019,JP-01 Hokkaido,Urban,Female,65 and more years,Japanese,Married,Middle,Lower middle class,2
+2019,JP-01 Hokkaido,Urban,Female,65 and more years,Japanese,Married,Middle,Working class,2
+2019,JP-01 Hokkaido,Urban,Female,65 and more years,Japanese,Widowed,Higher,Lower middle class,1
+2019,JP-01 Hokkaido,Urban,Female,65 and more years,Japanese,Widowed,Higher,Working class,1
+2019,JP-01 Hokkaido,Urban,Female,65 and more years,Japanese,Widowed,Middle,Lower class,1
+2019,JP-01 Hokkaido,Urban,Female,65 and more years,Japanese,Widowed,Middle,Lower middle class,2
+2019,JP-01 Hokkaido,Urban,Female,65 and more years,Japanese,Widowed,Middle,Upper middle class,1
+2019,JP-01 Hokkaido,Urban,Female,65 and more years,Japanese,Widowed,Middle,Working class,1
+2019,JP-01 Hokkaido,Urban,Male,16-24,Japanese,Single,Middle,Working class,1
+2019,JP-01 Hokkaido,Urban,Male,25-34,Japanese,Single,Higher,Lower middle class,1
+2019,JP-01 Hokkaido,Urban,Male,35-44,Japanese,Divorced,Middle,Working class,1
+2019,JP-01 Hokkaido,Urban,Male,35-44,Japanese,Married,Higher,Upper middle class,1
+2019,JP-01 Hokkaido,Urban,Male,35-44,Japanese,Married,Middle,Lower middle class,2
+2019,JP-01 Hokkaido,Urban,Male,45-54,Japanese,Married,Higher,Lower middle class,1
+2019,JP-01 Hokkaido,Urban,Male,45-54,Japanese,Married,Middle,Working class,1
+2019,JP-01 Hokkaido,Urban,Male,45-54,Japanese,Single,Higher,Working class,1
+2019,JP-01 Hokkaido,Urban,Male,45-54,Japanese,Single,Middle,Lower middle class,1
+2019,JP-01 Hokkaido,Urban,Male,55-64,Japanese,Married,Higher,Lower class,1
+2019,JP-01 Hokkaido,Urban,Male,55-64,Japanese,Married,Higher,Lower middle class,2
+2019,JP-01 Hokkaido,Urban,Male,65 and more years,Japanese,Divorced,Lower,Lower class,1
+2019,JP-01 Hokkaido,Urban,Male,65 and more years,Japanese,Married,Middle,Don't know,1
+2019,JP-01 Hokkaido,Urban,Male,65 and more years,Japanese,Married,Middle,Lower class,1
+2019,JP-01 Hokkaido,Urban,Male,65 and more years,Japanese,Married,Middle,Lower middle class,1
+2019,JP-01 Hokkaido,Urban,Male,65 and more years,Japanese,Married,Middle,Upper middle class,1
+2019,JP-01 Hokkaido,Urban,Male,65 and more years,Japanese,Married,Middle,Working class,1
+2019,JP-01 Hokkaido,Urban,Male,65 and more years,Japanese,Separated,Higher,Working class,1
+2019,JP-01 Hokkaido,Urban,Male,65 and more years,Japanese,Single,Middle,Lower middle class,1
+2019,JP-01 Hokkaido,Urban,Male,65 and more years,Japanese,Widowed,Middle,Working class,1
+2019,JP-02 Aomori,Rural,Male,65 and more years,Japanese,Married,Higher,Lower middle class,1
+2019,JP-02 Aomori,Urban,Female,25-34,Japanese,Married,Higher,Upper middle class,1
+2019,JP-02 Aomori,Urban,Female,25-34,Japanese,Single,Middle,Upper middle class,1
+2019,JP-02 Aomori,Urban,Male,25-34,Japanese,Married,Middle,Working class,1
+2019,JP-02 Aomori,Urban,Male,55-64,Japanese,Married,Higher,Lower middle class,1
+2019,JP-02 Aomori,Urban,Male,55-64,Japanese,Married,Middle,Lower middle class,1
+2019,JP-02 Aomori,Urban,Male,55-64,Japanese,Married,Middle,Working class,1
+2019,JP-03 Iwate,Urban,Female,16-24,Japanese,Single,Higher,Lower class,1
+2019,JP-03 Iwate,Urban,Female,25-34,Japanese,Married,Middle,Working class,1
+2019,JP-03 Iwate,Urban,Female,35-44,Japanese,Single,Lower,Working class,1
+2019,JP-03 Iwate,Urban,Female,45-54,Japanese,Married,Higher,Lower middle class,1
+2019,JP-03 Iwate,Urban,Male,45-54,Japanese,Married,Middle,Lower class,1
+2019,JP-03 Iwate,Urban,Male,45-54,Japanese,Married,Middle,Upper middle class,1
+2019,JP-03 Iwate,Urban,Male,45-54,Japanese,Married,Middle,Working class,1
+2019,JP-03 Iwate,Urban,Male,65 and more years,Japanese,Married,Higher,Lower middle class,1
+2019,JP-03 Iwate,Urban,Male,65 and more years,Japanese,Married,Middle,Working class,2
+2019,JP-04 Miyagi,Urban,Female,16-24,Japanese,Single,Middle,Lower middle class,1
+2019,JP-04 Miyagi,Urban,Female,55-64,Japanese,Married,Middle,Lower middle class,1
+2019,JP-04 Miyagi,Urban,Female,55-64,Japanese,Married,Middle,Upper class,1
+2019,JP-04 Miyagi,Urban,Female,65 and more years,Japanese,Divorced,Middle,Lower middle class,1
+2019,JP-04 Miyagi,Urban,Female,65 and more years,Japanese,Married,Lower,Lower middle class,1
+2019,JP-04 Miyagi,Urban,Female,65 and more years,Japanese,Married,Middle,Lower middle class,1
+2019,JP-04 Miyagi,Urban,Female,65 and more years,Japanese,Widowed,Higher,Lower middle class,1
+2019,JP-04 Miyagi,Urban,Female,65 and more years,No answer,No answer,No answer,No answer,1
+2019,JP-04 Miyagi,Urban,Male,25-34,Japanese,Married,Higher,Lower middle class,1
+2019,JP-04 Miyagi,Urban,Male,35-44,Japanese,Married,Higher,Lower middle class,1
+2019,JP-04 Miyagi,Urban,Male,35-44,Japanese,Married,Higher,Upper middle class,1
+2019,JP-04 Miyagi,Urban,Male,45-54,Japanese,Married,Middle,Working class,1
+2019,JP-04 Miyagi,Urban,Male,55-64,Japanese,Married,Higher,Lower middle class,1
+2019,JP-04 Miyagi,Urban,Male,65 and more years,Japanese,Widowed,Middle,Working class,1
+2019,JP-05 Akita,Rural,Female,35-44,Japanese,Married,Higher,Working class,1
+2019,JP-05 Akita,Rural,Female,35-44,Japanese,Married,Middle,Working class,1
+2019,JP-05 Akita,Urban,Female,25-34,Japanese,Divorced,Higher,Lower middle class,1
+2019,JP-05 Akita,Urban,Female,55-64,Japanese,Married,Higher,Lower class,1
+2019,JP-05 Akita,Urban,Female,65 and more years,Japanese,Widowed,Lower,Working class,1
+2019,JP-05 Akita,Urban,Male,45-54,Japanese,Married,Higher,Upper class,1
+2019,JP-05 Akita,Urban,Male,65 and more years,Japanese,Married,Middle,Upper middle class,1
+2019,JP-05 Akita,Urban,Male,65 and more years,Japanese,Married,Middle,Working class,1
+2019,JP-06 Yamagata,Rural,Female,55-64,Japanese,Widowed,Middle,Lower class,1
+2019,JP-06 Yamagata,Rural,Male,65 and more years,Japanese,Married,Middle,Lower middle class,2
+2019,JP-06 Yamagata,Urban,Female,35-44,Japanese,Married,Lower,Working class,1
+2019,JP-06 Yamagata,Urban,Female,55-64,Japanese,Married,Higher,Lower middle class,1
+2019,JP-06 Yamagata,Urban,Female,65 and more years,Japanese,Married,Middle,Working class,1
+2019,JP-06 Yamagata,Urban,Male,55-64,Japanese,Married,Higher,Upper middle class,1
+2019,JP-06 Yamagata,Urban,Male,65 and more years,Japanese,Married,Lower,Working class,1
+2019,JP-07 Fukushima,Rural,Female,55-64,Japanese,Married,Middle,No answer,1
+2019,JP-07 Fukushima,Rural,Male,45-54,Japanese,Married,Higher,Lower middle class,1
+2019,JP-07 Fukushima,Rural,Male,65 and more years,Japanese,Divorced,Middle,Lower class,1
+2019,JP-07 Fukushima,Rural,Male,65 and more years,Japanese,Married,Higher,Upper middle class,1
+2019,JP-07 Fukushima,Urban,Female,16-24,Japanese,Single,Higher,Lower middle class,1
+2019,JP-07 Fukushima,Urban,Female,25-34,Japanese,Married,Higher,Working class,1
+2019,JP-07 Fukushima,Urban,Female,35-44,Japanese,Married,Middle,Lower middle class,1
+2019,JP-07 Fukushima,Urban,Female,45-54,Japanese,Divorced,Middle,Working class,1
+2019,JP-07 Fukushima,Urban,Female,45-54,Japanese,Married,Higher,Upper middle class,1
+2019,JP-07 Fukushima,Urban,Female,45-54,Japanese,Married,Middle,Lower middle class,1
+2019,JP-07 Fukushima,Urban,Female,55-64,Japanese,Married,Higher,Working class,1
+2019,JP-07 Fukushima,Urban,Female,55-64,Japanese,Married,Lower,Lower middle class,1
+2019,JP-07 Fukushima,Urban,Female,55-64,Japanese,Married,Middle,Lower middle class,1
+2019,JP-07 Fukushima,Urban,Female,65 and more years,Japanese,Married,Higher,Working class,1
+2019,JP-07 Fukushima,Urban,Female,65 and more years,Japanese,Married,Lower,Lower class,1
+2019,JP-07 Fukushima,Urban,Female,65 and more years,Japanese,Married,Middle,Working class,1
+2019,JP-07 Fukushima,Urban,Male,16-24,Japanese,Single,Higher,Working class,1
+2019,JP-07 Fukushima,Urban,Male,25-34,Japanese,Living together as married,Middle,Lower class,1
+2019,JP-07 Fukushima,Urban,Male,45-54,Japanese,Married,Higher,Lower middle class,1
+2019,JP-07 Fukushima,Urban,Male,55-64,Japanese,Married,Middle,Lower middle class,1
+2019,JP-07 Fukushima,Urban,Male,55-64,Japanese,Widowed,Higher,Lower middle class,1
+2019,JP-07 Fukushima,Urban,Male,65 and more years,Japanese,Married,Higher,Upper middle class,1
+2019,JP-07 Fukushima,Urban,Male,65 and more years,Japanese,Married,Middle,Lower class,1
+2019,JP-08 Ibaraki,Rural,Female,25-34,Japanese,Single,Higher,Lower middle class,1
+2019,JP-08 Ibaraki,Urban,Female,25-34,Japanese,Married,Higher,Lower middle class,1
+2019,JP-08 Ibaraki,Urban,Female,25-34,Japanese,Married,Higher,Working class,1
+2019,JP-08 Ibaraki,Urban,Female,35-44,Japanese,Married,Higher,Lower middle class,1
+2019,JP-08 Ibaraki,Urban,Female,45-54,Japanese,Married,Higher,Lower middle class,1
+2019,JP-08 Ibaraki,Urban,Female,45-54,Japanese,Married,Middle,Working class,1
+2019,JP-08 Ibaraki,Urban,Female,55-64,Japanese,Married,Higher,Lower middle class,1
+2019,JP-08 Ibaraki,Urban,Female,55-64,Japanese,Married,Higher,Working class,1
+2019,JP-08 Ibaraki,Urban,Male,16-24,Japanese,Single,Middle,Working class,1
+2019,JP-08 Ibaraki,Urban,Male,25-34,Japanese,Married,Middle,Lower middle class,1
+2019,JP-08 Ibaraki,Urban,Male,25-34,Japanese,Married,Middle,Working class,1
+2019,JP-08 Ibaraki,Urban,Male,45-54,Japanese,Married,Middle,Working class,2
+2019,JP-08 Ibaraki,Urban,Male,65 and more years,Japanese,Married,Higher,Don't know,1
+2019,JP-08 Ibaraki,Urban,Male,65 and more years,Japanese,Married,Higher,Lower middle class,1
+2019,JP-08 Ibaraki,Urban,Male,65 and more years,Japanese,Married,Higher,Upper middle class,1
+2019,JP-08 Ibaraki,Urban,Male,65 and more years,Japanese,Married,Lower,Lower middle class,1
+2019,JP-08 Ibaraki,Urban,Male,65 and more years,Japanese,Widowed,Lower,Working class,1
+2019,JP-09 Tochigi,Rural,Male,25-34,Japanese,Single,Higher,Working class,1
+2019,JP-09 Tochigi,Rural,Male,35-44,Japanese,Married,Middle,Working class,1
+2019,JP-09 Tochigi,Rural,Male,45-54,Japanese,Divorced,Higher,Lower class,1
+2019,JP-09 Tochigi,Urban,Female,35-44,Japanese,Married,Middle,Lower middle class,1
+2019,JP-09 Tochigi,Urban,Female,45-54,Japanese,Married,Higher,Working class,1
+2019,JP-09 Tochigi,Urban,Female,45-54,Japanese,Married,Middle,Lower middle class,1
+2019,JP-09 Tochigi,Urban,Female,45-54,Japanese,Married,Middle,Working class,1
+2019,JP-09 Tochigi,Urban,Female,55-64,Japanese,Married,Higher,Lower middle class,1
+2019,JP-09 Tochigi,Urban,Female,65 and more years,Japanese,Married,Higher,Lower middle class,2
+2019,JP-09 Tochigi,Urban,Female,65 and more years,Japanese,Widowed,Middle,Working class,1
+2019,JP-09 Tochigi,Urban,Male,35-44,Japanese,Married,Higher,Lower middle class,1
+2019,JP-09 Tochigi,Urban,Male,35-44,Japanese,Married,Middle,Lower middle class,1
+2019,JP-09 Tochigi,Urban,Male,55-64,Japanese,Married,Higher,Lower class,1
+2019,JP-09 Tochigi,Urban,Male,55-64,Japanese,Married,Higher,Working class,1
+2019,JP-09 Tochigi,Urban,Male,65 and more years,Japanese,Married,Higher,Lower middle class,1
+2019,JP-10 Gunma,Rural,Male,35-44,Japanese,Married,Higher,Upper middle class,1
+2019,JP-10 Gunma,Rural,Male,55-64,Japanese,Single,Higher,Lower class,1
+2019,JP-10 Gunma,Urban,Female,16-24,Japanese,Single,Middle,Lower middle class,1
+2019,JP-10 Gunma,Urban,Female,35-44,Japanese,Married,Higher,Lower middle class,1
+2019,JP-10 Gunma,Urban,Female,45-54,Japanese,Divorced,Middle,Working class,1
+2019,JP-10 Gunma,Urban,Female,45-54,Japanese,Married,Middle,Lower middle class,1
+2019,JP-10 Gunma,Urban,Female,55-64,Japanese,Married,Middle,Don't know,1
+2019,JP-10 Gunma,Urban,Female,65 and more years,Japanese,Widowed,Middle,Lower middle class,1
+2019,JP-10 Gunma,Urban,Male,35-44,Japanese,Married,Higher,Lower middle class,1
+2019,JP-10 Gunma,Urban,Male,35-44,Japanese,Single,Lower,Lower class,1
+2019,JP-10 Gunma,Urban,Male,55-64,Japanese,Married,Higher,Working class,1
+2019,JP-10 Gunma,Urban,Male,65 and more years,Japanese,Married,Middle,Upper class,1
+2019,JP-11 Saitama,Rural,Female,65 and more years,Japanese,Married,Middle,Upper middle class,1
+2019,JP-11 Saitama,Rural,Male,45-54,Japanese,Married,Higher,Working class,1
+2019,JP-11 Saitama,Rural,Male,45-54,Japanese,Single,Higher,Working class,1
+2019,JP-11 Saitama,Rural,Male,65 and more years,Japanese,Married,Higher,Lower middle class,1
+2019,JP-11 Saitama,Urban,Female,25-34,Japanese,Married,Higher,Lower middle class,1
+2019,JP-11 Saitama,Urban,Female,25-34,Japanese,Married,Higher,Working class,1
+2019,JP-11 Saitama,Urban,Female,25-34,Japanese,Married,Middle,Lower middle class,1
+2019,JP-11 Saitama,Urban,Female,25-34,Japanese,Single,Higher,Working class,1
+2019,JP-11 Saitama,Urban,Female,35-44,Japanese,Married,Higher,Lower middle class,3
+2019,JP-11 Saitama,Urban,Female,35-44,Japanese,Married,Higher,Upper middle class,3
+2019,JP-11 Saitama,Urban,Female,45-54,Japanese,Married,Higher,Lower middle class,1
+2019,JP-11 Saitama,Urban,Female,45-54,Japanese,Single,Middle,Lower middle class,1
+2019,JP-11 Saitama,Urban,Female,55-64,Japanese,Married,Higher,Lower middle class,2
+2019,JP-11 Saitama,Urban,Female,55-64,Japanese,Married,Higher,Upper middle class,1
+2019,JP-11 Saitama,Urban,Female,55-64,Japanese,Married,Middle,Lower class,1
+2019,JP-11 Saitama,Urban,Female,55-64,Japanese,Married,Middle,Lower middle class,2
+2019,JP-11 Saitama,Urban,Female,55-64,Japanese,Married,Middle,Upper middle class,2
+2019,JP-11 Saitama,Urban,Female,55-64,Japanese,Widowed,Higher,Lower middle class,1
+2019,JP-11 Saitama,Urban,Female,55-64,Japanese,Widowed,Middle,Working class,1
+2019,JP-11 Saitama,Urban,Female,65 and more years,Japanese,Married,Higher,Lower middle class,1
+2019,JP-11 Saitama,Urban,Female,65 and more years,Japanese,Married,Higher,Working class,1
+2019,JP-11 Saitama,Urban,Female,65 and more years,Japanese,Married,Lower,Working class,2
+2019,JP-11 Saitama,Urban,Female,65 and more years,Japanese,Married,Middle,Don't know,1
+2019,JP-11 Saitama,Urban,Female,65 and more years,Japanese,Married,Middle,Working class,1
+2019,JP-11 Saitama,Urban,Female,65 and more years,Japanese,Widowed,Higher,Lower middle class,1
+2019,JP-11 Saitama,Urban,Female,65 and more years,Japanese,Widowed,Lower,Lower middle class,1
+2019,JP-11 Saitama,Urban,Female,65 and more years,Japanese,Widowed,Middle,Lower middle class,2
+2019,JP-11 Saitama,Urban,Female,65 and more years,Japanese,Widowed,Middle,Working class,1
+2019,JP-11 Saitama,Urban,Male,16-24,Japanese,Single,Middle,Lower middle class,1
+2019,JP-11 Saitama,Urban,Male,25-34,Japanese,Married,Higher,Lower class,1
+2019,JP-11 Saitama,Urban,Male,25-34,Japanese,Married,Higher,Lower middle class,1
+2019,JP-11 Saitama,Urban,Male,25-34,Japanese,Married,Higher,Upper middle class,1
+2019,JP-11 Saitama,Urban,Male,25-34,Japanese,Single,Higher,Working class,1
+2019,JP-11 Saitama,Urban,Male,35-44,Japanese,Married,Higher,Lower class,1
+2019,JP-11 Saitama,Urban,Male,35-44,Japanese,Married,Higher,Upper class,1
+2019,JP-11 Saitama,Urban,Male,45-54,Japanese,Married,Higher,Don't know,1
+2019,JP-11 Saitama,Urban,Male,45-54,Japanese,Married,Higher,Upper middle class,2
+2019,JP-11 Saitama,Urban,Male,45-54,Japanese,Married,Higher,Working class,1
+2019,JP-11 Saitama,Urban,Male,45-54,Japanese,Married,Middle,Lower middle class,3
+2019,JP-11 Saitama,Urban,Male,55-64,Japanese,Married,Higher,Lower middle class,1
+2019,JP-11 Saitama,Urban,Male,55-64,Japanese,Married,Higher,No answer,1
+2019,JP-11 Saitama,Urban,Male,55-64,Japanese,Married,Higher,Upper class,1
+2019,JP-11 Saitama,Urban,Male,55-64,Japanese,Married,Higher,Working class,1
+2019,JP-11 Saitama,Urban,Male,55-64,Japanese,Married,Middle,Working class,1
+2019,JP-11 Saitama,Urban,Male,65 and more years,Japanese,Married,Higher,Lower middle class,1
+2019,JP-11 Saitama,Urban,Male,65 and more years,Japanese,Married,Higher,Upper middle class,1
+2019,JP-11 Saitama,Urban,Male,65 and more years,Japanese,Married,Higher,Working class,1
+2019,JP-11 Saitama,Urban,Male,65 and more years,Japanese,Married,Lower,Lower class,1
+2019,JP-11 Saitama,Urban,Male,65 and more years,Japanese,Married,Lower,Lower middle class,1
+2019,JP-11 Saitama,Urban,Male,65 and more years,Japanese,Married,Lower,Working class,1
+2019,JP-11 Saitama,Urban,Male,65 and more years,Japanese,Married,Middle,Lower class,1
+2019,JP-11 Saitama,Urban,Male,65 and more years,Japanese,Married,Middle,Lower middle class,2
+2019,JP-11 Saitama,Urban,Male,65 and more years,Japanese,Married,Middle,Upper middle class,1
+2019,JP-11 Saitama,Urban,Male,65 and more years,No answer,No answer,No answer,Working class,1
+2019,JP-12 Chiba,Rural,Female,35-44,Japanese,Married,Middle,Lower middle class,1
+2019,JP-12 Chiba,Rural,Female,45-54,Japanese,Married,Middle,Lower middle class,2
+2019,JP-12 Chiba,Rural,Female,65 and more years,Japanese,Married,Higher,Lower middle class,1
+2019,JP-12 Chiba,Rural,Female,65 and more years,Japanese,Married,Middle,No answer,1
+2019,JP-12 Chiba,Rural,Female,65 and more years,Japanese,Widowed,Middle,Working class,1
+2019,JP-12 Chiba,Rural,Male,65 and more years,Japanese,Married,Higher,Working class,1
+2019,JP-12 Chiba,Rural,Male,65 and more years,Japanese,Single,Middle,Lower class,1
+2019,JP-12 Chiba,Urban,Female,16-24,Japanese,Single,Higher,Don't know,1
+2019,JP-12 Chiba,Urban,Female,16-24,Japanese,Single,Higher,Upper middle class,2
+2019,JP-12 Chiba,Urban,Female,25-34,Japanese,Divorced,Lower,Lower class,1
+2019,JP-12 Chiba,Urban,Female,25-34,Japanese,Married,Higher,Lower middle class,2
+2019,JP-12 Chiba,Urban,Female,25-34,Japanese,Married,Higher,Upper middle class,1
+2019,JP-12 Chiba,Urban,Female,25-34,Japanese,Married,Higher,Working class,1
+2019,JP-12 Chiba,Urban,Female,25-34,Japanese,Married,Lower,Working class,1
+2019,JP-12 Chiba,Urban,Female,25-34,Japanese,Married,Middle,Working class,1
+2019,JP-12 Chiba,Urban,Female,25-34,Japanese,Single,Higher,Lower middle class,1
+2019,JP-12 Chiba,Urban,Female,25-34,Japanese,Single,Higher,Working class,1
+2019,JP-12 Chiba,Urban,Female,35-44,Japanese,Married,Higher,Lower class,1
+2019,JP-12 Chiba,Urban,Female,35-44,Japanese,Married,Higher,Upper middle class,3
+2019,JP-12 Chiba,Urban,Female,35-44,Japanese,Married,Higher,Working class,1
+2019,JP-12 Chiba,Urban,Female,35-44,Japanese,Married,Middle,Working class,3
+2019,JP-12 Chiba,Urban,Female,35-44,Japanese,Separated,Higher,Lower class,1
+2019,JP-12 Chiba,Urban,Female,45-54,Japanese,Married,Higher,Lower middle class,2
+2019,JP-12 Chiba,Urban,Female,45-54,Japanese,Married,Higher,Upper middle class,1
+2019,JP-12 Chiba,Urban,Female,45-54,Japanese,Married,Higher,Working class,2
+2019,JP-12 Chiba,Urban,Female,45-54,Japanese,Married,Middle,Lower middle class,1
+2019,JP-12 Chiba,Urban,Female,45-54,Japanese,Married,Middle,Upper middle class,1
+2019,JP-12 Chiba,Urban,Female,45-54,Japanese,Single,Higher,Lower class,1
+2019,JP-12 Chiba,Urban,Female,55-64,Japanese,Divorced,Middle,Lower middle class,2
+2019,JP-12 Chiba,Urban,Female,55-64,Japanese,Married,Higher,Lower middle class,3
+2019,JP-12 Chiba,Urban,Female,55-64,Japanese,Married,Higher,Working class,2
+2019,JP-12 Chiba,Urban,Female,55-64,Japanese,Married,Middle,Lower class,1
+2019,JP-12 Chiba,Urban,Female,55-64,Japanese,Married,Middle,Lower middle class,1
+2019,JP-12 Chiba,Urban,Female,55-64,Japanese,Married,Middle,Working class,1
+2019,JP-12 Chiba,Urban,Female,55-64,Japanese,Widowed,Middle,Working class,1
+2019,JP-12 Chiba,Urban,Female,65 and more years,Japanese,Divorced,Middle,Upper middle class,1
+2019,JP-12 Chiba,Urban,Female,65 and more years,Japanese,Married,Higher,Lower middle class,2
+2019,JP-12 Chiba,Urban,Female,65 and more years,Japanese,Married,Higher,Upper middle class,1
+2019,JP-12 Chiba,Urban,Female,65 and more years,Japanese,Married,Lower,Lower class,1
+2019,JP-12 Chiba,Urban,Female,65 and more years,Japanese,Married,Lower,Lower middle class,1
+2019,JP-12 Chiba,Urban,Female,65 and more years,Japanese,Married,Middle,Don't know,1
+2019,JP-12 Chiba,Urban,Female,65 and more years,Japanese,Married,Middle,Lower middle class,3
+2019,JP-12 Chiba,Urban,Female,65 and more years,Japanese,Married,Middle,Working class,2
+2019,JP-12 Chiba,Urban,Female,65 and more years,Japanese,Widowed,Middle,Don't know,1
+2019,JP-12 Chiba,Urban,Female,65 and more years,Japanese,Widowed,Middle,Lower middle class,2
+2019,JP-12 Chiba,Urban,Female,65 and more years,Japanese,Widowed,Middle,Working class,2
+2019,JP-12 Chiba,Urban,Male,16-24,Japanese,Single,Higher,Don't know,1
+2019,JP-12 Chiba,Urban,Male,16-24,Japanese,Single,Higher,Lower middle class,1
+2019,JP-12 Chiba,Urban,Male,25-34,Japanese,Divorced,Higher,Lower class,1
+2019,JP-12 Chiba,Urban,Male,25-34,Japanese,Married,Higher,Lower middle class,3
+2019,JP-12 Chiba,Urban,Male,25-34,Japanese,Single,Middle,Upper middle class,1
+2019,JP-12 Chiba,Urban,Male,25-34,Japanese,Single,Middle,Working class,1
+2019,JP-12 Chiba,Urban,Male,35-44,Japanese,Married,Higher,Lower middle class,2
+2019,JP-12 Chiba,Urban,Male,35-44,Japanese,Married,Higher,Upper middle class,2
+2019,JP-12 Chiba,Urban,Male,35-44,Japanese,Married,Higher,Working class,1
+2019,JP-12 Chiba,Urban,Male,35-44,Japanese,Married,Lower,Lower class,1
+2019,JP-12 Chiba,Urban,Male,35-44,Japanese,Married,Middle,Lower middle class,1
+2019,JP-12 Chiba,Urban,Male,35-44,Japanese,Married,Middle,Working class,1
+2019,JP-12 Chiba,Urban,Male,35-44,Japanese,Single,Higher,Upper middle class,1
+2019,JP-12 Chiba,Urban,Male,45-54,Japanese,Divorced,Higher,Upper middle class,1
+2019,JP-12 Chiba,Urban,Male,45-54,Japanese,Married,Higher,Lower class,1
+2019,JP-12 Chiba,Urban,Male,45-54,Japanese,Married,Higher,Lower middle class,1
+2019,JP-12 Chiba,Urban,Male,45-54,Japanese,Married,Higher,Upper middle class,1
+2019,JP-12 Chiba,Urban,Male,45-54,Japanese,Married,Middle,Lower middle class,1
+2019,JP-12 Chiba,Urban,Male,55-64,Japanese,Married,Higher,Lower middle class,1
+2019,JP-12 Chiba,Urban,Male,55-64,Japanese,Married,Higher,Upper middle class,1
+2019,JP-12 Chiba,Urban,Male,55-64,Japanese,Married,Higher,Working class,1
+2019,JP-12 Chiba,Urban,Male,55-64,Japanese,Married,Middle,Lower class,1
+2019,JP-12 Chiba,Urban,Male,65 and more years,Japanese,Divorced,Middle,Lower middle class,1
+2019,JP-12 Chiba,Urban,Male,65 and more years,Japanese,Divorced,Middle,Working class,1
+2019,JP-12 Chiba,Urban,Male,65 and more years,Japanese,Married,Higher,Lower middle class,4
+2019,JP-12 Chiba,Urban,Male,65 and more years,Japanese,Married,Higher,No answer,1
+2019,JP-12 Chiba,Urban,Male,65 and more years,Japanese,Married,Higher,Upper middle class,1
+2019,JP-12 Chiba,Urban,Male,65 and more years,Japanese,Married,Higher,Working class,1
+2019,JP-12 Chiba,Urban,Male,65 and more years,Japanese,Married,Middle,Don't know,1
+2019,JP-12 Chiba,Urban,Male,65 and more years,Japanese,Married,Middle,Lower middle class,1
+2019,JP-12 Chiba,Urban,Male,65 and more years,Japanese,Married,Middle,Working class,3
+2019,JP-12 Chiba,Urban,Male,65 and more years,Japanese,Widowed,Lower,Don't know,1
+2019,JP-13 Tokyo,Urban,Female,16-24,Japanese,Married,Middle,Lower class,1
+2019,JP-13 Tokyo,Urban,Female,16-24,Japanese,Single,Higher,Lower middle class,1
+2019,JP-13 Tokyo,Urban,Female,16-24,Japanese,Single,Higher,Upper middle class,1
+2019,JP-13 Tokyo,Urban,Female,16-24,Japanese,Single,Higher,Working class,1
+2019,JP-13 Tokyo,Urban,Female,25-34,Japanese,Married,Higher,Lower middle class,1
+2019,JP-13 Tokyo,Urban,Female,25-34,Japanese,Single,Higher,Don't know,1
+2019,JP-13 Tokyo,Urban,Female,25-34,Japanese,Single,Higher,Working class,1
+2019,JP-13 Tokyo,Urban,Female,25-34,Japanese,Single,Middle,Working class,1
+2019,JP-13 Tokyo,Urban,Female,35-44,Japanese,Divorced,Higher,Lower middle class,1
+2019,JP-13 Tokyo,Urban,Female,35-44,Japanese,Married,Higher,Lower class,1
+2019,JP-13 Tokyo,Urban,Female,35-44,Japanese,Married,Higher,Lower middle class,5
+2019,JP-13 Tokyo,Urban,Female,35-44,Japanese,Married,Higher,Upper middle class,1
+2019,JP-13 Tokyo,Urban,Female,35-44,Japanese,Married,Higher,Working class,1
+2019,JP-13 Tokyo,Urban,Female,45-54,Japanese,Divorced,Higher,Lower middle class,1
+2019,JP-13 Tokyo,Urban,Female,45-54,Japanese,Living together as married,Middle,Working class,1
+2019,JP-13 Tokyo,Urban,Female,45-54,Japanese,Married,Higher,Lower class,1
+2019,JP-13 Tokyo,Urban,Female,45-54,Japanese,Married,Higher,Lower middle class,4
+2019,JP-13 Tokyo,Urban,Female,45-54,Japanese,Married,Higher,Upper middle class,2
+2019,JP-13 Tokyo,Urban,Female,45-54,Japanese,Married,Higher,Working class,1
+2019,JP-13 Tokyo,Urban,Female,45-54,Japanese,Married,Middle,Lower class,1
+2019,JP-13 Tokyo,Urban,Female,45-54,Japanese,Married,Middle,Lower middle class,1
+2019,JP-13 Tokyo,Urban,Female,45-54,Japanese,Single,Higher,Lower middle class,1
+2019,JP-13 Tokyo,Urban,Female,45-54,Japanese,Single,Higher,Working class,1
+2019,JP-13 Tokyo,Urban,Female,55-64,Japanese,Married,Higher,Lower middle class,6
+2019,JP-13 Tokyo,Urban,Female,55-64,Japanese,Married,Higher,Upper middle class,1
+2019,JP-13 Tokyo,Urban,Female,55-64,Japanese,Married,Higher,Working class,3
+2019,JP-13 Tokyo,Urban,Female,55-64,Japanese,Married,Middle,Lower class,2
+2019,JP-13 Tokyo,Urban,Female,55-64,Japanese,Married,Middle,Lower middle class,1
+2019,JP-13 Tokyo,Urban,Female,55-64,Japanese,Married,Middle,Working class,1
+2019,JP-13 Tokyo,Urban,Female,65 and more years,Japanese,Divorced,Higher,Lower middle class,1
+2019,JP-13 Tokyo,Urban,Female,65 and more years,Japanese,Married,Higher,Lower middle class,2
+2019,JP-13 Tokyo,Urban,Female,65 and more years,Japanese,Married,Lower,Working class,2
+2019,JP-13 Tokyo,Urban,Female,65 and more years,Japanese,Married,Middle,Lower class,1
+2019,JP-13 Tokyo,Urban,Female,65 and more years,Japanese,Married,Middle,Lower middle class,1
+2019,JP-13 Tokyo,Urban,Female,65 and more years,Japanese,Married,Middle,Working class,2
+2019,JP-13 Tokyo,Urban,Female,65 and more years,Japanese,Single,Higher,Lower middle class,1
+2019,JP-13 Tokyo,Urban,Female,65 and more years,Japanese,Single,Middle,Lower middle class,1
+2019,JP-13 Tokyo,Urban,Female,65 and more years,Japanese,Widowed,Higher,Lower middle class,3
+2019,JP-13 Tokyo,Urban,Female,65 and more years,Japanese,Widowed,Higher,Working class,1
+2019,JP-13 Tokyo,Urban,Female,65 and more years,Japanese,Widowed,Lower,Lower class,1
+2019,JP-13 Tokyo,Urban,Female,65 and more years,Japanese,Widowed,Middle,Lower middle class,1
+2019,JP-13 Tokyo,Urban,Female,65 and more years,Japanese,Widowed,Middle,No answer,2
+2019,JP-13 Tokyo,Urban,Female,65 and more years,Japanese,Widowed,Middle,Upper middle class,1
+2019,JP-13 Tokyo,Urban,Female,65 and more years,No answer,No answer,No answer,Lower middle class,1
+2019,JP-13 Tokyo,Urban,Male,16-24,Japanese,Single,Higher,Lower middle class,1
+2019,JP-13 Tokyo,Urban,Male,16-24,Japanese,Single,Higher,Upper class,1
+2019,JP-13 Tokyo,Urban,Male,16-24,Japanese,Single,Higher,Upper middle class,1
+2019,JP-13 Tokyo,Urban,Male,16-24,Japanese,Single,Middle,Working class,1
+2019,JP-13 Tokyo,Urban,Male,25-34,Japanese,Married,Middle,Lower class,1
+2019,JP-13 Tokyo,Urban,Male,25-34,Japanese,Single,Higher,Working class,1
+2019,JP-13 Tokyo,Urban,Male,25-34,Japanese,Single,Lower,Lower class,1
+2019,JP-13 Tokyo,Urban,Male,25-34,Japanese,Single,Middle,Working class,1
+2019,JP-13 Tokyo,Urban,Male,35-44,Japanese,Divorced,Lower,Don't know,1
+2019,JP-13 Tokyo,Urban,Male,35-44,Japanese,Married,Higher,Lower middle class,3
+2019,JP-13 Tokyo,Urban,Male,35-44,Japanese,Married,Higher,Upper middle class,2
+2019,JP-13 Tokyo,Urban,Male,35-44,Japanese,Married,Higher,Working class,2
+2019,JP-13 Tokyo,Urban,Male,35-44,Japanese,Married,Lower,Working class,1
+2019,JP-13 Tokyo,Urban,Male,35-44,Japanese,Married,Middle,Don't know,1
+2019,JP-13 Tokyo,Urban,Male,35-44,Japanese,Single,Higher,Lower class,2
+2019,JP-13 Tokyo,Urban,Male,45-54,Japanese,Living together as married,Higher,Lower class,1
+2019,JP-13 Tokyo,Urban,Male,45-54,Japanese,Living together as married,Higher,Upper class,1
+2019,JP-13 Tokyo,Urban,Male,45-54,Japanese,Living together as married,Middle,Lower middle class,1
+2019,JP-13 Tokyo,Urban,Male,45-54,Japanese,Married,Higher,Lower middle class,2
+2019,JP-13 Tokyo,Urban,Male,45-54,Japanese,Married,Higher,Upper class,1
+2019,JP-13 Tokyo,Urban,Male,45-54,Japanese,Married,Higher,Upper middle class,3
+2019,JP-13 Tokyo,Urban,Male,45-54,Japanese,Married,Middle,Don't know,1
+2019,JP-13 Tokyo,Urban,Male,45-54,Japanese,Married,Middle,Working class,3
+2019,JP-13 Tokyo,Urban,Male,45-54,Japanese,Single,Higher,Lower middle class,1
+2019,JP-13 Tokyo,Urban,Male,45-54,Japanese,Single,Higher,Upper middle class,1
+2019,JP-13 Tokyo,Urban,Male,45-54,Japanese,Single,Higher,Working class,2
+2019,JP-13 Tokyo,Urban,Male,45-54,Japanese,Widowed,Higher,Working class,1
+2019,JP-13 Tokyo,Urban,Male,55-64,Japanese,Married,Higher,Don't know,1
+2019,JP-13 Tokyo,Urban,Male,55-64,Japanese,Married,Higher,Lower middle class,4
+2019,JP-13 Tokyo,Urban,Male,55-64,Japanese,Married,Higher,Upper middle class,1
+2019,JP-13 Tokyo,Urban,Male,55-64,Japanese,Married,Higher,Working class,1
+2019,JP-13 Tokyo,Urban,Male,55-64,Japanese,Married,Middle,Lower class,1
+2019,JP-13 Tokyo,Urban,Male,55-64,Japanese,Married,Middle,Working class,1
+2019,JP-13 Tokyo,Urban,Male,55-64,Japanese,Single,Lower,Lower middle class,1
+2019,JP-13 Tokyo,Urban,Male,65 and more years,Japanese,Married,Higher,Lower class,3
+2019,JP-13 Tokyo,Urban,Male,65 and more years,Japanese,Married,Higher,Lower middle class,5
+2019,JP-13 Tokyo,Urban,Male,65 and more years,Japanese,Married,Higher,No answer,1
+2019,JP-13 Tokyo,Urban,Male,65 and more years,Japanese,Married,Higher,Working class,2
+2019,JP-13 Tokyo,Urban,Male,65 and more years,Japanese,Married,Lower,Working class,1
+2019,JP-13 Tokyo,Urban,Male,65 and more years,Japanese,Married,Middle,Lower class,1
+2019,JP-13 Tokyo,Urban,Male,65 and more years,Japanese,Married,Middle,Lower middle class,1
+2019,JP-13 Tokyo,Urban,Male,65 and more years,Japanese,Married,Middle,Upper class,1
+2019,JP-13 Tokyo,Urban,Male,65 and more years,Japanese,Married,Middle,Upper middle class,2
+2019,JP-13 Tokyo,Urban,Male,65 and more years,Japanese,Single,Higher,Upper middle class,1
+2019,JP-14 Kanagawa,Rural,Female,16-24,Japanese,Single,Higher,Upper middle class,1
+2019,JP-14 Kanagawa,Rural,Female,35-44,Japanese,Married,Higher,Lower middle class,1
+2019,JP-14 Kanagawa,Rural,Female,35-44,Japanese,Married,Higher,Working class,1
+2019,JP-14 Kanagawa,Rural,Female,45-54,Japanese,Married,Higher,Upper class,1
+2019,JP-14 Kanagawa,Rural,Female,65 and more years,Japanese,Married,Higher,No answer,1
+2019,JP-14 Kanagawa,Rural,Male,35-44,Japanese,Married,Higher,Upper middle class,1
+2019,JP-14 Kanagawa,Rural,Male,45-54,Japanese,Married,Higher,Upper middle class,1
+2019,JP-14 Kanagawa,Rural,Male,55-64,Japanese,Married,Higher,Lower middle class,1
+2019,JP-14 Kanagawa,Rural,Male,65 and more years,Japanese,Married,Higher,Upper middle class,1
+2019,JP-14 Kanagawa,Urban,Female,16-24,Japanese,Single,Higher,Lower class,1
+2019,JP-14 Kanagawa,Urban,Female,16-24,Japanese,Single,Higher,Lower middle class,1
+2019,JP-14 Kanagawa,Urban,Female,16-24,Japanese,Single,Higher,Upper middle class,2
+2019,JP-14 Kanagawa,Urban,Female,16-24,Japanese,Single,Higher,Working class,1
+2019,JP-14 Kanagawa,Urban,Female,25-34,Japanese,Divorced,Higher,Working class,1
+2019,JP-14 Kanagawa,Urban,Female,25-34,Japanese,Married,Higher,Lower middle class,1
+2019,JP-14 Kanagawa,Urban,Female,25-34,Japanese,Married,Higher,Upper middle class,1
+2019,JP-14 Kanagawa,Urban,Female,25-34,Japanese,Married,Higher,Working class,2
+2019,JP-14 Kanagawa,Urban,Female,25-34,Japanese,Married,Middle,Working class,1
+2019,JP-14 Kanagawa,Urban,Female,35-44,English,Married,Higher,Upper middle class,1
+2019,JP-14 Kanagawa,Urban,Female,35-44,Japanese,Divorced,Middle,Lower class,1
+2019,JP-14 Kanagawa,Urban,Female,35-44,Japanese,Married,Higher,Lower class,1
+2019,JP-14 Kanagawa,Urban,Female,35-44,Japanese,Married,Higher,Lower middle class,3
+2019,JP-14 Kanagawa,Urban,Female,35-44,Japanese,Married,Higher,Working class,2
+2019,JP-14 Kanagawa,Urban,Female,35-44,Japanese,Married,Middle,Lower middle class,3
+2019,JP-14 Kanagawa,Urban,Female,35-44,Japanese,Married,Middle,Working class,2
+2019,JP-14 Kanagawa,Urban,Female,45-54,Japanese,Divorced,Higher,Lower middle class,1
+2019,JP-14 Kanagawa,Urban,Female,45-54,Japanese,Married,Higher,Lower middle class,3
+2019,JP-14 Kanagawa,Urban,Female,45-54,Japanese,Married,Higher,Upper middle class,2
+2019,JP-14 Kanagawa,Urban,Female,45-54,Japanese,Married,Higher,Working class,2
+2019,JP-14 Kanagawa,Urban,Female,45-54,Japanese,Married,Middle,Lower class,1
+2019,JP-14 Kanagawa,Urban,Female,45-54,Japanese,Married,Middle,Lower middle class,1
+2019,JP-14 Kanagawa,Urban,Female,45-54,Japanese,Married,Middle,Working class,2
+2019,JP-14 Kanagawa,Urban,Female,45-54,Japanese,Widowed,Middle,Don't know,1
+2019,JP-14 Kanagawa,Urban,Female,55-64,Japanese,Living together as married,Middle,Working class,1
+2019,JP-14 Kanagawa,Urban,Female,55-64,Japanese,Married,Higher,Lower middle class,4
+2019,JP-14 Kanagawa,Urban,Female,55-64,Japanese,Married,Higher,Working class,2
+2019,JP-14 Kanagawa,Urban,Female,55-64,Japanese,Married,Middle,Lower middle class,1
+2019,JP-14 Kanagawa,Urban,Female,55-64,Japanese,Married,Middle,Working class,1
+2019,JP-14 Kanagawa,Urban,Female,55-64,Japanese,Widowed,Middle,Working class,1
+2019,JP-14 Kanagawa,Urban,Female,65 and more years,Japanese,Married,Higher,Don't know,1
+2019,JP-14 Kanagawa,Urban,Female,65 and more years,Japanese,Married,Higher,Lower middle class,3
+2019,JP-14 Kanagawa,Urban,Female,65 and more years,Japanese,Married,Higher,Upper middle class,1
+2019,JP-14 Kanagawa,Urban,Female,65 and more years,Japanese,Married,Middle,Lower class,1
+2019,JP-14 Kanagawa,Urban,Female,65 and more years,Japanese,Married,Middle,Lower middle class,1
+2019,JP-14 Kanagawa,Urban,Female,65 and more years,Japanese,Married,Middle,No answer,1
+2019,JP-14 Kanagawa,Urban,Female,65 and more years,Japanese,Married,Middle,Upper middle class,3
+2019,JP-14 Kanagawa,Urban,Female,65 and more years,Japanese,Married,Middle,Working class,1
+2019,JP-14 Kanagawa,Urban,Female,65 and more years,Japanese,Widowed,Higher,Lower class,1
+2019,JP-14 Kanagawa,Urban,Female,65 and more years,Japanese,Widowed,Lower,Lower class,1
+2019,JP-14 Kanagawa,Urban,Female,65 and more years,Japanese,Widowed,Middle,Lower middle class,1
+2019,JP-14 Kanagawa,Urban,Female,65 and more years,Japanese,Widowed,Middle,Upper middle class,2
+2019,JP-14 Kanagawa,Urban,Male,16-24,Japanese,Married,Higher,Working class,1
+2019,JP-14 Kanagawa,Urban,Male,16-24,Japanese,Single,Higher,Don't know,1
+2019,JP-14 Kanagawa,Urban,Male,16-24,Japanese,Single,Higher,Lower middle class,1
+2019,JP-14 Kanagawa,Urban,Male,16-24,Japanese,Single,Higher,Upper middle class,3
+2019,JP-14 Kanagawa,Urban,Male,16-24,Japanese,Single,Middle,Lower class,1
+2019,JP-14 Kanagawa,Urban,Male,25-34,Japanese,Married,Higher,Lower middle class,1
+2019,JP-14 Kanagawa,Urban,Male,25-34,Japanese,Married,Middle,Lower middle class,1
+2019,JP-14 Kanagawa,Urban,Male,25-34,Japanese,Single,Higher,Lower class,1
+2019,JP-14 Kanagawa,Urban,Male,25-34,Japanese,Single,Higher,Lower middle class,1
+2019,JP-14 Kanagawa,Urban,Male,25-34,Japanese,Single,Higher,Working class,1
+2019,JP-14 Kanagawa,Urban,Male,25-34,Japanese,Single,Middle,Upper middle class,1
+2019,JP-14 Kanagawa,Urban,Male,35-44,Japanese,Married,Higher,Lower class,1
+2019,JP-14 Kanagawa,Urban,Male,35-44,Japanese,Married,Higher,Lower middle class,1
+2019,JP-14 Kanagawa,Urban,Male,35-44,Japanese,Married,Higher,No answer,1
+2019,JP-14 Kanagawa,Urban,Male,35-44,Japanese,Married,Higher,Working class,3
+2019,JP-14 Kanagawa,Urban,Male,35-44,Japanese,Single,Higher,Lower middle class,1
+2019,JP-14 Kanagawa,Urban,Male,45-54,Japanese,Living together as married,Higher,Lower middle class,1
+2019,JP-14 Kanagawa,Urban,Male,45-54,Japanese,Living together as married,Middle,Working class,1
+2019,JP-14 Kanagawa,Urban,Male,45-54,Japanese,Married,Higher,Lower middle class,2
+2019,JP-14 Kanagawa,Urban,Male,45-54,Japanese,Married,Middle,Lower middle class,1
+2019,JP-14 Kanagawa,Urban,Male,45-54,Japanese,Married,Middle,Upper middle class,1
+2019,JP-14 Kanagawa,Urban,Male,55-64,Japanese,Married,Higher,Lower middle class,1
+2019,JP-14 Kanagawa,Urban,Male,55-64,Japanese,Married,Higher,No answer,1
+2019,JP-14 Kanagawa,Urban,Male,55-64,Japanese,Married,Higher,Upper middle class,1
+2019,JP-14 Kanagawa,Urban,Male,55-64,Japanese,Married,Middle,Lower middle class,3
+2019,JP-14 Kanagawa,Urban,Male,55-64,Japanese,Single,Higher,Upper middle class,1
+2019,JP-14 Kanagawa,Urban,Male,55-64,Japanese,Single,Middle,Lower class,1
+2019,JP-14 Kanagawa,Urban,Male,65 and more years,Japanese,Divorced,Middle,No answer,1
+2019,JP-14 Kanagawa,Urban,Male,65 and more years,Japanese,Living together as married,Higher,Lower middle class,1
+2019,JP-14 Kanagawa,Urban,Male,65 and more years,Japanese,Married,Higher,Lower middle class,5
+2019,JP-14 Kanagawa,Urban,Male,65 and more years,Japanese,Married,Higher,Upper middle class,3
+2019,JP-14 Kanagawa,Urban,Male,65 and more years,Japanese,Married,Higher,Working class,3
+2019,JP-14 Kanagawa,Urban,Male,65 and more years,Japanese,Married,Lower,Lower middle class,1
+2019,JP-14 Kanagawa,Urban,Male,65 and more years,Japanese,Married,Lower,Working class,1
+2019,JP-14 Kanagawa,Urban,Male,65 and more years,Japanese,Married,Middle,Lower class,2
+2019,JP-14 Kanagawa,Urban,Male,65 and more years,Japanese,Single,Middle,Lower middle class,1
+2019,JP-15 Niigata,Urban,Female,16-24,Japanese,Single,Middle,Upper class,1
+2019,JP-15 Niigata,Urban,Female,35-44,Japanese,Married,Higher,Lower middle class,2
+2019,JP-15 Niigata,Urban,Female,35-44,Japanese,Married,Middle,Lower middle class,1
+2019,JP-15 Niigata,Urban,Female,35-44,Japanese,Single,Higher,Lower middle class,1
+2019,JP-15 Niigata,Urban,Female,45-54,Japanese,Married,Higher,Upper middle class,1
+2019,JP-15 Niigata,Urban,Female,55-64,Japanese,Married,Higher,Lower middle class,1
+2019,JP-15 Niigata,Urban,Female,55-64,Japanese,Married,Middle,Lower class,1
+2019,JP-15 Niigata,Urban,Female,55-64,Japanese,Married,Middle,Lower middle class,1
+2019,JP-15 Niigata,Urban,Female,65 and more years,Japanese,Divorced,Lower,Lower middle class,1
+2019,JP-15 Niigata,Urban,Female,65 and more years,Japanese,Married,Lower,Lower middle class,1
+2019,JP-15 Niigata,Urban,Female,65 and more years,Japanese,Married,Middle,Lower middle class,2
+2019,JP-15 Niigata,Urban,Female,65 and more years,Japanese,Widowed,Middle,Lower middle class,1
+2019,JP-15 Niigata,Urban,Female,65 and more years,No answer,No answer,No answer,Working class,1
+2019,JP-15 Niigata,Urban,Male,16-24,Japanese,Single,Higher,Working class,1
+2019,JP-15 Niigata,Urban,Male,16-24,Japanese,Single,Middle,Don't know,1
+2019,JP-15 Niigata,Urban,Male,16-24,Japanese,Single,Middle,Working class,1
+2019,JP-15 Niigata,Urban,Male,35-44,Japanese,Married,Middle,Lower class,1
+2019,JP-15 Niigata,Urban,Male,45-54,Japanese,Single,Middle,Working class,1
+2019,JP-15 Niigata,Urban,Male,55-64,Japanese,Married,Higher,Lower middle class,1
+2019,JP-15 Niigata,Urban,Male,55-64,Japanese,Married,Middle,Lower middle class,1
+2019,JP-15 Niigata,Urban,Male,65 and more years,Japanese,Married,Higher,Lower middle class,1
+2019,JP-15 Niigata,Urban,Male,65 and more years,Japanese,Married,Higher,Working class,1
+2019,JP-15 Niigata,Urban,Male,65 and more years,Japanese,Married,Middle,Lower middle class,3
+2019,JP-15 Niigata,Urban,Male,65 and more years,No answer,No answer,No answer,No answer,1
+2019,JP-16 Toyama,Urban,Female,55-64,Japanese,Married,Middle,Lower middle class,1
+2019,JP-16 Toyama,Urban,Female,65 and more years,Japanese,Married,Higher,Lower class,1
+2019,JP-16 Toyama,Urban,Male,45-54,Japanese,Married,Higher,Lower middle class,1
+2019,JP-16 Toyama,Urban,Male,55-64,Japanese,Married,Higher,Upper middle class,1
+2019,JP-16 Toyama,Urban,Male,55-64,Japanese,Married,Higher,Working class,1
+2019,JP-16 Toyama,Urban,Male,65 and more years,Japanese,Married,Lower,Lower middle class,1
+2019,JP-17 Ishikawa,Rural,Male,35-44,Japanese,Married,Higher,Lower middle class,1
+2019,JP-17 Ishikawa,Rural,Male,55-64,Japanese,Married,Higher,Lower middle class,1
+2019,JP-17 Ishikawa,Urban,Female,16-24,Japanese,Single,Middle,Working class,1
+2019,JP-17 Ishikawa,Urban,Female,25-34,Japanese,Single,Higher,Lower class,1
+2019,JP-17 Ishikawa,Urban,Female,35-44,Japanese,Married,Middle,Lower class,1
+2019,JP-17 Ishikawa,Urban,Male,35-44,Japanese,Married,Middle,Lower middle class,1
+2019,JP-17 Ishikawa,Urban,Male,35-44,Japanese,Married,Middle,Working class,1
+2019,JP-17 Ishikawa,Urban,Male,55-64,Japanese,Married,Middle,Lower middle class,1
+2019,JP-18 Fukui,Rural,Male,45-54,Japanese,Divorced,Middle,Working class,1
+2019,JP-18 Fukui,Rural,Male,65 and more years,Japanese,Married,Higher,Lower middle class,1
+2019,JP-18 Fukui,Urban,Female,65 and more years,Japanese,Married,Lower,Lower middle class,1
+2019,JP-18 Fukui,Urban,Female,65 and more years,Japanese,Widowed,Middle,Don't know,1
+2019,JP-18 Fukui,Urban,Male,55-64,Japanese,Married,Higher,Lower middle class,1
+2019,JP-18 Fukui,Urban,Male,65 and more years,Japanese,Married,Higher,Lower middle class,1
+2019,JP-19 Yamanashi,Rural,Male,35-44,Japanese,Married,Lower,Working class,1
+2019,JP-19 Yamanashi,Urban,Female,65 and more years,Japanese,Married,Middle,Working class,1
+2019,JP-20 Nagano,Urban,Female,25-34,Japanese,Single,Higher,Working class,1
+2019,JP-20 Nagano,Urban,Female,25-34,Japanese,Single,Middle,Lower middle class,1
+2019,JP-20 Nagano,Urban,Female,45-54,Japanese,Single,Lower,Lower middle class,1
+2019,JP-20 Nagano,Urban,Female,55-64,Japanese,Married,Higher,Working class,1
+2019,JP-20 Nagano,Urban,Female,65 and more years,Japanese,Married,Middle,Lower middle class,1
+2019,JP-20 Nagano,Urban,Male,45-54,Japanese,Married,Higher,Upper middle class,1
+2019,JP-20 Nagano,Urban,Male,65 and more years,Japanese,Married,Higher,Lower middle class,1
+2019,JP-20 Nagano,Urban,Male,65 and more years,Japanese,Married,Middle,Lower middle class,1
+2019,JP-20 Nagano,Urban,Male,65 and more years,Japanese,Married,Middle,Working class,1
+2019,JP-21 Gihu,Rural,Female,35-44,Japanese,Married,Higher,Lower middle class,1
+2019,JP-21 Gihu,Rural,Male,25-34,Japanese,Married,Higher,Upper class,1
+2019,JP-21 Gihu,Rural,Male,35-44,Japanese,Married,Middle,Lower middle class,1
+2019,JP-21 Gihu,Rural,Male,55-64,Japanese,Married,Higher,Upper middle class,1
+2019,JP-21 Gihu,Urban,Female,25-34,Japanese,Married,Higher,Lower class,1
+2019,JP-21 Gihu,Urban,Female,25-34,Japanese,Married,Higher,Lower middle class,1
+2019,JP-21 Gihu,Urban,Female,25-34,Japanese,Married,Higher,Upper class,1
+2019,JP-21 Gihu,Urban,Female,25-34,Japanese,Married,Higher,Working class,1
+2019,JP-21 Gihu,Urban,Female,25-34,Japanese,Married,Lower,Working class,1
+2019,JP-21 Gihu,Urban,Female,35-44,Japanese,Divorced,Middle,Working class,1
+2019,JP-21 Gihu,Urban,Female,35-44,Japanese,Married,Higher,Lower middle class,2
+2019,JP-21 Gihu,Urban,Female,35-44,Japanese,Married,Higher,Working class,1
+2019,JP-21 Gihu,Urban,Female,35-44,Japanese,Married,Middle,Lower class,1
+2019,JP-21 Gihu,Urban,Female,35-44,No answer,No answer,No answer,Upper middle class,1
+2019,JP-21 Gihu,Urban,Female,45-54,Japanese,Married,Higher,Lower middle class,3
+2019,JP-21 Gihu,Urban,Female,45-54,Japanese,Married,Higher,Working class,1
+2019,JP-21 Gihu,Urban,Female,45-54,Japanese,Married,Middle,Working class,1
+2019,JP-21 Gihu,Urban,Female,55-64,Japanese,Married,Higher,Upper class,1
+2019,JP-21 Gihu,Urban,Female,65 and more years,Japanese,Divorced,Middle,Lower middle class,1
+2019,JP-21 Gihu,Urban,Female,65 and more years,Japanese,Married,Middle,Lower middle class,1
+2019,JP-21 Gihu,Urban,Female,65 and more years,Japanese,Widowed,Middle,Upper middle class,1
+2019,JP-21 Gihu,Urban,Female,65 and more years,Japanese,Widowed,Middle,Working class,2
+2019,JP-21 Gihu,Urban,Male,25-34,Japanese,Single,Higher,Upper middle class,1
+2019,JP-21 Gihu,Urban,Male,35-44,Japanese,Married,Higher,Lower class,1
+2019,JP-21 Gihu,Urban,Male,35-44,Japanese,Married,Higher,Lower middle class,1
+2019,JP-21 Gihu,Urban,Male,35-44,Japanese,Married,Middle,Lower middle class,1
+2019,JP-21 Gihu,Urban,Male,45-54,Japanese,Married,Higher,Lower middle class,1
+2019,JP-21 Gihu,Urban,Male,45-54,Japanese,Single,Higher,Working class,1
+2019,JP-21 Gihu,Urban,Male,55-64,Japanese,Married,Higher,Lower middle class,2
+2019,JP-21 Gihu,Urban,Male,55-64,Japanese,Married,Middle,Lower middle class,1
+2019,JP-21 Gihu,Urban,Male,55-64,Japanese,Married,Middle,Upper middle class,1
+2019,JP-21 Gihu,Urban,Male,65 and more years,Japanese,Married,Middle,Lower middle class,1
+2019,JP-21 Gihu,Urban,Male,65 and more years,Japanese,Widowed,No answer,Working class,1
+2019,JP-22 Shizuoka,Rural,Female,45-54,Japanese,Married,Higher,Upper middle class,1
+2019,JP-22 Shizuoka,Rural,Male,65 and more years,Japanese,Widowed,Middle,Lower middle class,1
+2019,JP-22 Shizuoka,Urban,Female,25-34,Japanese,Married,Higher,Lower middle class,2
+2019,JP-22 Shizuoka,Urban,Female,25-34,Japanese,Married,Middle,Lower middle class,1
+2019,JP-22 Shizuoka,Urban,Female,35-44,Japanese,Married,Higher,Lower middle class,1
+2019,JP-22 Shizuoka,Urban,Female,35-44,Japanese,Married,Higher,Upper middle class,1
+2019,JP-22 Shizuoka,Urban,Female,45-54,Japanese,Married,Higher,Lower middle class,1
+2019,JP-22 Shizuoka,Urban,Female,45-54,Japanese,Married,Higher,Upper middle class,1
+2019,JP-22 Shizuoka,Urban,Female,45-54,Japanese,Married,Middle,Don't know,1
+2019,JP-22 Shizuoka,Urban,Female,45-54,Japanese,Married,Middle,Working class,1
+2019,JP-22 Shizuoka,Urban,Female,55-64,Japanese,Married,Middle,Lower class,1
+2019,JP-22 Shizuoka,Urban,Female,55-64,Japanese,Married,Middle,Upper middle class,1
+2019,JP-22 Shizuoka,Urban,Female,55-64,Japanese,Widowed,Middle,Working class,1
+2019,JP-22 Shizuoka,Urban,Female,65 and more years,Japanese,Divorced,Higher,Working class,1
+2019,JP-22 Shizuoka,Urban,Female,65 and more years,Japanese,Married,Higher,Lower middle class,4
+2019,JP-22 Shizuoka,Urban,Female,65 and more years,Japanese,Married,Higher,Working class,1
+2019,JP-22 Shizuoka,Urban,Female,65 and more years,Japanese,Married,Lower,Lower middle class,2
+2019,JP-22 Shizuoka,Urban,Female,65 and more years,Japanese,Married,Lower,Upper middle class,1
+2019,JP-22 Shizuoka,Urban,Female,65 and more years,Japanese,Married,Middle,Lower class,2
+2019,JP-22 Shizuoka,Urban,Female,65 and more years,Japanese,Married,Middle,Lower middle class,2
+2019,JP-22 Shizuoka,Urban,Male,45-54,Japanese,Married,Higher,Lower middle class,2
+2019,JP-22 Shizuoka,Urban,Male,45-54,Japanese,Single,Higher,Working class,1
+2019,JP-22 Shizuoka,Urban,Male,55-64,Japanese,Married,Higher,Working class,3
+2019,JP-22 Shizuoka,Urban,Male,55-64,Japanese,Married,Lower,Lower middle class,1
+2019,JP-22 Shizuoka,Urban,Male,65 and more years,Japanese,Married,Higher,Lower middle class,1
+2019,JP-22 Shizuoka,Urban,Male,65 and more years,Japanese,Married,Middle,Don't know,1
+2019,JP-22 Shizuoka,Urban,Male,65 and more years,Japanese,Married,Middle,Working class,1
+2019,JP-23 Aichi,Rural,Female,45-54,Japanese,Married,Higher,Upper middle class,1
+2019,JP-23 Aichi,Rural,Female,55-64,Japanese,Married,Higher,Working class,1
+2019,JP-23 Aichi,Rural,Female,65 and more years,Japanese,Married,Middle,Lower middle class,1
+2019,JP-23 Aichi,Rural,Male,55-64,Japanese,Married,Higher,Lower middle class,1
+2019,JP-23 Aichi,Rural,Male,55-64,Japanese,Married,Higher,No answer,1
+2019,JP-23 Aichi,Urban,Female,16-24,Japanese,Single,Higher,Don't know,1
+2019,JP-23 Aichi,Urban,Female,16-24,Japanese,Single,Higher,Lower middle class,1
+2019,JP-23 Aichi,Urban,Female,16-24,Japanese,Single,Higher,Working class,1
+2019,JP-23 Aichi,Urban,Female,16-24,Japanese,Single,Middle,Lower middle class,1
+2019,JP-23 Aichi,Urban,Female,25-34,English,Married,Higher,Upper middle class,1
+2019,JP-23 Aichi,Urban,Female,25-34,Japanese,Married,Higher,Lower middle class,3
+2019,JP-23 Aichi,Urban,Female,25-34,Japanese,Married,Higher,Upper middle class,1
+2019,JP-23 Aichi,Urban,Female,25-34,Japanese,Single,Higher,Don't know,1
+2019,JP-23 Aichi,Urban,Female,25-34,Japanese,Single,Higher,Lower middle class,1
+2019,JP-23 Aichi,Urban,Female,25-34,Japanese,Single,Middle,Lower middle class,1
+2019,JP-23 Aichi,Urban,Female,35-44,Japanese,Divorced,Higher,Lower class,2
+2019,JP-23 Aichi,Urban,Female,35-44,Japanese,Married,Higher,Lower middle class,4
+2019,JP-23 Aichi,Urban,Female,35-44,Japanese,Married,Higher,Upper middle class,2
+2019,JP-23 Aichi,Urban,Female,35-44,Japanese,Married,Higher,Working class,1
+2019,JP-23 Aichi,Urban,Female,35-44,Japanese,Married,Middle,Working class,1
+2019,JP-23 Aichi,Urban,Female,35-44,Japanese,Separated,Lower,Lower middle class,1
+2019,JP-23 Aichi,Urban,Female,45-54,Japanese,Married,Higher,Lower middle class,2
+2019,JP-23 Aichi,Urban,Female,45-54,Japanese,Married,Higher,Upper middle class,1
+2019,JP-23 Aichi,Urban,Female,45-54,Japanese,Married,Middle,Lower middle class,1
+2019,JP-23 Aichi,Urban,Female,45-54,Japanese,Married,Middle,Working class,1
+2019,JP-23 Aichi,Urban,Female,55-64,Japanese,Divorced,Higher,Lower middle class,1
+2019,JP-23 Aichi,Urban,Female,55-64,Japanese,Married,Higher,Lower middle class,3
+2019,JP-23 Aichi,Urban,Female,55-64,Japanese,Married,Higher,Upper middle class,1
+2019,JP-23 Aichi,Urban,Female,55-64,Japanese,Married,Middle,Lower middle class,3
+2019,JP-23 Aichi,Urban,Female,55-64,No answer,No answer,No answer,No answer,1
+2019,JP-23 Aichi,Urban,Female,65 and more years,Japanese,Divorced,Middle,Lower class,1
+2019,JP-23 Aichi,Urban,Female,65 and more years,Japanese,Married,Higher,Lower middle class,3
+2019,JP-23 Aichi,Urban,Female,65 and more years,Japanese,Married,Higher,Upper middle class,1
+2019,JP-23 Aichi,Urban,Female,65 and more years,Japanese,Married,Higher,Working class,2
+2019,JP-23 Aichi,Urban,Female,65 and more years,Japanese,Married,Lower,Lower middle class,1
+2019,JP-23 Aichi,Urban,Female,65 and more years,Japanese,Married,Lower,Working class,1
+2019,JP-23 Aichi,Urban,Female,65 and more years,Japanese,Married,Middle,Lower middle class,4
+2019,JP-23 Aichi,Urban,Female,65 and more years,Japanese,Married,Middle,Upper middle class,1
+2019,JP-23 Aichi,Urban,Female,65 and more years,Japanese,Single,Middle,Lower class,1
+2019,JP-23 Aichi,Urban,Female,65 and more years,Japanese,Widowed,Higher,Lower class,1
+2019,JP-23 Aichi,Urban,Female,65 and more years,Japanese,Widowed,Higher,Working class,1
+2019,JP-23 Aichi,Urban,Female,65 and more years,Japanese,Widowed,Middle,Lower class,1
+2019,JP-23 Aichi,Urban,Female,65 and more years,No answer,No answer,No answer,Lower middle class,1
+2019,JP-23 Aichi,Urban,Male,16-24,Japanese,Single,Higher,Lower middle class,1
+2019,JP-23 Aichi,Urban,Male,25-34,Japanese,Married,Higher,Lower middle class,1
+2019,JP-23 Aichi,Urban,Male,25-34,Japanese,Married,Lower,Lower class,1
+2019,JP-23 Aichi,Urban,Male,25-34,Japanese,Single,Higher,Lower middle class,1
+2019,JP-23 Aichi,Urban,Male,25-34,Japanese,Single,Higher,Upper middle class,1
+2019,JP-23 Aichi,Urban,Male,35-44,Japanese,Married,Higher,Lower middle class,1
+2019,JP-23 Aichi,Urban,Male,35-44,Japanese,Married,Higher,Working class,1
+2019,JP-23 Aichi,Urban,Male,35-44,Japanese,Married,Middle,Lower middle class,1
+2019,JP-23 Aichi,Urban,Male,35-44,Japanese,Married,Middle,Upper middle class,1
+2019,JP-23 Aichi,Urban,Male,35-44,Japanese,Married,Middle,Working class,1
+2019,JP-23 Aichi,Urban,Male,45-54,Japanese,Married,Higher,Lower middle class,1
+2019,JP-23 Aichi,Urban,Male,45-54,Japanese,Married,Higher,Upper middle class,3
+2019,JP-23 Aichi,Urban,Male,45-54,Japanese,Married,Higher,Working class,1
+2019,JP-23 Aichi,Urban,Male,45-54,Japanese,Married,Middle,Lower class,1
+2019,JP-23 Aichi,Urban,Male,45-54,Japanese,Married,Middle,Working class,1
+2019,JP-23 Aichi,Urban,Male,55-64,Japanese,Married,Higher,Lower middle class,1
+2019,JP-23 Aichi,Urban,Male,55-64,Japanese,Married,Middle,Lower middle class,1
+2019,JP-23 Aichi,Urban,Male,55-64,Japanese,Married,Middle,Upper middle class,1
+2019,JP-23 Aichi,Urban,Male,55-64,Japanese,Married,Middle,Working class,3
+2019,JP-23 Aichi,Urban,Male,65 and more years,Japanese,Married,Higher,Lower middle class,3
+2019,JP-23 Aichi,Urban,Male,65 and more years,Japanese,Married,Higher,Upper middle class,1
+2019,JP-23 Aichi,Urban,Male,65 and more years,Japanese,Married,Higher,Working class,1
+2019,JP-23 Aichi,Urban,Male,65 and more years,Japanese,Married,Lower,Lower class,1
+2019,JP-23 Aichi,Urban,Male,65 and more years,Japanese,Married,Lower,Lower middle class,1
+2019,JP-23 Aichi,Urban,Male,65 and more years,Japanese,Married,Middle,Lower middle class,4
+2019,JP-23 Aichi,Urban,Male,65 and more years,Japanese,Married,Middle,Upper middle class,1
+2019,JP-23 Aichi,Urban,Male,65 and more years,Japanese,Married,Middle,Working class,2
+2019,JP-23 Aichi,Urban,Male,65 and more years,Japanese,Widowed,Middle,Working class,1
+2019,JP-24 Mie,Rural,Male,45-54,Japanese,Married,Lower,Lower class,1
+2019,JP-24 Mie,Rural,Male,45-54,Japanese,Married,Lower,Lower middle class,1
+2019,JP-24 Mie,Rural,Male,65 and more years,Japanese,Married,Middle,Lower middle class,1
+2019,JP-24 Mie,Urban,Female,16-24,Japanese,Single,Higher,Upper middle class,1
+2019,JP-24 Mie,Urban,Female,25-34,Japanese,Married,Middle,Upper middle class,1
+2019,JP-24 Mie,Urban,Female,35-44,Japanese,Married,Middle,Lower class,1
+2019,JP-24 Mie,Urban,Female,35-44,Japanese,Married,Middle,Lower middle class,1
+2019,JP-24 Mie,Urban,Female,35-44,Japanese,Married,Middle,Upper middle class,1
+2019,JP-24 Mie,Urban,Female,45-54,Japanese,Married,Higher,Lower middle class,1
+2019,JP-24 Mie,Urban,Female,55-64,Japanese,Married,Higher,Lower middle class,1
+2019,JP-24 Mie,Urban,Female,55-64,Japanese,Married,Higher,Upper middle class,1
+2019,JP-24 Mie,Urban,Female,55-64,Japanese,Married,Middle,Lower middle class,1
+2019,JP-24 Mie,Urban,Female,65 and more years,Japanese,Married,Higher,Lower middle class,1
+2019,JP-24 Mie,Urban,Female,65 and more years,Japanese,Married,Lower,Working class,1
+2019,JP-24 Mie,Urban,Female,65 and more years,Japanese,Married,Middle,No answer,1
+2019,JP-24 Mie,Urban,Female,65 and more years,Japanese,Widowed,Middle,Working class,1
+2019,JP-24 Mie,Urban,Male,35-44,Japanese,Married,Higher,Working class,1
+2019,JP-24 Mie,Urban,Male,35-44,Japanese,Married,Middle,Upper middle class,1
+2019,JP-24 Mie,Urban,Male,45-54,Japanese,Married,Higher,Lower middle class,3
+2019,JP-24 Mie,Urban,Male,45-54,Japanese,Married,Higher,Upper middle class,1
+2019,JP-24 Mie,Urban,Male,65 and more years,Japanese,Married,Middle,Working class,1
+2019,JP-25 Shiga,Urban,Female,35-44,Japanese,Married,Higher,Upper middle class,1
+2019,JP-25 Shiga,Urban,Female,55-64,Japanese,Single,Higher,Lower middle class,1
+2019,JP-25 Shiga,Urban,Female,65 and more years,Japanese,Married,Lower,Working class,1
+2019,JP-25 Shiga,Urban,Female,65 and more years,Japanese,Married,Middle,Lower middle class,1
+2019,JP-25 Shiga,Urban,Female,65 and more years,Japanese,Married,Middle,Upper middle class,1
+2019,JP-25 Shiga,Urban,Male,45-54,Japanese,Single,Higher,Working class,1
+2019,JP-25 Shiga,Urban,Male,65 and more years,Japanese,Married,Higher,Lower middle class,1
+2019,JP-26 Kyoto,Urban,Female,35-44,Japanese,Married,Higher,Lower middle class,2
+2019,JP-26 Kyoto,Urban,Female,35-44,Japanese,Married,Middle,Lower class,1
+2019,JP-26 Kyoto,Urban,Female,35-44,Japanese,Married,Middle,Working class,1
+2019,JP-26 Kyoto,Urban,Female,35-44,Japanese,Single,Higher,Don't know,1
+2019,JP-26 Kyoto,Urban,Female,35-44,Japanese,Single,Higher,Working class,1
+2019,JP-26 Kyoto,Urban,Female,45-54,Japanese,Divorced,Middle,Lower class,1
+2019,JP-26 Kyoto,Urban,Female,45-54,Japanese,Married,Higher,Lower middle class,1
+2019,JP-26 Kyoto,Urban,Female,45-54,Japanese,Married,Higher,Upper middle class,1
+2019,JP-26 Kyoto,Urban,Female,55-64,Japanese,Married,Higher,Lower middle class,2
+2019,JP-26 Kyoto,Urban,Female,55-64,Japanese,Married,Higher,Upper middle class,1
+2019,JP-26 Kyoto,Urban,Female,55-64,Japanese,Married,Higher,Working class,1
+2019,JP-26 Kyoto,Urban,Female,65 and more years,Japanese,Divorced,Higher,Lower class,1
+2019,JP-26 Kyoto,Urban,Female,65 and more years,Japanese,Married,Higher,Working class,2
+2019,JP-26 Kyoto,Urban,Female,65 and more years,Japanese,Married,Middle,Upper middle class,1
+2019,JP-26 Kyoto,Urban,Male,35-44,Japanese,Married,Higher,Working class,1
+2019,JP-26 Kyoto,Urban,Male,45-54,Japanese,Divorced,Higher,Working class,1
+2019,JP-26 Kyoto,Urban,Male,45-54,Japanese,Married,Middle,Lower middle class,1
+2019,JP-26 Kyoto,Urban,Male,55-64,Japanese,Divorced,Higher,Lower class,1
+2019,JP-26 Kyoto,Urban,Male,55-64,Japanese,Married,Middle,Working class,1
+2019,JP-26 Kyoto,Urban,Male,65 and more years,Japanese,Married,Higher,Lower middle class,2
+2019,JP-26 Kyoto,Urban,Male,65 and more years,Japanese,Married,Higher,Upper middle class,2
+2019,JP-26 Kyoto,Urban,Male,65 and more years,Japanese,Married,Lower,Lower class,1
+2019,JP-26 Kyoto,Urban,Male,65 and more years,Japanese,Married,Lower,Lower middle class,1
+2019,JP-27 Osaka,Rural,Female,65 and more years,Japanese,Married,Middle,Lower middle class,1
+2019,JP-27 Osaka,Urban,Female,16-24,Japanese,Married,Middle,Working class,1
+2019,JP-27 Osaka,Urban,Female,16-24,Japanese,Single,Higher,Lower middle class,1
+2019,JP-27 Osaka,Urban,Female,16-24,Japanese,Single,Middle,Don't know,1
+2019,JP-27 Osaka,Urban,Female,16-24,Japanese,Single,Middle,Upper middle class,1
+2019,JP-27 Osaka,Urban,Female,25-34,Japanese,Married,Middle,Working class,1
+2019,JP-27 Osaka,Urban,Female,25-34,Japanese,Single,Higher,Upper class,1
+2019,JP-27 Osaka,Urban,Female,25-34,Japanese,Single,Higher,Working class,1
+2019,JP-27 Osaka,Urban,Female,25-34,Japanese,Single,Middle,Working class,1
+2019,JP-27 Osaka,Urban,Female,35-44,Japanese,Divorced,Higher,Lower class,1
+2019,JP-27 Osaka,Urban,Female,35-44,Japanese,Divorced,Lower,Working class,1
+2019,JP-27 Osaka,Urban,Female,35-44,Japanese,Married,Higher,Don't know,1
+2019,JP-27 Osaka,Urban,Female,35-44,Japanese,Married,Higher,Lower middle class,3
+2019,JP-27 Osaka,Urban,Female,35-44,Japanese,Married,Higher,Working class,3
+2019,JP-27 Osaka,Urban,Female,35-44,Japanese,Married,Middle,Lower middle class,1
+2019,JP-27 Osaka,Urban,Female,45-54,Japanese,Divorced,Middle,Lower class,1
+2019,JP-27 Osaka,Urban,Female,45-54,Japanese,Living together as married,Lower,Don't know,1
+2019,JP-27 Osaka,Urban,Female,45-54,Japanese,Married,Higher,Lower middle class,2
+2019,JP-27 Osaka,Urban,Female,45-54,Japanese,Married,Higher,Working class,1
+2019,JP-27 Osaka,Urban,Female,45-54,Japanese,Married,Middle,Lower middle class,2
+2019,JP-27 Osaka,Urban,Female,45-54,Japanese,Married,Middle,Upper middle class,1
+2019,JP-27 Osaka,Urban,Female,45-54,Japanese,Separated,Higher,Lower middle class,1
+2019,JP-27 Osaka,Urban,Female,55-64,Japanese,Married,Higher,Don't know,1
+2019,JP-27 Osaka,Urban,Female,55-64,Japanese,Married,Higher,Upper middle class,2
+2019,JP-27 Osaka,Urban,Female,55-64,Japanese,Married,Lower,Lower middle class,1
+2019,JP-27 Osaka,Urban,Female,55-64,Japanese,Married,Middle,Lower middle class,2
+2019,JP-27 Osaka,Urban,Female,55-64,Japanese,Married,Middle,Upper middle class,1
+2019,JP-27 Osaka,Urban,Female,55-64,Japanese,Married,Middle,Working class,2
+2019,JP-27 Osaka,Urban,Female,65 and more years,Japanese,Divorced,Higher,Working class,1
+2019,JP-27 Osaka,Urban,Female,65 and more years,Japanese,Married,Higher,Don't know,1
+2019,JP-27 Osaka,Urban,Female,65 and more years,Japanese,Married,Higher,Lower middle class,6
+2019,JP-27 Osaka,Urban,Female,65 and more years,Japanese,Married,Middle,Don't know,1
+2019,JP-27 Osaka,Urban,Female,65 and more years,Japanese,Married,Middle,Lower middle class,5
+2019,JP-27 Osaka,Urban,Female,65 and more years,Japanese,Married,Middle,Working class,2
+2019,JP-27 Osaka,Urban,Female,65 and more years,Japanese,Widowed,Higher,Lower class,1
+2019,JP-27 Osaka,Urban,Female,65 and more years,Japanese,Widowed,Higher,Upper class,1
+2019,JP-27 Osaka,Urban,Female,65 and more years,Japanese,Widowed,Higher,Upper middle class,1
+2019,JP-27 Osaka,Urban,Female,65 and more years,Japanese,Widowed,Middle,Lower middle class,1
+2019,JP-27 Osaka,Urban,Female,65 and more years,Japanese,Widowed,Middle,Upper middle class,1
+2019,JP-27 Osaka,Urban,Female,65 and more years,Japanese,Widowed,Middle,Working class,2
+2019,JP-27 Osaka,Urban,Female,65 and more years,No answer,No answer,No answer,Lower middle class,1
+2019,JP-27 Osaka,Urban,Female,65 and more years,No answer,No answer,No answer,No answer,1
+2019,JP-27 Osaka,Urban,Male,16-24,Japanese,Single,Higher,Lower middle class,2
+2019,JP-27 Osaka,Urban,Male,16-24,Japanese,Single,Higher,Upper middle class,1
+2019,JP-27 Osaka,Urban,Male,16-24,Japanese,Single,Higher,Working class,1
+2019,JP-27 Osaka,Urban,Male,25-34,Japanese,Married,Higher,Working class,2
+2019,JP-27 Osaka,Urban,Male,25-34,Japanese,Married,Middle,Lower middle class,1
+2019,JP-27 Osaka,Urban,Male,25-34,Japanese,Married,Middle,Working class,1
+2019,JP-27 Osaka,Urban,Male,25-34,Japanese,Single,Higher,Working class,1
+2019,JP-27 Osaka,Urban,Male,25-34,Japanese,Single,Middle,Lower middle class,1
+2019,JP-27 Osaka,Urban,Male,35-44,Japanese,Divorced,Higher,Lower middle class,1
+2019,JP-27 Osaka,Urban,Male,35-44,Japanese,Married,Higher,Lower middle class,3
+2019,JP-27 Osaka,Urban,Male,35-44,Japanese,Married,Middle,Working class,2
+2019,JP-27 Osaka,Urban,Male,45-54,Japanese,Living together as married,Middle,Working class,1
+2019,JP-27 Osaka,Urban,Male,45-54,Japanese,Married,Higher,Lower class,1
+2019,JP-27 Osaka,Urban,Male,45-54,Japanese,Married,Higher,Lower middle class,1
+2019,JP-27 Osaka,Urban,Male,45-54,Japanese,Married,Higher,Upper middle class,1
+2019,JP-27 Osaka,Urban,Male,45-54,Japanese,Married,Higher,Working class,3
+2019,JP-27 Osaka,Urban,Male,45-54,Japanese,Married,Lower,Don't know,1
+2019,JP-27 Osaka,Urban,Male,45-54,Japanese,Married,Lower,Working class,1
+2019,JP-27 Osaka,Urban,Male,45-54,Japanese,Married,Middle,Lower class,1
+2019,JP-27 Osaka,Urban,Male,45-54,Japanese,Married,Middle,Lower middle class,2
+2019,JP-27 Osaka,Urban,Male,45-54,Japanese,Married,Middle,Upper middle class,1
+2019,JP-27 Osaka,Urban,Male,45-54,Japanese,Married,Middle,Working class,1
+2019,JP-27 Osaka,Urban,Male,45-54,Japanese,Single,Higher,Lower middle class,1
+2019,JP-27 Osaka,Urban,Male,45-54,No answer,No answer,No answer,Working class,1
+2019,JP-27 Osaka,Urban,Male,55-64,Japanese,Married,Higher,Upper class,1
+2019,JP-27 Osaka,Urban,Male,55-64,Japanese,Married,Middle,Lower class,1
+2019,JP-27 Osaka,Urban,Male,65 and more years,Japanese,Married,Higher,Lower class,1
+2019,JP-27 Osaka,Urban,Male,65 and more years,Japanese,Married,Higher,Lower middle class,2
+2019,JP-27 Osaka,Urban,Male,65 and more years,Japanese,Married,Higher,Upper middle class,1
+2019,JP-27 Osaka,Urban,Male,65 and more years,Japanese,Married,Higher,Working class,4
+2019,JP-27 Osaka,Urban,Male,65 and more years,Japanese,Married,Lower,Lower class,1
+2019,JP-27 Osaka,Urban,Male,65 and more years,Japanese,Married,Lower,Working class,1
+2019,JP-27 Osaka,Urban,Male,65 and more years,Japanese,Married,Middle,Don't know,1
+2019,JP-27 Osaka,Urban,Male,65 and more years,Japanese,Married,Middle,Lower middle class,2
+2019,JP-27 Osaka,Urban,Male,65 and more years,Japanese,Married,Middle,Working class,2
+2019,JP-27 Osaka,Urban,Male,65 and more years,Japanese,Widowed,Higher,Lower middle class,1
+2019,JP-27 Osaka,Urban,Male,65 and more years,Japanese,Widowed,Higher,Upper middle class,1
+2019,JP-27 Osaka,Urban,Male,65 and more years,Japanese,Widowed,Higher,Working class,1
+2019,JP-28 Hyogo,Rural,Female,65 and more years,Japanese,Widowed,Middle,No answer,1
+2019,JP-28 Hyogo,Rural,Male,55-64,Japanese,Married,Higher,Don't know,1
+2019,JP-28 Hyogo,Rural,Male,55-64,Japanese,Married,Middle,Upper middle class,1
+2019,JP-28 Hyogo,Urban,Female,16-24,Japanese,Single,Higher,Lower middle class,2
+2019,JP-28 Hyogo,Urban,Female,16-24,Japanese,Single,Middle,Working class,2
+2019,JP-28 Hyogo,Urban,Female,25-34,Japanese,Married,Higher,Working class,1
+2019,JP-28 Hyogo,Urban,Female,25-34,Japanese,Married,Middle,Lower middle class,1
+2019,JP-28 Hyogo,Urban,Female,25-34,Japanese,Single,Higher,Lower middle class,1
+2019,JP-28 Hyogo,Urban,Female,35-44,Japanese,Married,Higher,Lower middle class,3
+2019,JP-28 Hyogo,Urban,Female,35-44,Japanese,Married,Higher,Upper middle class,2
+2019,JP-28 Hyogo,Urban,Female,35-44,Japanese,Married,Middle,Working class,1
+2019,JP-28 Hyogo,Urban,Female,45-54,Japanese,Married,Higher,Lower middle class,1
+2019,JP-28 Hyogo,Urban,Female,45-54,Japanese,Married,Middle,Lower middle class,2
+2019,JP-28 Hyogo,Urban,Female,45-54,Japanese,Married,Middle,Upper middle class,1
+2019,JP-28 Hyogo,Urban,Female,55-64,Japanese,Married,Higher,Lower middle class,3
+2019,JP-28 Hyogo,Urban,Female,55-64,Japanese,Married,Higher,Upper middle class,1
+2019,JP-28 Hyogo,Urban,Female,55-64,Japanese,Married,Higher,Working class,1
+2019,JP-28 Hyogo,Urban,Female,55-64,Japanese,Married,Middle,Lower middle class,3
+2019,JP-28 Hyogo,Urban,Female,55-64,Japanese,Widowed,Middle,Lower middle class,1
+2019,JP-28 Hyogo,Urban,Female,65 and more years,Japanese,Married,Higher,Upper middle class,1
+2019,JP-28 Hyogo,Urban,Female,65 and more years,Japanese,Married,Higher,Working class,2
+2019,JP-28 Hyogo,Urban,Female,65 and more years,Japanese,Married,Lower,Working class,1
+2019,JP-28 Hyogo,Urban,Female,65 and more years,Japanese,Married,Middle,Lower middle class,1
+2019,JP-28 Hyogo,Urban,Female,65 and more years,Japanese,Married,Middle,Upper middle class,1
+2019,JP-28 Hyogo,Urban,Female,65 and more years,Japanese,Widowed,Higher,Lower middle class,1
+2019,JP-28 Hyogo,Urban,Male,25-34,Japanese,Married,Higher,Upper middle class,1
+2019,JP-28 Hyogo,Urban,Male,25-34,Japanese,Married,Higher,Working class,1
+2019,JP-28 Hyogo,Urban,Male,35-44,Japanese,Married,Higher,Upper middle class,2
+2019,JP-28 Hyogo,Urban,Male,35-44,Japanese,Married,Middle,Working class,1
+2019,JP-28 Hyogo,Urban,Male,35-44,Japanese,Single,Higher,Lower middle class,1
+2019,JP-28 Hyogo,Urban,Male,45-54,Japanese,Divorced,Middle,Lower class,1
+2019,JP-28 Hyogo,Urban,Male,45-54,Japanese,Married,Higher,Lower class,2
+2019,JP-28 Hyogo,Urban,Male,45-54,Japanese,Married,Higher,Upper middle class,2
+2019,JP-28 Hyogo,Urban,Male,45-54,Japanese,Married,Higher,Working class,2
+2019,JP-28 Hyogo,Urban,Male,45-54,Japanese,Married,Middle,Lower class,1
+2019,JP-28 Hyogo,Urban,Male,45-54,Japanese,Single,Lower,Don't know,1
+2019,JP-28 Hyogo,Urban,Male,55-64,Japanese,Married,Higher,Lower middle class,1
+2019,JP-28 Hyogo,Urban,Male,55-64,Japanese,Married,Higher,Upper middle class,1
+2019,JP-28 Hyogo,Urban,Male,55-64,Japanese,Married,Higher,Working class,1
+2019,JP-28 Hyogo,Urban,Male,55-64,Japanese,Married,Middle,Lower middle class,1
+2019,JP-28 Hyogo,Urban,Male,65 and more years,Japanese,Divorced,Middle,Lower class,1
+2019,JP-28 Hyogo,Urban,Male,65 and more years,Japanese,Married,Higher,Lower middle class,1
+2019,JP-28 Hyogo,Urban,Male,65 and more years,Japanese,Married,Higher,Upper middle class,2
+2019,JP-28 Hyogo,Urban,Male,65 and more years,Japanese,Married,Higher,Working class,1
+2019,JP-28 Hyogo,Urban,Male,65 and more years,Japanese,Married,Lower,Lower middle class,1
+2019,JP-28 Hyogo,Urban,Male,65 and more years,Japanese,Married,Middle,Lower middle class,1
+2019,JP-28 Hyogo,Urban,Male,65 and more years,Japanese,Married,Middle,Working class,2
+2019,JP-29 Nara,Rural,Female,35-44,Japanese,Married,Higher,Upper middle class,1
+2019,JP-29 Nara,Rural,Female,65 and more years,Japanese,Married,Higher,Lower middle class,1
+2019,JP-29 Nara,Rural,Female,65 and more years,Japanese,Married,Higher,Working class,2
+2019,JP-29 Nara,Rural,Male,35-44,Japanese,Married,Higher,Don't know,1
+2019,JP-29 Nara,Rural,Male,35-44,Japanese,Married,Higher,Lower class,1
+2019,JP-29 Nara,Rural,Male,35-44,Japanese,Single,Higher,Lower middle class,1
+2019,JP-29 Nara,Rural,Male,65 and more years,Japanese,Married,Higher,Upper middle class,1
+2019,JP-29 Nara,Rural,Male,65 and more years,Japanese,Married,Middle,Don't know,1
+2019,JP-29 Nara,Urban,Female,25-34,Japanese,Married,Middle,Working class,1
+2019,JP-29 Nara,Urban,Female,25-34,Japanese,Single,Higher,Lower middle class,1
+2019,JP-29 Nara,Urban,Female,35-44,Japanese,Married,Higher,Working class,1
+2019,JP-29 Nara,Urban,Female,45-54,Japanese,Married,Higher,Upper middle class,1
+2019,JP-29 Nara,Urban,Female,65 and more years,Japanese,Married,Middle,Working class,1
+2019,JP-29 Nara,Urban,Female,65 and more years,Japanese,Married,No answer,Lower middle class,1
+2019,JP-29 Nara,Urban,Female,65 and more years,Japanese,Widowed,Middle,Upper class,1
+2019,JP-29 Nara,Urban,Male,35-44,Japanese,Married,Higher,Working class,1
+2019,JP-29 Nara,Urban,Male,45-54,Japanese,Married,Higher,Lower middle class,1
+2019,JP-29 Nara,Urban,Male,55-64,Japanese,Divorced,Higher,Working class,1
+2019,JP-29 Nara,Urban,Male,55-64,Japanese,Married,Higher,Lower class,1
+2019,JP-29 Nara,Urban,Male,55-64,Japanese,Married,Higher,Upper middle class,1
+2019,JP-29 Nara,Urban,Male,65 and more years,Japanese,Married,Higher,Working class,1
+2019,JP-29 Nara,Urban,Male,65 and more years,Japanese,Married,Lower,Lower middle class,1
+2019,JP-30 Wakayama,Rural,Female,25-34,Japanese,Single,Higher,Lower middle class,1
+2019,JP-30 Wakayama,Rural,Female,55-64,Japanese,Single,Higher,Working class,1
+2019,JP-30 Wakayama,Urban,Female,25-34,Japanese,Married,Higher,Lower middle class,1
+2019,JP-30 Wakayama,Urban,Female,25-34,Japanese,Single,Higher,Upper middle class,1
+2019,JP-30 Wakayama,Urban,Female,35-44,Japanese,Single,Middle,Lower middle class,1
+2019,JP-30 Wakayama,Urban,Female,45-54,Japanese,Married,Higher,Lower middle class,1
+2019,JP-30 Wakayama,Urban,Female,55-64,Japanese,Married,Higher,Lower middle class,1
+2019,JP-30 Wakayama,Urban,Female,65 and more years,Japanese,Widowed,Middle,Lower middle class,1
+2019,JP-30 Wakayama,Urban,Male,25-34,Japanese,Married,Middle,Lower middle class,1
+2019,JP-30 Wakayama,Urban,Male,55-64,Japanese,Married,Middle,Lower middle class,1
+2019,JP-32 Shimane,Urban,Female,35-44,Japanese,Married,Higher,Lower middle class,1
+2019,JP-32 Shimane,Urban,Female,55-64,Japanese,Divorced,Higher,Upper middle class,1
+2019,JP-32 Shimane,Urban,Female,65 and more years,Japanese,Married,Middle,Working class,1
+2019,JP-32 Shimane,Urban,Male,65 and more years,Japanese,Married,Lower,Working class,1
+2019,JP-33 Okayama,Rural,Female,35-44,Japanese,Married,Higher,Lower middle class,1
+2019,JP-33 Okayama,Rural,Female,55-64,Japanese,Married,Higher,Working class,1
+2019,JP-33 Okayama,Rural,Female,55-64,Japanese,Married,Middle,Lower middle class,1
+2019,JP-33 Okayama,Rural,Male,25-34,Japanese,Married,Higher,Lower middle class,1
+2019,JP-33 Okayama,Rural,Male,55-64,Japanese,Married,Higher,Lower middle class,1
+2019,JP-33 Okayama,Rural,Male,65 and more years,Japanese,Married,Higher,Upper middle class,1
+2019,JP-33 Okayama,Rural,Male,65 and more years,Japanese,Married,Middle,Upper middle class,1
+2019,JP-33 Okayama,Rural,Male,65 and more years,Japanese,Widowed,Higher,Lower middle class,1
+2019,JP-33 Okayama,Urban,Female,16-24,Japanese,Single,Higher,Working class,1
+2019,JP-33 Okayama,Urban,Female,16-24,Japanese,Single,Middle,Lower middle class,1
+2019,JP-33 Okayama,Urban,Female,25-34,Japanese,Married,Higher,Working class,1
+2019,JP-33 Okayama,Urban,Female,25-34,Japanese,Single,Higher,Working class,1
+2019,JP-33 Okayama,Urban,Female,35-44,Japanese,Married,Higher,Lower class,1
+2019,JP-33 Okayama,Urban,Female,35-44,Japanese,Married,Higher,Lower middle class,1
+2019,JP-33 Okayama,Urban,Female,45-54,Japanese,Divorced,Middle,Lower class,1
+2019,JP-33 Okayama,Urban,Female,45-54,Japanese,Married,Higher,Don't know,1
+2019,JP-33 Okayama,Urban,Female,45-54,Japanese,Married,Middle,Upper middle class,1
+2019,JP-33 Okayama,Urban,Female,55-64,Japanese,Married,Higher,Lower middle class,1
+2019,JP-33 Okayama,Urban,Female,55-64,Japanese,Married,Higher,Upper middle class,1
+2019,JP-33 Okayama,Urban,Female,55-64,Japanese,Married,Higher,Working class,1
+2019,JP-33 Okayama,Urban,Female,55-64,Japanese,Married,Middle,Lower middle class,1
+2019,JP-33 Okayama,Urban,Female,65 and more years,Japanese,Living together as married,Middle,Upper middle class,1
+2019,JP-33 Okayama,Urban,Female,65 and more years,Japanese,Married,Middle,Lower middle class,1
+2019,JP-33 Okayama,Urban,Female,65 and more years,Japanese,Widowed,Higher,Lower middle class,1
+2019,JP-33 Okayama,Urban,Female,65 and more years,Japanese,Widowed,Middle,Working class,1
+2019,JP-33 Okayama,Urban,Male,25-34,Japanese,Married,Higher,Lower middle class,1
+2019,JP-33 Okayama,Urban,Male,25-34,Japanese,Married,Higher,Upper middle class,1
+2019,JP-33 Okayama,Urban,Male,25-34,Japanese,Married,Middle,Lower middle class,1
+2019,JP-33 Okayama,Urban,Male,35-44,Japanese,Married,Higher,Lower middle class,1
+2019,JP-33 Okayama,Urban,Male,35-44,Japanese,Married,Higher,Working class,1
+2019,JP-33 Okayama,Urban,Male,35-44,Japanese,Married,Middle,Lower class,1
+2019,JP-33 Okayama,Urban,Male,35-44,Japanese,Married,Middle,Upper middle class,1
+2019,JP-33 Okayama,Urban,Male,35-44,Japanese,Single,Higher,Lower middle class,1
+2019,JP-33 Okayama,Urban,Male,35-44,Japanese,Widowed,Middle,Working class,1
+2019,JP-33 Okayama,Urban,Male,45-54,Japanese,Married,Higher,Lower class,1
+2019,JP-33 Okayama,Urban,Male,55-64,Japanese,Married,Higher,Lower middle class,1
+2019,JP-33 Okayama,Urban,Male,65 and more years,Japanese,Married,Higher,Upper middle class,1
+2019,JP-33 Okayama,Urban,Male,65 and more years,Japanese,Married,Higher,Working class,1
+2019,JP-33 Okayama,Urban,Male,65 and more years,Japanese,Married,Lower,Lower class,1
+2019,JP-33 Okayama,Urban,Male,65 and more years,Japanese,Married,Middle,Lower middle class,1
+2019,JP-33 Okayama,Urban,Male,65 and more years,Japanese,Married,Middle,Upper middle class,1
+2019,JP-33 Okayama,Urban,Male,65 and more years,Japanese,Married,Middle,Working class,1
+2019,JP-33 Okayama,Urban,Male,65 and more years,No answer,No answer,No answer,Lower middle class,1
+2019,JP-34 Hiroshima,Rural,Female,65 and more years,Japanese,Married,Higher,Lower middle class,1
+2019,JP-34 Hiroshima,Rural,Female,65 and more years,No answer,No answer,No answer,Lower class,1
+2019,JP-34 Hiroshima,Rural,Male,45-54,Japanese,Married,Middle,Working class,1
+2019,JP-34 Hiroshima,Rural,Male,55-64,Japanese,Married,Middle,Lower middle class,1
+2019,JP-34 Hiroshima,Urban,Female,25-34,Japanese,Married,Higher,Working class,1
+2019,JP-34 Hiroshima,Urban,Female,25-34,Japanese,Single,Higher,Lower middle class,1
+2019,JP-34 Hiroshima,Urban,Female,25-34,Japanese,Single,Higher,Upper middle class,1
+2019,JP-34 Hiroshima,Urban,Female,35-44,Japanese,Divorced,Middle,Lower middle class,1
+2019,JP-34 Hiroshima,Urban,Female,35-44,Japanese,Married,Higher,Lower middle class,1
+2019,JP-34 Hiroshima,Urban,Female,35-44,Japanese,Married,Middle,Working class,1
+2019,JP-34 Hiroshima,Urban,Female,45-54,Japanese,Married,Higher,Lower middle class,1
+2019,JP-34 Hiroshima,Urban,Female,45-54,Japanese,Married,Higher,Upper middle class,1
+2019,JP-34 Hiroshima,Urban,Female,45-54,Japanese,Married,Middle,Lower middle class,1
+2019,JP-34 Hiroshima,Urban,Female,45-54,Japanese,Married,Middle,Upper middle class,1
+2019,JP-34 Hiroshima,Urban,Female,55-64,Japanese,Divorced,Higher,Lower class,1
+2019,JP-34 Hiroshima,Urban,Female,55-64,Japanese,Married,Lower,Lower middle class,1
+2019,JP-34 Hiroshima,Urban,Female,65 and more years,Japanese,Divorced,Higher,Upper middle class,1
+2019,JP-34 Hiroshima,Urban,Female,65 and more years,Japanese,Married,Higher,Lower middle class,3
+2019,JP-34 Hiroshima,Urban,Female,65 and more years,Japanese,Married,Middle,Lower middle class,1
+2019,JP-34 Hiroshima,Urban,Female,65 and more years,Japanese,Married,Middle,Upper middle class,1
+2019,JP-34 Hiroshima,Urban,Female,65 and more years,Japanese,Married,Middle,Working class,1
+2019,JP-34 Hiroshima,Urban,Female,65 and more years,Japanese,Widowed,Higher,Upper middle class,1
+2019,JP-34 Hiroshima,Urban,Male,16-24,Japanese,Single,Higher,Don't know,1
+2019,JP-34 Hiroshima,Urban,Male,16-24,Japanese,Single,Higher,Upper middle class,1
+2019,JP-34 Hiroshima,Urban,Male,25-34,Japanese,Single,Higher,Don't know,1
+2019,JP-34 Hiroshima,Urban,Male,35-44,Japanese,Married,Higher,Lower middle class,1
+2019,JP-34 Hiroshima,Urban,Male,55-64,Japanese,Married,Higher,Don't know,1
+2019,JP-34 Hiroshima,Urban,Male,65 and more years,Japanese,Married,Higher,Lower middle class,1
+2019,JP-34 Hiroshima,Urban,Male,65 and more years,Japanese,Married,Lower,Lower middle class,1
+2019,JP-34 Hiroshima,Urban,Male,65 and more years,Japanese,Married,Lower,Upper middle class,1
+2019,JP-34 Hiroshima,Urban,Male,65 and more years,Japanese,Married,Middle,Lower middle class,1
+2019,JP-34 Hiroshima,Urban,Male,65 and more years,Japanese,Married,Middle,Upper middle class,1
+2019,JP-34 Hiroshima,Urban,Male,65 and more years,Japanese,Single,Middle,Working class,1
+2019,JP-35 Yamaguchi,Urban,Female,25-34,Japanese,Married,Middle,Lower middle class,1
+2019,JP-35 Yamaguchi,Urban,Female,35-44,Japanese,Married,Higher,Working class,1
+2019,JP-35 Yamaguchi,Urban,Female,45-54,Japanese,Married,Higher,Lower middle class,1
+2019,JP-35 Yamaguchi,Urban,Female,45-54,Japanese,Single,Middle,Lower middle class,1
+2019,JP-35 Yamaguchi,Urban,Female,55-64,Japanese,Married,Higher,Lower middle class,1
+2019,JP-35 Yamaguchi,Urban,Female,55-64,Japanese,Married,Middle,Lower middle class,1
+2019,JP-35 Yamaguchi,Urban,Female,65 and more years,Japanese,Married,Middle,Lower middle class,1
+2019,JP-35 Yamaguchi,Urban,Female,65 and more years,Japanese,Single,Middle,Working class,1
+2019,JP-35 Yamaguchi,Urban,Female,65 and more years,Japanese,Widowed,Lower,Lower middle class,1
+2019,JP-35 Yamaguchi,Urban,Female,65 and more years,Japanese,Widowed,Middle,Lower middle class,2
+2019,JP-35 Yamaguchi,Urban,Male,55-64,Japanese,Divorced,Higher,Lower middle class,1
+2019,JP-35 Yamaguchi,Urban,Male,65 and more years,Japanese,Married,Higher,No answer,1
+2019,JP-35 Yamaguchi,Urban,Male,65 and more years,Japanese,Married,Middle,Working class,1
+2019,JP-35 Yamaguchi,Urban,Male,65 and more years,Japanese,Widowed,Middle,Lower class,1
+2019,JP-36 Tokushima,Rural,Female,65 and more years,Japanese,Married,Middle,Lower middle class,1
+2019,JP-36 Tokushima,Urban,Female,25-34,Japanese,Married,Higher,Lower middle class,1
+2019,JP-36 Tokushima,Urban,Female,25-34,Japanese,Single,Higher,Upper middle class,1
+2019,JP-36 Tokushima,Urban,Female,35-44,Japanese,Single,Middle,Lower middle class,1
+2019,JP-36 Tokushima,Urban,Female,65 and more years,Japanese,Divorced,Middle,Lower middle class,1
+2019,JP-37 Kagawa,Urban,Female,25-34,Japanese,Married,Higher,Lower middle class,1
+2019,JP-37 Kagawa,Urban,Female,25-34,Japanese,Single,Middle,Don't know,1
+2019,JP-37 Kagawa,Urban,Female,35-44,Japanese,Married,Higher,Lower middle class,2
+2019,JP-37 Kagawa,Urban,Female,45-54,Japanese,Married,Middle,Lower middle class,1
+2019,JP-37 Kagawa,Urban,Female,45-54,Japanese,Single,Middle,Lower middle class,1
+2019,JP-37 Kagawa,Urban,Female,65 and more years,Japanese,Married,Lower,Working class,1
+2019,JP-37 Kagawa,Urban,Female,65 and more years,Japanese,Widowed,Higher,Lower middle class,1
+2019,JP-37 Kagawa,Urban,Female,65 and more years,Japanese,Widowed,Higher,Working class,1
+2019,JP-37 Kagawa,Urban,Male,35-44,Japanese,Divorced,Middle,Lower class,1
+2019,JP-37 Kagawa,Urban,Male,55-64,Japanese,Married,Middle,Working class,1
+2019,JP-37 Kagawa,Urban,Male,65 and more years,Japanese,Married,Higher,Lower middle class,2
+2019,JP-37 Kagawa,Urban,Male,65 and more years,Japanese,Married,Middle,Lower middle class,1
+2019,JP-38 Ehime,Urban,Female,16-24,Japanese,Single,Higher,Lower middle class,1
+2019,JP-38 Ehime,Urban,Female,45-54,Japanese,Married,Higher,Upper middle class,1
+2019,JP-38 Ehime,Urban,Female,45-54,Japanese,Married,Middle,Upper middle class,1
+2019,JP-38 Ehime,Urban,Female,55-64,Japanese,Divorced,Middle,Lower class,1
+2019,JP-38 Ehime,Urban,Female,65 and more years,Japanese,Married,Middle,Working class,1
+2019,JP-38 Ehime,Urban,Female,65 and more years,Japanese,Single,Higher,Lower middle class,1
+2019,JP-38 Ehime,Urban,Female,65 and more years,Japanese,Widowed,Middle,Working class,1
+2019,JP-38 Ehime,Urban,Male,16-24,Japanese,Single,Higher,Working class,1
+2019,JP-39 Kochi,Rural,Female,16-24,Japanese,Single,Higher,Lower middle class,1
+2019,JP-39 Kochi,Rural,Female,55-64,Japanese,Married,Middle,Lower middle class,1
+2019,JP-39 Kochi,Rural,Female,65 and more years,Japanese,Married,Lower,Lower class,1
+2019,JP-39 Kochi,Rural,Female,65 and more years,Japanese,Widowed,Middle,Lower middle class,1
+2019,JP-39 Kochi,Rural,Male,45-54,Japanese,Married,Higher,Working class,1
+2019,JP-39 Kochi,Urban,Female,16-24,Japanese,Single,Middle,Lower class,1
+2019,JP-39 Kochi,Urban,Female,45-54,Japanese,Divorced,Higher,Lower middle class,1
+2019,JP-39 Kochi,Urban,Female,65 and more years,Japanese,Married,Middle,Working class,1
+2019,JP-39 Kochi,Urban,Male,35-44,Japanese,Married,Higher,Lower class,1
+2019,JP-39 Kochi,Urban,Male,35-44,Japanese,Married,Middle,Lower middle class,1
+2019,JP-39 Kochi,Urban,Male,55-64,Japanese,Married,Higher,Lower middle class,1
+2019,JP-40 Fukuoka,Rural,Female,25-34,Japanese,Married,Middle,Lower middle class,1
+2019,JP-40 Fukuoka,Rural,Female,35-44,Japanese,Divorced,Middle,Working class,1
+2019,JP-40 Fukuoka,Rural,Female,65 and more years,Japanese,Divorced,Higher,Lower middle class,1
+2019,JP-40 Fukuoka,Rural,Female,65 and more years,Japanese,Married,Lower,Working class,1
+2019,JP-40 Fukuoka,Rural,Male,65 and more years,Japanese,Married,Lower,Lower middle class,1
+2019,JP-40 Fukuoka,Urban,Female,25-34,Japanese,Married,Higher,Upper middle class,1
+2019,JP-40 Fukuoka,Urban,Female,25-34,Japanese,Single,Higher,Lower middle class,1
+2019,JP-40 Fukuoka,Urban,Female,35-44,Japanese,Married,Higher,Lower middle class,2
+2019,JP-40 Fukuoka,Urban,Female,35-44,Japanese,Married,Higher,Working class,1
+2019,JP-40 Fukuoka,Urban,Female,35-44,Japanese,Married,Middle,Upper middle class,1
+2019,JP-40 Fukuoka,Urban,Female,45-54,Japanese,Married,Higher,Upper middle class,1
+2019,JP-40 Fukuoka,Urban,Female,45-54,Japanese,Married,Higher,Working class,1
+2019,JP-40 Fukuoka,Urban,Female,45-54,Japanese,Married,Middle,Lower middle class,2
+2019,JP-40 Fukuoka,Urban,Female,55-64,Japanese,Married,Middle,Lower middle class,1
+2019,JP-40 Fukuoka,Urban,Female,55-64,Japanese,Married,Middle,Upper middle class,1
+2019,JP-40 Fukuoka,Urban,Female,55-64,Japanese,Widowed,Middle,Upper middle class,1
+2019,JP-40 Fukuoka,Urban,Female,65 and more years,Japanese,Divorced,Higher,Upper middle class,1
+2019,JP-40 Fukuoka,Urban,Female,65 and more years,Japanese,Divorced,Middle,Working class,1
+2019,JP-40 Fukuoka,Urban,Female,65 and more years,Japanese,Married,Higher,Lower middle class,1
+2019,JP-40 Fukuoka,Urban,Female,65 and more years,Japanese,Married,Lower,Lower middle class,1
+2019,JP-40 Fukuoka,Urban,Female,65 and more years,Japanese,Married,Middle,Lower middle class,2
+2019,JP-40 Fukuoka,Urban,Female,65 and more years,Japanese,Separated,Middle,Working class,1
+2019,JP-40 Fukuoka,Urban,Female,65 and more years,Japanese,Single,Higher,Lower middle class,1
+2019,JP-40 Fukuoka,Urban,Male,16-24,Japanese,Single,Higher,Upper middle class,1
+2019,JP-40 Fukuoka,Urban,Male,16-24,Japanese,Single,Middle,Lower middle class,1
+2019,JP-40 Fukuoka,Urban,Male,35-44,Japanese,Married,Middle,Lower middle class,1
+2019,JP-40 Fukuoka,Urban,Male,45-54,Japanese,Married,Higher,Lower middle class,1
+2019,JP-40 Fukuoka,Urban,Male,45-54,Japanese,Married,Middle,Lower middle class,1
+2019,JP-40 Fukuoka,Urban,Male,45-54,Japanese,Married,Middle,Upper middle class,1
+2019,JP-40 Fukuoka,Urban,Male,55-64,Japanese,Married,Higher,Lower middle class,1
+2019,JP-40 Fukuoka,Urban,Male,55-64,Japanese,Married,Higher,Working class,1
+2019,JP-40 Fukuoka,Urban,Male,55-64,Japanese,Married,Middle,Lower middle class,1
+2019,JP-40 Fukuoka,Urban,Male,65 and more years,Japanese,Married,Higher,Lower middle class,3
+2019,JP-40 Fukuoka,Urban,Male,65 and more years,Japanese,Married,Higher,No answer,1
+2019,JP-40 Fukuoka,Urban,Male,65 and more years,Japanese,Married,Higher,Working class,2
+2019,JP-40 Fukuoka,Urban,Male,65 and more years,Japanese,Married,Middle,Upper middle class,1
+2019,JP-40 Fukuoka,Urban,Male,65 and more years,Japanese,Married,Middle,Working class,2
+2019,JP-40 Fukuoka,Urban,Male,65 and more years,Japanese,Single,Higher,Lower class,1
+2019,JP-40 Fukuoka,Urban,Male,65 and more years,Japanese,Widowed,Higher,Working class,1
+2019,JP-41 Saga,Urban,Female,25-34,Japanese,Single,Higher,Working class,1
+2019,JP-41 Saga,Urban,Female,35-44,Japanese,Married,Middle,Don't know,1
+2019,JP-41 Saga,Urban,Female,65 and more years,Japanese,Married,Higher,Lower middle class,1
+2019,JP-41 Saga,Urban,Female,65 and more years,Japanese,Widowed,Middle,Working class,1
+2019,JP-41 Saga,Urban,Male,35-44,Japanese,Married,Middle,Lower middle class,1
+2019,JP-41 Saga,Urban,Male,55-64,Japanese,Married,Higher,Working class,1
+2019,JP-42 Nagasaki,Urban,Female,65 and more years,Japanese,Widowed,Lower,Working class,1
+2019,JP-43 Kumamoto,Rural,Female,65 and more years,Japanese,Married,Higher,Lower middle class,1
+2019,JP-43 Kumamoto,Rural,Female,65 and more years,Japanese,Widowed,Higher,Working class,1
+2019,JP-43 Kumamoto,Rural,Female,65 and more years,Japanese,Widowed,Lower,Lower middle class,1
+2019,JP-43 Kumamoto,Rural,Female,65 and more years,Japanese,Widowed,Middle,Working class,1
+2019,JP-43 Kumamoto,Rural,Male,45-54,Japanese,Married,Middle,Lower class,1
+2019,JP-43 Kumamoto,Rural,Male,55-64,Japanese,Married,Higher,Working class,1
+2019,JP-43 Kumamoto,Urban,Female,16-24,Japanese,Single,Middle,Lower middle class,1
+2019,JP-43 Kumamoto,Urban,Female,35-44,Japanese,Single,Middle,Upper middle class,1
+2019,JP-43 Kumamoto,Urban,Female,45-54,Japanese,Married,Middle,Lower class,1
+2019,JP-43 Kumamoto,Urban,Female,55-64,Japanese,Married,Middle,Lower middle class,1
+2019,JP-43 Kumamoto,Urban,Female,65 and more years,Japanese,Divorced,Middle,Lower class,1
+2019,JP-43 Kumamoto,Urban,Female,65 and more years,Japanese,Married,Middle,Don't know,1
+2019,JP-43 Kumamoto,Urban,Female,65 and more years,Japanese,Married,Middle,Lower middle class,1
+2019,JP-43 Kumamoto,Urban,Female,65 and more years,Japanese,Married,Middle,Working class,1
+2019,JP-43 Kumamoto,Urban,Female,65 and more years,Japanese,Widowed,Middle,Lower class,1
+2019,JP-43 Kumamoto,Urban,Male,25-34,Japanese,Married,Higher,Upper middle class,1
+2019,JP-43 Kumamoto,Urban,Male,25-34,Japanese,Married,Middle,Lower class,1
+2019,JP-43 Kumamoto,Urban,Male,45-54,Japanese,Married,Higher,Upper middle class,1
+2019,JP-43 Kumamoto,Urban,Male,55-64,Japanese,Married,Higher,Working class,1
+2019,JP-43 Kumamoto,Urban,Male,65 and more years,Japanese,Living together as married,Middle,Working class,1
+2019,JP-43 Kumamoto,Urban,Male,65 and more years,Japanese,Married,Higher,Lower middle class,1
+2019,JP-43 Kumamoto,Urban,Male,65 and more years,Japanese,Married,Higher,Working class,1
+2019,JP-43 Kumamoto,Urban,Male,65 and more years,Japanese,Married,Middle,No answer,1
+2019,JP-44 Oita,Urban,Female,25-34,Japanese,Married,Higher,Lower middle class,1
+2019,JP-44 Oita,Urban,Female,25-34,Japanese,Married,Middle,Working class,1
+2019,JP-44 Oita,Urban,Female,25-34,Japanese,Single,Higher,Upper class,1
+2019,JP-44 Oita,Urban,Female,35-44,Japanese,Married,Middle,Lower class,1
+2019,JP-44 Oita,Urban,Female,55-64,Japanese,Divorced,Middle,Working class,1
+2019,JP-44 Oita,Urban,Female,55-64,Japanese,Married,Higher,Working class,1
+2019,JP-44 Oita,Urban,Female,55-64,Japanese,Married,Middle,Lower middle class,1
+2019,JP-44 Oita,Urban,Female,55-64,Japanese,Single,Higher,Working class,1
+2019,JP-44 Oita,Urban,Female,65 and more years,Japanese,Divorced,Middle,Lower middle class,1
+2019,JP-44 Oita,Urban,Female,65 and more years,Japanese,Married,Middle,Lower middle class,1
+2019,JP-44 Oita,Urban,Female,65 and more years,Japanese,Widowed,Higher,Lower middle class,1
+2019,JP-44 Oita,Urban,Female,65 and more years,Japanese,Widowed,Lower,Working class,1
+2019,JP-44 Oita,Urban,Female,65 and more years,Japanese,Widowed,Middle,Lower class,1
+2019,JP-44 Oita,Urban,Male,45-54,Japanese,Married,Middle,Working class,1
+2019,JP-44 Oita,Urban,Male,55-64,Japanese,Married,Higher,Lower middle class,1
+2019,JP-44 Oita,Urban,Male,55-64,Japanese,Single,Middle,Lower class,1
+2019,JP-44 Oita,Urban,Male,65 and more years,Japanese,Married,Middle,Lower middle class,1
+2019,JP-44 Oita,Urban,Male,65 and more years,Japanese,Married,Middle,Working class,1
+2019,JP-46 Kagoshima,Rural,Female,16-24,Japanese,Single,Higher,Lower middle class,1
+2019,JP-46 Kagoshima,Urban,Female,25-34,Japanese,Married,Middle,Lower middle class,1
+2019,JP-46 Kagoshima,Urban,Female,25-34,Japanese,Married,No answer,No answer,1
+2019,JP-46 Kagoshima,Urban,Female,25-34,Japanese,Single,Higher,Lower middle class,1
+2019,JP-46 Kagoshima,Urban,Female,35-44,Japanese,Married,Higher,Working class,1
+2019,JP-46 Kagoshima,Urban,Female,55-64,Japanese,Married,Middle,Lower middle class,2
+2019,JP-46 Kagoshima,Urban,Female,65 and more years,Japanese,Married,Middle,Lower middle class,1
+2019,JP-46 Kagoshima,Urban,Male,16-24,Japanese,Single,Middle,Working class,1
+2019,JP-46 Kagoshima,Urban,Male,65 and more years,Japanese,Married,Higher,No answer,1
+2019,JP-46 Kagoshima,Urban,Male,65 and more years,Japanese,Married,Higher,Upper middle class,1
+2019,JP-46 Kagoshima,Urban,Male,65 and more years,Japanese,Married,Higher,Working class,1
+2019,JP-47 Okinawa,Rural,Female,35-44,Japanese,Married,Higher,Working class,1
+2019,JP-47 Okinawa,Urban,Female,16-24,Japanese,Single,Higher,Upper class,1
+2019,JP-47 Okinawa,Urban,Female,35-44,Japanese,Married,Middle,Lower middle class,1

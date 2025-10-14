@@ -1,0 +1,17 @@
+A_YEAR: Year of survey,N_REGION_ISO: Region ISO 3166-2,H_URBRURAL: Urban-Rural,Q260: Sex,X003R: Age recoded (6 intervals),Q272: Language at home,Q273: Marital status,Q275R: Highest educational level: Respondent (recoded into 3 groups),Q287: Social class (subjective),Counts
+2019,JP-01 Hokkaido,Urban,Female,55-64,Japanese,Married,Higher,Upper middle class,4
+2019,JP-12 Chiba,Urban,Male,65 and more years,Japanese,Married,Higher,Lower middle class,4
+2019,JP-13 Tokyo,Urban,Female,35-44,Japanese,Married,Higher,Lower middle class,5
+2019,JP-13 Tokyo,Urban,Female,45-54,Japanese,Married,Higher,Lower middle class,4
+2019,JP-13 Tokyo,Urban,Female,55-64,Japanese,Married,Higher,Lower middle class,6
+2019,JP-13 Tokyo,Urban,Male,55-64,Japanese,Married,Higher,Lower middle class,4
+2019,JP-13 Tokyo,Urban,Male,65 and more years,Japanese,Married,Higher,Lower middle class,5
+2019,JP-14 Kanagawa,Urban,Female,55-64,Japanese,Married,Higher,Lower middle class,4
+2019,JP-14 Kanagawa,Urban,Male,65 and more years,Japanese,Married,Higher,Lower middle class,5
+2019,JP-22 Shizuoka,Urban,Female,65 and more years,Japanese,Married,Higher,Lower middle class,4
+2019,JP-23 Aichi,Urban,Female,35-44,Japanese,Married,Higher,Lower middle class,4
+2019,JP-23 Aichi,Urban,Female,65 and more years,Japanese,Married,Middle,Lower middle class,4
+2019,JP-23 Aichi,Urban,Male,65 and more years,Japanese,Married,Middle,Lower middle class,4
+2019,JP-27 Osaka,Urban,Female,65 and more years,Japanese,Married,Higher,Lower middle class,6
+2019,JP-27 Osaka,Urban,Female,65 and more years,Japanese,Married,Middle,Lower middle class,5
+2019,JP-27 Osaka,Urban,Male,65 and more years,Japanese,Married,Higher,Working class,4

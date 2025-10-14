@@ -1,4 +1,4 @@
-{
+{   
     "Q1": {
         "description": "Important in life: Family",
         "questions": [
@@ -9,10 +9,9 @@
         ],
         "options": [
             "Very important",
-            "Rather important",
+            "Rather important", "Don't know",
             "Not very important",
-            "Not at all important",
-            "Don't know"
+            "Not at all important"
         ]
     },
     "Q2": {
@@ -25,10 +24,9 @@
         ],
         "options": [
             "Very important",
-            "Rather important",
+            "Rather important", "Don't know",
             "Not very important",
-            "Not at all important",
-            "Don't know"
+            "Not at all important"
         ]
     },
     "Q3": {
@@ -41,10 +39,9 @@
         ],
         "options": [
             "Very important",
-            "Rather important",
+            "Rather important", "Don't know",
             "Not very important",
-            "Not at all important",
-            "Don't know"
+            "Not at all important"
         ]
     },
     "Q4": {
@@ -57,10 +54,10 @@
         ],
         "options": [
             "Very important",
-            "Rather important",
+            "Rather important", "Don't know",
             "Not very important",
-            "Not at all important",
-            "Don't know"
+            "Not at all important"
+            
         ]
     },
     "Q5": {
@@ -73,10 +70,10 @@
         ],
         "options": [
             "Very important",
-            "Rather important",
+            "Rather important", "Don't know",
             "Not very important",
-            "Not at all important",
-            "Don't know"
+            "Not at all important"
+            
         ]
     },
     "Q6": {
@@ -89,10 +86,10 @@
         ],
         "options": [
             "Very important",
-            "Rather important",
+            "Rather important", "Don't know",
             "Not very important",
-            "Not at all important",
-            "Don't know"
+            "Not at all important"
+            
         ]
     },
     "Q7": {
@@ -104,9 +101,7 @@
             "Would you consider good manners as a crucial characteristic in children?"
         ],
         "options": [
-            "Important",
-            "Not mentioned",
-            "Don't know"
+            "Important", "Don't know", "Not important"
         ]
     },
     "Q8": {
@@ -118,9 +113,7 @@
             "Do you know if independence is considered an important quality in a child?"
         ],
         "options": [
-            "Important",
-            "Not mentioned",
-            "Don't know"
+            "Important", "Don't know", "Not important"
         ]
     },
     "Q9": {
@@ -132,9 +125,7 @@
             "In your opinion, is hard work an important child quality?"
         ],
         "options": [
-            "Important",
-            "Not mentioned",
-            "Don't know"
+            "Important", "Don't know", "Not important"
         ]
     },
     "Q10": {
@@ -146,9 +137,7 @@
             "Do you know if feeling of responsibility is considered important for children?"
         ],
         "options": [
-            "Important",
-            "Not mentioned",
-            "Don't know"
+            "Important", "Don't know", "Not important"
         ]
     },
     "Q11": {
@@ -160,9 +149,7 @@
             "Are you of the opinion that imagination plays a crucial role in a child's development?"
         ],
         "options": [
-            "Important",
-            "Not mentioned",
-            "Don't know"
+            "Important", "Don't know", "Not important"
         ]
     },
     "Q12": {
@@ -174,9 +161,7 @@
             "Do you consider tolerance and respect for other people to be significant when it comes to children?"
         ],
         "options": [
-            "Important",
-            "Not mentioned",
-            "Don't know"
+            "Important", "Don't know", "Not important"
         ]
     },
     "Q13": {
@@ -188,9 +173,7 @@
             "Would you say thrift and saving money and things are important characteristics to have as a child?"
         ],
         "options": [
-            "Important",
-            "Not mentioned",
-            "Don't know"
+            "Important", "Don't know", "Not important"
         ]
     },
     "Q14": {
@@ -202,9 +185,7 @@
             "Would you say determination and perseverance are qualities that are not known in a child?"
         ],
         "options": [
-            "Important",
-            "Not mentioned",
-            "Don't know"
+            "Important", "Don't know", "Not important"
         ]
     },
     "Q15": {
@@ -216,9 +197,7 @@
             "Do you consider religious faith to be an important trait in children?"
         ],
         "options": [
-            "Important",
-            "Not mentioned",
-            "Don't know"
+            "Important", "Don't know", "Not important"
         ]
     },
     "Q16": {
@@ -230,9 +209,7 @@
             "When considering child qualities, do you think unselfishness is significant?"
         ],
         "options": [
-            "Important",
-            "Not mentioned",
-            "Don't know"
+            "Important", "Don't know", "Not important"
         ]
     },
     "Q17": {
@@ -244,9 +221,7 @@
             "In your perspective, how significant is obedience when it comes to child development?"
         ],
         "options": [
-            "Important",
-            "Not mentioned",
-            "Don't know"
+            "Important", "Don't know", "Not important"
         ]
     },
     "Q18": {
@@ -258,9 +233,7 @@
             "Do you know if your neighbors are drug addicts?"
         ],
         "options": [
-            "Important",
-            "Not mentioned",
-            "Don't know"
+            "Important", "Don't know", "Not important"
         ]
     },
     "Q19": {
@@ -272,9 +245,7 @@
             "Do you have neighbors who are people of a different race but you don't know?"
         ],
         "options": [
-            "Important",
-            "Not mentioned",
-            "Don't know"
+            "Important", "Don't know", "Not important"
         ]
     },
     "Q20": {
@@ -286,9 +257,7 @@
             "How aware are you of the specific challenges and needs faced by neighbors who have AIDS?"
         ],
         "options": [
-            "Important",
-            "Not mentioned",
-            "Don't know"
+            "Important", "Don't know", "Not important"
         ]
     },
     "Q21": {
@@ -300,9 +269,7 @@
             "Are your neighbors' immigrant/foreign worker status not mentioned to you?"
         ],
         "options": [
-            "Important",
-            "Not mentioned",
-            "Don't know"
+            "Important", "Don't know", "Not important"
         ]
     },
     "Q22": {
@@ -314,9 +281,7 @@
             "Do you know the sexual orientation of your neighbors?"
         ],
         "options": [
-            "Important",
-            "Not mentioned",
-            "Don't know"
+            "Important", "Don't know", "Not important"
         ]
     },
     "Q23": {
@@ -328,9 +293,7 @@
             "Are you aware of the religious background of your neighbors?"
         ],
         "options": [
-            "Important",
-            "Not mentioned",
-            "Don't know"
+            "Important", "Don't know", "Not important"
         ]
     },
     "Q24": {
@@ -342,11 +305,23 @@
             "Are heavy drinking habits of neighbors important to you?"
         ],
         "options": [
-            "Important",
-            "Not mentioned",
-            "Don't know"
+            "Important", "Don't know", "Not important"
         ]
     },
+    "Q25":{
+        "description":"Neighbors: Unmarried couples living together",
+        "questions":[
+            "What is your opinion on neighbors who are unmarried couples living together?",
+            "How would you feel about having unmarried couples as neighbors?",
+            "Do you think it is important to mention the relationship status of your neighbors?",
+            "Do you know the relationship status of your neighbors?"
+        ],
+        "options":[
+            "Important", "Don't know", "Not important"
+        ]
+    },
+
+
     "Q26": {
         "description": "Neighbors: People who speak a different language",
         "questions": [
@@ -356,9 +331,7 @@
             "Are you aware if neighbors speaking a different language is mentioned?"
         ],
         "options": [
-            "Important",
-            "Not mentioned",
-            "Don't know"
+            "Important", "Don't know", "Not important"
         ]
     },
     "Q27": {
@@ -371,10 +344,10 @@
         ],
         "options": [
             "Agree strongly",
-            "Agree",
+            "Agree", "Don't know",
             "Disagree",
-            "Strongly disagree",
-            "Don't know"
+            "Strongly disagree"
+            
         ]
     },
     "Q28": {
@@ -387,10 +360,10 @@
         ],
         "options": [
             "Agree strongly",
-            "Agree",
+            "Agree", "Don't know",
             "Disagree",
-            "Strongly disagree",
-            "Don't know"
+            "Strongly disagree"
+            
         ]
     },
     "Q29": {
@@ -403,10 +376,10 @@
         ],
         "options": [
             "Agree strongly",
-            "Agree",
+            "Agree", "Don't know",
             "Disagree",
-            "Strongly disagree",
-            "Don't know"
+            "Strongly disagree"
+            
         ]
     },
     "Q30": {
@@ -419,10 +392,10 @@
         ],
         "options": [
             "Agree strongly",
-            "Agree",
+            "Agree", "Don't know",
             "Disagree",
-            "Strongly disagree",
-            "Don't know"
+            "Strongly disagree"
+            
         ]
     },
     "Q31": {
@@ -435,10 +408,10 @@
         ],
         "options": [
             "Agree strongly",
-            "Agree",
+            "Agree", "Don't know",
             "Disagree",
-            "Strongly disagree",
-            "Don't know"
+            "Strongly disagree"
+            
         ]
     },
     "Q32": {
@@ -451,10 +424,10 @@
         ],
         "options": [
             "Agree strongly",
-            "Agree",
+            "Agree", "Don't know",
             "Disagree",
-            "Strongly disagree",
-            "Don't know"
+            "Strongly disagree"
+            
         ]
     },
     "Q33": {
@@ -468,10 +441,10 @@
         "options": [
             "Agree strongly",
             "Agree",
-            "Neither agree nor disagree",
+            "Neither agree nor disagree", "Don't know",
             "Disagree",
-            "Disagree strongly",
-            "Don't know"
+            "Disagree strongly"
+            
         ]
     },
     "Q34": {
@@ -485,10 +458,10 @@
         "options": [
             "Agree strongly",
             "Agree",
-            "Neither agree nor disagree",
+            "Neither agree nor disagree", "Don't know",
             "Disagree",
-            "Disagree strongly",
-            "Don't know"
+            "Disagree strongly"
+            
         ]
     },
     "Q35": {
@@ -502,10 +475,10 @@
         "options": [
             "Agree strongly",
             "Agree",
-            "Neither agree nor disagree",
+            "Neither agree nor disagree", "Don't know",
             "Disagree",
-            "Disagree strongly",
-            "Don't know"
+            "Disagree strongly"
+            
         ]
     },
     "Q37": {
@@ -519,10 +492,10 @@
         "options": [
             "Agree strongly",
             "Agree",
-            "Neither agree nor disagree",
+            "Neither agree nor disagree", "Don't know",
             "Disagree",
-            "Disagree strongly",
-            "Don't know"
+            "Disagree strongly"
+            
         ]
     },
     "Q38": {
@@ -536,10 +509,10 @@
         "options": [
             "Agree strongly",
             "Agree",
-            "Neither agree nor disagree",
+            "Neither agree nor disagree", "Don't know",
             "Disagree",
-            "Disagree strongly",
-            "Don't know"
+            "Disagree strongly"
+            
         ]
     },
     "Q39": {
@@ -553,10 +526,10 @@
         "options": [
             "Agree strongly",
             "Agree",
-            "Neither agree nor disagree",
+            "Neither agree nor disagree", "Don't know",
             "Disagree",
-            "Disagree strongly",
-            "Don't know"
+            "Disagree strongly"
+            
         ]
     },
     "Q40": {
@@ -570,10 +543,10 @@
         "options": [
             "Agree strongly",
             "Agree",
-            "Neither agree nor disagree",
+            "Neither agree nor disagree", "Don't know",
             "Disagree",
-            "Disagree strongly",
-            "Don't know"
+            "Disagree strongly"
+            
         ]
     },
     "Q41": {
@@ -587,10 +560,10 @@
         "options": [
             "Agree strongly",
             "Agree",
-            "Neither agree nor disagree",
+            "Neither agree nor disagree", "Don't know",
             "Disagree",
-            "Disagree strongly",
-            "Don't know"
+            "Disagree strongly"
+            
         ]
     },
     "Q42": {
@@ -617,10 +590,8 @@
             "What is your perspective on the decreasing emphasis on work in the future?"
         ],
         "options": [
-            "Good thing",
-            "Bad thing",
-            "Don't mind",
-            "Don't know"
+            "Good thing", "Don't mind", "Don't know",
+            "Bad thing"
         ]
     },
     "Q44": {
@@ -632,10 +603,8 @@
             "What is your stance on the upcoming changes that involve a greater emphasis on technology?"
         ],
         "options": [
-            "Good thing",
-            "Bad thing",
-            "Don't mind",
-            "Don't know"
+            "Good thing", "Don't mind", "Don't know",
+            "Bad thing"
         ]
     },
     "Q45": {
@@ -647,10 +616,10 @@
             "What are your sentiments regarding the future shift towards greater respect for authority?"
         ],
         "options": [
-            "Good thing",
-            "Bad thing",
-            "Don't mind",
-            "Don't know"
+            "Good thing", "Don't mind", "Don't know",
+            "Bad thing"
+            
+
         ]
     },
     "Q46": {
@@ -663,10 +632,10 @@
         ],
         "options": [
             "Very happy",
-            "Quite happy",
+            "Quite happy", "Don't know",
             "Not very happy",
-            "Not at all happy",
-            "Don't know"
+            "Not at all happy"
+            
         ]
     },
     "Q47": {
@@ -695,10 +664,10 @@
         ],
         "options": [
             "Often",
-            "Sometimes",
+            "Sometimes", "Don't know",
             "Rarely",
-            "Never",
-            "Don't know"
+            "Never"
+            
         ]
     },
     "Q52": {
@@ -711,10 +680,10 @@
         ],
         "options": [
             "Often",
-            "Sometimes",
+            "Sometimes", "Don't know",
             "Rarely",
-            "Never",
-            "Don't know"
+            "Never"
+            
         ]
     },
     "Q53": {
@@ -727,10 +696,10 @@
         ],
         "options": [
             "Often",
-            "Sometimes",
+            "Sometimes", "Don't know",
             "Rarely",
-            "Never",
-            "Don't know"
+            "Never"
+            
         ]
     },
     "Q54": {
@@ -743,10 +712,10 @@
         ],
         "options": [
             "Often",
-            "Sometimes",
+            "Sometimes", "Don't know",
             "Rarely",
-            "Never",
-            "Don't know"
+            "Never"
+            
         ]
     },
     "Q55": {
@@ -759,11 +728,25 @@
         ],
         "options": [
             "Often",
-            "Sometimes",
+            "Sometimes", "Don't know",
             "Rarely",
-            "Never",
-            "Don't know"
+            "Never"
+            
         ]
+    },
+    "Q57": {
+        "description": "Most people can be trusted",
+        "questions": [
+            "Do you believe that most people can be trusted?",
+            "In your opinion, can most people be trusted?",
+            "Is it your belief that most people can be trusted?",
+            "Do you think most people can be trusted?"
+        ],
+        "options": [
+            "Most people can be trusted",
+            "Need to be very careful"
+        ],
+        "scale": false
     },
     "Q58": {
         "description": "Trust: Your family",
@@ -775,10 +758,10 @@
         ],
         "options": [
             "Trust completely",
-            "Trust somewhat",
+            "Trust somewhat", "Don't know",
             "Do not trust very much",
-            "Do not trust at all",
-            "Don't know"
+            "Do not trust at all"
+            
         ]
     },
     "Q59": {
@@ -791,10 +774,10 @@
         ],
         "options": [
             "Trust completely",
-            "Trust somewhat",
+            "Trust somewhat", "Don't know",
             "Do not trust very much",
-            "Do not trust at all",
-            "Don't know"
+            "Do not trust at all"
+            
         ]
     },
     "Q60": {
@@ -807,10 +790,10 @@
         ],
         "options": [
             "Trust completely",
-            "Trust somewhat",
+            "Trust somewhat", "Don't know",
             "Do not trust very much",
-            "Do not trust at all",
-            "Don't know"
+            "Do not trust at all"
+            
         ]
     },
     "Q61": {
@@ -823,10 +806,10 @@
         ],
         "options": [
             "Trust completely",
-            "Trust somewhat",
+            "Trust somewhat", "Don't know",
             "Do not trust very much",
-            "Do not trust at all",
-            "Don't know"
+            "Do not trust at all"
+            
         ]
     },
     "Q62": {
@@ -839,10 +822,10 @@
         ],
         "options": [
             "Trust completely",
-            "Trust somewhat",
+            "Trust somewhat", "Don't know",
             "Do not trust very much",
-            "Do not trust at all",
-            "Don't know"
+            "Do not trust at all"
+            
         ]
     },
     "Q63": {
@@ -855,10 +838,10 @@
         ],
         "options": [
             "Trust completely",
-            "Trust somewhat",
+            "Trust somewhat", "Don't know",
             "Do not trust very much",
-            "Do not trust at all",
-            "Don't know"
+            "Do not trust at all"
+            
         ]
     },
     "Q64": {
@@ -871,12 +854,30 @@
         ],
         "options": [
             "A great deal",
-            "Quite a lot",
+            "Quite a lot", "Don't know",
             "Not very much",
-            "None at all",
-            "Don't know"
+            "None at all"
+            
         ]
     },
+
+    "Q65":{
+        "description":"Confidence: The armed forces",
+        "questions":[
+            "How much confidence do you have in the armed forces?",
+            "To what extent do you trust the armed forces?",
+            "How would you rate your level of confidence in the armed forces?",
+            "Do you have much confidence in the armed forces?"
+        ],
+        "options":[
+            "A great deal",
+            "Quite a lot", "Don't know",
+            "Not very much",
+            "None at all"
+            
+        ]
+    },
+
     "Q66": {
         "description": "Confidence: The Press",
         "questions": [
@@ -887,10 +888,10 @@
         ],
         "options": [
             "A great deal",
-            "Quite a lot",
+            "Quite a lot", "Don't know",
             "Not very much",
-            "None at all",
-            "Don't know"
+            "None at all"
+            
         ]
     },
     "Q67": {
@@ -903,10 +904,10 @@
         ],
         "options": [
             "A great deal",
-            "Quite a lot",
+            "Quite a lot", "Don't know",
             "Not very much",
-            "None at all",
-            "Don't know"
+            "None at all"
+            
         ]
     },
     "Q68": {
@@ -919,10 +920,58 @@
         ],
         "options": [
             "A great deal",
-            "Quite a lot",
+            "Quite a lot", "Don't know",
             "Not very much",
-            "None at all",
-            "Don't know"
+            "None at all"
+            
+        ]
+    },
+    "Q69":{
+        "description":"Cofidence: The police",
+        "questions":[
+            "How much confidence do you have in the police?",
+            "To what extent do you trust the police?",
+            "How would you rate your level of confidence in the police?",
+            "Do you have confidence in the police?"
+        ],
+        "options":[
+            "A great deal",
+            "Quite a lot", "Don't know",
+            "Not very much",
+            "None at all"
+            
+        ]
+    },
+    "Q70":{
+        "description":"Confidence: The courts",
+        "questions":[
+            "How much confidence do you have in the courts?",
+            "To what extent do you trust the courts?",
+            "How would you rate your level of confidence in the courts?",
+            "Do you have confidence in the courts?"
+        ],
+        "options":[
+            "A great deal",
+            "Quite a lot", "Don't know",
+            "Not very much",
+            "None at all"
+            
+        ]
+    },
+    "Q71":{
+        "description":"Confidence: The government",
+        "questions":[
+            "How much confidence do you have in the government?",
+            "To what extent do you trust the government?",
+            "How would you rate your level of confidence in the government?",
+            "Do you have confidence in the government?"
+        ],
+        "options":[
+            "A great deal",
+            "Quite a lot", "Don't know",
+            "Not very much",
+            "None at all"
+            
         ]
     },
     "Q72": {
@@ -935,10 +984,10 @@
         ],
         "options": [
             "A great deal",
-            "Quite a lot",
+            "Quite a lot", "Don't know",
             "Not very much",
-            "None at all",
-            "Don't know"
+            "None at all"
+            
         ]
     },
     "Q73": {
@@ -951,10 +1000,10 @@
         ],
         "options": [
             "A great deal",
-            "Quite a lot",
+            "Quite a lot", "Don't know",
             "Not very much",
-            "None at all",
-            "Don't know"
+            "None at all"
+            
         ]
     },
     "Q74": {
@@ -967,10 +1016,10 @@
         ],
         "options": [
             "A great deal",
-            "Quite a lot",
+            "Quite a lot", "Don't know",
             "Not very much",
-            "None at all",
-            "Don't know"
+            "None at all"
+            
         ]
     },
     "Q75": {
@@ -983,10 +1032,10 @@
         ],
         "options": [
             "A great deal",
-            "Quite a lot",
+            "Quite a lot", "Don't know",
             "Not very much",
-            "None at all",
-            "Don't know"
+            "None at all"
+            
         ]
     },
     "Q77": {
@@ -999,10 +1048,10 @@
         ],
         "options": [
             "A great deal",
-            "Quite a lot",
+            "Quite a lot", "Don't know",
             "Not very much",
-            "None at all",
-            "Don't know"
+            "None at all"
+            
         ]
     },
     "Q78": {
@@ -1015,10 +1064,10 @@
         ],
         "options": [
             "A great deal",
-            "Quite a lot",
+            "Quite a lot", "Don't know",
             "Not very much",
-            "None at all",
-            "Don't know"
+            "None at all"
+            
         ]
     },
     "Q79": {
@@ -1031,10 +1080,10 @@
         ],
         "options": [
             "A great deal",
-            "Quite a lot",
+            "Quite a lot", "Don't know",
             "Not very much",
-            "None at all",
-            "Don't know"
+            "None at all"
+            
         ]
     },
     "Q80": {
@@ -1047,10 +1096,10 @@
         ],
         "options": [
             "A great deal",
-            "Quite a lot",
+            "Quite a lot", "Don't know",
             "Not very much",
-            "None at all",
-            "Don't know"
+            "None at all"
+            
         ]
     },
     "Q81": {
@@ -1063,10 +1112,10 @@
         ],
         "options": [
             "A great deal",
-            "Quite a lot",
+            "Quite a lot", "Don't know",
             "Not very much",
-            "None at all",
-            "Don't know"
+            "None at all"
+            
         ]
     },
     "Q82": {
@@ -1079,10 +1128,10 @@
         ],
         "options": [
             "A great deal",
-            "Quite a lot",
+            "Quite a lot", "Don't know",
             "Not very much",
-            "None at all",
-            "Don't know"
+            "None at all"
+            
         ]
     },
     "Q83": {
@@ -1095,10 +1144,10 @@
         ],
         "options": [
             "A great deal",
-            "Quite a lot",
+            "Quite a lot", "Don't know",
             "Not very much",
-            "None at all",
-            "Don't know"
+            "None at all"
+            
         ]
     },
     "Q84": {
@@ -1111,10 +1160,10 @@
         ],
         "options": [
             "A great deal",
-            "Quite a lot",
+            "Quite a lot", "Don't know",
             "Not very much",
-            "None at all",
-            "Don't know"
+            "None at all"
+            
         ]
     },
     "Q85": {
@@ -1127,10 +1176,10 @@
         ],
         "options": [
             "A great deal",
-            "Quite a lot",
+            "Quite a lot", "Don't know",
             "Not very much",
-            "None at all",
-            "Don't know"
+            "None at all"
+            
         ]
     },
     "Q86": {
@@ -1143,10 +1192,10 @@
         ],
         "options": [
             "A great deal",
-            "Quite a lot",
+            "Quite a lot", "Don't know",
             "Not very much",
-            "None at all",
-            "Don't know"
+            "None at all"
+            
         ]
     },
     "Q87": {
@@ -1159,10 +1208,10 @@
         ],
         "options": [
             "A great deal",
-            "Quite a lot",
+            "Quite a lot", "Don't know",
             "Not very much",
-            "None at all",
-            "Don't know"
+            "None at all"
+            
         ]
     },
     "Q88": {
@@ -1175,10 +1224,10 @@
         ],
         "options": [
             "A great deal",
-            "Quite a lot",
+            "Quite a lot", "Don't know",
             "Not very much",
-            "None at all",
-            "Don't know"
+            "None at all"
+            
         ]
     },
     "Q89": {
@@ -1191,10 +1240,10 @@
         ],
         "options": [
             "A great deal",
-            "Quite a lot",
+            "Quite a lot", "Don't know",
             "Not very much",
-            "None at all",
-            "Don't know"
+            "None at all"
+            
         ]
     },
     "Q90": {
@@ -1253,6 +1302,20 @@
         ],
         "scale": true
     },
+    "Q109":{
+        "description":"Competition is good vs Competition is harmful",
+        "questions":[
+            "To what extent do you believe that competition is beneficial for society?",
+            "How much do you think competition drives innovation and progress?",
+            "On a scale of 1 to 10, where 1 means competition is mostly harmful and 10 means it is mostly beneficial, what is your opinion?",
+            "In terms of competition, where would you rank its effects on society on a scale of 1 to 10?"
+        ],
+        "options":[
+            "Competition is mostly beneficial for society",
+            "Competition is mostly harmful for society"
+        ],
+        "scale": true
+    },
     "Q110": {
         "description": "Success: hard work vs luck",
         "questions": [
@@ -1266,6 +1329,20 @@
             "Hard work doesn't generally bring success—it's more a matter of luck and connections"
         ],
         "scale": true
+    },
+    "Q111":{
+        "description":"Protecting  the  environment  should  be  given  priority even  if  it  causes  slower  economic growth and some loss of jobs vs Economic growth and creating jobs should be the top priority, even if the environment suffers to some extent",
+        "questions":[
+            "What is your opinion on the balance between environmental protection and economic growth?",
+            "Do you believe that protecting the environment should take precedence over economic growth, even if it results in slower growth and job losses?",
+            "In your view, should economic growth and job creation be prioritized over environmental protection, even if it means some environmental degradation?",
+            "How do you weigh the importance of environmental protection against economic growth and job creation?"
+        ],
+        "options":[
+            "Protecting the environment should be given priority, even if it causes slower economic growth and some loss of jobs.",
+            "Economic growth and creating jobs should be the top priority, even if the environment suffers to some extent.",
+            "Don't know"
+        ]
     },
     "Q112": {
         "description": "Perceptions of corruption in the country",
@@ -1517,6 +1594,96 @@
         ],
         "scale": false
     },
+    "Q152":{
+        "description":"Would you please say which one of these you, yourself, consider the most important?",
+        "questions":[
+        "Would you please  tell me which one of these goals do you consider to be the most important?",
+        "Among the following options, which one do you personally believe is the most important?",
+        "From the list below, which goal do you think is the most important for you personally?",
+        "Please select the goal that you consider to be the most important from the options provided."
+    ],
+        "options":[
+        "A high level of economic growth",
+        "Making sure this country has strong defense forces",
+        "Seeing that people have more say about how things are done at their jobs and in their communities",
+        "Trying to make our cities and countryside more beautiful",
+        "Don't know"
+    ]
+    },
+    "Q153":{
+        "description":"And which would be the next most important?",
+        "questions":["Would you please  tell me which one of these goals do you consider be the second most important goal?",
+        "Among the following options, which one do you personally believe is the second most important?",
+        "From the list below, which goal do you think is the second most important for you personally?",
+        "Please select the goal that you consider to be the second most important from the options provided."
+    ],
+        "options":[
+        "A high level of economic growth",
+        "Making sure this country has strong defense forces",
+        "Seeing that people have more say about how things are done at their jobs and in their communities",
+        "Trying to make our cities and countryside more beautiful",
+        "Don't know"
+    ]
+    },
+    "Q154":{
+        "description":"Would you please say which one of these you, yourself, consider the most important?",
+        "questions":[
+            "Would you please  tell me which one of these goals do you consider to be the most important?",
+            "Among the following options, which one do you personally believe is the most important?",
+            "From the list below, which goal do you think is the most important for you personally?",
+            "Please select the goal that you consider to be the most important from the options provided."
+        ],
+        "options":[
+        "Maintaining order in the nation",
+        "Giving people more say in important government decisions",
+        "Fighting rising prices",
+        "Protecting freedom of speech"
+    ]
+    },
+    "Q155":{
+        "description":"And which would be the next most important?",
+        "questions":["Would you please  tell me which one of these goals do you consider be the second most important goal?",
+        "Among the following options, which one do you personally believe is the second most important?",
+        "From the list below, which goal do you think is the second most important for you personally?",
+        "Please select the goal that you consider to be the second most important from the options provided."
+    ],
+        "options":[
+        "Maintaining order in the nation",
+        "Giving people more say in important government decisions",
+        "Fighting rising prices",
+        "Protecting freedom of speech"
+    ]
+    },
+    "Q156":{
+        "description":"Would you please say which one of these you, yourself, consider the most important?",
+        "questions":[
+            "Would you please  tell me which one of these goals do you consider to be the most important?",
+            "Among the following options, which one do you personally believe is the most important?",
+            "From the list below, which goal do you think is the most important for you personally?",
+            "Please select the goal that you consider to be the most important from the options provided."
+        ],
+        "options": [
+        "A stable economy",
+        "Progress toward a less impersonal and more humane society",
+        "Progress toward a society in which ideas count more than money",
+        "The fight against crime",
+        "Don't know"
+    ]
+    },
+    "Q157":{
+        "description":"And which would be the next most important?",
+        "questions":["Would you please  tell me which one of these goals do you consider be the second most important goal?",
+        "Among the following options, which one do you personally believe is the second most important?",
+        "From the list below, which goal do you think is the second most important for you personally?",
+        "Please select the goal that you consider to be the second most important from the options provided."
+    ],
+        "options":[
+        "A stable economy",
+        "Progress toward a less impersonal and more humane society",
+        "Progress toward a society in which ideas count more than money",
+        "The fight against crime"
+    ]
+    },
     "Q158": {
         "description": "Science and technology are making our lives healthier, easier, and more comfortable",
         "questions": [
@@ -1587,6 +1754,20 @@
         ],
         "scale": true
     },
+    "Q163":{
+        "description":"Would you say that the world is better off, or worse off, because of science and technology?",
+        "questions":[
+            "On a scale of 1 to 10, how much do you think science and technology have improved the world?",
+            "To what extent do you believe that science and technology have had a positive impact on society?",
+            "How would you rate the overall effects of science and technology on the world?",
+            "In your opinion, is the world better off because of science and technology?"
+        ],
+        "options":[
+            "A lot worse off",
+            "A lot better off"
+        ],
+        "scale": true
+    },
     "Q164": {
         "description": "Importance of God",
         "questions": [
@@ -1600,6 +1781,20 @@
             "Very important"
         ],
         "scale": true
+    },
+    "Q165": {
+        "description": "Belief in God",
+        "questions": [
+            "Do you believe in God?",
+            "Would you say you believe in the existence of God?",
+            "Do you personally believe that God exists?",
+            "Please indicate whether or not you believe in God."
+        ],
+        "options": [
+            "Yes",
+            "No"
+        ],
+        "scale": false
     },
     "Q166": {
         "description": "Believe in: life after death",
@@ -1659,6 +1854,22 @@
         ],
         "scale": false
     },
+    "Q170": {
+        "description": "Attitude towards religious exclusivity",
+        "questions": [
+            "Do you agree or disagree with the statement: 'The only acceptable religion is my religion'?",
+            "Would you say you strongly agree, agree, disagree, or strongly disagree that only your religion is acceptable?",
+            "To what extent do you agree or disagree with the belief that your religion is the only acceptable one?",
+            "Please indicate how much you agree with the statement that only your religion is acceptable."
+        ],
+        "options": [
+            "Strongly agree",
+            "Agree",
+            "Disagree",
+            "Strongly disagree"
+        ],
+        "scale": false
+    },
     "Q171": {
         "description": "How often do you attend religious services",
         "questions": [
@@ -1675,6 +1886,55 @@
             "Once a year",
             "Less often",
             "Never, practically never"
+        ],
+        "scale": false
+    },
+    "Q172": {
+        "description": "Frequency of prayer",
+        "questions": [
+            "Apart from weddings and funerals, about how often do you pray?",
+            "How frequently do you engage in prayer or religious devotion?",
+            "Please indicate how often you pray in your daily life.",
+            "How often do you personally pray, excluding religious services and ceremonies?"
+        ],
+        "options": [
+            "Several times a day",
+            "Once a day",
+            "Several times each week",
+            "Only when attending religious services",
+            "Only on special holy days",
+            "Once a year",
+            "Less often",
+            "Never, practically never"
+        ],
+        "scale": false
+    },
+    "Q173": {
+        "description": "Self-identification of religiosity",
+        "questions": [
+            "Independently of whether you attend religious services or not, would you say you are a religious person, not a religious person, or an atheist?",
+            "How would you describe yourself in terms of personal religiosity?",
+            "Do you consider yourself to be religious, non-religious, or atheist?",
+            "How would you classify your level of religiosity?"
+        ],
+        "options": [
+            "A religious person",
+            "Not a religious person",
+            "An atheist"
+        ],
+        "scale": false
+    },
+    "Q174": {
+        "description": "Meaning of religion: moral vs ceremonial focus",
+        "questions": [
+            "With which one of the following statements do you agree most? The basic meaning of religion is:",
+            "Which of the following best represents what religion means to you?",
+            "In your opinion, what is the main purpose or essence of religion?",
+            "Please indicate which statement best captures your view of what religion is about."
+        ],
+        "options": [
+            "To follow religious norms and ceremonies",
+            "To do good to other people"
         ],
         "scale": false
     },
@@ -1776,33 +2036,75 @@
         ],
         "scale": false
     },
-    "Q184": {
-        "description": "Justifiable: Abortion",
+    "Q182": {
+        "description": "Attitude towards homosexuality",
         "questions": [
-            "Do you believe that abortion is ever justifiable?",
-            "In your opinion, is abortion justifiable under any circumstances?",
-            "Do you think there are any situations in which abortion can be justified?",
-            "Is abortion always unjustifiable in your view?"
+            "Do you believe that homosexuality is ever justifiable, on a scale of 1 (never) to 10 (always)?",
+            "In your opinion, is homosexuality justifiable under any circumstances, on a scale of 1 (never) to 10 (always)?",
+            "Do you think there are any situations in which homosexuality can be justified, on a scale of 1 (never) to 10 (always)?",
+            "In your opinion, is there any situation where homosexuality can be justified, on a scale of 1 (never) to 10 (always)?"
         ],
         "options": [
             "Never justifiable",
             "Always justifiable"
         ],
-        "scale": false
+        "scale": true
+    },
+    "Q183": {
+        "description": "Attitude towards prostitution",
+        "questions": [
+            "Do you believe that prostitution is ever justifiable, on a scale of 1 (never) to 10 (always)?",
+            "In your opinion, is prostitution justifiable under any circumstances, on a scale of 1 (never) to 10 (always)?",
+            "Do you think there are any situations in which prostitution can be justified, on a scale of 1 (never) to 10 (always)?",
+            "In your opinion, is there any situation where prostitution can be justified, on a scale of 1 (never) to 10 (always)?"
+        ],
+        "options": [
+            "Never justifiable",
+            "Always justifiable"
+        ],
+        "scale": true
+    },
+    "Q184": {
+        "description": "Justifiable: Abortion",
+        "questions": [
+            "Do you believe that abortion is ever justifiable, on a scale of 1 (never) to 10 (always)?",
+            "In your opinion, is abortion justifiable under any circumstances, on a scale of 1 (never) to 10 (always)?",
+            "Do you think there are any situations in which abortion can be justified, on a scale of 1 (never) to 10 (always)?",
+            "Is abortion always unjustifiable in your view, on a scale of 1 (always unjustifiable) to 10 (always justifiable)?"
+        ],
+        "options": [
+            "Never justifiable",
+            "Always justifiable"
+        ],
+        "scale": true
     },
     "Q185": {
         "description": "Justifiable: Divorce",
         "questions": [
-            "Is divorce ever justifiable?",
-            "Do you believe divorce can be justified?",
-            "Can divorce be considered justifiable?",
-            "In your opinion, is there any situation where divorce can be justified?"
+            "Is divorce ever justifiable, on a scale of 1 (never) to 10 (always)?",
+            "Do you believe divorce can be justified, on a scale of 1 (never) to 10 (always)?",
+            "Can divorce be considered justifiable, on a scale of 1 (never) to 10 (always)?",
+            "In your opinion, is there any situation where divorce can be justified, on a scale of 1 (never) to 10 (always)?"
         ],
         "options": [
             "Never justifiable",
             "Always justifiable"
         ],
-        "scale": false
+        "scale": true
+    },
+    "Q186": {
+        "description": "Attitude towards sex before marriage",
+        "questions": [
+            "Is sex before marriage ever justifiable, on a scale of 1 (never) to 10 (always)?",
+            "Do you believe sex before marriage can be justified, on a scale of 1 (never) to 10 (always)?",
+            "Can sex before marriage be considered justifiable, on a scale of 1 (never) to 10 (always)?",
+            "In your opinion, is there any situation where sex before marriage can be justified, on a scale of 1 (never) to 10 (always)?"
+        ],
+        "options": [
+            "Never justifiable",
+            "Always justifiable"
+        ],
+        "scale": true
     },
     "Q187": {
         "description": "Justifiable: Suicide",
@@ -1816,7 +2118,7 @@
             "Never justifiable",
             "Always justifiable"
         ],
-        "scale": false
+        "scale": true
     },
     "Q188": {
         "description": "Justifiable: Euthanasia",
@@ -1830,7 +2132,7 @@
             "Never justifiable",
             "Always justifiable"
         ],
-        "scale": false
+        "scale": true
     },
     "Q189": {
         "description": "Justifiable: For a man to beat his wife",
@@ -1844,7 +2146,7 @@
             "Never justifiable",
             "Always justifiable"
         ],
-        "scale": false
+        "scale": true
     },
     "Q190": {
         "description": "Justifiable: Parents beating children",
@@ -1858,7 +2160,7 @@
             "Never justifiable",
             "Always justifiable"
         ],
-        "scale": false
+        "scale": true
     },
     "Q191": {
         "description": "Justifiable: Violence against other people",
@@ -1872,47 +2174,109 @@
             "Never justifiable",
             "Always justifiable"
         ],
-        "scale": false
+        "scale": true
     },
     "Q192": {
         "description": "Justifiable: Terrorism as a political, ideological or religious mean",
         "questions": [
-            "Do you believe that terrorism is ever justifiable as a political means?",
-            "Is it possible for terrorism to be justifiable as an ideological means?",
-            "Do you think that terrorism could be considered justifiable as a religious means?",
-            "In your opinion, is terrorism ever a justifiable means to achieve political goals?"
+            "Do you believe that terrorism is ever justifiable as a political means, on a scale of 1 (never) to 10 (always)?",
+            "Is it possible for terrorism to be justifiable as an ideological means, on a scale of 1 (never) to 10 (always)?",
+            "Do you think that terrorism could be considered justifiable as a religious means, on a scale of 1 (never) to 10 (always)?",
+            "In your opinion, is terrorism ever a justifiable means to achieve political goals, on a scale of 1 (never) to 10 (always)?"
         ],
         "options": [
             "Never justifiable",
             "Always justifiable"
         ],
-        "scale": false
+        "scale": true
+    },
+    "Q193": {
+        "description": "Attitude towards casual sex",
+        "questions": [
+            "Is casual sex ever justifiable, on a scale of 1 (never) to 10 (always)?",
+            "Do you believe casual sex can be justified, on a scale of 1 (never) to 10 (always)?",
+            "Can casual sex be considered justifiable, on a scale of 1 (never) to 10 (always)?",
+            "In your opinion, is there any situation where casual sex can be justified, on a scale of 1 (never) to 10 (always)?"
+        ],
+        "options": [
+            "Never justifiable",
+            "Always justifiable"
+        ],
+        "scale": true
     },
     "Q194": {
         "description": "Justifiable: Political violence",
         "questions": [
-            "Do you believe that political violence is ever justifiable?",
-            "In your opinion, is there any circumstance in which political violence can be justified?",
-            "Do you think political violence can be morally justified under certain conditions?",
-            "Is it possible for political violence to be justified?"
+            "Do you believe that political violence is ever justifiable, on a scale of 1 (never) to 10 (always)?",
+            "In your opinion, is there any circumstance in which political violence can be justified, on a scale of 1 (never) to 10 (always)?",
+            "Do you think political violence can be morally justified under certain conditions, on a scale of 1 (never) to 10 (always)?",
+            "Is it possible for political violence to be justified, on a scale of 1 (never) to 10 (always)?"
         ],
         "options": [
             "Never justifiable",
             "Always justifiable"
         ],
-        "scale": false
+        "scale": true
     },
     "Q195": {
         "description": "Justifiable: Death penalty",
         "questions": [
-            "Do you believe that the death penalty is justifiable?",
-            "In your opinion, is the death penalty ever justifiable?",
-            "Would you consider the death penalty to be justifiable in certain situations?",
-            "Do you think there are any circumstances in which the death penalty can be justified?"
+            "Do you believe that the death penalty is justifiable, on a scale of 1 (never) to 10 (always)?",
+            "In your opinion, is the death penalty ever justifiable, on a scale of 1 (never) to 10 (always)?",
+            "Would you consider the death penalty to be justifiable in certain situations, on a scale of 1 (never) to 10 (always)?",
+            "Do you think there are any circumstances in which the death penalty can be justified, on a scale of 1 (never) to 10 (always)?"
         ],
         "options": [
             "Never justifiable",
             "Always justifiable"
+        ],
+        "scale": true
+    },
+    "Q196": {
+        "description": "Government right to use video surveillance in public areas",
+        "questions": [
+            "Do you think the government should or should not have the right to keep people under video surveillance in public areas?",
+            "Should the government have the right to monitor citizens through public video surveillance?",
+            "Do you believe it is acceptable for authorities to use video cameras to watch people in public spaces?",
+            "Please indicate whether you think the government should have the right to keep people under video surveillance in public places."
+        ],
+        "options": [
+            "Definitely should have the right",
+            "Probably should have the right",
+            "Probably should not have the right",
+            "Definitely should not have the right"
+        ],
+        "scale": false
+    },
+    "Q197": {
+        "description": "Government right to monitor online communication",
+        "questions": [
+            "Do you think the government should or should not have the right to monitor all e-mails and any other information exchanged on the Internet?",
+            "Should the government have the right to monitor citizens’ online communications?",
+            "Do you agree that authorities should be able to monitor Internet communications for security purposes?",
+            "Please indicate whether you think the government should have the right to monitor e-mails and online information."
+        ],
+        "options": [
+            "Definitely should have the right",
+            "Probably should have the right",
+            "Probably should not have the right",
+            "Definitely should not have the right"
+        ],
+        "scale": false
+    },
+    "Q198": {
+        "description": "Government right to collect personal information secretly",
+        "questions": [
+            "Do you think the government should or should not have the right to collect information about anyone living in this country without their knowledge?",
+            "Should authorities have the right to secretly collect personal information about citizens?",
+            "Do you believe the government should be allowed to gather information about people without informing them?",
+            "Please indicate whether you think the government should have the right to collect personal data without citizens’ awareness."
+        ],
+        "options": [
+            "Definitely should have the right",
+            "Probably should have the right",
+            "Probably should not have the right",
+            "Definitely should not have the right"
         ],
         "scale": false
     },
@@ -1929,6 +2293,157 @@
             "Somewhat interested",
             "Not very interested",
             "Not at all interested"
+        ],
+        "scale": false
+    },
+    "Q200": {
+        "description": "Frequency of discussing political matters with friends",
+        "questions": [
+            "When you get together with your friends, would you say you discuss political matters frequently, occasionally, or never?",
+            "How often do you discuss political issues when you meet with your friends?",
+            "Would you say political topics come up frequently, occasionally, or never when you talk with friends?",
+            "Please indicate how often you and your friends discuss political issues — frequently, occasionally, or never."
+        ],
+        "options": [
+            "Frequently",
+            "Occasionally",
+            "Never"
+        ],
+        "scale": false
+    },
+    "Q201": {
+        "description": "Frequency of obtaining information from daily newspapers",
+        "questions": [
+            "How often do you use daily newspapers to obtain information about what is going on in this country and the world?",
+            "Do you read a daily newspaper daily, weekly, monthly, less than monthly, or never?",
+            "How frequently do you read newspapers to stay informed about national or international events?",
+            "Please indicate how often you get your news from daily newspapers — daily, weekly, monthly, less than monthly, or never."
+        ],
+        "options": [
+            "Daily",
+            "Weekly",
+            "Monthly",
+            "Less than monthly",
+            "Never"
+        ],
+        "scale": false
+    },
+    "Q202": {
+        "description": "Frequency of obtaining information from TV news",
+        "questions": [
+            "How often do you watch TV news to learn about what is happening in your country and the world?",
+            "Do you use television news daily, weekly, monthly, less than monthly, or never?",
+            "How frequently do you watch news programs on television to stay informed?",
+            "Please indicate how often you watch TV news — daily, weekly, monthly, less than monthly, or never."
+        ],
+        "options": [
+            "Daily",
+            "Weekly",
+            "Monthly",
+            "Less than monthly",
+            "Never"
+        ],
+        "scale": false
+    },
+    "Q203": {
+        "description": "Frequency of obtaining information from radio news",
+        "questions": [
+            "How often do you listen to radio news for information about national and world events?",
+            "Do you use radio news daily, weekly, monthly, less than monthly, or never?",
+            "How frequently do you listen to radio broadcasts to keep up with current affairs?",
+            "Please indicate how often you get your news from the radio — daily, weekly, monthly, less than monthly, or never."
+        ],
+        "options": [
+            "Daily",
+            "Weekly",
+            "Monthly",
+            "Less than monthly",
+            "Never"
+        ],
+        "scale": false
+    },
+    "Q204": {
+        "description": "Frequency of using mobile phone for news and information",
+        "questions": [
+            "How often do you use your mobile phone to obtain news or information about what is going on in this country and the world?",
+            "Do you use a mobile phone daily, weekly, monthly, less than monthly, or never to get information?",
+            "How frequently do you use your mobile phone to check news updates or current events?",
+            "Please indicate how often you use your mobile phone for news — daily, weekly, monthly, less than monthly, or never."
+        ],
+        "options": [
+            "Daily",
+            "Weekly",
+            "Monthly",
+            "Less than monthly",
+            "Never"
+        ],
+        "scale": false
+    },
+    "Q205": {
+        "description": "Frequency of using email for news and information",
+        "questions": [
+            "How often do you use email to obtain information about what is going on in this country and the world?",
+            "Do you use email daily, weekly, monthly, less than monthly, or never for news or updates?",
+            "How frequently do you check or receive news or updates through email?",
+            "Please indicate how often you use email to stay informed — daily, weekly, monthly, less than monthly, or never."
+        ],
+        "options": [
+            "Daily",
+            "Weekly",
+            "Monthly",
+            "Less than monthly",
+            "Never"
+        ],
+        "scale": false
+    },
+    "Q206": {
+        "description": "Frequency of using the Internet for news and information",
+        "questions": [
+            "How often do you use the Internet to obtain information about what is going on in this country and the world?",
+            "Do you access news or information online daily, weekly, monthly, less than monthly, or never?",
+            "How frequently do you go online to check the news or read about current events?",
+            "Please indicate how often you use the Internet for news and information — daily, weekly, monthly, less than monthly, or never."
+        ],
+        "options": [
+            "Daily",
+            "Weekly",
+            "Monthly",
+            "Less than monthly",
+            "Never"
+        ],
+        "scale": false
+    },
+    "Q207": {
+        "description": "Frequency of using social media for news and information",
+        "questions": [
+            "How often do you use social media (such as Facebook, Twitter, etc.) to obtain information about what is going on in this country and the world?",
+            "Do you get news or updates through social media daily, weekly, monthly, less than monthly, or never?",
+            "How frequently do you use social media to follow news or political developments?",
+            "Please indicate how often you rely on social media for news — daily, weekly, monthly, less than monthly, or never."
+        ],
+        "options": [
+            "Daily",
+            "Weekly",
+            "Monthly",
+            "Less than monthly",
+            "Never"
+        ],
+        "scale": false
+    },
+    "Q208": {
+        "description": "Frequency of discussing news with friends or colleagues",
+        "questions": [
+            "How often do you talk with friends or colleagues to obtain information about what is going on in this country and the world?",
+            "Do you discuss news or current events with friends or colleagues daily, weekly, monthly, less than monthly, or never?",
+            "How frequently do you exchange information about current affairs with your friends or coworkers?",
+            "Please indicate how often you talk with friends or colleagues about news — daily, weekly, monthly, less than monthly, or never."
+        ],
+        "options": [
+            "Daily",
+            "Weekly",
+            "Monthly",
+            "Less than monthly",
+            "Never"
         ],
         "scale": false
     },
@@ -1984,6 +2499,126 @@
             "Are you open to the possibility of joining unofficial strikes for political action?",
             "Would you consider engaging in unofficial strikes for political action?",
             "Do you firmly believe that you would never take part in unofficial strikes for political action?"
+        ],
+        "options": [
+            "Have done",
+            "Might do",
+            "Would never do"
+        ],
+        "scale": false
+    },
+    "Q213": {
+        "description": "Participation in donating to a group or campaign",
+        "questions": [
+            "Have you ever donated to a political group or campaign, might you do it, or would you never do it?",
+            "Would you say you have donated to a group or campaign, might do it in the future, or would never do it?",
+            "Have you ever made a financial contribution to a political group or campaign, might you do it, or would you never do it?",
+            "Please indicate whether you have donated, might donate, or would never donate to a political organization or campaign."
+        ],
+        "options": [
+            "Have done",
+            "Might do",
+            "Would never do"
+        ],
+        "scale": false
+    },
+    "Q214": {
+        "description": "Participation in contacting a government official",
+        "questions": [
+            "Have you ever contacted a government official about a political issue, might you do it, or would you never do it?",
+            "Would you say you have contacted a government official, might do it, or would never do it?",
+            "Have you ever reached out to a government representative about political or public matters, might you do it, or would you never do it?",
+            "Please indicate whether you have contacted, might contact, or would never contact a government official to express your views or concerns."
+        ],
+        "options": [
+            "Have done",
+            "Might do",
+            "Would never do"
+        ],
+        "scale": false
+    },
+    "Q215": {
+        "description": "Encouraging others to take action about political issues",
+        "questions": [
+            "Have you ever encouraged others to take action about political issues, might you do it, or would you never do it?",
+            "Would you say you have encouraged others to take action about political issues, might do it, or would never do it?",
+            "Have you ever tried to persuade others to get involved in political issues, might you do it, or would you never do it?",
+            "Please indicate whether you have encouraged, might encourage, or would never encourage others to take political action."
+        ],
+        "options": [
+            "Have done",
+            "Might do",
+            "Would never do"
+        ],
+        "scale": false
+    },
+    "Q216": {
+        "description": "Encouraging others to vote",
+        "questions": [
+            "Have you ever encouraged others to vote, might you do it, or would you never do it?",
+            "Would you say you have encouraged people to vote, might do it, or would never do it?",
+            "Have you ever urged others to vote in an election, might you do it, or would you never do it?",
+            "Please indicate whether you have encouraged, might encourage, or would never encourage others to participate in voting."
+        ],
+        "options": [
+            "Have done",
+            "Might do",
+            "Would never do"
+        ],
+        "scale": false
+    },
+    "Q217": {
+        "description": "Online search for information about politics and political events",
+        "questions": [
+            "Have you searched for information about politics and political events using Internet or social media tools like Facebook or Twitter?",
+            "Would you say you have done this, might do it, or would never do it?",
+            "Have you ever used the Internet or social media to look up information about political issues or events, might you do it, or would you never do it?",
+            "Please indicate whether you have searched, might search, or would never search for political information online or on social media."
+        ],
+        "options": [
+            "Have done",
+            "Might do",
+            "Would never do"
+        ],
+        "scale": false
+    },
+    "Q218": {
+        "description": "Participation in signing an electronic petition",
+        "questions": [
+            "Have you ever signed an electronic petition, might you do it, or would you never do it?",
+            "Would you say you have signed an online petition, might do it, or would never do it?",
+            "Have you ever participated in signing a petition on the Internet, might you do it, or would you never do it?",
+            "Please indicate whether you have signed, might sign, or would never sign an electronic petition."
+        ],
+        "options": [
+            "Have done",
+            "Might do",
+            "Would never do"
+        ],
+        "scale": false
+    },
+    "Q219": {
+        "description": "Encouraging others to take political action through social media",
+        "questions": [
+            "Have you encouraged other people to take any form of political action using Internet or social media?",
+            "Would you say you have done this, might do it, or would never do it?",
+            "Have you ever used social media to encourage others to engage in political action, might you do it, or would you never do it?",
+            "Please indicate whether you have encouraged, might encourage, or would never encourage others to take political action online."
+        ],
+        "options": [
+            "Have done",
+            "Might do",
+            "Would never do"
+        ],
+        "scale": false
+    },
+    "Q220": {
+        "description": "Organizing political activities or protests online",
+        "questions": [
+            "Have you ever organized political activities, events, or protests using Internet or social media tools like Facebook or Twitter?",
+            "Would you say you have organized such activities, might do it, or would never do it?",
+            "Have you ever used online platforms to organize a political event, campaign, or protest, might you do it, or would you never do it?",
+            "Please indicate whether you have organized, might organize, or would never organize political activities through Internet or social media."
         ],
         "options": [
             "Have done",
@@ -2216,6 +2851,22 @@
         ],
         "scale": false
     },
+    "Q237": {
+        "description": "Evaluation of military rule as a way of governing the country",
+        "questions": [
+            "Would you say having the army rule is a very good, fairly good, fairly bad, or very bad way of governing this country?",
+            "How would you rate military rule as a system of government for your country?",
+            "Do you think having the army in charge of governing the country is a good or bad way to run it?",
+            "Please indicate whether you consider army rule a very good, fairly good, fairly bad, or very bad way of governing the country."
+        ],
+        "options": [
+            "Very good",
+            "Fairly good",
+            "Fairly bad",
+            "Very bad"
+        ],
+        "scale": false
+    },
     "Q238": {
         "description": "Political system: Having a democratic political system",
         "questions": [
@@ -2248,19 +2899,19 @@
         ],
         "scale": false
     },
-    "Q57": {
-        "description": "Most people can be trusted",
+    "Q240": {
+        "description": "Self-placement on the political left-right spectrum",
         "questions": [
-            "Do you believe that most people can be trusted?",
-            "In your opinion, can most people be trusted?",
-            "Is it your belief that most people can be trusted?",
-            "Do you think most people can be trusted?"
+            "In political matters, people talk of 'the left' and 'the right.' How would you place your views on this scale from 1 (left) to 10 (right)?",
+            "Where would you position your political views on a scale from 1 (left) to 10 (right)?",
+            "On a scale from 1 to 10, where 1 means 'left' and 10 means 'right,' where do you see yourself politically?",
+            "How would you describe your political views on a scale running from left (1) to right (10)?"
         ],
         "options": [
-            "Most people can be trusted",
-            "Need to be very careful"
+            "Left",
+            "Right"
         ],
-        "scale": false
+        "scale": true
     },
     "Q241": {
         "description": "Democracy: Governments tax the rich and subsidize the poor",
@@ -2290,6 +2941,20 @@
         ],
         "scale": true
     },
+    "Q243": {
+        "description": "Perceived importance of free elections as a characteristic of democracy",
+        "questions": [
+            "How essential do you think it is for democracy that people choose their leaders in free elections on a scale of 1 to 10?",
+            "On a scale from 1 to 10, where 1 means 'not at all essential' and 10 means 'definitely essential,' how important are free elections to democracy?",
+            "To what extent do you consider free elections an essential characteristic of democracy on a scale of 1 to 10?",
+            "Please rate from 1 to 10 how important free elections are as a defining feature of democracy."
+        ],
+        "options": [
+            "Not at all an essential characteristic of democracy",
+            "An essential characteristic of democracy"
+        ],
+        "scale": true
+    },
     "Q244": {
         "description": "Democracy: People receive state aid for unemployment",
         "questions": [
@@ -2300,6 +2965,34 @@
         ],
         "options": [
             "Not an essential characteristic of democracy",
+            "An essential characteristic of democracy"
+        ],
+        "scale": true
+    },
+    "Q245": {
+        "description": "Perceived importance of army intervention when government is incompetent as a characteristic of democracy",
+        "questions": [
+            "How essential do you think it is for democracy that the army takes over when the government is incompetent on a scale of 1 to 10?",
+            "On a scale from 1 to 10, rate how much you think army intervention in government is an essential characteristic of democracy.",
+            "To what extent do you believe the army taking over when the government fails is consistent with democracy on a scale of 1 to 10?",
+            "Please indicate, on a scale of 1 to 10, how important you think it is for democracy that the army replaces an incompetent government."
+        ],
+        "options": [
+            "Not at all an essential characteristic of democracy",
+            "An essential characteristic of democracy"
+        ],
+        "scale": true
+    },
+    "Q246": {
+        "description": "Perceived importance of civil rights protecting people from state oppression as a characteristic of democracy",
+        "questions": [
+            "How essential do you think it is for democracy that civil rights protect people from state oppression on a scale of 1 to 10?",
+            "On a scale from 1 to 10, where 1 means 'not at all essential' and 10 means 'definitely essential,' how important are civil rights protections for democracy?",
+            "To what extent do you believe civil rights that protect individuals from government oppression are an essential characteristic of democracy on a scale of 1 to 10?",
+            "Please indicate, on a 1-10 scale, how essential you think civil rights are to democracy."
+        ],
+        "options": [
+            "Not at all an essential characteristic of democracy",
             "An essential characteristic of democracy"
         ],
         "scale": true
@@ -2332,6 +3025,20 @@
         ],
         "scale": true
     },
+    "Q249": {
+        "description": "Perceived importance of gender equality as a characteristic of democracy",
+        "questions": [
+            "How essential do you think it is for democracy that women have the same rights as men on a scale of 1 to 10?",
+            "On a scale from 1 to 10, how important do you consider gender equality for democracy?",
+            "To what extent do you see equal rights for women and men as an essential feature of democracy on a scale of 1 to 10?",
+            "Please indicate, on a 1-10 scale, how essential gender equality is to the democratic system."
+        ],
+        "options": [
+            "Not at all an essential characteristic of democracy",
+            "An essential characteristic of democracy"
+        ],
+        "scale": true
+    },
     "Q250": {
         "description": "Importance of democracy",
         "questions": [
@@ -2360,6 +3067,20 @@
         ],
         "scale": true
     },
+    "Q252": {
+        "description": "Satisfaction with the functioning of the political system",
+        "questions": [
+            "On a scale from 1 to 10, how satisfied are you with how the political system is functioning in your country these days?",
+            "How satisfied are you with the way the political system currently operates in your country? Please rate from 1 (not satisfied at all) to 10 (completely satisfied).",
+            "Overall, how would you rate your satisfaction with the functioning of the political system in your country on a scale from 1 to 10?",
+            "Please indicate, on a scale from 1 (not satisfied at all) to 10 (completely satisfied), how satisfied you are with how the political system works in your country today."
+        ],
+        "options": [
+            "Not satisfied at all",
+            "Completely satisfied"
+        ],
+        "scale": true
+    },
     "Q253": {
         "description": "Respect for individual human rights nowadays",
         "questions": [
@@ -2371,6 +3092,7 @@
         "options": [
             "A great deal of respect for individual human rights",
             "Fairly much respect",
+            "Don't know",
             "Not much respect",
             "No respect at all"
         ],

@@ -1,0 +1,13 @@
+A_YEAR: Year of survey,N_REGION_ISO: Region ISO 3166-2,H_URBRURAL: Urban-Rural,Q260: Sex,X003R: Age recoded (6 intervals),Q272: Language at home,Q273: Marital status,Q275R: Highest educational level: Respondent (recoded into 3 groups),Q287: Social class (subjective),Counts
+2017,RU-BEL Belgorodskaya area,Rural,Female,65 and more years,Russian,Widowed,Lower,Lower class,4
+2017,RU-MOW Moskva autonomous city,Urban,Female,16-24,Russian,Single,Middle,Upper middle class,5
+2017,RU-MOW Moskva autonomous city,Urban,Female,35-44,Russian,Married,Higher,Upper middle class,4
+2017,RU-MOW Moskva autonomous city,Urban,Female,45-54,Russian,Married,Higher,Upper middle class,9
+2017,RU-MOW Moskva autonomous city,Urban,Male,35-44,Russian,Married,Higher,Lower middle class,5
+2017,RU-MOW Moskva autonomous city,Urban,Male,35-44,Russian,Married,Higher,Upper middle class,5
+2017,RU-MOW Moskva autonomous city,Urban,Male,45-54,Russian,Married,Higher,Lower middle class,5
+2017,RU-MOW Moskva autonomous city,Urban,Male,45-54,Russian,Married,Higher,Upper middle class,4
+2017,RU-PRI Primorskiy kray,Urban,Female,65 and more years,Russian,Widowed,Lower,Working class,4
+2017,RU-ROS Rostovskaya area,Urban,Female,35-44,Russian,Divorced,Higher,Lower middle class,4
+2017,RU-SVE Sverdlovskaya area,Urban,Male,25-34,Russian,Married,Higher,Lower middle class,6
+2017,RU-SVE Sverdlovskaya area,Urban,Male,35-44,Russian,Married,Higher,Lower middle class,4

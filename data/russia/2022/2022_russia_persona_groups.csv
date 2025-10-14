@@ -1,0 +1,1583 @@
+A_YEAR: Year of survey,N_REGION_ISO: Region ISO 3166-2,H_URBRURAL: Urban-Rural,Q260: Sex,X003R: Age recoded (6 intervals),Q272: Language at home,Q273: Marital status,Q275R: Highest educational level: Respondent (recoded into 3 groups),Q287: Social class (subjective),Counts
+2017,RU-ALT Altayskiy kray,Rural,Female,25-34,Russian,Separated,Middle,Don't know,1
+2017,RU-ALT Altayskiy kray,Rural,Female,35-44,Russian,Divorced,Middle,Working class,1
+2017,RU-ALT Altayskiy kray,Rural,Female,45-54,Russian,Married,Higher,Lower middle class,1
+2017,RU-ALT Altayskiy kray,Rural,Female,55-64,Russian,Divorced,Higher,Working class,1
+2017,RU-ALT Altayskiy kray,Rural,Female,55-64,Russian,Married,Higher,Working class,1
+2017,RU-ALT Altayskiy kray,Rural,Female,55-64,Russian,Widowed,Middle,Working class,1
+2017,RU-ALT Altayskiy kray,Rural,Female,65 and more years,Russian,Widowed,Lower,Working class,2
+2017,RU-ALT Altayskiy kray,Rural,Male,25-34,Russian,Living together as married,Lower,Upper middle class,1
+2017,RU-ALT Altayskiy kray,Rural,Male,35-44,Russian,Married,Middle,Working class,1
+2017,RU-ALT Altayskiy kray,Rural,Male,45-54,Russian,Living together as married,Middle,Working class,1
+2017,RU-ALT Altayskiy kray,Rural,Male,55-64,Russian,Married,Higher,Lower class,1
+2017,RU-ALT Altayskiy kray,Rural,Male,55-64,Russian,Single,Higher,Lower middle class,1
+2017,RU-ALT Altayskiy kray,Urban,Female,16-24,Russian,Single,Middle,Lower middle class,1
+2017,RU-ALT Altayskiy kray,Urban,Female,35-44,Russian,Single,Higher,Working class,1
+2017,RU-ALT Altayskiy kray,Urban,Female,55-64,Russian,Married,Middle,Working class,1
+2017,RU-ALT Altayskiy kray,Urban,Female,65 and more years,Russian,Widowed,Lower,Working class,2
+2017,RU-ALT Altayskiy kray,Urban,Female,65 and more years,Russian,Widowed,Middle,Lower middle class,1
+2017,RU-ALT Altayskiy kray,Urban,Male,16-24,Russian,Single,Middle,Upper middle class,1
+2017,RU-ALT Altayskiy kray,Urban,Male,25-34,Russian,Single,Higher,Upper middle class,1
+2017,RU-ALT Altayskiy kray,Urban,Male,35-44,Russian,Married,Middle,Lower middle class,1
+2017,RU-ALT Altayskiy kray,Urban,Male,45-54,Russian,Married,Higher,Upper middle class,1
+2017,RU-ALT Altayskiy kray,Urban,Male,55-64,Russian,Married,Lower,Working class,1
+2017,RU-ALT Altayskiy kray,Urban,Male,65 and more years,Russian,Married,Middle,Lower class,1
+2017,RU-AMU Amurskaya area,Rural,Female,16-24,Russian,Married,Lower,Don't know,1
+2017,RU-AMU Amurskaya area,Rural,Female,45-54,Russian,Married,Middle,Upper middle class,1
+2017,RU-AMU Amurskaya area,Rural,Female,55-64,Russian,Widowed,Lower,Working class,1
+2017,RU-AMU Amurskaya area,Rural,Male,55-64,Russian,Married,Lower,Working class,1
+2017,RU-ARK Arkhangel'skaja area,Urban,Female,35-44,Russian,Divorced,Higher,Don't know,1
+2017,RU-ARK Arkhangel'skaja area,Urban,Female,35-44,Russian,Married,Higher,Upper middle class,1
+2017,RU-ARK Arkhangel'skaja area,Urban,Female,45-54,Russian,Married,Higher,Lower middle class,1
+2017,RU-ARK Arkhangel'skaja area,Urban,Female,55-64,Russian,Married,Higher,Don't know,1
+2017,RU-ARK Arkhangel'skaja area,Urban,Female,65 and more years,Russian,Widowed,Higher,Don't know,1
+2017,RU-ARK Arkhangel'skaja area,Urban,Female,65 and more years,Russian,Widowed,Middle,Don't know,1
+2017,RU-ARK Arkhangel'skaja area,Urban,Male,16-24,Russian,Single,Higher,Working class,1
+2017,RU-ARK Arkhangel'skaja area,Urban,Male,25-34,Russian,Divorced,Higher,Don't know,1
+2017,RU-ARK Arkhangel'skaja area,Urban,Male,35-44,Russian,Single,Higher,Working class,1
+2017,RU-ARK Arkhangel'skaja area,Urban,Male,45-54,Russian,Married,Don't know,No answer,1
+2017,RU-ARK Arkhangel'skaja area,Urban,Male,45-54,Russian,Widowed,Higher,No answer,1
+2017,RU-ARK Arkhangel'skaja area,Urban,Male,55-64,Russian,Married,Higher,Working class,1
+2017,RU-AST Astrakhanskaya area,Rural,Female,25-34,Russian,Married,Higher,Don't know,2
+2017,RU-AST Astrakhanskaya area,Rural,Female,25-34,Russian,No answer,Higher,No answer,1
+2017,RU-AST Astrakhanskaya area,Rural,Female,25-34,Russian,Separated,Higher,Working class,1
+2017,RU-AST Astrakhanskaya area,Rural,Female,25-34,Russian,Single,Higher,Don't know,1
+2017,RU-AST Astrakhanskaya area,Rural,Female,35-44,Russian,Separated,Higher,Working class,1
+2017,RU-AST Astrakhanskaya area,Rural,Female,45-54,Russian,Divorced,Higher,Lower middle class,1
+2017,RU-AST Astrakhanskaya area,Rural,Female,45-54,Russian,Married,Higher,Don't know,1
+2017,RU-AST Astrakhanskaya area,Rural,Female,45-54,Russian,Married,Higher,Working class,1
+2017,RU-AST Astrakhanskaya area,Rural,Female,55-64,Russian,Divorced,Higher,Don't know,1
+2017,RU-AST Astrakhanskaya area,Rural,Female,55-64,Russian,Married,Higher,Don't know,1
+2017,RU-AST Astrakhanskaya area,Rural,Female,55-64,Russian,Married,Higher,Working class,1
+2017,RU-AST Astrakhanskaya area,Rural,Female,65 and more years,Russian,Divorced,Lower,Working class,1
+2017,RU-AST Astrakhanskaya area,Rural,Female,65 and more years,Russian,Married,Lower,Lower class,1
+2017,RU-AST Astrakhanskaya area,Rural,Female,65 and more years,Russian,Married,Lower,Working class,1
+2017,RU-AST Astrakhanskaya area,Rural,Female,65 and more years,Tatar,Married,Lower,Lower class,1
+2017,RU-AST Astrakhanskaya area,Rural,Male,16-24,Russian,Single,Middle,Working class,1
+2017,RU-AST Astrakhanskaya area,Rural,Male,25-34,Russian,Living together as married,Higher,Don't know,1
+2017,RU-AST Astrakhanskaya area,Rural,Male,25-34,Russian,Married,Higher,Lower middle class,1
+2017,RU-AST Astrakhanskaya area,Rural,Male,25-34,Russian,Married,Higher,Working class,1
+2017,RU-AST Astrakhanskaya area,Rural,Male,25-34,Russian,Single,Middle,Don't know,1
+2017,RU-AST Astrakhanskaya area,Rural,Male,25-34,Russian,Single,Middle,Working class,1
+2017,RU-AST Astrakhanskaya area,Rural,Male,35-44,Russian,Married,Don't know,Working class,1
+2017,RU-AST Astrakhanskaya area,Rural,Male,45-54,Russian,Married,Higher,Working class,1
+2017,RU-AST Astrakhanskaya area,Rural,Male,65 and more years,Russian,Married,Lower,Working class,1
+2017,RU-AST Astrakhanskaya area,Rural,Male,65 and more years,Russian,Widowed,Lower,Working class,1
+2017,"RU-BA Bashkortostan, Republic",Rural,Female,25-34,Russian,Divorced,Higher,Lower middle class,1
+2017,"RU-BA Bashkortostan, Republic",Rural,Female,25-34,Russian,Married,Higher,No answer,1
+2017,"RU-BA Bashkortostan, Republic",Rural,Female,25-34,Russian,Married,Middle,No answer,1
+2017,"RU-BA Bashkortostan, Republic",Rural,Female,45-54,Russian,Married,Higher,Lower middle class,1
+2017,"RU-BA Bashkortostan, Republic",Rural,Female,65 and more years,Tatar,Widowed,Middle,Working class,1
+2017,"RU-BA Bashkortostan, Republic",Rural,Male,16-24,Russian,Married,Higher,Don't know,1
+2017,"RU-BA Bashkortostan, Republic",Rural,Male,25-34,Russian,Married,Higher,Lower middle class,1
+2017,"RU-BA Bashkortostan, Republic",Rural,Male,35-44,Tatar,Married,Higher,Don't know,1
+2017,"RU-BA Bashkortostan, Republic",Rural,Male,45-54,Russian,Married,Higher,Lower middle class,1
+2017,"RU-BA Bashkortostan, Republic",Rural,Male,45-54,Russian,Married,Higher,Working class,1
+2017,"RU-BA Bashkortostan, Republic",Rural,Male,55-64,Russian,Married,Higher,No answer,1
+2017,"RU-BA Bashkortostan, Republic",Rural,Male,65 and more years,Russian,Married,Higher,Lower class,1
+2017,"RU-BA Bashkortostan, Republic",Urban,Female,16-24,Russian,Single,Middle,Lower middle class,1
+2017,"RU-BA Bashkortostan, Republic",Urban,Female,25-34,Russian,Divorced,Higher,Lower middle class,1
+2017,"RU-BA Bashkortostan, Republic",Urban,Female,25-34,Russian,Married,Higher,Lower middle class,1
+2017,"RU-BA Bashkortostan, Republic",Urban,Female,25-34,Russian,Married,Higher,Upper middle class,1
+2017,"RU-BA Bashkortostan, Republic",Urban,Female,25-34,Russian,Single,Higher,Lower middle class,1
+2017,"RU-BA Bashkortostan, Republic",Urban,Female,35-44,Other,Married,Middle,Lower middle class,1
+2017,"RU-BA Bashkortostan, Republic",Urban,Female,35-44,Other,Single,Higher,Lower middle class,1
+2017,"RU-BA Bashkortostan, Republic",Urban,Female,35-44,Russian,Divorced,Higher,Lower middle class,2
+2017,"RU-BA Bashkortostan, Republic",Urban,Female,35-44,Tatar,Married,Higher,Lower middle class,1
+2017,"RU-BA Bashkortostan, Republic",Urban,Female,45-54,Other,Married,Higher,Upper middle class,1
+2017,"RU-BA Bashkortostan, Republic",Urban,Female,45-54,Russian,Divorced,Higher,Upper middle class,1
+2017,"RU-BA Bashkortostan, Republic",Urban,Female,45-54,Russian,Divorced,Middle,No answer,1
+2017,"RU-BA Bashkortostan, Republic",Urban,Female,45-54,Russian,Married,Higher,Lower middle class,1
+2017,"RU-BA Bashkortostan, Republic",Urban,Female,45-54,Russian,Married,Higher,Upper middle class,1
+2017,"RU-BA Bashkortostan, Republic",Urban,Female,45-54,Tatar,Married,Higher,Lower middle class,2
+2017,"RU-BA Bashkortostan, Republic",Urban,Female,45-54,Tatar,Married,Higher,Upper middle class,1
+2017,"RU-BA Bashkortostan, Republic",Urban,Female,55-64,Other,Married,Lower,Working class,1
+2017,"RU-BA Bashkortostan, Republic",Urban,Female,55-64,Russian,Married,Higher,Upper middle class,1
+2017,"RU-BA Bashkortostan, Republic",Urban,Female,55-64,Tatar,Married,Higher,Upper middle class,1
+2017,"RU-BA Bashkortostan, Republic",Urban,Male,16-24,Other,Single,Higher,Upper middle class,1
+2017,"RU-BA Bashkortostan, Republic",Urban,Male,16-24,Russian,Single,Higher,Upper middle class,1
+2017,"RU-BA Bashkortostan, Republic",Urban,Male,16-24,Tatar,Single,Higher,Upper middle class,1
+2017,"RU-BA Bashkortostan, Republic",Urban,Male,25-34,Other,Married,Higher,Lower middle class,1
+2017,"RU-BA Bashkortostan, Republic",Urban,Male,25-34,Russian,Married,Higher,Lower middle class,1
+2017,"RU-BA Bashkortostan, Republic",Urban,Male,25-34,Russian,Married,Middle,Upper middle class,1
+2017,"RU-BA Bashkortostan, Republic",Urban,Male,25-34,Russian,Single,Higher,Upper middle class,1
+2017,"RU-BA Bashkortostan, Republic",Urban,Male,35-44,Russian,Married,Higher,Lower middle class,1
+2017,"RU-BA Bashkortostan, Republic",Urban,Male,35-44,Russian,Single,Middle,Lower middle class,1
+2017,"RU-BA Bashkortostan, Republic",Urban,Male,35-44,Tatar,Married,Higher,Upper middle class,1
+2017,"RU-BA Bashkortostan, Republic",Urban,Male,45-54,Other,Married,Higher,Upper middle class,1
+2017,"RU-BA Bashkortostan, Republic",Urban,Male,45-54,Russian,Married,Higher,Lower middle class,1
+2017,"RU-BA Bashkortostan, Republic",Urban,Male,45-54,Russian,Married,Middle,Lower middle class,2
+2017,"RU-BA Bashkortostan, Republic",Urban,Male,55-64,Russian,Married,Middle,Upper middle class,1
+2017,RU-BEL Belgorodskaya area,Rural,Female,25-34,Russian,Divorced,Higher,Working class,1
+2017,RU-BEL Belgorodskaya area,Rural,Female,25-34,Russian,Married,Higher,Lower middle class,1
+2017,RU-BEL Belgorodskaya area,Rural,Female,35-44,Russian,Divorced,Higher,Lower middle class,1
+2017,RU-BEL Belgorodskaya area,Rural,Female,35-44,Russian,Divorced,Lower,Working class,1
+2017,RU-BEL Belgorodskaya area,Rural,Female,35-44,Russian,Married,Middle,Working class,1
+2017,RU-BEL Belgorodskaya area,Rural,Female,55-64,Russian,Divorced,Higher,Lower middle class,1
+2017,RU-BEL Belgorodskaya area,Rural,Female,55-64,Russian,Living together as married,Higher,Lower middle class,1
+2017,RU-BEL Belgorodskaya area,Rural,Female,55-64,Russian,Married,Lower,Lower middle class,1
+2017,RU-BEL Belgorodskaya area,Rural,Female,65 and more years,Russian,Married,Middle,Lower middle class,1
+2017,RU-BEL Belgorodskaya area,Rural,Female,65 and more years,Russian,Widowed,Lower,Lower class,4
+2017,RU-BEL Belgorodskaya area,Rural,Female,65 and more years,Russian,Widowed,Lower,Working class,1
+2017,RU-BEL Belgorodskaya area,Rural,Female,65 and more years,Russian,Widowed,Middle,Working class,1
+2017,RU-BEL Belgorodskaya area,Rural,Male,25-34,Russian,Married,Higher,Upper middle class,1
+2017,RU-BEL Belgorodskaya area,Rural,Male,35-44,Russian,Married,Lower,Lower middle class,1
+2017,RU-BEL Belgorodskaya area,Rural,Male,35-44,Russian,Married,Middle,Working class,1
+2017,RU-BEL Belgorodskaya area,Rural,Male,45-54,Russian,Divorced,Lower,Lower class,1
+2017,RU-BEL Belgorodskaya area,Rural,Male,45-54,Russian,Divorced,Lower,Working class,1
+2017,RU-BEL Belgorodskaya area,Rural,Male,45-54,Russian,Married,Lower,Working class,1
+2017,RU-BEL Belgorodskaya area,Rural,Male,55-64,Russian,Married,Lower,Working class,1
+2017,RU-BEL Belgorodskaya area,Rural,Male,55-64,Russian,Married,Middle,Lower class,1
+2017,RU-BEL Belgorodskaya area,Rural,Male,65 and more years,Russian,Widowed,Lower,Working class,1
+2017,RU-BRY Bryanskaya area,Urban,Female,16-24,Russian,Single,Middle,Upper middle class,1
+2017,RU-BRY Bryanskaya area,Urban,Female,25-34,Russian,Married,Higher,Lower middle class,1
+2017,RU-BRY Bryanskaya area,Urban,Female,25-34,Russian,Single,Higher,Upper middle class,1
+2017,RU-BRY Bryanskaya area,Urban,Female,35-44,Russian,Divorced,Higher,Lower middle class,1
+2017,RU-BRY Bryanskaya area,Urban,Female,35-44,Russian,Divorced,Higher,Working class,1
+2017,RU-BRY Bryanskaya area,Urban,Female,35-44,Russian,Married,Higher,Working class,1
+2017,RU-BRY Bryanskaya area,Urban,Female,45-54,Russian,Divorced,Higher,Lower class,1
+2017,RU-BRY Bryanskaya area,Urban,Female,45-54,Russian,Married,Higher,Upper middle class,1
+2017,RU-BRY Bryanskaya area,Urban,Female,45-54,Russian,Widowed,Higher,Working class,1
+2017,RU-BRY Bryanskaya area,Urban,Female,55-64,Russian,Divorced,Higher,Lower middle class,1
+2017,RU-BRY Bryanskaya area,Urban,Female,55-64,Russian,Divorced,Higher,Working class,2
+2017,RU-BRY Bryanskaya area,Urban,Female,55-64,Russian,Married,Higher,Working class,1
+2017,RU-BRY Bryanskaya area,Urban,Female,65 and more years,Russian,Married,Lower,Lower class,1
+2017,RU-BRY Bryanskaya area,Urban,Female,65 and more years,Russian,Widowed,Lower,Working class,1
+2017,RU-BRY Bryanskaya area,Urban,Female,65 and more years,Russian,Widowed,Middle,Working class,1
+2017,RU-BRY Bryanskaya area,Urban,Male,16-24,Russian,Single,Middle,Don't know,1
+2017,RU-BRY Bryanskaya area,Urban,Male,35-44,Russian,Married,Higher,Working class,2
+2017,RU-BRY Bryanskaya area,Urban,Male,45-54,Russian,Married,Higher,Lower middle class,1
+2017,RU-BRY Bryanskaya area,Urban,Male,45-54,Russian,Married,Higher,Working class,1
+2017,RU-BRY Bryanskaya area,Urban,Male,55-64,Russian,Married,Higher,Working class,1
+2017,RU-BRY Bryanskaya area,Urban,Male,65 and more years,Russian,Married,Higher,Working class,1
+2017,RU-BRY Bryanskaya area,Urban,Male,65 and more years,Russian,Widowed,Higher,Working class,1
+2017,"RU-BU Buryatiya, Republic",Rural,Female,45-54,Other,Married,Higher,Working class,1
+2017,"RU-BU Buryatiya, Republic",Rural,Female,55-64,Other,Widowed,Higher,Lower class,1
+2017,"RU-BU Buryatiya, Republic",Rural,Female,55-64,Other,Widowed,Middle,Lower class,1
+2017,"RU-BU Buryatiya, Republic",Rural,Female,65 and more years,Other,Widowed,Lower,Lower middle class,1
+2017,"RU-BU Buryatiya, Republic",Rural,Female,65 and more years,Other,Widowed,Middle,Lower class,1
+2017,"RU-BU Buryatiya, Republic",Rural,Male,35-44,Other,Single,Middle,Working class,1
+2017,"RU-BU Buryatiya, Republic",Rural,Male,35-44,Russian,Married,Higher,Working class,1
+2017,"RU-BU Buryatiya, Republic",Rural,Male,35-44,Russian,Married,Middle,Upper middle class,1
+2017,"RU-BU Buryatiya, Republic",Rural,Male,45-54,Other,Married,Higher,Working class,1
+2017,"RU-BU Buryatiya, Republic",Rural,Male,45-54,Other,Married,Middle,Lower class,1
+2017,"RU-BU Buryatiya, Republic",Rural,Male,55-64,Other,Married,Middle,Working class,1
+2017,"RU-BU Buryatiya, Republic",Rural,Male,65 and more years,Other,Widowed,Lower,Working class,1
+2017,"RU-BU Buryatiya, Republic",Urban,Female,16-24,Russian,Living together as married,Higher,Upper middle class,1
+2017,"RU-BU Buryatiya, Republic",Urban,Female,16-24,Russian,Married,Higher,Lower middle class,3
+2017,"RU-BU Buryatiya, Republic",Urban,Female,16-24,Russian,Married,Higher,Working class,1
+2017,"RU-BU Buryatiya, Republic",Urban,Female,25-34,Russian,Married,Middle,Lower middle class,1
+2017,"RU-BU Buryatiya, Republic",Urban,Male,16-24,Russian,Married,Higher,Lower middle class,1
+2017,"RU-BU Buryatiya, Republic",Urban,Male,35-44,Russian,Married,Higher,Lower middle class,1
+2017,"RU-BU Buryatiya, Republic",Urban,Male,45-54,Russian,Married,Higher,Lower middle class,1
+2017,"RU-BU Buryatiya, Republic",Urban,Male,55-64,Russian,Married,Higher,Upper middle class,1
+2017,RU-CE Chechenskaya Republic,Rural,Female,16-24,Chechen,Married,Higher,Working class,1
+2017,RU-CE Chechenskaya Republic,Rural,Female,16-24,Chechen,Married,Middle,Working class,1
+2017,RU-CE Chechenskaya Republic,Rural,Female,25-34,Chechen,Married,Middle,Lower middle class,1
+2017,RU-CE Chechenskaya Republic,Rural,Female,35-44,Chechen,Married,Middle,Upper class,1
+2017,RU-CE Chechenskaya Republic,Rural,Female,35-44,Chechen,Married,Middle,Working class,1
+2017,RU-CE Chechenskaya Republic,Rural,Female,45-54,Chechen,Divorced,Middle,Upper middle class,1
+2017,RU-CE Chechenskaya Republic,Rural,Female,45-54,Chechen,Widowed,Middle,Working class,1
+2017,RU-CE Chechenskaya Republic,Rural,Female,55-64,Chechen,Married,Middle,Upper middle class,1
+2017,RU-CE Chechenskaya Republic,Rural,Male,35-44,Chechen,Married,Middle,Working class,1
+2017,RU-CE Chechenskaya Republic,Rural,Male,55-64,Chechen,Married,Middle,Working class,1
+2017,RU-CE Chechenskaya Republic,Rural,Male,65 and more years,Chechen,Married,Higher,Working class,1
+2017,RU-CE Chechenskaya Republic,Rural,Male,65 and more years,Chechen,Married,Lower,Lower middle class,1
+2017,RU-CE Chechenskaya Republic,Urban,Female,25-34,Chechen,Married,Higher,Upper middle class,1
+2017,RU-CE Chechenskaya Republic,Urban,Female,25-34,Chechen,Married,Middle,Working class,1
+2017,RU-CE Chechenskaya Republic,Urban,Female,35-44,Chechen,Married,Lower,Working class,1
+2017,RU-CE Chechenskaya Republic,Urban,Female,35-44,Chechen,Married,Middle,Upper middle class,1
+2017,RU-CE Chechenskaya Republic,Urban,Female,35-44,Chechen,Married,Middle,Working class,1
+2017,RU-CE Chechenskaya Republic,Urban,Female,45-54,Chechen,Single,Higher,Working class,1
+2017,RU-CE Chechenskaya Republic,Urban,Female,55-64,Chechen,Widowed,Lower,Working class,1
+2017,RU-CE Chechenskaya Republic,Urban,Female,65 and more years,Chechen,Married,Middle,Upper middle class,1
+2017,RU-CE Chechenskaya Republic,Urban,Male,25-34,Chechen,Single,Middle,Don't know,1
+2017,RU-CE Chechenskaya Republic,Urban,Male,45-54,Chechen,Divorced,Middle,Lower middle class,1
+2017,RU-CE Chechenskaya Republic,Urban,Male,45-54,Chechen,Married,Higher,Upper middle class,1
+2017,RU-CE Chechenskaya Republic,Urban,Male,45-54,Chechen,Married,Middle,Lower middle class,1
+2017,RU-CE Chechenskaya Republic,Urban,Male,55-64,Chechen,Married,Middle,Working class,1
+2017,RU-CHE Chelyabinskaya area,Rural,Female,25-34,Tatar,Married,Higher,No answer,1
+2017,RU-CHE Chelyabinskaya area,Rural,Female,35-44,Russian,Married,Higher,Working class,1
+2017,RU-CHE Chelyabinskaya area,Rural,Female,45-54,Russian,Married,Middle,Working class,1
+2017,RU-CHE Chelyabinskaya area,Rural,Female,45-54,Russian,Widowed,Higher,Don't know,1
+2017,RU-CHE Chelyabinskaya area,Rural,Female,45-54,Russian,Widowed,Higher,Lower middle class,1
+2017,RU-CHE Chelyabinskaya area,Rural,Female,45-54,Tatar,Divorced,Middle,Working class,1
+2017,RU-CHE Chelyabinskaya area,Rural,Female,55-64,Tatar,Divorced,Higher,No answer,1
+2017,RU-CHE Chelyabinskaya area,Rural,Female,65 and more years,Russian,Widowed,Higher,Lower middle class,1
+2017,RU-CHE Chelyabinskaya area,Rural,Female,65 and more years,Russian,Widowed,Higher,Working class,1
+2017,RU-CHE Chelyabinskaya area,Rural,Male,25-34,Russian,Divorced,Higher,Working class,1
+2017,RU-CHE Chelyabinskaya area,Rural,Male,35-44,Russian,Married,Higher,Working class,1
+2017,RU-CHE Chelyabinskaya area,Rural,Male,45-54,Russian,Married,Higher,Working class,1
+2017,RU-CHE Chelyabinskaya area,Urban,Female,25-34,Russian,Single,Higher,Upper middle class,1
+2017,RU-CHE Chelyabinskaya area,Urban,Female,35-44,Russian,Divorced,Higher,Upper middle class,1
+2017,RU-CHE Chelyabinskaya area,Urban,Female,45-54,Russian,Divorced,Higher,Working class,1
+2017,RU-CHE Chelyabinskaya area,Urban,Female,45-54,Russian,Married,Higher,Lower middle class,1
+2017,RU-CHE Chelyabinskaya area,Urban,Female,45-54,Russian,Married,Middle,Working class,1
+2017,RU-CHE Chelyabinskaya area,Urban,Female,55-64,Russian,Married,Higher,Working class,2
+2017,RU-CHE Chelyabinskaya area,Urban,Female,55-64,Russian,Married,Middle,Working class,2
+2017,RU-CHE Chelyabinskaya area,Urban,Female,55-64,Russian,Separated,Middle,Working class,1
+2017,RU-CHE Chelyabinskaya area,Urban,Female,55-64,Russian,Single,Higher,Lower middle class,1
+2017,RU-CHE Chelyabinskaya area,Urban,Female,65 and more years,Russian,Widowed,Higher,Lower middle class,2
+2017,RU-CHE Chelyabinskaya area,Urban,Female,65 and more years,Russian,Widowed,Higher,Upper middle class,1
+2017,RU-CHE Chelyabinskaya area,Urban,Female,65 and more years,Russian,Widowed,Lower,Lower class,1
+2017,RU-CHE Chelyabinskaya area,Urban,Female,65 and more years,Russian,Widowed,Lower,Working class,2
+2017,RU-CHE Chelyabinskaya area,Urban,Female,65 and more years,Russian,Widowed,Middle,Working class,1
+2017,RU-CHE Chelyabinskaya area,Urban,Male,25-34,Russian,Married,Higher,Lower middle class,1
+2017,RU-CHE Chelyabinskaya area,Urban,Male,25-34,Russian,Married,Middle,Lower middle class,1
+2017,RU-CHE Chelyabinskaya area,Urban,Male,25-34,Russian,Single,Middle,Lower middle class,1
+2017,RU-CHE Chelyabinskaya area,Urban,Male,35-44,Russian,Married,Higher,Don't know,1
+2017,RU-CHE Chelyabinskaya area,Urban,Male,35-44,Russian,Married,Higher,Lower middle class,1
+2017,RU-CHE Chelyabinskaya area,Urban,Male,55-64,Russian,Married,Higher,Lower middle class,1
+2017,RU-CHE Chelyabinskaya area,Urban,Male,65 and more years,Russian,Divorced,Higher,Working class,1
+2017,"RU-DA Dagestan, Republic",Rural,Female,16-24,Avar; Avaric,Single,Higher,Upper middle class,1
+2017,"RU-DA Dagestan, Republic",Rural,Female,16-24,Avar; Avaric,Single,Middle,Upper middle class,1
+2017,"RU-DA Dagestan, Republic",Rural,Female,16-24,Russian,Single,Higher,Upper class,1
+2017,"RU-DA Dagestan, Republic",Rural,Female,16-24,Russian,Single,Higher,Upper middle class,1
+2017,"RU-DA Dagestan, Republic",Rural,Female,25-34,Russian,Married,Higher,Don't know,1
+2017,"RU-DA Dagestan, Republic",Rural,Female,25-34,Russian,Single,Higher,Upper middle class,1
+2017,"RU-DA Dagestan, Republic",Rural,Female,35-44,Avar; Avaric,Married,Higher,Lower middle class,1
+2017,"RU-DA Dagestan, Republic",Rural,Female,35-44,Avar; Avaric,Married,Lower,Lower middle class,1
+2017,"RU-DA Dagestan, Republic",Rural,Female,45-54,Avar; Avaric,Married,Higher,Lower middle class,1
+2017,"RU-DA Dagestan, Republic",Rural,Male,16-24,Avar; Avaric,Single,Middle,Working class,1
+2017,"RU-DA Dagestan, Republic",Rural,Male,25-34,Avar; Avaric,No answer,Middle,Upper middle class,1
+2017,"RU-DA Dagestan, Republic",Rural,Male,25-34,Avar; Avaric,Single,Lower,Lower middle class,1
+2017,"RU-DA Dagestan, Republic",Rural,Male,25-34,Russian,Married,Higher,Upper middle class,1
+2017,"RU-DA Dagestan, Republic",Rural,Male,35-44,Avar; Avaric,Single,Higher,Upper middle class,1
+2017,"RU-DA Dagestan, Republic",Urban,Female,16-24,Russian,Single,Don't know,Lower middle class,1
+2017,"RU-DA Dagestan, Republic",Urban,Female,16-24,Russian,Single,Higher,Lower middle class,1
+2017,"RU-DA Dagestan, Republic",Urban,Female,25-34,Avar; Avaric,Married,Higher,Upper middle class,1
+2017,"RU-DA Dagestan, Republic",Urban,Female,25-34,Other,Married,Higher,Don't know,1
+2017,"RU-DA Dagestan, Republic",Urban,Female,25-34,Other,Married,Higher,Upper middle class,2
+2017,"RU-DA Dagestan, Republic",Urban,Female,25-34,Russian,Married,Higher,Lower middle class,1
+2017,"RU-DA Dagestan, Republic",Urban,Female,35-44,Other,Single,Middle,Upper middle class,1
+2017,"RU-DA Dagestan, Republic",Urban,Female,35-44,Russian,Married,Higher,Lower middle class,1
+2017,"RU-DA Dagestan, Republic",Urban,Female,35-44,Russian,Single,Higher,Lower middle class,1
+2017,"RU-DA Dagestan, Republic",Urban,Female,45-54,Russian,Married,Higher,Lower middle class,1
+2017,"RU-DA Dagestan, Republic",Urban,Female,45-54,Russian,Widowed,Middle,Working class,1
+2017,"RU-DA Dagestan, Republic",Urban,Female,55-64,Russian,Single,Higher,Upper middle class,1
+2017,"RU-DA Dagestan, Republic",Urban,Male,16-24,Russian,Single,Higher,Working class,1
+2017,"RU-DA Dagestan, Republic",Urban,Male,25-34,Avar; Avaric,Married,Higher,Upper middle class,2
+2017,"RU-DA Dagestan, Republic",Urban,Male,25-34,Russian,Married,Higher,Upper middle class,1
+2017,"RU-DA Dagestan, Republic",Urban,Male,35-44,Avar; Avaric,Married,Higher,Upper middle class,1
+2017,"RU-DA Dagestan, Republic",Urban,Male,35-44,Avar; Avaric,Married,Middle,Upper middle class,1
+2017,"RU-DA Dagestan, Republic",Urban,Male,35-44,Other,Married,Higher,Don't know,1
+2017,"RU-DA Dagestan, Republic",Urban,Male,35-44,Other,Married,Higher,Upper middle class,1
+2017,RU-IRK Irkutskaya area,Urban,Female,16-24,Russian,No answer,Middle,Lower middle class,1
+2017,RU-IRK Irkutskaya area,Urban,Female,16-24,Russian,Single,Higher,Lower middle class,1
+2017,RU-IRK Irkutskaya area,Urban,Female,25-34,Russian,Divorced,Higher,Working class,1
+2017,RU-IRK Irkutskaya area,Urban,Female,25-34,Russian,Married,Higher,Lower middle class,1
+2017,RU-IRK Irkutskaya area,Urban,Female,35-44,Russian,Divorced,Higher,Lower middle class,1
+2017,RU-IRK Irkutskaya area,Urban,Female,35-44,Russian,Married,Middle,Lower middle class,1
+2017,RU-IRK Irkutskaya area,Urban,Female,35-44,Russian,Married,Middle,Working class,1
+2017,RU-IRK Irkutskaya area,Urban,Female,35-44,Russian,No answer,Higher,Lower class,1
+2017,RU-IRK Irkutskaya area,Urban,Female,35-44,Russian,Single,Higher,Lower middle class,1
+2017,RU-IRK Irkutskaya area,Urban,Female,45-54,Russian,Divorced,Higher,Lower middle class,1
+2017,RU-IRK Irkutskaya area,Urban,Female,45-54,Russian,Living together as married,Higher,Working class,1
+2017,RU-IRK Irkutskaya area,Urban,Female,45-54,Russian,Married,Higher,Working class,1
+2017,RU-IRK Irkutskaya area,Urban,Female,45-54,Russian,Married,Lower,Lower middle class,1
+2017,RU-IRK Irkutskaya area,Urban,Female,45-54,Russian,Married,Lower,Working class,1
+2017,RU-IRK Irkutskaya area,Urban,Female,45-54,Russian,Single,Lower,Working class,1
+2017,RU-IRK Irkutskaya area,Urban,Female,55-64,Russian,Divorced,Higher,Lower middle class,2
+2017,RU-IRK Irkutskaya area,Urban,Female,55-64,Russian,Widowed,Higher,Lower middle class,2
+2017,RU-IRK Irkutskaya area,Urban,Female,65 and more years,Russian,Widowed,Higher,Don't know,1
+2017,RU-IRK Irkutskaya area,Urban,Female,65 and more years,Russian,Widowed,Higher,Lower middle class,1
+2017,RU-IRK Irkutskaya area,Urban,Female,65 and more years,Russian,Widowed,Lower,Working class,1
+2017,RU-IRK Irkutskaya area,Urban,Male,16-24,Russian,Married,Higher,Upper middle class,1
+2017,RU-IRK Irkutskaya area,Urban,Male,25-34,Russian,Living together as married,Higher,Working class,1
+2017,RU-IRK Irkutskaya area,Urban,Male,25-34,Russian,Married,Higher,Lower middle class,2
+2017,RU-IRK Irkutskaya area,Urban,Male,25-34,Russian,Married,Higher,Upper middle class,2
+2017,RU-IRK Irkutskaya area,Urban,Male,25-34,Russian,Married,Middle,Working class,1
+2017,RU-IRK Irkutskaya area,Urban,Male,35-44,Russian,Living together as married,Higher,No answer,1
+2017,RU-IRK Irkutskaya area,Urban,Male,45-54,Russian,Divorced,Middle,Working class,1
+2017,RU-IRK Irkutskaya area,Urban,Male,45-54,Russian,Married,Higher,Working class,2
+2017,RU-IRK Irkutskaya area,Urban,Male,45-54,Russian,Married,Lower,Lower middle class,1
+2017,RU-IRK Irkutskaya area,Urban,Male,55-64,Russian,Living together as married,Lower,Lower class,1
+2017,RU-IRK Irkutskaya area,Urban,Male,65 and more years,Russian,Married,Higher,Working class,1
+2017,RU-IRK Irkutskaya area,Urban,Male,65 and more years,Russian,Widowed,Higher,Working class,1
+2017,RU-IVA Ivanovskaya area,Urban,Female,25-34,Russian,Living together as married,Lower,Upper class,1
+2017,RU-IVA Ivanovskaya area,Urban,Female,25-34,Russian,No answer,Higher,Working class,1
+2017,RU-IVA Ivanovskaya area,Urban,Female,25-34,Russian,Single,Higher,Lower middle class,1
+2017,RU-IVA Ivanovskaya area,Urban,Female,35-44,Russian,Living together as married,Middle,Lower middle class,1
+2017,RU-IVA Ivanovskaya area,Urban,Female,35-44,Russian,Married,Lower,Working class,1
+2017,RU-IVA Ivanovskaya area,Urban,Female,35-44,Russian,No answer,Higher,Upper class,1
+2017,RU-IVA Ivanovskaya area,Urban,Female,45-54,Russian,Divorced,Higher,Lower middle class,1
+2017,RU-IVA Ivanovskaya area,Urban,Female,55-64,Russian,No answer,Higher,Lower middle class,1
+2017,RU-IVA Ivanovskaya area,Urban,Female,55-64,Russian,Widowed,Higher,No answer,1
+2017,RU-IVA Ivanovskaya area,Urban,Female,65 and more years,Russian,Widowed,Higher,Upper middle class,1
+2017,RU-IVA Ivanovskaya area,Urban,Female,65 and more years,Russian,Widowed,Middle,No answer,1
+2017,RU-IVA Ivanovskaya area,Urban,Male,25-34,Russian,Married,Higher,Upper class,1
+2017,RU-IVA Ivanovskaya area,Urban,Male,25-34,Russian,No answer,Middle,Working class,1
+2017,RU-IVA Ivanovskaya area,Urban,Male,25-34,Russian,Single,Higher,Working class,2
+2017,RU-IVA Ivanovskaya area,Urban,Male,25-34,Russian,Single,Middle,Working class,1
+2017,RU-IVA Ivanovskaya area,Urban,Male,35-44,Russian,Married,Lower,Working class,1
+2017,RU-IVA Ivanovskaya area,Urban,Male,35-44,Russian,Married,Middle,No answer,1
+2017,RU-IVA Ivanovskaya area,Urban,Male,45-54,Russian,Separated,Middle,Working class,1
+2017,RU-IVA Ivanovskaya area,Urban,Male,55-64,Russian,Divorced,Higher,Upper middle class,1
+2017,RU-IVA Ivanovskaya area,Urban,Male,55-64,Russian,No answer,Higher,Working class,1
+2017,RU-IVA Ivanovskaya area,Urban,Male,55-64,Russian,No answer,Lower,Lower class,1
+2017,RU-IVA Ivanovskaya area,Urban,Male,65 and more years,Russian,Married,Higher,Working class,1
+2017,RU-KB Kabardino-Balkarskaya Republic,Urban,Female,25-34,Russian,Separated,Higher,Lower middle class,1
+2017,RU-KB Kabardino-Balkarskaya Republic,Urban,Female,25-34,Tatar,Divorced,Higher,Lower middle class,1
+2017,RU-KB Kabardino-Balkarskaya Republic,Urban,Female,35-44,Russian,Divorced,Higher,Lower middle class,1
+2017,RU-KB Kabardino-Balkarskaya Republic,Urban,Female,55-64,Russian,Widowed,Higher,Don't know,1
+2017,RU-KB Kabardino-Balkarskaya Republic,Urban,Male,25-34,Russian,Married,Higher,Upper middle class,1
+2017,RU-KB Kabardino-Balkarskaya Republic,Urban,Male,25-34,Russian,Single,Higher,Don't know,1
+2017,RU-KDA Krasnodarskiy kray,Rural,Female,16-24,Russian,Single,Higher,Working class,1
+2017,RU-KDA Krasnodarskiy kray,Rural,Female,16-24,Russian,Single,Middle,Lower middle class,1
+2017,RU-KDA Krasnodarskiy kray,Rural,Female,25-34,Russian,Living together as married,Higher,Lower middle class,1
+2017,RU-KDA Krasnodarskiy kray,Rural,Female,35-44,Russian,Single,Higher,Working class,1
+2017,RU-KDA Krasnodarskiy kray,Rural,Female,45-54,Russian,Divorced,Higher,Working class,1
+2017,RU-KDA Krasnodarskiy kray,Rural,Female,45-54,Russian,Divorced,Middle,Working class,2
+2017,RU-KDA Krasnodarskiy kray,Rural,Female,45-54,Russian,Married,Higher,Don't know,1
+2017,RU-KDA Krasnodarskiy kray,Rural,Female,45-54,Russian,Married,Middle,Working class,1
+2017,RU-KDA Krasnodarskiy kray,Rural,Female,45-54,Russian,Separated,Higher,No answer,1
+2017,RU-KDA Krasnodarskiy kray,Rural,Female,55-64,Russian,Divorced,Higher,Working class,1
+2017,RU-KDA Krasnodarskiy kray,Rural,Female,55-64,Russian,Married,Higher,Lower middle class,2
+2017,RU-KDA Krasnodarskiy kray,Rural,Female,55-64,Russian,Married,Middle,Lower middle class,1
+2017,RU-KDA Krasnodarskiy kray,Rural,Female,65 and more years,Russian,Divorced,Higher,Don't know,1
+2017,RU-KDA Krasnodarskiy kray,Rural,Female,65 and more years,Russian,Married,Higher,Working class,1
+2017,RU-KDA Krasnodarskiy kray,Rural,Female,65 and more years,Russian,Married,Middle,Working class,1
+2017,RU-KDA Krasnodarskiy kray,Rural,Female,65 and more years,Russian,Widowed,Higher,Lower middle class,1
+2017,RU-KDA Krasnodarskiy kray,Rural,Female,65 and more years,Russian,Widowed,Lower,Lower class,1
+2017,RU-KDA Krasnodarskiy kray,Rural,Female,65 and more years,Russian,Widowed,Lower,Working class,1
+2017,RU-KDA Krasnodarskiy kray,Rural,Female,65 and more years,Russian,Widowed,Middle,Don't know,1
+2017,RU-KDA Krasnodarskiy kray,Rural,Female,65 and more years,Russian,Widowed,Middle,Lower class,3
+2017,RU-KDA Krasnodarskiy kray,Rural,Female,65 and more years,Russian,Widowed,Middle,No answer,1
+2017,RU-KDA Krasnodarskiy kray,Rural,Male,16-24,Russian,Married,Middle,Lower middle class,1
+2017,RU-KDA Krasnodarskiy kray,Rural,Male,16-24,Russian,Single,Higher,Lower middle class,1
+2017,RU-KDA Krasnodarskiy kray,Rural,Male,16-24,Russian,Single,Lower,Lower middle class,1
+2017,RU-KDA Krasnodarskiy kray,Rural,Male,16-24,Russian,Single,Middle,Lower middle class,1
+2017,RU-KDA Krasnodarskiy kray,Rural,Male,25-34,Russian,Married,Higher,Lower middle class,1
+2017,RU-KDA Krasnodarskiy kray,Rural,Male,25-34,Russian,Married,Higher,Working class,1
+2017,RU-KDA Krasnodarskiy kray,Rural,Male,25-34,Russian,Married,Middle,Lower middle class,1
+2017,RU-KDA Krasnodarskiy kray,Rural,Male,35-44,Russian,Married,Higher,Lower middle class,1
+2017,RU-KDA Krasnodarskiy kray,Rural,Male,35-44,Russian,Married,Higher,Working class,2
+2017,RU-KDA Krasnodarskiy kray,Rural,Male,35-44,Russian,Married,Middle,No answer,1
+2017,RU-KDA Krasnodarskiy kray,Rural,Male,45-54,Russian,Married,Higher,No answer,1
+2017,RU-KDA Krasnodarskiy kray,Rural,Male,55-64,Russian,Married,Lower,Lower class,1
+2017,RU-KDA Krasnodarskiy kray,Rural,Male,65 and more years,Russian,Married,Lower,Lower middle class,1
+2017,RU-KDA Krasnodarskiy kray,Rural,Male,65 and more years,Russian,Married,Middle,Don't know,1
+2017,RU-KDA Krasnodarskiy kray,Rural,Male,65 and more years,Russian,Married,Middle,Working class,1
+2017,RU-KDA Krasnodarskiy kray,Rural,Male,65 and more years,Russian,Widowed,Lower,Lower middle class,1
+2017,RU-KDA Krasnodarskiy kray,Urban,Female,16-24,Russian,Married,Higher,Don't know,1
+2017,RU-KDA Krasnodarskiy kray,Urban,Female,35-44,Russian,Married,Higher,Lower middle class,1
+2017,RU-KDA Krasnodarskiy kray,Urban,Female,45-54,Russian,Married,Higher,Upper middle class,1
+2017,RU-KDA Krasnodarskiy kray,Urban,Female,45-54,Russian,Married,Higher,Working class,1
+2017,RU-KDA Krasnodarskiy kray,Urban,Female,45-54,Russian,Single,Higher,Working class,1
+2017,RU-KDA Krasnodarskiy kray,Urban,Female,55-64,Russian,Divorced,Higher,Working class,1
+2017,RU-KDA Krasnodarskiy kray,Urban,Female,55-64,Russian,Married,Middle,Upper middle class,1
+2017,RU-KDA Krasnodarskiy kray,Urban,Female,65 and more years,Russian,Married,Higher,Lower middle class,1
+2017,RU-KDA Krasnodarskiy kray,Urban,Female,65 and more years,Russian,Married,Higher,Working class,1
+2017,RU-KDA Krasnodarskiy kray,Urban,Female,65 and more years,Russian,Married,Middle,Working class,1
+2017,RU-KDA Krasnodarskiy kray,Urban,Female,65 and more years,Russian,Single,Middle,Lower middle class,1
+2017,RU-KDA Krasnodarskiy kray,Urban,Female,65 and more years,Russian,Widowed,Lower,Lower class,1
+2017,RU-KDA Krasnodarskiy kray,Urban,Female,65 and more years,Russian,Widowed,Middle,Lower middle class,2
+2017,RU-KDA Krasnodarskiy kray,Urban,Female,65 and more years,Russian,Widowed,Middle,Working class,1
+2017,RU-KDA Krasnodarskiy kray,Urban,Male,16-24,Russian,Single,Lower,Lower middle class,1
+2017,RU-KDA Krasnodarskiy kray,Urban,Male,25-34,Other,Married,Higher,Upper middle class,1
+2017,RU-KDA Krasnodarskiy kray,Urban,Male,35-44,Other,Married,Higher,Upper middle class,1
+2017,RU-KDA Krasnodarskiy kray,Urban,Male,35-44,Russian,Divorced,Higher,Working class,1
+2017,RU-KDA Krasnodarskiy kray,Urban,Male,35-44,Russian,Married,Higher,Lower middle class,1
+2017,RU-KDA Krasnodarskiy kray,Urban,Male,35-44,Russian,Married,Higher,Upper middle class,1
+2017,RU-KDA Krasnodarskiy kray,Urban,Male,45-54,Russian,Married,Higher,Working class,1
+2017,RU-KEM KemerKemerovskayaovskaja area,Urban,Female,25-34,Russian,Single,Higher,Don't know,1
+2017,RU-KEM KemerKemerovskayaovskaja area,Urban,Female,25-34,Russian,Single,Higher,Working class,1
+2017,RU-KEM KemerKemerovskayaovskaja area,Urban,Female,35-44,Russian,Living together as married,Higher,Working class,1
+2017,RU-KEM KemerKemerovskayaovskaja area,Urban,Female,35-44,Russian,Married,Higher,Working class,1
+2017,RU-KEM KemerKemerovskayaovskaja area,Urban,Female,35-44,Russian,Widowed,Higher,Don't know,1
+2017,RU-KEM KemerKemerovskayaovskaja area,Urban,Female,35-44,Russian,Widowed,Lower,Lower class,1
+2017,RU-KEM KemerKemerovskayaovskaja area,Urban,Female,45-54,Russian,Separated,Higher,Working class,1
+2017,RU-KEM KemerKemerovskayaovskaja area,Urban,Female,55-64,Russian,Divorced,Higher,Working class,1
+2017,RU-KEM KemerKemerovskayaovskaja area,Urban,Female,55-64,Russian,Separated,Middle,Lower class,1
+2017,RU-KEM KemerKemerovskayaovskaja area,Urban,Female,65 and more years,Russian,Married,Lower,Lower class,1
+2017,RU-KEM KemerKemerovskayaovskaja area,Urban,Male,16-24,Russian,Divorced,Lower,Don't know,1
+2017,RU-KEM KemerKemerovskayaovskaja area,Urban,Male,16-24,Russian,Living together as married,Higher,Upper class,1
+2017,RU-KEM KemerKemerovskayaovskaja area,Urban,Male,16-24,Russian,Married,Higher,Don't know,1
+2017,RU-KEM KemerKemerovskayaovskaja area,Urban,Male,25-34,Russian,Married,Higher,Don't know,1
+2017,RU-KEM KemerKemerovskayaovskaja area,Urban,Male,25-34,Russian,Married,Higher,Upper class,1
+2017,RU-KEM KemerKemerovskayaovskaja area,Urban,Male,45-54,Russian,Married,Higher,Lower middle class,1
+2017,RU-KEM KemerKemerovskayaovskaja area,Urban,Male,55-64,Russian,Living together as married,Lower,Working class,1
+2017,RU-KEM KemerKemerovskayaovskaja area,Urban,Male,55-64,Russian,Married,Lower,Working class,1
+2017,RU-KEM KemerKemerovskayaovskaja area,Urban,Male,55-64,Russian,Widowed,Lower,Lower class,1
+2017,RU-KGD Kaliningradskaya area,Urban,Female,25-34,Russian,Single,Lower,Working class,1
+2017,RU-KGD Kaliningradskaya area,Urban,Female,35-44,Russian,Divorced,Middle,Lower class,1
+2017,RU-KGD Kaliningradskaya area,Urban,Female,35-44,Russian,Married,Higher,Upper middle class,1
+2017,RU-KGD Kaliningradskaya area,Urban,Female,65 and more years,Russian,Married,Higher,Upper middle class,1
+2017,RU-KGD Kaliningradskaya area,Urban,Female,65 and more years,Russian,Widowed,Higher,Working class,1
+2017,RU-KGD Kaliningradskaya area,Urban,Female,65 and more years,Russian,Widowed,Lower,Lower class,1
+2017,RU-KGD Kaliningradskaya area,Urban,Male,25-34,Russian,Living together as married,Middle,Lower class,1
+2017,RU-KGD Kaliningradskaya area,Urban,Male,45-54,Russian,Living together as married,Higher,Lower middle class,1
+2017,RU-KGD Kaliningradskaya area,Urban,Male,45-54,Russian,Married,Middle,Working class,1
+2017,RU-KGD Kaliningradskaya area,Urban,Male,55-64,Russian,Living together as married,Higher,Working class,1
+2017,RU-KGN Kurganskaya area,Rural,Female,45-54,Russian,Divorced,Middle,Working class,1
+2017,RU-KGN Kurganskaya area,Rural,Female,55-64,Russian,Married,Higher,Working class,1
+2017,RU-KGN Kurganskaya area,Rural,Female,55-64,Russian,Married,Middle,Lower class,1
+2017,RU-KGN Kurganskaya area,Rural,Male,16-24,Russian,Married,Higher,Working class,1
+2017,RU-KGN Kurganskaya area,Rural,Male,25-34,Russian,Married,Middle,Working class,1
+2017,RU-KGN Kurganskaya area,Rural,Male,35-44,Russian,Married,Middle,Working class,1
+2017,RU-KGN Kurganskaya area,Rural,Male,35-44,Russian,Single,Lower,Working class,1
+2017,RU-KGN Kurganskaya area,Rural,Male,45-54,Russian,Living together as married,Middle,Working class,1
+2017,RU-KGN Kurganskaya area,Rural,Male,55-64,Russian,Divorced,Middle,Working class,1
+2017,RU-KGN Kurganskaya area,Rural,Male,55-64,Russian,Married,Middle,Working class,1
+2017,RU-KGN Kurganskaya area,Urban,Female,25-34,Russian,Divorced,Middle,Working class,1
+2017,RU-KGN Kurganskaya area,Urban,Female,25-34,Russian,Single,Higher,Working class,1
+2017,RU-KGN Kurganskaya area,Urban,Female,45-54,Russian,Divorced,Middle,Working class,1
+2017,RU-KGN Kurganskaya area,Urban,Female,45-54,Russian,Married,Higher,Working class,1
+2017,RU-KGN Kurganskaya area,Urban,Female,45-54,Russian,Single,Higher,Working class,1
+2017,RU-KGN Kurganskaya area,Urban,Female,55-64,Russian,Married,Middle,Working class,1
+2017,RU-KGN Kurganskaya area,Urban,Female,65 and more years,Russian,Married,Higher,Lower middle class,1
+2017,RU-KGN Kurganskaya area,Urban,Female,65 and more years,Russian,Widowed,Lower,Lower middle class,1
+2017,RU-KGN Kurganskaya area,Urban,Male,16-24,Russian,Single,Lower,Working class,1
+2017,RU-KGN Kurganskaya area,Urban,Male,35-44,Russian,Married,Higher,Working class,2
+2017,RU-KGN Kurganskaya area,Urban,Male,65 and more years,Russian,Widowed,Lower,Lower class,1
+2017,RU-KHA Khabarovskiy kray,Urban,Female,16-24,Russian,Single,Higher,Upper middle class,1
+2017,RU-KHA Khabarovskiy kray,Urban,Female,25-34,Russian,Divorced,Higher,Don't know,2
+2017,RU-KHA Khabarovskiy kray,Urban,Female,25-34,Russian,Single,Higher,Upper middle class,1
+2017,RU-KHA Khabarovskiy kray,Urban,Female,25-34,Russian,Single,Higher,Working class,1
+2017,RU-KHA Khabarovskiy kray,Urban,Female,35-44,Russian,Living together as married,Higher,Upper middle class,1
+2017,RU-KHA Khabarovskiy kray,Urban,Female,35-44,Russian,Married,Higher,Working class,1
+2017,RU-KHA Khabarovskiy kray,Urban,Female,55-64,Russian,Widowed,Higher,Working class,1
+2017,RU-KHA Khabarovskiy kray,Urban,Female,65 and more years,Russian,Separated,Higher,Lower middle class,1
+2017,RU-KHA Khabarovskiy kray,Urban,Female,65 and more years,Russian,Widowed,Higher,Upper middle class,1
+2017,RU-KHA Khabarovskiy kray,Urban,Male,16-24,Russian,Single,Higher,Upper middle class,1
+2017,RU-KHA Khabarovskiy kray,Urban,Male,16-24,Russian,Single,Middle,Lower middle class,1
+2017,RU-KHA Khabarovskiy kray,Urban,Male,16-24,Russian,Single,Middle,Working class,1
+2017,RU-KHA Khabarovskiy kray,Urban,Male,25-34,Russian,Single,Higher,Working class,1
+2017,RU-KHA Khabarovskiy kray,Urban,Male,35-44,Russian,Married,Higher,Don't know,1
+2017,RU-KHA Khabarovskiy kray,Urban,Male,35-44,Russian,Married,Higher,Lower middle class,1
+2017,RU-KHA Khabarovskiy kray,Urban,Male,65 and more years,Russian,Married,Lower,Working class,1
+2017,RU-KIR Kirovskaya area,Urban,Female,35-44,Russian,No answer,Don't know,Lower middle class,1
+2017,RU-KIR Kirovskaya area,Urban,Female,35-44,Russian,No answer,Higher,Don't know,2
+2017,RU-KIR Kirovskaya area,Urban,Female,45-54,Russian,Married,Don't know,Working class,1
+2017,RU-KIR Kirovskaya area,Urban,Female,45-54,Russian,Married,Higher,Don't know,1
+2017,RU-KIR Kirovskaya area,Urban,Female,65 and more years,Russian,Married,Lower,Lower class,1
+2017,RU-KIR Kirovskaya area,Urban,Female,65 and more years,Russian,Widowed,Lower,Don't know,1
+2017,RU-KIR Kirovskaya area,Urban,Female,65 and more years,Russian,Widowed,Middle,Working class,1
+2017,RU-KIR Kirovskaya area,Urban,Male,25-34,Russian,Married,Higher,Don't know,2
+2017,RU-KIR Kirovskaya area,Urban,Male,25-34,Russian,Married,Higher,Lower middle class,1
+2017,RU-KIR Kirovskaya area,Urban,Male,35-44,Russian,Married,Higher,Don't know,1
+2017,RU-KIR Kirovskaya area,Urban,Male,35-44,Russian,Married,Higher,Working class,1
+2017,RU-KIR Kirovskaya area,Urban,Male,65 and more years,Russian,Widowed,Lower,Lower middle class,1
+2017,"RU-KK Khakasiya, Republic",Urban,Female,16-24,Russian,Single,Higher,Lower middle class,1
+2017,"RU-KK Khakasiya, Republic",Urban,Female,16-24,Russian,Single,Higher,Upper middle class,1
+2017,"RU-KK Khakasiya, Republic",Urban,Female,25-34,Russian,Single,Higher,Upper middle class,1
+2017,"RU-KK Khakasiya, Republic",Urban,Female,45-54,Russian,Divorced,Higher,Lower middle class,1
+2017,"RU-KK Khakasiya, Republic",Urban,Female,55-64,Russian,Married,Higher,Upper middle class,1
+2017,"RU-KK Khakasiya, Republic",Urban,Female,55-64,Russian,Married,Higher,Working class,1
+2017,"RU-KK Khakasiya, Republic",Urban,Female,65 and more years,Russian,Divorced,Higher,Lower middle class,1
+2017,"RU-KK Khakasiya, Republic",Urban,Female,65 and more years,Russian,Widowed,Middle,Lower class,1
+2017,"RU-KK Khakasiya, Republic",Urban,Male,25-34,Russian,Single,Higher,Lower middle class,1
+2017,"RU-KK Khakasiya, Republic",Urban,Male,35-44,Russian,Single,Higher,Upper class,1
+2017,"RU-KK Khakasiya, Republic",Urban,Male,45-54,Other,Divorced,Middle,Upper middle class,1
+2017,"RU-KK Khakasiya, Republic",Urban,Male,45-54,Russian,Divorced,Higher,Upper middle class,1
+2017,"RU-KK Khakasiya, Republic",Urban,Male,65 and more years,Russian,Divorced,Higher,Lower middle class,1
+2017,"RU-KK Khakasiya, Republic",Urban,Male,65 and more years,Russian,Divorced,Middle,Working class,1
+2017,"RU-KK Khakasiya, Republic",Urban,Male,65 and more years,Russian,Married,Higher,Lower middle class,1
+2017,"RU-KK Khakasiya, Republic",Urban,Male,65 and more years,Russian,Married,Higher,Upper class,1
+2017,RU-KRS Kurskaya area,Rural,Female,25-34,Russian,Married,Higher,Working class,1
+2017,RU-KRS Kurskaya area,Rural,Female,35-44,Russian,Living together as married,Middle,Working class,1
+2017,RU-KRS Kurskaya area,Rural,Female,35-44,Russian,Married,Middle,Working class,1
+2017,RU-KRS Kurskaya area,Rural,Female,45-54,Russian,Separated,Higher,Working class,1
+2017,RU-KRS Kurskaya area,Rural,Female,55-64,Other,Married,Higher,Working class,1
+2017,RU-KRS Kurskaya area,Rural,Female,55-64,Russian,Married,Higher,Working class,1
+2017,RU-KRS Kurskaya area,Rural,Female,55-64,Russian,Married,Middle,Working class,2
+2017,RU-KRS Kurskaya area,Rural,Male,65 and more years,Russian,Married,Higher,Working class,2
+2017,RU-KYA Krasnoyarskiy kray,Urban,Female,16-24,Russian,Married,Higher,Working class,1
+2017,RU-KYA Krasnoyarskiy kray,Urban,Female,16-24,Russian,Single,Middle,Working class,2
+2017,RU-KYA Krasnoyarskiy kray,Urban,Female,25-34,Russian,Divorced,Lower,Working class,1
+2017,RU-KYA Krasnoyarskiy kray,Urban,Female,25-34,Russian,Married,Higher,Lower middle class,2
+2017,RU-KYA Krasnoyarskiy kray,Urban,Female,25-34,Russian,Married,Higher,Upper middle class,1
+2017,RU-KYA Krasnoyarskiy kray,Urban,Female,25-34,Russian,Married,Higher,Working class,1
+2017,RU-KYA Krasnoyarskiy kray,Urban,Female,25-34,Russian,Married,Lower,Lower class,1
+2017,RU-KYA Krasnoyarskiy kray,Urban,Female,25-34,Russian,Single,Higher,Working class,1
+2017,RU-KYA Krasnoyarskiy kray,Urban,Female,35-44,Russian,Divorced,Higher,Working class,1
+2017,RU-KYA Krasnoyarskiy kray,Urban,Female,35-44,Russian,Divorced,Lower,Lower class,1
+2017,RU-KYA Krasnoyarskiy kray,Urban,Female,45-54,Russian,Divorced,Lower,Lower class,1
+2017,RU-KYA Krasnoyarskiy kray,Urban,Female,45-54,Russian,Divorced,Middle,Working class,1
+2017,RU-KYA Krasnoyarskiy kray,Urban,Female,45-54,Russian,Married,Higher,Working class,1
+2017,RU-KYA Krasnoyarskiy kray,Urban,Female,55-64,Russian,Divorced,Higher,Lower class,1
+2017,RU-KYA Krasnoyarskiy kray,Urban,Female,65 and more years,Russian,Married,Lower,Working class,1
+2017,RU-KYA Krasnoyarskiy kray,Urban,Male,16-24,Russian,Single,Higher,Working class,1
+2017,RU-KYA Krasnoyarskiy kray,Urban,Male,25-34,Russian,Married,Lower,Working class,1
+2017,RU-KYA Krasnoyarskiy kray,Urban,Male,25-34,Russian,Married,Middle,Working class,1
+2017,RU-KYA Krasnoyarskiy kray,Urban,Male,25-34,Russian,Single,Higher,Lower middle class,1
+2017,RU-KYA Krasnoyarskiy kray,Urban,Male,35-44,Russian,Married,Middle,Working class,2
+2017,RU-KYA Krasnoyarskiy kray,Urban,Male,35-44,Russian,Single,Higher,Working class,1
+2017,RU-KYA Krasnoyarskiy kray,Urban,Male,45-54,Russian,Married,Higher,Working class,1
+2017,RU-KYA Krasnoyarskiy kray,Urban,Male,55-64,Russian,Divorced,Higher,Lower class,1
+2017,RU-KYA Krasnoyarskiy kray,Urban,Male,65 and more years,Russian,Widowed,Lower,Working class,1
+2017,RU-LEN Leningradskaya area,Rural,Female,16-24,Russian,Married,Higher,Working class,1
+2017,RU-LEN Leningradskaya area,Rural,Female,25-34,Russian,Living together as married,Higher,Upper middle class,1
+2017,RU-LEN Leningradskaya area,Rural,Female,55-64,Russian,Living together as married,Middle,Lower class,1
+2017,RU-LEN Leningradskaya area,Rural,Male,16-24,Russian,Single,Lower,Lower middle class,1
+2017,RU-LEN Leningradskaya area,Rural,Male,25-34,Russian,Married,Higher,Upper middle class,1
+2017,RU-LEN Leningradskaya area,Rural,Male,25-34,Russian,Married,Lower,Working class,1
+2017,RU-LEN Leningradskaya area,Rural,Male,25-34,Russian,Married,Middle,Lower middle class,1
+2017,RU-LEN Leningradskaya area,Rural,Male,25-34,Russian,Single,Lower,Working class,1
+2017,RU-LEN Leningradskaya area,Rural,Male,35-44,Russian,No answer,Don't know,Working class,1
+2017,RU-LEN Leningradskaya area,Rural,Male,55-64,Russian,Married,Higher,Lower class,1
+2017,RU-LEN Leningradskaya area,Urban,Female,16-24,Russian,Single,Higher,Don't know,1
+2017,RU-LEN Leningradskaya area,Urban,Female,35-44,Russian,Married,Lower,Lower middle class,1
+2017,RU-LEN Leningradskaya area,Urban,Female,35-44,Russian,Widowed,Higher,Working class,1
+2017,RU-LEN Leningradskaya area,Urban,Female,45-54,Russian,Divorced,Higher,Upper middle class,1
+2017,RU-LEN Leningradskaya area,Urban,Female,55-64,Russian,Divorced,Middle,Working class,1
+2017,RU-LEN Leningradskaya area,Urban,Female,55-64,Russian,Married,Higher,Working class,1
+2017,RU-LEN Leningradskaya area,Urban,Male,16-24,Russian,Living together as married,Higher,Working class,1
+2017,RU-LEN Leningradskaya area,Urban,Male,16-24,Russian,Single,Middle,Don't know,1
+2017,RU-LEN Leningradskaya area,Urban,Male,35-44,Russian,No answer,Higher,Lower middle class,1
+2017,RU-LEN Leningradskaya area,Urban,Male,45-54,Russian,Married,Lower,Working class,1
+2017,RU-LEN Leningradskaya area,Urban,Male,45-54,Russian,Single,Higher,Lower middle class,1
+2017,RU-LEN Leningradskaya area,Urban,Male,55-64,Russian,Divorced,Higher,Working class,1
+2017,RU-LEN Leningradskaya area,Urban,Male,65 and more years,Russian,Widowed,Lower,Upper middle class,1
+2017,RU-LIP Lipetskaya area,Urban,Female,25-34,Russian,Separated,Higher,Lower class,1
+2017,RU-LIP Lipetskaya area,Urban,Female,35-44,Russian,Divorced,Higher,Upper middle class,1
+2017,RU-LIP Lipetskaya area,Urban,Female,35-44,Russian,Married,Higher,Lower middle class,1
+2017,RU-LIP Lipetskaya area,Urban,Female,45-54,Russian,Widowed,Higher,Lower middle class,1
+2017,RU-LIP Lipetskaya area,Urban,Female,55-64,Russian,Widowed,Middle,Lower middle class,1
+2017,RU-LIP Lipetskaya area,Urban,Female,65 and more years,Russian,Widowed,Lower,Lower class,1
+2017,RU-LIP Lipetskaya area,Urban,Male,35-44,Russian,Married,Higher,Upper middle class,1
+2017,RU-LIP Lipetskaya area,Urban,Male,35-44,Russian,Married,Higher,Working class,1
+2017,RU-LIP Lipetskaya area,Urban,Male,55-64,Russian,Married,Higher,Working class,1
+2017,RU-LIP Lipetskaya area,Urban,Male,65 and more years,Russian,Widowed,Middle,Lower class,1
+2017,"RU-ME Mariy El, Republic",Rural,Female,25-34,Russian,Married,Higher,Working class,1
+2017,"RU-ME Mariy El, Republic",Rural,Female,45-54,Other,Married,Higher,Working class,1
+2017,"RU-ME Mariy El, Republic",Rural,Female,45-54,Russian,Married,Middle,Working class,1
+2017,"RU-ME Mariy El, Republic",Rural,Female,55-64,Other,Widowed,Lower,Working class,1
+2017,"RU-ME Mariy El, Republic",Rural,Female,55-64,Russian,Married,Middle,Working class,1
+2017,"RU-ME Mariy El, Republic",Rural,Female,65 and more years,Other,Widowed,Lower,Working class,1
+2017,"RU-ME Mariy El, Republic",Rural,Male,55-64,Other,Divorced,Middle,Lower class,1
+2017,"RU-ME Mariy El, Republic",Rural,Male,55-64,Russian,Single,Lower,Working class,1
+2017,"RU-ME Mariy El, Republic",Urban,Female,35-44,Russian,Married,Middle,Upper middle class,1
+2017,"RU-ME Mariy El, Republic",Urban,Female,35-44,Russian,Single,Higher,Upper middle class,1
+2017,"RU-ME Mariy El, Republic",Urban,Female,35-44,Russian,Single,Middle,Upper middle class,1
+2017,"RU-ME Mariy El, Republic",Urban,Female,55-64,Russian,Married,Higher,Working class,1
+2017,"RU-ME Mariy El, Republic",Urban,Male,25-34,Russian,Married,Higher,Don't know,1
+2017,"RU-ME Mariy El, Republic",Urban,Male,25-34,Russian,Married,Higher,No answer,1
+2017,"RU-ME Mariy El, Republic",Urban,Male,25-34,Russian,Single,Higher,Working class,1
+2017,"RU-ME Mariy El, Republic",Urban,Male,35-44,Russian,Married,Higher,Don't know,2
+2017,"RU-ME Mariy El, Republic",Urban,Male,35-44,Russian,Married,Higher,Upper middle class,2
+2017,"RU-ME Mariy El, Republic",Urban,Male,55-64,Russian,Married,Higher,Working class,1
+2017,"RU-ME Mariy El, Republic",Urban,Male,65 and more years,Russian,Married,Higher,No answer,1
+2017,RU-MOS Moskovskaya area,Rural,Female,16-24,Russian,Single,Higher,Working class,2
+2017,RU-MOS Moskovskaya area,Rural,Female,25-34,Russian,Married,Higher,Lower middle class,1
+2017,RU-MOS Moskovskaya area,Rural,Female,25-34,Russian,Married,Higher,Upper middle class,1
+2017,RU-MOS Moskovskaya area,Rural,Female,25-34,Russian,Single,Higher,Lower middle class,1
+2017,RU-MOS Moskovskaya area,Rural,Female,35-44,Russian,Divorced,Higher,Working class,1
+2017,RU-MOS Moskovskaya area,Rural,Female,55-64,Russian,Married,Higher,Lower middle class,1
+2017,RU-MOS Moskovskaya area,Rural,Female,55-64,Russian,Married,Middle,Lower middle class,1
+2017,RU-MOS Moskovskaya area,Rural,Female,55-64,Russian,Widowed,Lower,Working class,1
+2017,RU-MOS Moskovskaya area,Rural,Female,55-64,Russian,Widowed,Middle,Lower class,1
+2017,RU-MOS Moskovskaya area,Rural,Female,65 and more years,Russian,Widowed,Higher,Working class,1
+2017,RU-MOS Moskovskaya area,Rural,Female,65 and more years,Russian,Widowed,Lower,Working class,1
+2017,RU-MOS Moskovskaya area,Rural,Female,65 and more years,Russian,Widowed,Middle,Working class,1
+2017,RU-MOS Moskovskaya area,Rural,Male,16-24,Russian,Living together as married,Middle,Working class,1
+2017,RU-MOS Moskovskaya area,Rural,Male,16-24,Russian,Single,Higher,Upper middle class,1
+2017,RU-MOS Moskovskaya area,Rural,Male,25-34,Russian,Living together as married,Higher,Working class,1
+2017,RU-MOS Moskovskaya area,Rural,Male,35-44,Russian,Married,Higher,Working class,1
+2017,RU-MOS Moskovskaya area,Rural,Male,45-54,Russian,Married,Higher,Working class,1
+2017,RU-MOS Moskovskaya area,Rural,Male,55-64,Russian,Divorced,Middle,Working class,1
+2017,RU-MOS Moskovskaya area,Rural,Male,55-64,Russian,Married,Higher,Upper middle class,1
+2017,RU-MOS Moskovskaya area,Rural,Male,55-64,Russian,Widowed,Higher,Lower middle class,1
+2017,RU-MOS Moskovskaya area,Rural,Male,65 and more years,Russian,Married,Middle,Working class,1
+2017,RU-MOS Moskovskaya area,Urban,Female,16-24,Russian,Single,Higher,Lower middle class,1
+2017,RU-MOS Moskovskaya area,Urban,Female,16-24,Russian,Single,Middle,Upper middle class,1
+2017,RU-MOS Moskovskaya area,Urban,Female,25-34,Russian,Living together as married,Higher,Upper middle class,1
+2017,RU-MOS Moskovskaya area,Urban,Female,25-34,Russian,Married,Higher,Lower middle class,1
+2017,RU-MOS Moskovskaya area,Urban,Female,25-34,Russian,Married,Middle,Lower middle class,1
+2017,RU-MOS Moskovskaya area,Urban,Female,25-34,Russian,Separated,Middle,Lower middle class,1
+2017,RU-MOS Moskovskaya area,Urban,Female,25-34,Russian,Single,Higher,Lower middle class,1
+2017,RU-MOS Moskovskaya area,Urban,Female,35-44,Russian,Divorced,Higher,Working class,1
+2017,RU-MOS Moskovskaya area,Urban,Female,35-44,Russian,Married,Higher,Lower middle class,1
+2017,RU-MOS Moskovskaya area,Urban,Female,35-44,Russian,Married,Higher,Upper middle class,1
+2017,RU-MOS Moskovskaya area,Urban,Female,35-44,Russian,Married,Lower,Working class,1
+2017,RU-MOS Moskovskaya area,Urban,Female,35-44,Russian,Single,Higher,Upper middle class,1
+2017,RU-MOS Moskovskaya area,Urban,Female,45-54,Russian,Divorced,Higher,Lower middle class,1
+2017,RU-MOS Moskovskaya area,Urban,Female,45-54,Russian,Married,Higher,Upper middle class,2
+2017,RU-MOS Moskovskaya area,Urban,Female,45-54,Russian,Widowed,Middle,Working class,1
+2017,RU-MOS Moskovskaya area,Urban,Female,55-64,Russian,Divorced,Middle,Working class,1
+2017,RU-MOS Moskovskaya area,Urban,Female,55-64,Russian,Married,Higher,Working class,2
+2017,RU-MOS Moskovskaya area,Urban,Female,55-64,Russian,Widowed,Middle,Working class,1
+2017,RU-MOS Moskovskaya area,Urban,Female,65 and more years,Russian,Married,Higher,Lower middle class,1
+2017,RU-MOS Moskovskaya area,Urban,Female,65 and more years,Russian,Married,Middle,Lower middle class,1
+2017,RU-MOS Moskovskaya area,Urban,Female,65 and more years,Russian,Widowed,Higher,Lower middle class,2
+2017,RU-MOS Moskovskaya area,Urban,Female,65 and more years,Russian,Widowed,Middle,Working class,1
+2017,RU-MOS Moskovskaya area,Urban,Male,16-24,Russian,Married,Higher,Working class,1
+2017,RU-MOS Moskovskaya area,Urban,Male,16-24,Russian,Single,Higher,Lower middle class,1
+2017,RU-MOS Moskovskaya area,Urban,Male,16-24,Russian,Single,Middle,Upper middle class,2
+2017,RU-MOS Moskovskaya area,Urban,Male,25-34,Russian,Single,Higher,Lower middle class,1
+2017,RU-MOS Moskovskaya area,Urban,Male,35-44,Russian,Married,Higher,Upper middle class,2
+2017,RU-MOS Moskovskaya area,Urban,Male,45-54,Russian,Married,Higher,Lower middle class,3
+2017,RU-MOS Moskovskaya area,Urban,Male,55-64,Russian,Divorced,Higher,Lower middle class,1
+2017,RU-MOS Moskovskaya area,Urban,Male,55-64,Russian,Married,Higher,Lower middle class,1
+2017,RU-MOS Moskovskaya area,Urban,Male,55-64,Russian,Married,Higher,Upper middle class,1
+2017,RU-MOS Moskovskaya area,Urban,Male,55-64,Russian,Married,Higher,Working class,1
+2017,RU-MOS Moskovskaya area,Urban,Male,55-64,Russian,Widowed,Higher,Upper middle class,1
+2017,RU-MOS Moskovskaya area,Urban,Male,65 and more years,Russian,Widowed,Higher,Working class,2
+2017,RU-MOW Moskva autonomous city,Urban,Female,16-24,Russian,Single,Higher,Lower middle class,1
+2017,RU-MOW Moskva autonomous city,Urban,Female,16-24,Russian,Single,Middle,Lower middle class,2
+2017,RU-MOW Moskva autonomous city,Urban,Female,16-24,Russian,Single,Middle,Upper middle class,5
+2017,RU-MOW Moskva autonomous city,Urban,Female,16-24,Tatar,Married,Higher,Working class,1
+2017,RU-MOW Moskva autonomous city,Urban,Female,25-34,Other,Married,Higher,Lower middle class,1
+2017,RU-MOW Moskva autonomous city,Urban,Female,25-34,Russian,Divorced,Higher,Upper middle class,3
+2017,RU-MOW Moskva autonomous city,Urban,Female,25-34,Russian,Married,Higher,Lower middle class,2
+2017,RU-MOW Moskva autonomous city,Urban,Female,25-34,Russian,Married,Higher,Upper middle class,2
+2017,RU-MOW Moskva autonomous city,Urban,Female,25-34,Russian,Married,Higher,Working class,2
+2017,RU-MOW Moskva autonomous city,Urban,Female,25-34,Russian,Separated,Higher,Upper middle class,1
+2017,RU-MOW Moskva autonomous city,Urban,Female,25-34,Russian,Single,Higher,Lower class,1
+2017,RU-MOW Moskva autonomous city,Urban,Female,25-34,Russian,Single,Higher,Lower middle class,2
+2017,RU-MOW Moskva autonomous city,Urban,Female,25-34,Russian,Single,Higher,Upper middle class,1
+2017,RU-MOW Moskva autonomous city,Urban,Female,25-34,Tatar,Married,Higher,Lower middle class,1
+2017,RU-MOW Moskva autonomous city,Urban,Female,35-44,Russian,Divorced,Higher,Lower middle class,1
+2017,RU-MOW Moskva autonomous city,Urban,Female,35-44,Russian,Divorced,Middle,Working class,1
+2017,RU-MOW Moskva autonomous city,Urban,Female,35-44,Russian,Living together as married,Higher,Upper middle class,1
+2017,RU-MOW Moskva autonomous city,Urban,Female,35-44,Russian,Married,Higher,Lower middle class,1
+2017,RU-MOW Moskva autonomous city,Urban,Female,35-44,Russian,Married,Higher,Upper class,1
+2017,RU-MOW Moskva autonomous city,Urban,Female,35-44,Russian,Married,Higher,Upper middle class,4
+2017,RU-MOW Moskva autonomous city,Urban,Female,35-44,Russian,Married,Higher,Working class,1
+2017,RU-MOW Moskva autonomous city,Urban,Female,35-44,Russian,Married,Lower,Lower middle class,1
+2017,RU-MOW Moskva autonomous city,Urban,Female,35-44,Russian,No answer,Higher,Upper middle class,1
+2017,RU-MOW Moskva autonomous city,Urban,Female,35-44,Russian,Single,Higher,Upper middle class,2
+2017,RU-MOW Moskva autonomous city,Urban,Female,45-54,Russian,Divorced,Higher,Lower middle class,1
+2017,RU-MOW Moskva autonomous city,Urban,Female,45-54,Russian,Living together as married,Higher,Upper middle class,1
+2017,RU-MOW Moskva autonomous city,Urban,Female,45-54,Russian,Married,Higher,Lower middle class,3
+2017,RU-MOW Moskva autonomous city,Urban,Female,45-54,Russian,Married,Higher,Upper middle class,9
+2017,RU-MOW Moskva autonomous city,Urban,Female,45-54,Russian,Married,Higher,Working class,1
+2017,RU-MOW Moskva autonomous city,Urban,Female,45-54,Russian,Single,Higher,Upper middle class,1
+2017,RU-MOW Moskva autonomous city,Urban,Female,45-54,Russian,Widowed,Higher,Lower middle class,1
+2017,RU-MOW Moskva autonomous city,Urban,Female,55-64,Russian,Married,Higher,Lower middle class,3
+2017,RU-MOW Moskva autonomous city,Urban,Female,55-64,Russian,Married,Higher,Upper middle class,2
+2017,RU-MOW Moskva autonomous city,Urban,Female,55-64,Russian,Married,Higher,Working class,1
+2017,RU-MOW Moskva autonomous city,Urban,Female,55-64,Russian,Married,Middle,Working class,1
+2017,RU-MOW Moskva autonomous city,Urban,Female,55-64,Russian,No answer,Higher,Working class,1
+2017,RU-MOW Moskva autonomous city,Urban,Female,55-64,Russian,Separated,Higher,Lower middle class,1
+2017,RU-MOW Moskva autonomous city,Urban,Female,55-64,Russian,Single,Higher,Lower middle class,1
+2017,RU-MOW Moskva autonomous city,Urban,Female,55-64,Russian,Widowed,Higher,Don't know,1
+2017,RU-MOW Moskva autonomous city,Urban,Female,55-64,Russian,Widowed,Middle,Working class,1
+2017,RU-MOW Moskva autonomous city,Urban,Female,65 and more years,Russian,Divorced,Middle,Lower middle class,1
+2017,RU-MOW Moskva autonomous city,Urban,Female,65 and more years,Russian,Living together as married,Higher,Upper middle class,1
+2017,RU-MOW Moskva autonomous city,Urban,Female,65 and more years,Russian,Married,Higher,Lower middle class,2
+2017,RU-MOW Moskva autonomous city,Urban,Female,65 and more years,Russian,Married,Higher,Working class,1
+2017,RU-MOW Moskva autonomous city,Urban,Female,65 and more years,Russian,Married,Middle,Lower middle class,1
+2017,RU-MOW Moskva autonomous city,Urban,Female,65 and more years,Russian,Widowed,Higher,Lower class,1
+2017,RU-MOW Moskva autonomous city,Urban,Female,65 and more years,Russian,Widowed,Higher,Lower middle class,2
+2017,RU-MOW Moskva autonomous city,Urban,Female,65 and more years,Russian,Widowed,Higher,Working class,3
+2017,RU-MOW Moskva autonomous city,Urban,Female,65 and more years,Russian,Widowed,Middle,Lower middle class,1
+2017,RU-MOW Moskva autonomous city,Urban,Female,65 and more years,Russian,Widowed,Middle,Working class,1
+2017,RU-MOW Moskva autonomous city,Urban,Male,16-24,Avar; Avaric,Single,Middle,Working class,1
+2017,RU-MOW Moskva autonomous city,Urban,Male,16-24,Russian,Single,Higher,Lower middle class,1
+2017,RU-MOW Moskva autonomous city,Urban,Male,16-24,Russian,Single,Lower,Working class,1
+2017,RU-MOW Moskva autonomous city,Urban,Male,16-24,Russian,Single,Middle,Lower middle class,3
+2017,RU-MOW Moskva autonomous city,Urban,Male,16-24,Russian,Single,Middle,Upper middle class,1
+2017,RU-MOW Moskva autonomous city,Urban,Male,25-34,Avar; Avaric,Single,Higher,Lower middle class,1
+2017,RU-MOW Moskva autonomous city,Urban,Male,25-34,Other,Single,Middle,Working class,1
+2017,RU-MOW Moskva autonomous city,Urban,Male,25-34,Russian,Married,Higher,Lower middle class,2
+2017,RU-MOW Moskva autonomous city,Urban,Male,25-34,Russian,Married,Higher,Upper middle class,1
+2017,RU-MOW Moskva autonomous city,Urban,Male,25-34,Russian,Single,Higher,Don't know,1
+2017,RU-MOW Moskva autonomous city,Urban,Male,25-34,Russian,Single,Higher,Lower middle class,1
+2017,RU-MOW Moskva autonomous city,Urban,Male,25-34,Russian,Single,Higher,Upper middle class,2
+2017,RU-MOW Moskva autonomous city,Urban,Male,25-34,Russian,Single,Higher,Working class,1
+2017,RU-MOW Moskva autonomous city,Urban,Male,25-34,Russian,Single,Middle,Upper class,1
+2017,RU-MOW Moskva autonomous city,Urban,Male,25-34,Russian,Single,Middle,Upper middle class,1
+2017,RU-MOW Moskva autonomous city,Urban,Male,25-34,Russian,Single,Middle,Working class,1
+2017,RU-MOW Moskva autonomous city,Urban,Male,35-44,Russian,Divorced,Higher,Lower middle class,1
+2017,RU-MOW Moskva autonomous city,Urban,Male,35-44,Russian,Married,Higher,Lower middle class,5
+2017,RU-MOW Moskva autonomous city,Urban,Male,35-44,Russian,Married,Higher,Upper middle class,5
+2017,RU-MOW Moskva autonomous city,Urban,Male,35-44,Russian,Married,Higher,Working class,1
+2017,RU-MOW Moskva autonomous city,Urban,Male,35-44,Russian,Single,Higher,Lower middle class,1
+2017,RU-MOW Moskva autonomous city,Urban,Male,45-54,Russian,Divorced,Higher,Lower middle class,1
+2017,RU-MOW Moskva autonomous city,Urban,Male,45-54,Russian,Married,Higher,Lower middle class,5
+2017,RU-MOW Moskva autonomous city,Urban,Male,45-54,Russian,Married,Higher,Upper class,1
+2017,RU-MOW Moskva autonomous city,Urban,Male,45-54,Russian,Married,Higher,Upper middle class,4
+2017,RU-MOW Moskva autonomous city,Urban,Male,45-54,Russian,Married,Higher,Working class,2
+2017,RU-MOW Moskva autonomous city,Urban,Male,45-54,Russian,Separated,Higher,Lower middle class,1
+2017,RU-MOW Moskva autonomous city,Urban,Male,45-54,Russian,Single,Higher,Upper middle class,2
+2017,RU-MOW Moskva autonomous city,Urban,Male,45-54,Russian,Widowed,Higher,Upper middle class,2
+2017,RU-MOW Moskva autonomous city,Urban,Male,55-64,Russian,Living together as married,Higher,Upper middle class,1
+2017,RU-MOW Moskva autonomous city,Urban,Male,55-64,Russian,Married,Higher,Lower class,1
+2017,RU-MOW Moskva autonomous city,Urban,Male,55-64,Russian,Married,Higher,Lower middle class,1
+2017,RU-MOW Moskva autonomous city,Urban,Male,55-64,Russian,Married,Higher,Upper middle class,1
+2017,RU-MOW Moskva autonomous city,Urban,Male,55-64,Russian,Married,Higher,Working class,2
+2017,RU-MOW Moskva autonomous city,Urban,Male,55-64,Russian,Married,Middle,Lower middle class,1
+2017,RU-MOW Moskva autonomous city,Urban,Male,65 and more years,Russian,Living together as married,Higher,Lower middle class,1
+2017,RU-MOW Moskva autonomous city,Urban,Male,65 and more years,Russian,Married,Higher,Lower middle class,1
+2017,RU-MOW Moskva autonomous city,Urban,Male,65 and more years,Russian,Married,Higher,Working class,2
+2017,RU-MOW Moskva autonomous city,Urban,Male,65 and more years,Russian,Widowed,Higher,Lower middle class,1
+2017,RU-MOW Moskva autonomous city,Urban,Male,65 and more years,Russian,Widowed,Higher,Working class,3
+2017,RU-MOW Moskva autonomous city,Urban,Male,65 and more years,Russian,Widowed,Middle,Working class,1
+2017,RU-MUR Murmanskaya area,Urban,Female,16-24,Russian,Single,Higher,Don't know,1
+2017,RU-MUR Murmanskaya area,Urban,Female,16-24,Russian,Single,Higher,Upper middle class,1
+2017,RU-MUR Murmanskaya area,Urban,Female,16-24,Russian,Single,Higher,Working class,1
+2017,RU-MUR Murmanskaya area,Urban,Female,16-24,Russian,Single,Lower,Lower middle class,1
+2017,RU-MUR Murmanskaya area,Urban,Female,16-24,Russian,Single,Middle,Lower middle class,3
+2017,RU-MUR Murmanskaya area,Urban,Female,16-24,Russian,Single,Middle,Upper middle class,1
+2017,RU-MUR Murmanskaya area,Urban,Female,16-24,Russian,Single,Middle,Working class,1
+2017,RU-MUR Murmanskaya area,Urban,Female,35-44,Russian,Divorced,Higher,Upper middle class,1
+2017,RU-MUR Murmanskaya area,Urban,Female,35-44,Russian,Married,Higher,Upper middle class,1
+2017,RU-MUR Murmanskaya area,Urban,Female,45-54,Russian,Married,Higher,Lower class,1
+2017,RU-MUR Murmanskaya area,Urban,Male,16-24,Russian,Living together as married,Middle,Lower middle class,2
+2017,RU-MUR Murmanskaya area,Urban,Male,16-24,Russian,Single,Higher,Upper middle class,1
+2017,RU-MUR Murmanskaya area,Urban,Male,16-24,Russian,Single,Middle,Working class,2
+2017,RU-MUR Murmanskaya area,Urban,Male,25-34,Russian,Married,Lower,Working class,1
+2017,RU-MUR Murmanskaya area,Urban,Male,25-34,Russian,Single,Higher,Don't know,1
+2017,RU-MUR Murmanskaya area,Urban,Male,25-34,Russian,Single,Higher,Working class,1
+2017,RU-MUR Murmanskaya area,Urban,Male,35-44,Russian,Married,Higher,Upper middle class,1
+2017,RU-MUR Murmanskaya area,Urban,Male,45-54,Russian,Divorced,Higher,Lower middle class,1
+2017,RU-MUR Murmanskaya area,Urban,Male,45-54,Russian,Divorced,Higher,Working class,1
+2017,RU-MUR Murmanskaya area,Urban,Male,65 and more years,Russian,Married,Middle,Upper middle class,1
+2017,RU-MUR Murmanskaya area,Urban,Male,65 and more years,Russian,Widowed,Higher,Working class,1
+2017,RU-NGR Novgorodskaya area,Urban,Female,25-34,Russian,Married,Lower,Upper middle class,1
+2017,RU-NGR Novgorodskaya area,Urban,Female,25-34,Russian,Single,Higher,Upper middle class,1
+2017,RU-NGR Novgorodskaya area,Urban,Female,35-44,Russian,Divorced,Higher,Lower middle class,1
+2017,RU-NGR Novgorodskaya area,Urban,Female,35-44,Russian,Single,Middle,Lower middle class,1
+2017,RU-NGR Novgorodskaya area,Urban,Female,45-54,Russian,Divorced,Higher,Upper class,1
+2017,RU-NGR Novgorodskaya area,Urban,Female,55-64,Russian,Widowed,Lower,Lower middle class,1
+2017,RU-NGR Novgorodskaya area,Urban,Male,25-34,Russian,Single,Higher,Lower middle class,1
+2017,RU-NGR Novgorodskaya area,Urban,Male,35-44,Russian,Married,Middle,Upper middle class,1
+2017,RU-NGR Novgorodskaya area,Urban,Male,45-54,Russian,Married,Higher,Upper middle class,1
+2017,RU-NGR Novgorodskaya area,Urban,Male,55-64,Russian,Married,Higher,Working class,1
+2017,RU-NGR Novgorodskaya area,Urban,Male,65 and more years,Russian,Divorced,Higher,Don't know,1
+2017,RU-NGR Novgorodskaya area,Urban,Male,65 and more years,Russian,Widowed,Middle,Upper middle class,1
+2017,RU-NIZ Nizhegorodskaya area,Rural,Female,35-44,Russian,Living together as married,Middle,Lower middle class,1
+2017,RU-NIZ Nizhegorodskaya area,Rural,Female,45-54,Russian,Living together as married,Middle,Don't know,1
+2017,RU-NIZ Nizhegorodskaya area,Rural,Female,55-64,Russian,Married,Higher,Lower middle class,1
+2017,RU-NIZ Nizhegorodskaya area,Rural,Female,55-64,Russian,Widowed,Middle,Lower middle class,1
+2017,RU-NIZ Nizhegorodskaya area,Rural,Female,65 and more years,Russian,Married,Higher,Upper middle class,2
+2017,RU-NIZ Nizhegorodskaya area,Rural,Female,65 and more years,Russian,Widowed,Higher,Upper middle class,1
+2017,RU-NIZ Nizhegorodskaya area,Rural,Male,35-44,Russian,Married,Higher,Upper class,1
+2017,RU-NIZ Nizhegorodskaya area,Rural,Male,55-64,Russian,Married,Higher,Lower middle class,2
+2017,RU-NIZ Nizhegorodskaya area,Rural,Male,55-64,Russian,Married,Higher,Upper middle class,1
+2017,RU-NIZ Nizhegorodskaya area,Rural,Male,55-64,Russian,Separated,Higher,Working class,1
+2017,RU-NIZ Nizhegorodskaya area,Rural,Male,55-64,Russian,Separated,Middle,Lower middle class,1
+2017,RU-NIZ Nizhegorodskaya area,Urban,Female,25-34,Russian,Living together as married,Higher,Don't know,1
+2017,RU-NIZ Nizhegorodskaya area,Urban,Female,25-34,Russian,No answer,Higher,No answer,2
+2017,RU-NIZ Nizhegorodskaya area,Urban,Female,35-44,Russian,Divorced,Middle,Working class,1
+2017,RU-NIZ Nizhegorodskaya area,Urban,Female,35-44,Russian,Single,Higher,No answer,1
+2017,RU-NIZ Nizhegorodskaya area,Urban,Female,45-54,Russian,Widowed,Higher,Don't know,1
+2017,RU-NIZ Nizhegorodskaya area,Urban,Female,55-64,Russian,Divorced,Higher,Lower middle class,1
+2017,RU-NIZ Nizhegorodskaya area,Urban,Female,55-64,Russian,Married,Higher,Working class,1
+2017,RU-NIZ Nizhegorodskaya area,Urban,Female,55-64,Russian,Widowed,Higher,Working class,1
+2017,RU-NIZ Nizhegorodskaya area,Urban,Female,65 and more years,Russian,Widowed,Higher,Don't know,1
+2017,RU-NIZ Nizhegorodskaya area,Urban,Female,65 and more years,Russian,Widowed,Higher,Lower middle class,1
+2017,RU-NIZ Nizhegorodskaya area,Urban,Female,65 and more years,Russian,Widowed,Lower,Lower class,1
+2017,RU-NIZ Nizhegorodskaya area,Urban,Male,16-24,Russian,Single,Middle,Lower middle class,1
+2017,RU-NIZ Nizhegorodskaya area,Urban,Male,25-34,Russian,Married,Higher,No answer,1
+2017,RU-NIZ Nizhegorodskaya area,Urban,Male,35-44,Russian,Divorced,Middle,Working class,1
+2017,RU-NIZ Nizhegorodskaya area,Urban,Male,35-44,Russian,Married,Higher,Don't know,1
+2017,RU-NIZ Nizhegorodskaya area,Urban,Male,35-44,Russian,Married,Higher,Lower middle class,1
+2017,RU-NIZ Nizhegorodskaya area,Urban,Male,35-44,Russian,Married,Higher,Upper middle class,1
+2017,RU-NIZ Nizhegorodskaya area,Urban,Male,35-44,Russian,Married,Higher,Working class,1
+2017,RU-NIZ Nizhegorodskaya area,Urban,Male,45-54,Russian,Divorced,Higher,Working class,1
+2017,RU-NIZ Nizhegorodskaya area,Urban,Male,45-54,Russian,Married,Higher,No answer,1
+2017,RU-NIZ Nizhegorodskaya area,Urban,Male,45-54,Russian,Married,Middle,Working class,1
+2017,RU-NIZ Nizhegorodskaya area,Urban,Male,55-64,Russian,Married,Middle,Working class,1
+2017,RU-NIZ Nizhegorodskaya area,Urban,Male,65 and more years,Russian,Widowed,Middle,Working class,1
+2017,RU-NVS Novosibirskaya area,Rural,Female,16-24,Russian,Single,Higher,Working class,1
+2017,RU-NVS Novosibirskaya area,Rural,Female,25-34,Russian,Married,Middle,Lower middle class,1
+2017,RU-NVS Novosibirskaya area,Rural,Female,35-44,Russian,Married,Middle,Working class,1
+2017,RU-NVS Novosibirskaya area,Rural,Female,45-54,Russian,Living together as married,Higher,Working class,1
+2017,RU-NVS Novosibirskaya area,Rural,Female,45-54,Russian,Married,Middle,Working class,1
+2017,RU-NVS Novosibirskaya area,Rural,Female,55-64,Russian,Divorced,Higher,Working class,1
+2017,RU-NVS Novosibirskaya area,Rural,Female,55-64,Russian,Married,Middle,Working class,2
+2017,RU-NVS Novosibirskaya area,Rural,Male,16-24,Russian,Single,Lower,Working class,1
+2017,RU-NVS Novosibirskaya area,Rural,Male,55-64,Russian,Married,Higher,Upper middle class,1
+2017,RU-NVS Novosibirskaya area,Urban,Female,16-24,Russian,Single,Higher,Don't know,1
+2017,RU-NVS Novosibirskaya area,Urban,Female,16-24,Russian,Single,Middle,Don't know,1
+2017,RU-NVS Novosibirskaya area,Urban,Female,25-34,Russian,Divorced,Higher,Lower middle class,1
+2017,RU-NVS Novosibirskaya area,Urban,Female,25-34,Russian,Married,Higher,Working class,1
+2017,RU-NVS Novosibirskaya area,Urban,Female,25-34,Russian,Separated,Higher,No answer,1
+2017,RU-NVS Novosibirskaya area,Urban,Female,25-34,Russian,Single,Higher,Don't know,1
+2017,RU-NVS Novosibirskaya area,Urban,Female,25-34,Russian,Single,Higher,Lower middle class,1
+2017,RU-NVS Novosibirskaya area,Urban,Female,25-34,Russian,Widowed,Higher,Working class,1
+2017,RU-NVS Novosibirskaya area,Urban,Female,35-44,Russian,Divorced,Higher,Don't know,1
+2017,RU-NVS Novosibirskaya area,Urban,Female,35-44,Russian,Married,Higher,Working class,2
+2017,RU-NVS Novosibirskaya area,Urban,Female,35-44,Russian,Single,Middle,Working class,1
+2017,RU-NVS Novosibirskaya area,Urban,Female,35-44,Russian,Widowed,Higher,Don't know,2
+2017,RU-NVS Novosibirskaya area,Urban,Female,35-44,Russian,Widowed,Higher,Working class,1
+2017,RU-NVS Novosibirskaya area,Urban,Female,45-54,Russian,Divorced,Higher,Upper middle class,1
+2017,RU-NVS Novosibirskaya area,Urban,Female,45-54,Russian,Divorced,Middle,Don't know,1
+2017,RU-NVS Novosibirskaya area,Urban,Female,45-54,Russian,Married,Higher,Working class,1
+2017,RU-NVS Novosibirskaya area,Urban,Female,45-54,Russian,Single,Higher,Upper middle class,1
+2017,RU-NVS Novosibirskaya area,Urban,Female,55-64,Russian,Widowed,Higher,Don't know,1
+2017,RU-NVS Novosibirskaya area,Urban,Female,65 and more years,Russian,Widowed,Lower,Working class,3
+2017,RU-NVS Novosibirskaya area,Urban,Male,16-24,Russian,Single,Higher,Don't know,1
+2017,RU-NVS Novosibirskaya area,Urban,Male,16-24,Russian,Single,Middle,Lower middle class,1
+2017,RU-NVS Novosibirskaya area,Urban,Male,25-34,Russian,Single,Higher,No answer,1
+2017,RU-NVS Novosibirskaya area,Urban,Male,25-34,Russian,Single,Higher,Working class,2
+2017,RU-NVS Novosibirskaya area,Urban,Male,25-34,Russian,Single,Middle,Don't know,1
+2017,RU-NVS Novosibirskaya area,Urban,Male,35-44,Russian,Married,Higher,Lower middle class,1
+2017,RU-NVS Novosibirskaya area,Urban,Male,65 and more years,Russian,Widowed,Lower,Working class,1
+2017,RU-OMS Omskaya area,Rural,Female,45-54,Russian,Divorced,Middle,Working class,1
+2017,RU-OMS Omskaya area,Rural,Female,55-64,Russian,Married,Lower,Don't know,1
+2017,RU-OMS Omskaya area,Rural,Female,55-64,Russian,Single,Lower,Don't know,1
+2017,RU-OMS Omskaya area,Rural,Female,65 and more years,Russian,Married,Middle,Working class,1
+2017,RU-OMS Omskaya area,Rural,Female,65 and more years,Russian,Widowed,Lower,Don't know,1
+2017,RU-OMS Omskaya area,Rural,Male,25-34,Russian,Married,Middle,Working class,1
+2017,RU-OMS Omskaya area,Rural,Male,55-64,Russian,Married,Lower,Working class,1
+2017,RU-OMS Omskaya area,Rural,Male,55-64,Russian,Married,Middle,Working class,2
+2017,RU-OMS Omskaya area,Rural,Male,65 and more years,Russian,Married,Lower,Don't know,3
+2017,RU-OMS Omskaya area,Urban,Female,16-24,Russian,Single,Lower,Lower middle class,1
+2017,RU-OMS Omskaya area,Urban,Female,16-24,Russian,Single,Middle,Lower middle class,1
+2017,RU-OMS Omskaya area,Urban,Female,25-34,Russian,Divorced,Higher,Working class,1
+2017,RU-OMS Omskaya area,Urban,Female,25-34,Russian,Divorced,Middle,Working class,1
+2017,RU-OMS Omskaya area,Urban,Female,25-34,Russian,Single,Higher,Lower middle class,1
+2017,RU-OMS Omskaya area,Urban,Female,25-34,Russian,Single,Higher,Working class,1
+2017,RU-OMS Omskaya area,Urban,Female,55-64,Russian,Single,Lower,Working class,1
+2017,RU-OMS Omskaya area,Urban,Female,55-64,Russian,Single,Middle,Working class,1
+2017,RU-OMS Omskaya area,Urban,Female,65 and more years,Russian,Married,Higher,Working class,1
+2017,RU-OMS Omskaya area,Urban,Male,16-24,Russian,Living together as married,Higher,Working class,1
+2017,RU-OMS Omskaya area,Urban,Male,16-24,Russian,Living together as married,Lower,No answer,1
+2017,RU-OMS Omskaya area,Urban,Male,16-24,Russian,Married,Higher,Lower middle class,1
+2017,RU-OMS Omskaya area,Urban,Male,25-34,Russian,Married,Higher,Lower middle class,1
+2017,RU-OMS Omskaya area,Urban,Male,55-64,Russian,Married,Higher,Don't know,1
+2017,RU-ORE Orenburgskaya area,Rural,Female,25-34,Russian,Divorced,Middle,Working class,1
+2017,RU-ORE Orenburgskaya area,Rural,Female,25-34,Russian,Separated,Higher,Working class,1
+2017,RU-ORE Orenburgskaya area,Rural,Female,35-44,Other,Single,Lower,Lower class,1
+2017,RU-ORE Orenburgskaya area,Rural,Female,35-44,Russian,Divorced,Higher,Lower middle class,1
+2017,RU-ORE Orenburgskaya area,Rural,Female,35-44,Russian,Divorced,Middle,Lower class,1
+2017,RU-ORE Orenburgskaya area,Rural,Female,35-44,Russian,Married,Higher,Lower middle class,1
+2017,RU-ORE Orenburgskaya area,Rural,Female,35-44,Tatar,Married,Higher,Lower middle class,1
+2017,RU-ORE Orenburgskaya area,Rural,Female,45-54,Russian,Divorced,Higher,Lower class,1
+2017,RU-ORE Orenburgskaya area,Rural,Female,55-64,Russian,Divorced,Higher,Working class,1
+2017,RU-ORE Orenburgskaya area,Rural,Female,65 and more years,Russian,Divorced,Lower,Working class,1
+2017,RU-ORE Orenburgskaya area,Rural,Female,65 and more years,Russian,Separated,Higher,Working class,1
+2017,RU-ORE Orenburgskaya area,Rural,Male,16-24,Russian,Living together as married,Higher,Working class,1
+2017,RU-ORE Orenburgskaya area,Rural,Male,16-24,Russian,Married,Lower,Lower middle class,1
+2017,RU-ORE Orenburgskaya area,Rural,Male,25-34,Other,Living together as married,Lower,Lower class,1
+2017,RU-ORE Orenburgskaya area,Rural,Male,25-34,Russian,Living together as married,Middle,Lower class,1
+2017,RU-ORE Orenburgskaya area,Rural,Male,25-34,Russian,Married,Higher,Working class,1
+2017,RU-ORE Orenburgskaya area,Rural,Male,25-34,Russian,Single,Middle,Lower middle class,1
+2017,RU-ORE Orenburgskaya area,Rural,Male,35-44,Russian,Married,Higher,Lower class,1
+2017,RU-ORE Orenburgskaya area,Rural,Male,35-44,Russian,Married,Higher,Lower middle class,1
+2017,RU-ORE Orenburgskaya area,Rural,Male,35-44,Russian,Married,Higher,Working class,1
+2017,RU-ORE Orenburgskaya area,Rural,Male,35-44,Russian,Married,Middle,Working class,1
+2017,RU-ORE Orenburgskaya area,Rural,Male,45-54,Russian,Separated,Lower,Working class,1
+2017,RU-ORE Orenburgskaya area,Rural,Male,45-54,Russian,Single,Higher,Working class,1
+2017,RU-ORE Orenburgskaya area,Rural,Male,55-64,Russian,Married,Higher,Working class,1
+2017,RU-ORE Orenburgskaya area,Rural,Male,55-64,Russian,Separated,Higher,Working class,1
+2017,RU-ORE Orenburgskaya area,Rural,Male,65 and more years,Russian,Married,Lower,Lower middle class,1
+2017,RU-ORE Orenburgskaya area,Rural,Male,65 and more years,Russian,Widowed,Lower,Lower middle class,1
+2017,RU-ORL Orlovskaya area,Urban,Female,25-34,Russian,Divorced,Higher,Upper middle class,1
+2017,RU-ORL Orlovskaya area,Urban,Female,25-34,Russian,Married,Higher,Upper middle class,1
+2017,RU-ORL Orlovskaya area,Urban,Female,25-34,Russian,Single,Higher,Lower middle class,1
+2017,RU-ORL Orlovskaya area,Urban,Female,25-34,Russian,Single,Higher,Working class,1
+2017,RU-ORL Orlovskaya area,Urban,Female,35-44,Russian,Divorced,Higher,Don't know,1
+2017,RU-ORL Orlovskaya area,Urban,Female,35-44,Russian,Divorced,Higher,Working class,1
+2017,RU-ORL Orlovskaya area,Urban,Female,45-54,Russian,Married,Higher,Upper middle class,1
+2017,RU-ORL Orlovskaya area,Urban,Female,55-64,Russian,Divorced,Higher,Lower middle class,1
+2017,RU-ORL Orlovskaya area,Urban,Female,55-64,Russian,Married,Middle,Lower middle class,1
+2017,RU-ORL Orlovskaya area,Urban,Female,55-64,Russian,Widowed,Higher,Lower middle class,1
+2017,RU-ORL Orlovskaya area,Urban,Female,55-64,Russian,Widowed,Middle,Lower middle class,1
+2017,RU-ORL Orlovskaya area,Urban,Female,65 and more years,Russian,Married,Higher,Don't know,1
+2017,RU-ORL Orlovskaya area,Urban,Female,65 and more years,Russian,Widowed,Higher,Lower class,1
+2017,RU-ORL Orlovskaya area,Urban,Female,65 and more years,Russian,Widowed,Lower,Lower middle class,1
+2017,RU-ORL Orlovskaya area,Urban,Male,16-24,Russian,No answer,Middle,Upper middle class,1
+2017,RU-ORL Orlovskaya area,Urban,Male,25-34,Russian,Living together as married,Higher,Upper middle class,1
+2017,RU-ORL Orlovskaya area,Urban,Male,25-34,Russian,Married,Higher,Don't know,1
+2017,RU-ORL Orlovskaya area,Urban,Male,25-34,Russian,Single,Higher,Lower middle class,1
+2017,RU-ORL Orlovskaya area,Urban,Male,25-34,Russian,Single,Middle,Working class,1
+2017,RU-ORL Orlovskaya area,Urban,Male,35-44,Russian,Living together as married,Middle,Working class,1
+2017,RU-ORL Orlovskaya area,Urban,Male,35-44,Russian,Married,Higher,Upper middle class,1
+2017,RU-ORL Orlovskaya area,Urban,Male,35-44,Russian,Separated,Higher,Lower middle class,1
+2017,RU-ORL Orlovskaya area,Urban,Male,35-44,Russian,Separated,Lower,Upper middle class,1
+2017,RU-ORL Orlovskaya area,Urban,Male,45-54,Russian,Divorced,Lower,Lower class,1
+2017,RU-ORL Orlovskaya area,Urban,Male,45-54,Russian,Married,Higher,Working class,1
+2017,RU-ORL Orlovskaya area,Urban,Male,55-64,Russian,Married,Middle,Working class,1
+2017,RU-ORL Orlovskaya area,Urban,Male,65 and more years,Russian,Widowed,Lower,Don't know,1
+2017,RU-ORL Orlovskaya area,Urban,Male,65 and more years,Russian,Widowed,Lower,Lower class,1
+2017,RU-PER Permskiy kray,Urban,Female,16-24,Russian,Divorced,Middle,Lower middle class,1
+2017,RU-PER Permskiy kray,Urban,Female,16-24,Russian,Living together as married,Middle,Lower middle class,1
+2017,RU-PER Permskiy kray,Urban,Female,16-24,Russian,Single,Higher,Upper middle class,1
+2017,RU-PER Permskiy kray,Urban,Female,16-24,Russian,Single,Middle,Lower middle class,2
+2017,RU-PER Permskiy kray,Urban,Female,16-24,Russian,Single,Middle,Upper class,1
+2017,RU-PER Permskiy kray,Urban,Female,16-24,Russian,Single,Middle,Upper middle class,2
+2017,RU-PER Permskiy kray,Urban,Female,25-34,Russian,Separated,Higher,Working class,2
+2017,RU-PER Permskiy kray,Urban,Female,35-44,Russian,Divorced,Higher,Lower middle class,2
+2017,RU-PER Permskiy kray,Urban,Female,35-44,Russian,Divorced,Lower,Upper middle class,1
+2017,RU-PER Permskiy kray,Urban,Female,35-44,Russian,Married,Higher,Upper middle class,1
+2017,RU-PER Permskiy kray,Urban,Female,35-44,Russian,Single,Higher,Don't know,1
+2017,RU-PER Permskiy kray,Urban,Female,35-44,Russian,Widowed,Higher,Working class,1
+2017,RU-PER Permskiy kray,Urban,Female,45-54,Russian,Divorced,Lower,Upper middle class,1
+2017,RU-PER Permskiy kray,Urban,Female,45-54,Russian,Married,Middle,Lower middle class,1
+2017,RU-PER Permskiy kray,Urban,Female,45-54,Russian,Separated,Higher,Working class,1
+2017,RU-PER Permskiy kray,Urban,Female,55-64,Russian,No answer,Higher,Upper middle class,1
+2017,RU-PER Permskiy kray,Urban,Female,65 and more years,Russian,Living together as married,Lower,Working class,1
+2017,RU-PER Permskiy kray,Urban,Female,65 and more years,Russian,Widowed,Higher,Lower middle class,1
+2017,RU-PER Permskiy kray,Urban,Male,16-24,Russian,Single,Higher,Working class,1
+2017,RU-PER Permskiy kray,Urban,Male,16-24,Russian,Single,Lower,Upper middle class,1
+2017,RU-PER Permskiy kray,Urban,Male,16-24,Russian,Single,Middle,Lower middle class,2
+2017,RU-PER Permskiy kray,Urban,Male,16-24,Russian,Single,Middle,Upper middle class,1
+2017,RU-PER Permskiy kray,Urban,Male,25-34,Russian,Divorced,Higher,Upper middle class,1
+2017,RU-PER Permskiy kray,Urban,Male,25-34,Russian,Living together as married,Lower,Working class,1
+2017,RU-PER Permskiy kray,Urban,Male,25-34,Russian,Married,Higher,Lower middle class,1
+2017,RU-PER Permskiy kray,Urban,Male,25-34,Russian,Married,Higher,Upper middle class,1
+2017,RU-PER Permskiy kray,Urban,Male,25-34,Russian,Married,Higher,Working class,1
+2017,RU-PER Permskiy kray,Urban,Male,25-34,Russian,Single,Higher,Upper middle class,1
+2017,RU-PER Permskiy kray,Urban,Male,35-44,Russian,Married,Middle,Working class,1
+2017,RU-PER Permskiy kray,Urban,Male,45-54,Russian,Divorced,Higher,Working class,1
+2017,RU-PNZ Penzenskaya area,Rural,Female,16-24,Russian,Single,Lower,Working class,1
+2017,RU-PNZ Penzenskaya area,Rural,Female,35-44,Russian,Married,Lower,Working class,1
+2017,RU-PNZ Penzenskaya area,Rural,Female,45-54,Russian,Living together as married,Higher,Working class,1
+2017,RU-PNZ Penzenskaya area,Rural,Female,45-54,Russian,Married,Lower,Working class,1
+2017,RU-PNZ Penzenskaya area,Rural,Female,45-54,Russian,Married,Middle,Working class,2
+2017,RU-PNZ Penzenskaya area,Rural,Female,55-64,Russian,Widowed,Higher,Lower middle class,1
+2017,RU-PNZ Penzenskaya area,Rural,Female,65 and more years,Russian,Divorced,Higher,Working class,1
+2017,RU-PNZ Penzenskaya area,Rural,Female,65 and more years,Russian,Widowed,Lower,Lower class,1
+2017,RU-PNZ Penzenskaya area,Rural,Female,65 and more years,Russian,Widowed,Middle,Working class,2
+2017,RU-PNZ Penzenskaya area,Rural,Male,35-44,Russian,Married,Higher,Upper middle class,1
+2017,RU-PNZ Penzenskaya area,Rural,Male,35-44,Russian,Married,Lower,Working class,2
+2017,RU-PNZ Penzenskaya area,Urban,Female,16-24,Russian,Single,Middle,Upper middle class,1
+2017,RU-PNZ Penzenskaya area,Urban,Female,25-34,Russian,Married,Higher,Lower middle class,1
+2017,RU-PNZ Penzenskaya area,Urban,Female,35-44,Russian,Divorced,Higher,Lower middle class,1
+2017,RU-PNZ Penzenskaya area,Urban,Female,35-44,Russian,Living together as married,Higher,Upper middle class,1
+2017,RU-PNZ Penzenskaya area,Urban,Female,35-44,Russian,Married,Higher,Lower middle class,2
+2017,RU-PNZ Penzenskaya area,Urban,Female,45-54,Russian,Married,Higher,Lower middle class,2
+2017,RU-PNZ Penzenskaya area,Urban,Female,55-64,Russian,Widowed,Higher,Lower middle class,1
+2017,RU-PNZ Penzenskaya area,Urban,Female,65 and more years,Russian,Widowed,Higher,Working class,1
+2017,RU-PNZ Penzenskaya area,Urban,Male,16-24,Russian,Single,Middle,Lower middle class,1
+2017,RU-PNZ Penzenskaya area,Urban,Male,35-44,Russian,Married,Higher,Upper middle class,2
+2017,RU-PNZ Penzenskaya area,Urban,Male,65 and more years,Russian,Married,Higher,Lower middle class,1
+2017,RU-PNZ Penzenskaya area,Urban,Male,65 and more years,Russian,Married,Higher,Working class,1
+2017,RU-PNZ Penzenskaya area,Urban,Male,65 and more years,Russian,Widowed,Middle,Working class,1
+2017,RU-PRI Primorskiy kray,Urban,Female,25-34,Russian,Divorced,Higher,Lower middle class,2
+2017,RU-PRI Primorskiy kray,Urban,Female,25-34,Russian,Married,Higher,Lower middle class,1
+2017,RU-PRI Primorskiy kray,Urban,Female,25-34,Russian,Married,Higher,Working class,1
+2017,RU-PRI Primorskiy kray,Urban,Female,25-34,Russian,Single,Higher,Lower middle class,1
+2017,RU-PRI Primorskiy kray,Urban,Female,35-44,Russian,Divorced,Higher,Lower middle class,1
+2017,RU-PRI Primorskiy kray,Urban,Female,35-44,Russian,Married,Middle,Lower middle class,1
+2017,RU-PRI Primorskiy kray,Urban,Female,35-44,Russian,Single,Higher,Working class,1
+2017,RU-PRI Primorskiy kray,Urban,Female,55-64,Russian,Married,Lower,Working class,1
+2017,RU-PRI Primorskiy kray,Urban,Female,55-64,Russian,Widowed,Higher,Lower middle class,1
+2017,RU-PRI Primorskiy kray,Urban,Female,55-64,Russian,Widowed,Higher,Working class,1
+2017,RU-PRI Primorskiy kray,Urban,Female,65 and more years,Russian,Married,Higher,Lower middle class,1
+2017,RU-PRI Primorskiy kray,Urban,Female,65 and more years,Russian,Widowed,Higher,Upper middle class,1
+2017,RU-PRI Primorskiy kray,Urban,Female,65 and more years,Russian,Widowed,Lower,Lower class,1
+2017,RU-PRI Primorskiy kray,Urban,Female,65 and more years,Russian,Widowed,Lower,Lower middle class,1
+2017,RU-PRI Primorskiy kray,Urban,Female,65 and more years,Russian,Widowed,Lower,Working class,4
+2017,RU-PRI Primorskiy kray,Urban,Male,16-24,Russian,Single,Higher,Lower middle class,1
+2017,RU-PRI Primorskiy kray,Urban,Male,16-24,Russian,Single,Higher,Working class,1
+2017,RU-PRI Primorskiy kray,Urban,Male,16-24,Russian,Single,Lower,Working class,1
+2017,RU-PRI Primorskiy kray,Urban,Male,25-34,Russian,Married,Don't know,Don't know,1
+2017,RU-PRI Primorskiy kray,Urban,Male,25-34,Russian,Married,Higher,Lower middle class,1
+2017,RU-PRI Primorskiy kray,Urban,Male,25-34,Russian,Married,Higher,Upper middle class,1
+2017,RU-PRI Primorskiy kray,Urban,Male,25-34,Russian,Married,Higher,Working class,1
+2017,RU-PRI Primorskiy kray,Urban,Male,25-34,Russian,Married,Middle,Lower middle class,1
+2017,RU-PRI Primorskiy kray,Urban,Male,35-44,Russian,Married,Higher,Working class,1
+2017,RU-PRI Primorskiy kray,Urban,Male,35-44,Russian,Married,Lower,Working class,1
+2017,RU-PRI Primorskiy kray,Urban,Male,35-44,Russian,Single,Higher,Lower class,1
+2017,RU-PRI Primorskiy kray,Urban,Male,55-64,Russian,Living together as married,Higher,Lower middle class,1
+2017,RU-PRI Primorskiy kray,Urban,Male,65 and more years,Russian,Divorced,Higher,Working class,1
+2017,RU-PRI Primorskiy kray,Urban,Male,65 and more years,Russian,Divorced,Middle,Working class,1
+2017,RU-PRI Primorskiy kray,Urban,Male,65 and more years,Russian,Widowed,Higher,Working class,1
+2017,RU-PRI Primorskiy kray,Urban,Male,65 and more years,Russian,Widowed,Lower,Working class,1
+2017,RU-PRI Primorskiy kray,Urban,Male,65 and more years,Russian,Widowed,Middle,Working class,1
+2017,RU-PSK Pskovskaya area,Urban,Female,25-34,Russian,Married,Middle,Working class,2
+2017,RU-PSK Pskovskaya area,Urban,Female,25-34,Russian,Widowed,Middle,Working class,1
+2017,RU-PSK Pskovskaya area,Urban,Female,35-44,Russian,Married,Higher,Lower middle class,1
+2017,RU-PSK Pskovskaya area,Urban,Female,45-54,Russian,Divorced,Lower,Working class,1
+2017,RU-PSK Pskovskaya area,Urban,Female,45-54,Russian,Married,Higher,Working class,1
+2017,RU-PSK Pskovskaya area,Urban,Female,55-64,Russian,Married,Higher,Working class,1
+2017,RU-PSK Pskovskaya area,Urban,Female,55-64,Russian,Married,Lower,Working class,1
+2017,RU-PSK Pskovskaya area,Urban,Male,16-24,Russian,Single,Middle,Working class,1
+2017,RU-PSK Pskovskaya area,Urban,Male,25-34,Russian,Divorced,Middle,Lower class,1
+2017,RU-PSK Pskovskaya area,Urban,Male,25-34,Russian,Single,Higher,Working class,1
+2017,RU-PSK Pskovskaya area,Urban,Male,35-44,Russian,Living together as married,Lower,Working class,1
+2017,RU-PSK Pskovskaya area,Urban,Male,35-44,Russian,Married,Higher,Working class,1
+2017,RU-PSK Pskovskaya area,Urban,Male,35-44,Russian,Single,Higher,Working class,1
+2017,RU-ROS Rostovskaya area,Rural,Female,25-34,Russian,Divorced,Higher,Lower middle class,1
+2017,RU-ROS Rostovskaya area,Rural,Female,25-34,Russian,Divorced,Middle,Lower middle class,1
+2017,RU-ROS Rostovskaya area,Rural,Female,35-44,Russian,Divorced,Higher,Lower middle class,1
+2017,RU-ROS Rostovskaya area,Rural,Female,35-44,Russian,Divorced,Middle,Lower middle class,1
+2017,RU-ROS Rostovskaya area,Rural,Female,45-54,Russian,Divorced,Higher,Upper middle class,1
+2017,RU-ROS Rostovskaya area,Rural,Female,45-54,Russian,Widowed,Higher,Lower middle class,1
+2017,RU-ROS Rostovskaya area,Rural,Female,55-64,Russian,Widowed,Higher,Upper middle class,1
+2017,RU-ROS Rostovskaya area,Rural,Female,55-64,Russian,Widowed,Middle,Lower middle class,1
+2017,RU-ROS Rostovskaya area,Rural,Male,25-34,Russian,Married,Middle,Lower middle class,2
+2017,RU-ROS Rostovskaya area,Rural,Male,25-34,Russian,Single,Higher,Upper middle class,1
+2017,RU-ROS Rostovskaya area,Rural,Male,35-44,Russian,Married,Higher,Lower middle class,1
+2017,RU-ROS Rostovskaya area,Urban,Female,16-24,Russian,Single,Higher,Lower middle class,1
+2017,RU-ROS Rostovskaya area,Urban,Female,16-24,Russian,Single,Middle,Lower middle class,1
+2017,RU-ROS Rostovskaya area,Urban,Female,16-24,Russian,Single,Middle,Upper middle class,1
+2017,RU-ROS Rostovskaya area,Urban,Female,25-34,Russian,Divorced,Higher,Don't know,1
+2017,RU-ROS Rostovskaya area,Urban,Female,25-34,Russian,Divorced,Higher,Lower middle class,1
+2017,RU-ROS Rostovskaya area,Urban,Female,25-34,Russian,Living together as married,Higher,Lower middle class,1
+2017,RU-ROS Rostovskaya area,Urban,Female,25-34,Russian,Single,Higher,Lower middle class,2
+2017,RU-ROS Rostovskaya area,Urban,Female,25-34,Russian,Single,Higher,Working class,1
+2017,RU-ROS Rostovskaya area,Urban,Female,35-44,Russian,Divorced,Higher,Lower middle class,4
+2017,RU-ROS Rostovskaya area,Urban,Female,35-44,Russian,Divorced,Middle,Working class,1
+2017,RU-ROS Rostovskaya area,Urban,Female,35-44,Russian,Living together as married,Higher,Working class,1
+2017,RU-ROS Rostovskaya area,Urban,Female,35-44,Russian,Single,Higher,Lower middle class,2
+2017,RU-ROS Rostovskaya area,Urban,Female,35-44,Russian,Single,Higher,Upper middle class,1
+2017,RU-ROS Rostovskaya area,Urban,Female,35-44,Russian,Widowed,Higher,Lower middle class,1
+2017,RU-ROS Rostovskaya area,Urban,Female,45-54,Russian,Divorced,Higher,Lower middle class,3
+2017,RU-ROS Rostovskaya area,Urban,Female,45-54,Russian,Living together as married,Middle,Working class,1
+2017,RU-ROS Rostovskaya area,Urban,Female,45-54,Russian,Married,Higher,Lower middle class,1
+2017,RU-ROS Rostovskaya area,Urban,Female,45-54,Russian,Separated,Higher,Lower middle class,2
+2017,RU-ROS Rostovskaya area,Urban,Female,45-54,Russian,Widowed,Higher,Upper middle class,1
+2017,RU-ROS Rostovskaya area,Urban,Female,45-54,Russian,Widowed,Middle,Lower middle class,1
+2017,RU-ROS Rostovskaya area,Urban,Female,55-64,Russian,Divorced,Higher,Lower middle class,1
+2017,RU-ROS Rostovskaya area,Urban,Female,65 and more years,Russian,Widowed,Higher,Lower middle class,1
+2017,RU-ROS Rostovskaya area,Urban,Female,65 and more years,Russian,Widowed,Lower,Lower middle class,1
+2017,RU-ROS Rostovskaya area,Urban,Male,16-24,Russian,Single,Higher,Lower middle class,3
+2017,RU-ROS Rostovskaya area,Urban,Male,25-34,Russian,Living together as married,Higher,Upper middle class,1
+2017,RU-ROS Rostovskaya area,Urban,Male,25-34,Russian,Married,Higher,Don't know,1
+2017,RU-ROS Rostovskaya area,Urban,Male,25-34,Russian,Married,Higher,Lower middle class,3
+2017,RU-ROS Rostovskaya area,Urban,Male,25-34,Russian,Married,Higher,Upper middle class,2
+2017,RU-ROS Rostovskaya area,Urban,Male,25-34,Russian,Married,Lower,Lower middle class,1
+2017,RU-ROS Rostovskaya area,Urban,Male,25-34,Russian,Single,Higher,Don't know,1
+2017,RU-ROS Rostovskaya area,Urban,Male,25-34,Russian,Single,Higher,Lower middle class,1
+2017,RU-ROS Rostovskaya area,Urban,Male,25-34,Russian,Single,Lower,Lower class,1
+2017,RU-ROS Rostovskaya area,Urban,Male,25-34,Russian,Single,Middle,Lower middle class,1
+2017,RU-ROS Rostovskaya area,Urban,Male,35-44,Russian,Married,Higher,Lower middle class,2
+2017,RU-ROS Rostovskaya area,Urban,Male,35-44,Russian,Married,Higher,Upper middle class,2
+2017,RU-ROS Rostovskaya area,Urban,Male,35-44,Russian,Married,Lower,Lower middle class,1
+2017,RU-ROS Rostovskaya area,Urban,Male,45-54,Russian,Married,Higher,Lower middle class,1
+2017,RU-ROS Rostovskaya area,Urban,Male,45-54,Russian,Married,Higher,Upper middle class,1
+2017,RU-ROS Rostovskaya area,Urban,Male,45-54,Russian,Married,Lower,Upper middle class,1
+2017,RU-ROS Rostovskaya area,Urban,Male,45-54,Russian,Married,Middle,Lower middle class,1
+2017,RU-ROS Rostovskaya area,Urban,Male,45-54,Russian,Widowed,Higher,Lower middle class,1
+2017,RU-ROS Rostovskaya area,Urban,Male,55-64,Other,Married,Higher,Lower middle class,1
+2017,RU-ROS Rostovskaya area,Urban,Male,55-64,Russian,Married,Higher,Upper middle class,1
+2017,RU-ROS Rostovskaya area,Urban,Male,65 and more years,Russian,Married,Lower,Lower middle class,1
+2017,RU-ROS Rostovskaya area,Urban,Male,65 and more years,Russian,Widowed,Higher,Don't know,1
+2017,RU-RYA Ryazanskaya area,Urban,Female,25-34,Russian,Married,Higher,Lower middle class,1
+2017,RU-RYA Ryazanskaya area,Urban,Female,25-34,Russian,Married,Middle,Lower middle class,1
+2017,RU-RYA Ryazanskaya area,Urban,Female,35-44,Russian,Married,Lower,Working class,1
+2017,RU-RYA Ryazanskaya area,Urban,Female,45-54,Russian,Married,Higher,Lower middle class,2
+2017,RU-RYA Ryazanskaya area,Urban,Female,55-64,Russian,Divorced,Higher,Lower middle class,1
+2017,RU-RYA Ryazanskaya area,Urban,Female,55-64,Russian,Widowed,Higher,Lower middle class,1
+2017,RU-RYA Ryazanskaya area,Urban,Female,65 and more years,Russian,Widowed,Lower,Working class,1
+2017,RU-RYA Ryazanskaya area,Urban,Female,65 and more years,Russian,Widowed,Middle,Upper middle class,1
+2017,RU-RYA Ryazanskaya area,Urban,Male,16-24,Russian,Single,Higher,Lower middle class,1
+2017,RU-RYA Ryazanskaya area,Urban,Male,16-24,Russian,Single,Middle,Working class,1
+2017,RU-RYA Ryazanskaya area,Urban,Male,25-34,Russian,Married,Higher,Upper middle class,1
+2017,RU-RYA Ryazanskaya area,Urban,Male,65 and more years,Russian,Married,Lower,Lower middle class,1
+2017,RU-RYA Ryazanskaya area,Urban,Male,65 and more years,Russian,Widowed,Higher,Lower middle class,1
+2017,"RU-SA Saha, Republic",Rural,Female,16-24,Other,Married,Higher,Lower middle class,1
+2017,"RU-SA Saha, Republic",Rural,Female,16-24,Other,Single,Middle,Upper middle class,1
+2017,"RU-SA Saha, Republic",Rural,Female,25-34,Russian,Married,Higher,Working class,1
+2017,"RU-SA Saha, Republic",Rural,Female,35-44,Other,Married,Higher,Upper middle class,1
+2017,"RU-SA Saha, Republic",Rural,Female,55-64,Other,Single,Higher,Lower middle class,1
+2017,"RU-SA Saha, Republic",Rural,Female,55-64,Russian,Married,Higher,Working class,1
+2017,"RU-SA Saha, Republic",Rural,Female,65 and more years,Other,Married,Higher,Lower middle class,1
+2017,"RU-SA Saha, Republic",Rural,Female,65 and more years,Other,Single,Higher,Don't know,1
+2017,"RU-SA Saha, Republic",Rural,Female,65 and more years,Other,Widowed,Higher,Lower middle class,1
+2017,"RU-SA Saha, Republic",Rural,Male,16-24,Other,Married,Higher,Upper middle class,1
+2017,"RU-SA Saha, Republic",Rural,Male,35-44,Other,Single,Middle,Working class,1
+2017,"RU-SA Saha, Republic",Rural,Male,45-54,Other,Married,Higher,Don't know,1
+2017,"RU-SA Saha, Republic",Rural,Male,65 and more years,Other,Widowed,Higher,Upper middle class,1
+2017,RU-SAK Sakhalinskaya area,Urban,Female,16-24,Russian,Single,Lower,Lower class,2
+2017,RU-SAK Sakhalinskaya area,Urban,Female,35-44,Russian,Married,Higher,Upper middle class,1
+2017,RU-SAK Sakhalinskaya area,Urban,Female,45-54,Russian,Married,Higher,Upper middle class,1
+2017,RU-SAK Sakhalinskaya area,Urban,Female,55-64,Russian,Divorced,Higher,Lower middle class,2
+2017,RU-SAK Sakhalinskaya area,Urban,Female,55-64,Russian,Separated,Middle,Lower middle class,1
+2017,RU-SAK Sakhalinskaya area,Urban,Female,55-64,Russian,Widowed,Higher,Upper middle class,1
+2017,RU-SAK Sakhalinskaya area,Urban,Female,65 and more years,Russian,Married,Middle,Don't know,1
+2017,RU-SAK Sakhalinskaya area,Urban,Male,25-34,Russian,Married,Middle,Don't know,1
+2017,RU-SAK Sakhalinskaya area,Urban,Male,35-44,Russian,Married,Middle,Working class,1
+2017,RU-SAK Sakhalinskaya area,Urban,Male,45-54,Russian,Married,Higher,Upper middle class,1
+2017,RU-SAK Sakhalinskaya area,Urban,Male,55-64,Russian,Married,Higher,No answer,1
+2017,RU-SAK Sakhalinskaya area,Urban,Male,65 and more years,Russian,Separated,Lower,Lower class,1
+2017,RU-SAM Samarskaya area,Rural,Female,16-24,Russian,Single,Middle,Upper middle class,1
+2017,RU-SAM Samarskaya area,Rural,Female,25-34,Russian,Single,Higher,Upper middle class,1
+2017,RU-SAM Samarskaya area,Rural,Female,35-44,Russian,Divorced,Higher,Upper middle class,1
+2017,RU-SAM Samarskaya area,Rural,Female,35-44,Russian,Married,Higher,Don't know,1
+2017,RU-SAM Samarskaya area,Rural,Female,45-54,Russian,Divorced,Middle,Lower middle class,1
+2017,RU-SAM Samarskaya area,Rural,Female,45-54,Russian,Married,Higher,Upper middle class,2
+2017,RU-SAM Samarskaya area,Rural,Female,55-64,Russian,Married,Middle,Upper middle class,1
+2017,RU-SAM Samarskaya area,Rural,Male,25-34,Russian,Single,Higher,Lower middle class,1
+2017,RU-SAM Samarskaya area,Rural,Male,25-34,Russian,Single,Higher,Upper middle class,1
+2017,RU-SAM Samarskaya area,Rural,Male,25-34,Tatar,Married,Lower,Upper middle class,1
+2017,RU-SAM Samarskaya area,Rural,Male,35-44,Russian,Married,Higher,Upper middle class,2
+2017,RU-SAM Samarskaya area,Rural,Male,55-64,Russian,Widowed,Higher,Lower middle class,1
+2017,RU-SAM Samarskaya area,Urban,Female,16-24,Russian,Single,Higher,Lower class,1
+2017,RU-SAM Samarskaya area,Urban,Female,16-24,Russian,Single,Higher,Lower middle class,1
+2017,RU-SAM Samarskaya area,Urban,Female,16-24,Russian,Single,Higher,Upper middle class,1
+2017,RU-SAM Samarskaya area,Urban,Female,16-24,Russian,Single,Lower,Upper middle class,1
+2017,RU-SAM Samarskaya area,Urban,Female,25-34,Russian,Divorced,Higher,Upper class,1
+2017,RU-SAM Samarskaya area,Urban,Female,25-34,Russian,Divorced,Higher,Upper middle class,1
+2017,RU-SAM Samarskaya area,Urban,Female,25-34,Russian,Married,Higher,Lower middle class,1
+2017,RU-SAM Samarskaya area,Urban,Female,25-34,Russian,Married,Higher,Upper middle class,1
+2017,RU-SAM Samarskaya area,Urban,Female,35-44,Russian,Divorced,Higher,Working class,1
+2017,RU-SAM Samarskaya area,Urban,Female,35-44,Russian,Married,Higher,Lower middle class,2
+2017,RU-SAM Samarskaya area,Urban,Female,35-44,Russian,Married,Higher,Upper middle class,1
+2017,RU-SAM Samarskaya area,Urban,Female,35-44,Russian,Single,Higher,Upper middle class,2
+2017,RU-SAM Samarskaya area,Urban,Female,45-54,Russian,Divorced,Higher,Lower middle class,1
+2017,RU-SAM Samarskaya area,Urban,Female,45-54,Russian,Married,Higher,Upper middle class,1
+2017,RU-SAM Samarskaya area,Urban,Female,45-54,Russian,Married,Lower,Lower middle class,1
+2017,RU-SAM Samarskaya area,Urban,Female,55-64,Russian,Married,Higher,Upper middle class,1
+2017,RU-SAM Samarskaya area,Urban,Female,55-64,Russian,Widowed,Higher,Lower middle class,1
+2017,RU-SAM Samarskaya area,Urban,Female,65 and more years,Russian,Divorced,Higher,Working class,1
+2017,RU-SAM Samarskaya area,Urban,Male,25-34,Russian,Divorced,Higher,Lower middle class,1
+2017,RU-SAM Samarskaya area,Urban,Male,25-34,Russian,Living together as married,Higher,Lower middle class,1
+2017,RU-SAM Samarskaya area,Urban,Male,25-34,Russian,Married,Higher,Lower middle class,2
+2017,RU-SAM Samarskaya area,Urban,Male,25-34,Russian,Married,Higher,Upper class,1
+2017,RU-SAM Samarskaya area,Urban,Male,25-34,Russian,Married,Middle,Lower middle class,1
+2017,RU-SAM Samarskaya area,Urban,Male,25-34,Russian,Single,Higher,Working class,1
+2017,RU-SAM Samarskaya area,Urban,Male,35-44,Russian,Married,Higher,Lower middle class,1
+2017,RU-SAM Samarskaya area,Urban,Male,35-44,Russian,Married,Higher,Working class,2
+2017,RU-SAM Samarskaya area,Urban,Male,35-44,Russian,Single,Higher,Upper middle class,1
+2017,RU-SAM Samarskaya area,Urban,Male,35-44,Russian,Single,Higher,Working class,1
+2017,RU-SAM Samarskaya area,Urban,Male,45-54,Tatar,Married,Lower,Working class,1
+2017,RU-SAM Samarskaya area,Urban,Male,55-64,Russian,Married,Higher,Upper middle class,1
+2017,RU-SAM Samarskaya area,Urban,Male,55-64,Russian,Widowed,Higher,Lower class,1
+2017,RU-SAM Samarskaya area,Urban,Male,55-64,Russian,Widowed,Higher,Working class,1
+2017,RU-SAM Samarskaya area,Urban,Male,65 and more years,Russian,Single,Lower,Lower class,1
+2017,RU-SAR Saratovskaya area,Urban,Female,25-34,Russian,Married,Higher,Don't know,1
+2017,RU-SAR Saratovskaya area,Urban,Female,25-34,Russian,Single,Lower,Working class,1
+2017,RU-SAR Saratovskaya area,Urban,Female,35-44,Russian,Married,Middle,Working class,1
+2017,RU-SAR Saratovskaya area,Urban,Female,45-54,Russian,Single,Higher,Working class,1
+2017,RU-SAR Saratovskaya area,Urban,Female,55-64,Russian,Divorced,Lower,Working class,1
+2017,RU-SAR Saratovskaya area,Urban,Female,55-64,Russian,Married,Higher,Lower class,1
+2017,RU-SAR Saratovskaya area,Urban,Female,55-64,Russian,Married,Higher,Lower middle class,1
+2017,RU-SAR Saratovskaya area,Urban,Female,55-64,Russian,Married,Higher,Upper middle class,1
+2017,RU-SAR Saratovskaya area,Urban,Female,55-64,Russian,Married,Higher,Working class,1
+2017,RU-SAR Saratovskaya area,Urban,Female,65 and more years,Russian,Divorced,Higher,Lower middle class,1
+2017,RU-SAR Saratovskaya area,Urban,Female,65 and more years,Russian,Divorced,Middle,Lower class,1
+2017,RU-SAR Saratovskaya area,Urban,Female,65 and more years,Russian,Married,Higher,Working class,1
+2017,RU-SAR Saratovskaya area,Urban,Female,65 and more years,Russian,Single,Higher,Lower middle class,1
+2017,RU-SAR Saratovskaya area,Urban,Female,65 and more years,Russian,Widowed,Middle,Lower middle class,1
+2017,RU-SAR Saratovskaya area,Urban,Male,25-34,Russian,Married,Higher,Working class,1
+2017,RU-SAR Saratovskaya area,Urban,Male,25-34,Russian,Single,Higher,Lower middle class,1
+2017,RU-SAR Saratovskaya area,Urban,Male,25-34,Russian,Single,Higher,Working class,1
+2017,RU-SAR Saratovskaya area,Urban,Male,35-44,Russian,Living together as married,Middle,Working class,1
+2017,RU-SAR Saratovskaya area,Urban,Male,35-44,Russian,Single,Higher,Working class,1
+2017,RU-SAR Saratovskaya area,Urban,Male,55-64,Russian,Divorced,Middle,Lower middle class,1
+2017,RU-SAR Saratovskaya area,Urban,Male,55-64,Russian,Separated,Higher,Upper middle class,1
+2017,RU-SAR Saratovskaya area,Urban,Male,55-64,Russian,Widowed,Higher,Working class,1
+2017,RU-SAR Saratovskaya area,Urban,Male,65 and more years,Russian,Widowed,Higher,Working class,1
+2017,RU-SPE Sankt-Peterburg autonomous city,Urban,Female,16-24,Russian,Single,Higher,Don't know,1
+2017,RU-SPE Sankt-Peterburg autonomous city,Urban,Female,16-24,Russian,Single,Higher,Lower middle class,1
+2017,RU-SPE Sankt-Peterburg autonomous city,Urban,Female,16-24,Russian,Single,Middle,Lower middle class,1
+2017,RU-SPE Sankt-Peterburg autonomous city,Urban,Female,16-24,Russian,Single,Middle,Upper middle class,1
+2017,RU-SPE Sankt-Peterburg autonomous city,Urban,Female,16-24,Tatar,Single,Higher,Lower middle class,1
+2017,RU-SPE Sankt-Peterburg autonomous city,Urban,Female,25-34,Russian,Divorced,Higher,Lower middle class,1
+2017,RU-SPE Sankt-Peterburg autonomous city,Urban,Female,25-34,Russian,Divorced,Middle,Lower middle class,1
+2017,RU-SPE Sankt-Peterburg autonomous city,Urban,Female,25-34,Russian,Separated,Higher,Lower middle class,1
+2017,RU-SPE Sankt-Peterburg autonomous city,Urban,Female,25-34,Russian,Single,Higher,Lower middle class,1
+2017,RU-SPE Sankt-Peterburg autonomous city,Urban,Female,25-34,Russian,Single,Middle,Working class,1
+2017,RU-SPE Sankt-Peterburg autonomous city,Urban,Female,35-44,Russian,Divorced,Higher,Lower class,2
+2017,RU-SPE Sankt-Peterburg autonomous city,Urban,Female,35-44,Russian,Divorced,Higher,Lower middle class,3
+2017,RU-SPE Sankt-Peterburg autonomous city,Urban,Female,35-44,Russian,Divorced,Middle,Lower middle class,1
+2017,RU-SPE Sankt-Peterburg autonomous city,Urban,Female,35-44,Russian,Married,Higher,Lower middle class,2
+2017,RU-SPE Sankt-Peterburg autonomous city,Urban,Female,35-44,Russian,Single,Higher,Lower middle class,1
+2017,RU-SPE Sankt-Peterburg autonomous city,Urban,Female,35-44,Russian,Single,Higher,Upper middle class,1
+2017,RU-SPE Sankt-Peterburg autonomous city,Urban,Female,45-54,Russian,Divorced,Higher,Lower middle class,2
+2017,RU-SPE Sankt-Peterburg autonomous city,Urban,Female,45-54,Russian,Divorced,Higher,Upper middle class,1
+2017,RU-SPE Sankt-Peterburg autonomous city,Urban,Female,45-54,Russian,Living together as married,Middle,Working class,1
+2017,RU-SPE Sankt-Peterburg autonomous city,Urban,Female,45-54,Russian,Married,Higher,Lower middle class,2
+2017,RU-SPE Sankt-Peterburg autonomous city,Urban,Female,45-54,Russian,Single,Middle,Working class,1
+2017,RU-SPE Sankt-Peterburg autonomous city,Urban,Female,45-54,Russian,Widowed,Higher,Lower middle class,1
+2017,RU-SPE Sankt-Peterburg autonomous city,Urban,Female,55-64,Russian,Married,Higher,Lower middle class,2
+2017,RU-SPE Sankt-Peterburg autonomous city,Urban,Female,55-64,Russian,Widowed,Higher,Lower middle class,1
+2017,RU-SPE Sankt-Peterburg autonomous city,Urban,Female,55-64,Russian,Widowed,Higher,Upper middle class,1
+2017,RU-SPE Sankt-Peterburg autonomous city,Urban,Female,55-64,Russian,Widowed,Middle,Lower class,1
+2017,RU-SPE Sankt-Peterburg autonomous city,Urban,Female,55-64,Russian,Widowed,Middle,Lower middle class,1
+2017,RU-SPE Sankt-Peterburg autonomous city,Urban,Female,65 and more years,Russian,Divorced,Middle,Lower middle class,1
+2017,RU-SPE Sankt-Peterburg autonomous city,Urban,Female,65 and more years,Russian,Married,Higher,Lower middle class,1
+2017,RU-SPE Sankt-Peterburg autonomous city,Urban,Female,65 and more years,Russian,Married,Higher,Upper middle class,1
+2017,RU-SPE Sankt-Peterburg autonomous city,Urban,Female,65 and more years,Russian,Widowed,Higher,Lower class,1
+2017,RU-SPE Sankt-Peterburg autonomous city,Urban,Female,65 and more years,Russian,Widowed,Higher,Lower middle class,1
+2017,RU-SPE Sankt-Peterburg autonomous city,Urban,Female,65 and more years,Russian,Widowed,Higher,Upper middle class,1
+2017,RU-SPE Sankt-Peterburg autonomous city,Urban,Male,16-24,Russian,Single,Higher,Lower middle class,1
+2017,RU-SPE Sankt-Peterburg autonomous city,Urban,Male,16-24,Russian,Single,Middle,Working class,1
+2017,RU-SPE Sankt-Peterburg autonomous city,Urban,Male,25-34,Russian,Living together as married,Lower,Working class,1
+2017,RU-SPE Sankt-Peterburg autonomous city,Urban,Male,25-34,Russian,Married,Higher,Lower middle class,2
+2017,RU-SPE Sankt-Peterburg autonomous city,Urban,Male,25-34,Russian,Single,Higher,Lower middle class,1
+2017,RU-SPE Sankt-Peterburg autonomous city,Urban,Male,25-34,Russian,Single,Higher,Upper middle class,2
+2017,RU-SPE Sankt-Peterburg autonomous city,Urban,Male,25-34,Russian,Single,Higher,Working class,1
+2017,RU-SPE Sankt-Peterburg autonomous city,Urban,Male,35-44,Russian,Married,Higher,Lower middle class,3
+2017,RU-SPE Sankt-Peterburg autonomous city,Urban,Male,35-44,Russian,Married,Higher,Upper middle class,1
+2017,RU-SPE Sankt-Peterburg autonomous city,Urban,Male,35-44,Russian,Married,Middle,Working class,1
+2017,RU-SPE Sankt-Peterburg autonomous city,Urban,Male,35-44,Russian,Single,Middle,Working class,1
+2017,RU-SPE Sankt-Peterburg autonomous city,Urban,Male,45-54,Russian,Divorced,Higher,Working class,1
+2017,RU-SPE Sankt-Peterburg autonomous city,Urban,Male,45-54,Russian,Living together as married,Higher,Upper middle class,1
+2017,RU-SPE Sankt-Peterburg autonomous city,Urban,Male,45-54,Russian,Married,Higher,Lower middle class,2
+2017,RU-SPE Sankt-Peterburg autonomous city,Urban,Male,45-54,Russian,Married,Higher,Working class,1
+2017,RU-SPE Sankt-Peterburg autonomous city,Urban,Male,45-54,Russian,Separated,Higher,Lower middle class,1
+2017,RU-SPE Sankt-Peterburg autonomous city,Urban,Male,55-64,Russian,Married,Higher,Lower middle class,1
+2017,RU-SPE Sankt-Peterburg autonomous city,Urban,Male,55-64,Russian,Married,Higher,Upper middle class,1
+2017,RU-SPE Sankt-Peterburg autonomous city,Urban,Male,55-64,Russian,Married,Middle,Lower middle class,1
+2017,RU-SPE Sankt-Peterburg autonomous city,Urban,Male,55-64,Russian,Married,Middle,Working class,1
+2017,RU-SPE Sankt-Peterburg autonomous city,Urban,Male,65 and more years,Russian,Widowed,Higher,Working class,1
+2017,RU-SPE Sankt-Peterburg autonomous city,Urban,Male,65 and more years,Russian,Widowed,Lower,Working class,1
+2017,RU-STA Stavropol'skij kray,Rural,Female,16-24,Russian,Single,Higher,Don't know,1
+2017,RU-STA Stavropol'skij kray,Rural,Female,25-34,Russian,Divorced,Lower,Working class,1
+2017,RU-STA Stavropol'skij kray,Rural,Female,25-34,Russian,Married,Higher,Lower middle class,1
+2017,RU-STA Stavropol'skij kray,Rural,Female,35-44,Russian,Divorced,Middle,Working class,1
+2017,RU-STA Stavropol'skij kray,Rural,Female,45-54,Russian,Married,Higher,Lower middle class,1
+2017,RU-STA Stavropol'skij kray,Rural,Female,45-54,Russian,Married,Middle,Working class,1
+2017,RU-STA Stavropol'skij kray,Rural,Female,45-54,Russian,Widowed,Lower,Working class,1
+2017,RU-STA Stavropol'skij kray,Rural,Female,55-64,Russian,Married,Higher,Lower middle class,1
+2017,RU-STA Stavropol'skij kray,Rural,Female,55-64,Russian,Married,Middle,Working class,1
+2017,RU-STA Stavropol'skij kray,Rural,Female,55-64,Russian,No answer,Middle,Working class,1
+2017,RU-STA Stavropol'skij kray,Rural,Female,55-64,Russian,Widowed,Middle,Working class,2
+2017,RU-STA Stavropol'skij kray,Rural,Female,65 and more years,Russian,Married,Middle,Lower middle class,1
+2017,RU-STA Stavropol'skij kray,Rural,Female,65 and more years,Russian,Widowed,Lower,Lower middle class,1
+2017,RU-STA Stavropol'skij kray,Rural,Female,65 and more years,Russian,Widowed,Middle,Working class,1
+2017,RU-STA Stavropol'skij kray,Rural,Male,25-34,Russian,Single,Higher,Lower middle class,1
+2017,RU-STA Stavropol'skij kray,Rural,Male,35-44,Russian,Married,Higher,Lower middle class,1
+2017,RU-STA Stavropol'skij kray,Rural,Male,35-44,Russian,Married,Middle,Don't know,1
+2017,RU-STA Stavropol'skij kray,Rural,Male,35-44,Russian,Married,Middle,Working class,1
+2017,RU-STA Stavropol'skij kray,Rural,Male,35-44,Russian,Single,Lower,Working class,1
+2017,RU-STA Stavropol'skij kray,Rural,Male,45-54,Russian,Divorced,Higher,Working class,1
+2017,RU-STA Stavropol'skij kray,Rural,Male,45-54,Russian,Married,Higher,Lower middle class,1
+2017,RU-STA Stavropol'skij kray,Rural,Male,45-54,Russian,Married,Higher,Working class,1
+2017,RU-STA Stavropol'skij kray,Rural,Male,65 and more years,Russian,Married,Lower,Working class,1
+2017,RU-STA Stavropol'skij kray,Rural,Male,65 and more years,Russian,Widowed,Lower,Lower class,1
+2017,RU-STA Stavropol'skij kray,Rural,Male,65 and more years,Russian,Widowed,Lower,Working class,1
+2017,RU-STA Stavropol'skij kray,Urban,Female,16-24,Russian,Single,Higher,Lower middle class,1
+2017,RU-STA Stavropol'skij kray,Urban,Female,25-34,Russian,Married,Middle,Working class,1
+2017,RU-STA Stavropol'skij kray,Urban,Female,45-54,Russian,Married,Middle,Working class,1
+2017,RU-STA Stavropol'skij kray,Urban,Female,55-64,Russian,Married,Higher,Lower middle class,1
+2017,RU-STA Stavropol'skij kray,Urban,Female,55-64,Russian,Married,Higher,Working class,1
+2017,RU-STA Stavropol'skij kray,Urban,Female,55-64,Russian,Widowed,Higher,Lower middle class,1
+2017,RU-STA Stavropol'skij kray,Urban,Female,65 and more years,Russian,Widowed,Middle,Lower middle class,1
+2017,RU-STA Stavropol'skij kray,Urban,Male,25-34,Russian,Single,Higher,Upper middle class,1
+2017,RU-SVE Sverdlovskaya area,Urban,Female,25-34,Russian,Separated,Higher,Lower middle class,1
+2017,RU-SVE Sverdlovskaya area,Urban,Female,25-34,Russian,Single,Higher,Lower middle class,1
+2017,RU-SVE Sverdlovskaya area,Urban,Female,25-34,Russian,Single,Higher,Upper middle class,1
+2017,RU-SVE Sverdlovskaya area,Urban,Female,35-44,Russian,Divorced,Higher,Lower middle class,3
+2017,RU-SVE Sverdlovskaya area,Urban,Female,35-44,Russian,Divorced,Higher,Working class,2
+2017,RU-SVE Sverdlovskaya area,Urban,Female,35-44,Russian,Married,Higher,Lower middle class,1
+2017,RU-SVE Sverdlovskaya area,Urban,Female,35-44,Russian,Single,Higher,Lower middle class,2
+2017,RU-SVE Sverdlovskaya area,Urban,Female,35-44,Russian,Widowed,Higher,Upper class,1
+2017,RU-SVE Sverdlovskaya area,Urban,Female,45-54,Russian,Divorced,Higher,Lower middle class,2
+2017,RU-SVE Sverdlovskaya area,Urban,Female,45-54,Russian,Divorced,Higher,Upper middle class,1
+2017,RU-SVE Sverdlovskaya area,Urban,Female,45-54,Russian,Divorced,Higher,Working class,2
+2017,RU-SVE Sverdlovskaya area,Urban,Female,45-54,Russian,Living together as married,Higher,Lower middle class,1
+2017,RU-SVE Sverdlovskaya area,Urban,Female,45-54,Russian,Married,Higher,Lower middle class,3
+2017,RU-SVE Sverdlovskaya area,Urban,Female,45-54,Russian,Widowed,Higher,Lower middle class,2
+2017,RU-SVE Sverdlovskaya area,Urban,Female,45-54,Russian,Widowed,Higher,Working class,1
+2017,RU-SVE Sverdlovskaya area,Urban,Female,55-64,Russian,Divorced,Higher,Lower middle class,3
+2017,RU-SVE Sverdlovskaya area,Urban,Female,55-64,Russian,Separated,Higher,Working class,1
+2017,RU-SVE Sverdlovskaya area,Urban,Female,55-64,Russian,Widowed,Higher,Upper middle class,1
+2017,RU-SVE Sverdlovskaya area,Urban,Female,55-64,Russian,Widowed,Higher,Working class,1
+2017,RU-SVE Sverdlovskaya area,Urban,Female,55-64,Russian,Widowed,Middle,Working class,1
+2017,RU-SVE Sverdlovskaya area,Urban,Female,65 and more years,Russian,Married,Higher,Lower class,1
+2017,RU-SVE Sverdlovskaya area,Urban,Female,65 and more years,Russian,Married,Higher,Lower middle class,2
+2017,RU-SVE Sverdlovskaya area,Urban,Female,65 and more years,Russian,Widowed,Higher,Lower middle class,1
+2017,RU-SVE Sverdlovskaya area,Urban,Female,65 and more years,Russian,Widowed,Higher,Working class,2
+2017,RU-SVE Sverdlovskaya area,Urban,Male,25-34,Russian,Married,Higher,Lower middle class,6
+2017,RU-SVE Sverdlovskaya area,Urban,Male,25-34,Russian,Married,Higher,Upper middle class,1
+2017,RU-SVE Sverdlovskaya area,Urban,Male,25-34,Russian,Married,Higher,Working class,2
+2017,RU-SVE Sverdlovskaya area,Urban,Male,25-34,Russian,Married,Middle,Upper middle class,1
+2017,RU-SVE Sverdlovskaya area,Urban,Male,35-44,Russian,Divorced,Higher,Lower class,1
+2017,RU-SVE Sverdlovskaya area,Urban,Male,35-44,Russian,Living together as married,Higher,Upper middle class,1
+2017,RU-SVE Sverdlovskaya area,Urban,Male,35-44,Russian,Married,Higher,Lower middle class,4
+2017,RU-SVE Sverdlovskaya area,Urban,Male,35-44,Russian,Married,Higher,Upper middle class,1
+2017,RU-SVE Sverdlovskaya area,Urban,Male,35-44,Russian,Married,Higher,Working class,3
+2017,RU-SVE Sverdlovskaya area,Urban,Male,45-54,Russian,Living together as married,Higher,Lower middle class,1
+2017,RU-SVE Sverdlovskaya area,Urban,Male,45-54,Russian,Married,Higher,Lower middle class,1
+2017,RU-SVE Sverdlovskaya area,Urban,Male,55-64,Russian,Separated,Higher,Working class,1
+2017,RU-SVE Sverdlovskaya area,Urban,Male,55-64,Russian,Widowed,Middle,Upper middle class,1
+2017,RU-SVE Sverdlovskaya area,Urban,Male,65 and more years,Russian,Widowed,Higher,Lower middle class,1
+2017,"RU-TA Tatarstan, Republic",Rural,Female,16-24,Russian,Single,Don't know,Working class,1
+2017,"RU-TA Tatarstan, Republic",Rural,Female,16-24,Russian,Single,Higher,Lower middle class,1
+2017,"RU-TA Tatarstan, Republic",Rural,Female,16-24,Russian,Single,Higher,Upper middle class,1
+2017,"RU-TA Tatarstan, Republic",Rural,Female,16-24,Tatar,Single,Higher,Lower middle class,1
+2017,"RU-TA Tatarstan, Republic",Rural,Female,35-44,Russian,Divorced,Middle,Lower class,1
+2017,"RU-TA Tatarstan, Republic",Rural,Female,35-44,Russian,Married,Higher,Upper middle class,1
+2017,"RU-TA Tatarstan, Republic",Rural,Female,35-44,Russian,Married,Middle,Working class,1
+2017,"RU-TA Tatarstan, Republic",Rural,Female,45-54,Russian,Divorced,Higher,Lower middle class,1
+2017,"RU-TA Tatarstan, Republic",Rural,Female,45-54,Russian,Married,Middle,Lower class,1
+2017,"RU-TA Tatarstan, Republic",Rural,Female,45-54,Tatar,Married,Middle,Working class,1
+2017,"RU-TA Tatarstan, Republic",Rural,Female,55-64,Tatar,Widowed,Higher,Working class,1
+2017,"RU-TA Tatarstan, Republic",Rural,Female,65 and more years,Tatar,Widowed,Don't know,Working class,1
+2017,"RU-TA Tatarstan, Republic",Rural,Male,25-34,Russian,Married,Higher,Lower middle class,1
+2017,"RU-TA Tatarstan, Republic",Rural,Male,35-44,Tatar,Married,Higher,Lower middle class,1
+2017,"RU-TA Tatarstan, Republic",Rural,Male,55-64,Russian,Married,Lower,Working class,1
+2017,"RU-TA Tatarstan, Republic",Rural,Male,65 and more years,Russian,Widowed,Middle,Working class,1
+2017,"RU-TA Tatarstan, Republic",Urban,Female,16-24,Russian,Single,Higher,Don't know,1
+2017,"RU-TA Tatarstan, Republic",Urban,Female,16-24,Russian,Single,Higher,Lower middle class,1
+2017,"RU-TA Tatarstan, Republic",Urban,Female,35-44,Russian,Separated,Higher,Working class,1
+2017,"RU-TA Tatarstan, Republic",Urban,Female,35-44,Russian,Single,Higher,Don't know,1
+2017,"RU-TA Tatarstan, Republic",Urban,Female,35-44,Tatar,Divorced,Higher,Lower middle class,1
+2017,"RU-TA Tatarstan, Republic",Urban,Female,35-44,Tatar,Single,Higher,Upper class,1
+2017,"RU-TA Tatarstan, Republic",Urban,Female,45-54,Russian,Divorced,Higher,Lower middle class,1
+2017,"RU-TA Tatarstan, Republic",Urban,Female,45-54,Tatar,Married,Middle,Lower middle class,1
+2017,"RU-TA Tatarstan, Republic",Urban,Female,55-64,Russian,Divorced,Higher,Don't know,1
+2017,"RU-TA Tatarstan, Republic",Urban,Female,55-64,Russian,Married,Higher,Lower class,1
+2017,"RU-TA Tatarstan, Republic",Urban,Female,55-64,Russian,Single,Higher,Don't know,1
+2017,"RU-TA Tatarstan, Republic",Urban,Female,55-64,Tatar,Widowed,Higher,Lower middle class,1
+2017,"RU-TA Tatarstan, Republic",Urban,Female,55-64,Tatar,Widowed,Higher,Working class,2
+2017,"RU-TA Tatarstan, Republic",Urban,Female,65 and more years,Russian,Married,Lower,Don't know,1
+2017,"RU-TA Tatarstan, Republic",Urban,Female,65 and more years,Tatar,Widowed,Middle,Lower middle class,1
+2017,"RU-TA Tatarstan, Republic",Urban,Male,16-24,Russian,Single,Middle,Lower middle class,1
+2017,"RU-TA Tatarstan, Republic",Urban,Male,25-34,Russian,Married,Higher,Lower middle class,2
+2017,"RU-TA Tatarstan, Republic",Urban,Male,25-34,Russian,Married,Higher,Working class,1
+2017,"RU-TA Tatarstan, Republic",Urban,Male,25-34,Tatar,Married,Higher,Lower class,1
+2017,"RU-TA Tatarstan, Republic",Urban,Male,25-34,Tatar,Married,Higher,Lower middle class,1
+2017,"RU-TA Tatarstan, Republic",Urban,Male,35-44,Russian,Divorced,Higher,Lower class,1
+2017,"RU-TA Tatarstan, Republic",Urban,Male,35-44,Russian,Widowed,Higher,Lower class,1
+2017,"RU-TA Tatarstan, Republic",Urban,Male,35-44,Tatar,Married,Lower,Working class,1
+2017,"RU-TA Tatarstan, Republic",Urban,Male,45-54,Russian,Married,Higher,Lower middle class,1
+2017,"RU-TA Tatarstan, Republic",Urban,Male,45-54,Tatar,Divorced,Higher,Lower class,1
+2017,"RU-TA Tatarstan, Republic",Urban,Male,55-64,Russian,Single,Lower,Lower class,1
+2017,RU-TAM Tambovskaya area,Urban,Female,35-44,Russian,Married,Higher,Upper middle class,1
+2017,RU-TAM Tambovskaya area,Urban,Female,55-64,Russian,Married,Higher,Lower middle class,1
+2017,RU-TAM Tambovskaya area,Urban,Female,65 and more years,Russian,Divorced,Higher,Upper middle class,1
+2017,RU-TAM Tambovskaya area,Urban,Female,65 and more years,Russian,Widowed,Middle,Working class,1
+2017,RU-TAM Tambovskaya area,Urban,Male,16-24,Russian,Single,Higher,Lower middle class,1
+2017,RU-TAM Tambovskaya area,Urban,Male,25-34,Russian,Married,Higher,Upper middle class,2
+2017,RU-TAM Tambovskaya area,Urban,Male,25-34,Russian,Single,Higher,Upper middle class,1
+2017,RU-TOM Tomskaya area,Rural,Female,25-34,Russian,Married,Higher,Working class,2
+2017,RU-TOM Tomskaya area,Rural,Female,25-34,Russian,Married,Lower,Working class,1
+2017,RU-TOM Tomskaya area,Rural,Female,35-44,Russian,Married,Lower,Lower middle class,2
+2017,RU-TOM Tomskaya area,Rural,Female,45-54,Russian,Married,Higher,Working class,1
+2017,RU-TOM Tomskaya area,Rural,Female,55-64,Russian,Living together as married,Don't know,Upper middle class,1
+2017,RU-TOM Tomskaya area,Rural,Female,55-64,Russian,Married,Higher,Working class,1
+2017,RU-TOM Tomskaya area,Rural,Female,65 and more years,Russian,Living together as married,Lower,Working class,1
+2017,RU-TOM Tomskaya area,Rural,Male,45-54,Russian,Divorced,Middle,Working class,1
+2017,RU-TOM Tomskaya area,Rural,Male,45-54,Russian,Married,Higher,Upper middle class,1
+2017,RU-TOM Tomskaya area,Rural,Male,45-54,Russian,Married,Higher,Working class,1
+2017,RU-TOM Tomskaya area,Rural,Male,55-64,Russian,Married,Higher,Working class,1
+2017,RU-TOM Tomskaya area,Urban,Female,25-34,Russian,Divorced,Higher,Working class,1
+2017,RU-TOM Tomskaya area,Urban,Female,35-44,Russian,Divorced,Higher,Working class,1
+2017,RU-TOM Tomskaya area,Urban,Female,45-54,Russian,Single,Middle,Lower class,1
+2017,RU-TOM Tomskaya area,Urban,Female,65 and more years,Russian,Widowed,Higher,Lower class,1
+2017,RU-TOM Tomskaya area,Urban,Female,65 and more years,Russian,Widowed,Lower,Lower middle class,1
+2017,RU-TOM Tomskaya area,Urban,Male,16-24,Russian,Single,Higher,Upper middle class,1
+2017,RU-TOM Tomskaya area,Urban,Male,25-34,Russian,Single,Higher,Upper middle class,2
+2017,RU-TOM Tomskaya area,Urban,Male,25-34,Russian,Single,Higher,Working class,1
+2017,RU-TOM Tomskaya area,Urban,Male,35-44,Russian,Married,Higher,Upper middle class,2
+2017,RU-TOM Tomskaya area,Urban,Male,55-64,Russian,Living together as married,Lower,Working class,1
+2017,RU-TOM Tomskaya area,Urban,Male,55-64,Russian,Married,Higher,Working class,1
+2017,RU-TUL Tul'skaya area,Urban,Female,25-34,Russian,Married,Higher,Lower middle class,1
+2017,RU-TUL Tul'skaya area,Urban,Female,35-44,Russian,Divorced,Higher,Working class,1
+2017,RU-TUL Tul'skaya area,Urban,Female,35-44,Russian,Married,Middle,Working class,1
+2017,RU-TUL Tul'skaya area,Urban,Female,45-54,Russian,Divorced,Middle,Working class,1
+2017,RU-TUL Tul'skaya area,Urban,Female,45-54,Russian,Married,Higher,Working class,2
+2017,RU-TUL Tul'skaya area,Urban,Female,45-54,Russian,Separated,Higher,Working class,2
+2017,RU-TUL Tul'skaya area,Urban,Female,55-64,Russian,Married,Higher,Lower class,1
+2017,RU-TUL Tul'skaya area,Urban,Female,65 and more years,Russian,Single,Higher,Lower class,1
+2017,RU-TUL Tul'skaya area,Urban,Female,65 and more years,Russian,Widowed,Higher,Lower class,1
+2017,RU-TUL Tul'skaya area,Urban,Female,65 and more years,Russian,Widowed,Higher,Lower middle class,1
+2017,RU-TUL Tul'skaya area,Urban,Female,65 and more years,Russian,Widowed,Higher,Working class,1
+2017,RU-TUL Tul'skaya area,Urban,Female,65 and more years,Russian,Widowed,Lower,Lower class,2
+2017,RU-TUL Tul'skaya area,Urban,Female,65 and more years,Russian,Widowed,Middle,Working class,2
+2017,RU-TUL Tul'skaya area,Urban,Male,16-24,Russian,Single,Middle,Working class,1
+2017,RU-TUL Tul'skaya area,Urban,Male,25-34,Russian,Living together as married,Higher,Lower middle class,1
+2017,RU-TUL Tul'skaya area,Urban,Male,25-34,Russian,Married,Higher,Working class,1
+2017,RU-TUL Tul'skaya area,Urban,Male,35-44,Russian,Married,Higher,Lower middle class,2
+2017,RU-TUL Tul'skaya area,Urban,Male,55-64,Russian,Divorced,Middle,Working class,1
+2017,RU-TUL Tul'skaya area,Urban,Male,55-64,Russian,Separated,Higher,Working class,1
+2017,RU-TVE Tverskaya area,Rural,Female,25-34,Russian,Separated,Higher,Lower class,1
+2017,RU-TVE Tverskaya area,Rural,Female,25-34,Russian,Single,Higher,Lower middle class,1
+2017,RU-TVE Tverskaya area,Rural,Female,25-34,Russian,Single,Higher,Working class,1
+2017,RU-TVE Tverskaya area,Rural,Female,35-44,Russian,Married,Higher,Lower middle class,1
+2017,RU-TVE Tverskaya area,Rural,Female,45-54,Russian,Divorced,Higher,Don't know,1
+2017,RU-TVE Tverskaya area,Rural,Female,55-64,Russian,Married,Lower,Lower middle class,1
+2017,RU-TVE Tverskaya area,Rural,Female,55-64,Russian,Widowed,Higher,Working class,1
+2017,RU-TVE Tverskaya area,Rural,Male,65 and more years,Russian,Widowed,Higher,Working class,1
+2017,RU-TVE Tverskaya area,Urban,Female,25-34,Russian,Divorced,Higher,Lower middle class,1
+2017,RU-TVE Tverskaya area,Urban,Female,25-34,Russian,Divorced,Middle,Working class,1
+2017,RU-TVE Tverskaya area,Urban,Female,25-34,Russian,Separated,Higher,Working class,1
+2017,RU-TVE Tverskaya area,Urban,Female,25-34,Russian,Single,Higher,No answer,1
+2017,RU-TVE Tverskaya area,Urban,Female,25-34,Russian,Single,Higher,Working class,1
+2017,RU-TVE Tverskaya area,Urban,Female,35-44,Russian,Divorced,Higher,Working class,1
+2017,RU-TVE Tverskaya area,Urban,Female,35-44,Russian,Married,Higher,Don't know,1
+2017,RU-TVE Tverskaya area,Urban,Female,35-44,Russian,Married,Higher,Lower middle class,1
+2017,RU-TVE Tverskaya area,Urban,Female,35-44,Russian,Single,Higher,Lower middle class,1
+2017,RU-TVE Tverskaya area,Urban,Female,45-54,Russian,Widowed,Lower,Working class,1
+2017,RU-TVE Tverskaya area,Urban,Female,55-64,Russian,Married,Higher,Lower middle class,1
+2017,RU-TVE Tverskaya area,Urban,Female,55-64,Russian,Married,Higher,Working class,1
+2017,RU-TVE Tverskaya area,Urban,Female,55-64,Russian,Widowed,Higher,Working class,1
+2017,RU-TVE Tverskaya area,Urban,Female,65 and more years,Russian,Married,Higher,Working class,1
+2017,RU-TVE Tverskaya area,Urban,Female,65 and more years,Russian,Widowed,Higher,Lower middle class,1
+2017,RU-TVE Tverskaya area,Urban,Female,65 and more years,Russian,Widowed,Lower,Working class,1
+2017,RU-TVE Tverskaya area,Urban,Male,16-24,Russian,Living together as married,Lower,Working class,1
+2017,RU-TVE Tverskaya area,Urban,Male,25-34,Russian,Married,Higher,Lower middle class,1
+2017,RU-TVE Tverskaya area,Urban,Male,25-34,Russian,Single,Higher,Don't know,1
+2017,RU-TVE Tverskaya area,Urban,Male,25-34,Russian,Single,Middle,Working class,1
+2017,RU-TVE Tverskaya area,Urban,Male,35-44,Russian,Married,Higher,Lower middle class,2
+2017,RU-TVE Tverskaya area,Urban,Male,35-44,Russian,Widowed,Higher,Don't know,1
+2017,RU-TVE Tverskaya area,Urban,Male,45-54,Russian,Divorced,Middle,Working class,1
+2017,RU-TVE Tverskaya area,Urban,Male,45-54,Russian,Married,Higher,Lower middle class,1
+2017,RU-TVE Tverskaya area,Urban,Male,65 and more years,Russian,Widowed,Higher,No answer,1
+2017,RU-TYU Tyumenskaya area,Rural,Female,16-24,Russian,Divorced,Higher,Upper class,1
+2017,RU-TYU Tyumenskaya area,Rural,Female,25-34,Russian,Single,Higher,Upper middle class,2
+2017,RU-TYU Tyumenskaya area,Rural,Female,35-44,Russian,Married,Lower,Working class,1
+2017,RU-TYU Tyumenskaya area,Rural,Female,65 and more years,Russian,Widowed,Lower,Working class,1
+2017,RU-TYU Tyumenskaya area,Rural,Male,16-24,Russian,Married,Higher,Don't know,1
+2017,RU-TYU Tyumenskaya area,Rural,Male,25-34,Russian,Married,Higher,Working class,2
+2017,RU-TYU Tyumenskaya area,Rural,Male,35-44,Russian,Married,Middle,Working class,1
+2017,RU-TYU Tyumenskaya area,Rural,Male,45-54,Russian,Married,Higher,Don't know,1
+2017,RU-TYU Tyumenskaya area,Urban,Female,16-24,Russian,Single,Lower,Upper middle class,1
+2017,RU-TYU Tyumenskaya area,Urban,Female,16-24,Tatar,Single,Middle,Upper middle class,1
+2017,RU-TYU Tyumenskaya area,Urban,Female,25-34,Russian,Divorced,Higher,Lower middle class,1
+2017,RU-TYU Tyumenskaya area,Urban,Female,25-34,Russian,Single,Middle,Lower middle class,1
+2017,RU-TYU Tyumenskaya area,Urban,Female,35-44,Russian,Divorced,Higher,Upper middle class,1
+2017,RU-TYU Tyumenskaya area,Urban,Female,35-44,Russian,Divorced,Higher,Working class,1
+2017,RU-TYU Tyumenskaya area,Urban,Female,35-44,Russian,Married,Higher,Working class,1
+2017,RU-TYU Tyumenskaya area,Urban,Female,35-44,Russian,Widowed,Higher,Lower middle class,1
+2017,RU-TYU Tyumenskaya area,Urban,Female,45-54,Russian,Married,Lower,Upper class,1
+2017,RU-TYU Tyumenskaya area,Urban,Female,45-54,Russian,Widowed,Higher,Working class,1
+2017,RU-TYU Tyumenskaya area,Urban,Female,55-64,Russian,Divorced,Middle,Lower middle class,1
+2017,RU-TYU Tyumenskaya area,Urban,Female,55-64,Russian,Married,Lower,Working class,1
+2017,RU-TYU Tyumenskaya area,Urban,Female,55-64,Russian,Widowed,Middle,Lower middle class,1
+2017,RU-TYU Tyumenskaya area,Urban,Female,65 and more years,Russian,Divorced,Middle,Working class,1
+2017,RU-TYU Tyumenskaya area,Urban,Female,65 and more years,Russian,Widowed,Higher,Lower middle class,1
+2017,RU-TYU Tyumenskaya area,Urban,Male,16-24,Russian,Living together as married,Middle,Lower middle class,1
+2017,RU-TYU Tyumenskaya area,Urban,Male,16-24,Russian,Married,Higher,Lower middle class,1
+2017,RU-TYU Tyumenskaya area,Urban,Male,25-34,Russian,Married,Higher,Upper middle class,1
+2017,RU-TYU Tyumenskaya area,Urban,Male,25-34,Russian,Single,Middle,Upper middle class,1
+2017,RU-TYU Tyumenskaya area,Urban,Male,35-44,Russian,Living together as married,Higher,Upper middle class,1
+2017,RU-TYU Tyumenskaya area,Urban,Male,35-44,Russian,Married,Middle,No answer,1
+2017,RU-TYU Tyumenskaya area,Urban,Male,55-64,Russian,Married,Higher,Lower middle class,1
+2017,RU-TYU Tyumenskaya area,Urban,Male,55-64,Russian,Married,Higher,Upper middle class,1
+2017,RU-TYU Tyumenskaya area,Urban,Male,65 and more years,Russian,Married,Higher,Working class,1
+2017,RU-TYU Tyumenskaya area,Urban,Male,65 and more years,Russian,Married,Middle,Lower middle class,1
+2017,RU-UD Udmurtskaya Republic,Rural,Female,25-34,Russian,Living together as married,Lower,Working class,1
+2017,RU-UD Udmurtskaya Republic,Rural,Female,35-44,Russian,Divorced,Higher,Upper middle class,1
+2017,RU-UD Udmurtskaya Republic,Rural,Female,45-54,Russian,Married,Higher,Lower middle class,1
+2017,RU-UD Udmurtskaya Republic,Rural,Female,45-54,Russian,Married,Higher,Working class,1
+2017,RU-UD Udmurtskaya Republic,Rural,Female,55-64,Russian,Married,Middle,Working class,1
+2017,RU-UD Udmurtskaya Republic,Rural,Female,55-64,Russian,Widowed,Higher,Lower middle class,1
+2017,RU-UD Udmurtskaya Republic,Rural,Female,55-64,Russian,Widowed,Higher,Upper middle class,1
+2017,RU-UD Udmurtskaya Republic,Rural,Male,16-24,Russian,Single,Higher,Working class,1
+2017,RU-UD Udmurtskaya Republic,Rural,Male,25-34,Russian,Married,Higher,Lower middle class,2
+2017,RU-UD Udmurtskaya Republic,Rural,Male,35-44,Russian,Married,Middle,Lower middle class,1
+2017,RU-UD Udmurtskaya Republic,Rural,Male,35-44,Russian,Single,Middle,Working class,1
+2017,RU-UD Udmurtskaya Republic,Rural,Male,55-64,Russian,Married,Higher,Lower middle class,1
+2017,RU-UD Udmurtskaya Republic,Rural,Male,65 and more years,Russian,Married,Lower,Lower middle class,1
+2017,RU-UD Udmurtskaya Republic,Rural,Male,65 and more years,Russian,Married,Lower,Working class,1
+2017,RU-UD Udmurtskaya Republic,Urban,Female,35-44,Russian,Married,Middle,Working class,1
+2017,RU-UD Udmurtskaya Republic,Urban,Female,45-54,Russian,Divorced,Higher,Lower class,1
+2017,RU-UD Udmurtskaya Republic,Urban,Female,45-54,Russian,Divorced,Higher,Upper middle class,1
+2017,RU-UD Udmurtskaya Republic,Urban,Female,45-54,Russian,Living together as married,Middle,Working class,1
+2017,RU-UD Udmurtskaya Republic,Urban,Female,55-64,Russian,Single,Middle,Lower middle class,1
+2017,RU-UD Udmurtskaya Republic,Urban,Female,65 and more years,Russian,Single,Lower,Working class,1
+2017,RU-UD Udmurtskaya Republic,Urban,Female,65 and more years,Russian,Widowed,Lower,Lower class,1
+2017,RU-UD Udmurtskaya Republic,Urban,Female,65 and more years,Russian,Widowed,Lower,Working class,1
+2017,RU-UD Udmurtskaya Republic,Urban,Male,25-34,Russian,Married,Higher,Lower middle class,1
+2017,RU-UD Udmurtskaya Republic,Urban,Male,25-34,Russian,Married,Higher,Working class,2
+2017,RU-UD Udmurtskaya Republic,Urban,Male,25-34,Russian,Married,Middle,Working class,1
+2017,RU-UD Udmurtskaya Republic,Urban,Male,45-54,Russian,Married,Lower,Lower class,1
+2017,RU-ULY Ul'yanovskaya area,Rural,Female,25-34,Russian,Divorced,Higher,Upper middle class,1
+2017,RU-ULY Ul'yanovskaya area,Rural,Female,25-34,Russian,Separated,Higher,Working class,1
+2017,RU-ULY Ul'yanovskaya area,Rural,Female,35-44,Russian,Married,Higher,Working class,1
+2017,RU-ULY Ul'yanovskaya area,Rural,Female,45-54,Russian,Married,Higher,Working class,1
+2017,RU-ULY Ul'yanovskaya area,Rural,Female,65 and more years,Russian,Married,Middle,Lower class,1
+2017,RU-ULY Ul'yanovskaya area,Rural,Female,65 and more years,Russian,Widowed,Middle,Lower class,1
+2017,RU-ULY Ul'yanovskaya area,Rural,Male,25-34,Russian,Married,Higher,Upper middle class,1
+2017,RU-ULY Ul'yanovskaya area,Rural,Male,35-44,Russian,Married,Lower,Lower middle class,1
+2017,RU-ULY Ul'yanovskaya area,Rural,Male,35-44,Russian,Married,Middle,Working class,1
+2017,RU-ULY Ul'yanovskaya area,Rural,Male,45-54,Russian,Married,Higher,Working class,1
+2017,RU-ULY Ul'yanovskaya area,Rural,Male,45-54,Russian,Widowed,Higher,Working class,1
+2017,RU-ULY Ul'yanovskaya area,Rural,Male,55-64,Russian,Divorced,Middle,Working class,1
+2017,RU-ULY Ul'yanovskaya area,Urban,Female,16-24,Other,Single,Middle,Working class,1
+2017,RU-ULY Ul'yanovskaya area,Urban,Female,16-24,Russian,Married,Higher,No answer,1
+2017,RU-ULY Ul'yanovskaya area,Urban,Female,16-24,Russian,Single,Higher,Lower middle class,1
+2017,RU-ULY Ul'yanovskaya area,Urban,Female,16-24,Russian,Single,Higher,Upper middle class,1
+2017,RU-ULY Ul'yanovskaya area,Urban,Female,25-34,Russian,Married,Higher,Don't know,1
+2017,RU-ULY Ul'yanovskaya area,Urban,Female,25-34,Russian,Single,Higher,Don't know,1
+2017,RU-ULY Ul'yanovskaya area,Urban,Female,25-34,Russian,Single,Higher,No answer,1
+2017,RU-ULY Ul'yanovskaya area,Urban,Female,25-34,Russian,Single,Middle,Working class,1
+2017,RU-ULY Ul'yanovskaya area,Urban,Female,45-54,Russian,Married,Higher,Working class,1
+2017,RU-ULY Ul'yanovskaya area,Urban,Male,16-24,Other,Single,Middle,Working class,1
+2017,RU-ULY Ul'yanovskaya area,Urban,Male,35-44,Russian,Single,Lower,Working class,1
+2017,RU-ULY Ul'yanovskaya area,Urban,Male,45-54,Russian,Single,Middle,Working class,1
+2017,RU-VGG Volgogradskaya area,Rural,Female,25-34,Russian,Divorced,Higher,Working class,1
+2017,RU-VGG Volgogradskaya area,Rural,Female,25-34,Russian,Widowed,Higher,Lower middle class,1
+2017,RU-VGG Volgogradskaya area,Rural,Female,35-44,Russian,Divorced,Higher,Working class,1
+2017,RU-VGG Volgogradskaya area,Rural,Female,35-44,Russian,Separated,Higher,Lower middle class,1
+2017,RU-VGG Volgogradskaya area,Rural,Female,55-64,Russian,Married,Higher,Don't know,1
+2017,RU-VGG Volgogradskaya area,Rural,Male,25-34,Russian,Living together as married,Higher,Upper middle class,1
+2017,RU-VGG Volgogradskaya area,Rural,Male,35-44,Russian,Married,Higher,Lower middle class,1
+2017,RU-VGG Volgogradskaya area,Rural,Male,65 and more years,Russian,Widowed,Lower,Working class,1
+2017,RU-VGG Volgogradskaya area,Urban,Female,25-34,Russian,Single,Higher,Lower middle class,1
+2017,RU-VGG Volgogradskaya area,Urban,Female,25-34,Russian,Single,Higher,Working class,1
+2017,RU-VGG Volgogradskaya area,Urban,Female,35-44,Russian,Divorced,Higher,Working class,1
+2017,RU-VGG Volgogradskaya area,Urban,Female,35-44,Russian,Divorced,Middle,Working class,1
+2017,RU-VGG Volgogradskaya area,Urban,Female,35-44,Russian,Married,Higher,Lower middle class,1
+2017,RU-VGG Volgogradskaya area,Urban,Female,35-44,Russian,Married,Higher,Working class,1
+2017,RU-VGG Volgogradskaya area,Urban,Female,35-44,Russian,No answer,Higher,Upper middle class,1
+2017,RU-VGG Volgogradskaya area,Urban,Female,45-54,Russian,Married,Higher,Upper middle class,1
+2017,RU-VGG Volgogradskaya area,Urban,Male,16-24,Russian,Single,Higher,Lower class,1
+2017,RU-VGG Volgogradskaya area,Urban,Male,16-24,Russian,Single,Middle,Upper middle class,1
+2017,RU-VGG Volgogradskaya area,Urban,Male,25-34,Russian,Married,Higher,Upper middle class,1
+2017,RU-VGG Volgogradskaya area,Urban,Male,25-34,Russian,Married,Middle,Upper middle class,1
+2017,RU-VGG Volgogradskaya area,Urban,Male,35-44,Russian,Married,Middle,Upper middle class,1
+2017,RU-VLA Vladimirskaya area,Rural,Female,16-24,Russian,Single,Higher,Don't know,1
+2017,RU-VLA Vladimirskaya area,Rural,Female,25-34,Russian,Divorced,Middle,Lower class,1
+2017,RU-VLA Vladimirskaya area,Rural,Female,25-34,Russian,Married,Higher,Don't know,1
+2017,RU-VLA Vladimirskaya area,Rural,Female,25-34,Russian,Single,Middle,Working class,1
+2017,RU-VLA Vladimirskaya area,Rural,Female,35-44,Russian,Married,Higher,Working class,1
+2017,RU-VLA Vladimirskaya area,Rural,Male,16-24,Russian,Single,Higher,No answer,1
+2017,RU-VLA Vladimirskaya area,Rural,Male,16-24,Russian,Single,Middle,Don't know,1
+2017,RU-VLA Vladimirskaya area,Rural,Male,25-34,Russian,Single,Higher,Don't know,1
+2017,RU-VLA Vladimirskaya area,Rural,Male,35-44,Russian,Divorced,Higher,Working class,1
+2017,RU-VLA Vladimirskaya area,Rural,Male,35-44,Russian,Married,Middle,Working class,1
+2017,RU-VLA Vladimirskaya area,Urban,Female,16-24,Russian,Single,Higher,Upper middle class,1
+2017,RU-VLA Vladimirskaya area,Urban,Female,25-34,Russian,Divorced,Middle,Lower middle class,1
+2017,RU-VLA Vladimirskaya area,Urban,Female,25-34,Russian,Divorced,Middle,Upper middle class,1
+2017,RU-VLA Vladimirskaya area,Urban,Female,25-34,Russian,Single,Higher,Upper middle class,1
+2017,RU-VLA Vladimirskaya area,Urban,Female,25-34,Russian,Single,Higher,Working class,1
+2017,RU-VLA Vladimirskaya area,Urban,Female,35-44,Russian,Married,Higher,Lower middle class,1
+2017,RU-VLA Vladimirskaya area,Urban,Female,35-44,Russian,Married,Higher,Upper middle class,1
+2017,RU-VLA Vladimirskaya area,Urban,Female,35-44,Russian,Single,Higher,Upper middle class,1
+2017,RU-VLA Vladimirskaya area,Urban,Female,45-54,Russian,Widowed,Higher,Lower class,1
+2017,RU-VLA Vladimirskaya area,Urban,Female,55-64,Russian,Married,Higher,Upper middle class,1
+2017,RU-VLA Vladimirskaya area,Urban,Male,25-34,Russian,Married,Middle,Lower middle class,1
+2017,RU-VLA Vladimirskaya area,Urban,Male,25-34,Russian,Single,Higher,No answer,1
+2017,RU-VLG Vologodskaya area,Rural,Female,55-64,Russian,Divorced,Higher,Don't know,1
+2017,RU-VLG Vologodskaya area,Rural,Female,55-64,Russian,Married,Higher,Lower middle class,1
+2017,RU-VLG Vologodskaya area,Rural,Female,55-64,Russian,Married,Lower,Working class,1
+2017,RU-VLG Vologodskaya area,Rural,Female,55-64,Russian,Widowed,Lower,Working class,1
+2017,RU-VLG Vologodskaya area,Rural,Female,65 and more years,Russian,Separated,Higher,Lower middle class,1
+2017,RU-VLG Vologodskaya area,Rural,Female,65 and more years,Russian,Widowed,Lower,Working class,3
+2017,RU-VLG Vologodskaya area,Rural,Male,25-34,Russian,Married,Higher,Working class,1
+2017,RU-VLG Vologodskaya area,Rural,Male,35-44,Russian,Divorced,Higher,Working class,1
+2017,RU-VLG Vologodskaya area,Rural,Male,45-54,Russian,Living together as married,Higher,Working class,1
+2017,RU-VLG Vologodskaya area,Rural,Male,45-54,Russian,Married,Middle,Working class,1
+2017,RU-VLG Vologodskaya area,Rural,Male,55-64,Russian,Married,Middle,Working class,1
+2017,RU-VLG Vologodskaya area,Rural,Male,65 and more years,Russian,Married,Higher,Working class,1
+2017,RU-VOR Voronezhskaya area,Urban,Female,16-24,Russian,Divorced,Middle,Lower middle class,1
+2017,RU-VOR Voronezhskaya area,Urban,Female,16-24,Russian,Single,Higher,Lower middle class,1
+2017,RU-VOR Voronezhskaya area,Urban,Female,16-24,Russian,Single,Middle,Lower middle class,2
+2017,RU-VOR Voronezhskaya area,Urban,Female,25-34,Russian,Divorced,Higher,Lower middle class,1
+2017,RU-VOR Voronezhskaya area,Urban,Female,25-34,Russian,Single,Higher,Lower middle class,1
+2017,RU-VOR Voronezhskaya area,Urban,Female,35-44,Russian,Married,Higher,Upper middle class,1
+2017,RU-VOR Voronezhskaya area,Urban,Female,45-54,Russian,Married,Higher,Lower middle class,1
+2017,RU-VOR Voronezhskaya area,Urban,Female,45-54,Russian,Married,Middle,Lower middle class,1
+2017,RU-VOR Voronezhskaya area,Urban,Female,45-54,Russian,Widowed,Higher,Lower middle class,2
+2017,RU-VOR Voronezhskaya area,Urban,Female,45-54,Russian,Widowed,Higher,Upper middle class,1
+2017,RU-VOR Voronezhskaya area,Urban,Female,55-64,Russian,Married,Higher,Lower middle class,1
+2017,RU-VOR Voronezhskaya area,Urban,Female,55-64,Russian,Widowed,Higher,Lower middle class,1
+2017,RU-VOR Voronezhskaya area,Urban,Female,65 and more years,Russian,Married,Higher,Lower middle class,1
+2017,RU-VOR Voronezhskaya area,Urban,Female,65 and more years,Russian,Married,Lower,Lower middle class,1
+2017,RU-VOR Voronezhskaya area,Urban,Female,65 and more years,Russian,Widowed,Middle,Lower middle class,3
+2017,RU-VOR Voronezhskaya area,Urban,Male,16-24,Russian,Married,Middle,Upper middle class,1
+2017,RU-VOR Voronezhskaya area,Urban,Male,25-34,Russian,Married,Middle,Upper middle class,1
+2017,RU-VOR Voronezhskaya area,Urban,Male,25-34,Russian,Single,Middle,Lower middle class,1
+2017,RU-VOR Voronezhskaya area,Urban,Male,35-44,Russian,Married,Higher,Upper middle class,1
+2017,RU-VOR Voronezhskaya area,Urban,Male,45-54,Russian,Divorced,Lower,Lower middle class,1
+2017,RU-VOR Voronezhskaya area,Urban,Male,45-54,Russian,Married,Higher,Lower middle class,2
+2017,RU-VOR Voronezhskaya area,Urban,Male,45-54,Russian,Married,Higher,Upper middle class,1
+2017,RU-VOR Voronezhskaya area,Urban,Male,55-64,Russian,Divorced,Lower,Lower middle class,1
+2017,RU-VOR Voronezhskaya area,Urban,Male,55-64,Russian,Married,Higher,Lower middle class,1
+2017,RU-VOR Voronezhskaya area,Urban,Male,65 and more years,Russian,Married,Higher,Lower middle class,1
+2017,RU-YAR Yaroslavskaya area,Rural,Female,25-34,Russian,Divorced,Higher,Lower middle class,1
+2017,RU-YAR Yaroslavskaya area,Rural,Female,25-34,Russian,Divorced,Middle,Working class,1
+2017,RU-YAR Yaroslavskaya area,Rural,Female,35-44,Russian,Single,Lower,Working class,1
+2017,RU-YAR Yaroslavskaya area,Rural,Female,45-54,Russian,Divorced,Higher,Upper middle class,1
+2017,RU-YAR Yaroslavskaya area,Rural,Female,45-54,Russian,Widowed,Higher,Working class,1
+2017,RU-YAR Yaroslavskaya area,Rural,Female,55-64,Russian,Separated,Higher,Working class,1
+2017,RU-YAR Yaroslavskaya area,Rural,Female,55-64,Russian,Widowed,Middle,Working class,1
+2017,RU-YAR Yaroslavskaya area,Rural,Female,65 and more years,Russian,Widowed,Lower,Working class,1
+2017,RU-YAR Yaroslavskaya area,Rural,Female,65 and more years,Russian,Widowed,Middle,Working class,1
+2017,RU-YAR Yaroslavskaya area,Rural,Male,35-44,Russian,Married,Higher,Working class,2
+2017,RU-YAR Yaroslavskaya area,Rural,Male,45-54,Russian,Divorced,Higher,Working class,1
+2017,RU-YAR Yaroslavskaya area,Rural,Male,45-54,Russian,Divorced,Middle,Working class,1
+2017,RU-YAR Yaroslavskaya area,Rural,Male,55-64,Russian,Married,Middle,Working class,1
+2017,RU-YAR Yaroslavskaya area,Urban,Female,25-34,Russian,Divorced,Higher,Upper middle class,1
+2017,RU-YAR Yaroslavskaya area,Urban,Female,25-34,Russian,Single,Higher,Working class,1
+2017,RU-YAR Yaroslavskaya area,Urban,Female,35-44,Russian,Divorced,Higher,Upper class,1
+2017,RU-YAR Yaroslavskaya area,Urban,Female,45-54,Russian,Divorced,Higher,Upper middle class,1
+2017,RU-YAR Yaroslavskaya area,Urban,Female,45-54,Russian,Divorced,Higher,Working class,1
+2017,RU-YAR Yaroslavskaya area,Urban,Female,55-64,Russian,Widowed,Higher,Working class,1
+2017,RU-YAR Yaroslavskaya area,Urban,Female,65 and more years,Russian,Widowed,Higher,Upper middle class,1
+2017,RU-YAR Yaroslavskaya area,Urban,Female,65 and more years,Russian,Widowed,Lower,Working class,1
+2017,RU-YAR Yaroslavskaya area,Urban,Male,25-34,Russian,Single,Higher,Working class,1
+2017,RU-YAR Yaroslavskaya area,Urban,Male,55-64,Russian,Divorced,Higher,Working class,1
+2017,RU-YAR Yaroslavskaya area,Urban,Male,65 and more years,Russian,Widowed,Lower,Working class,1
